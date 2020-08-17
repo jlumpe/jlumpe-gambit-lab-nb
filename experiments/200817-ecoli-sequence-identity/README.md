@@ -15,4 +15,4 @@ Finds kmer signature for each genome using standard settings and calculates pair
 
 #### Results
 
-Association between sequence identity and Jaccard score doesn't look so great. Two genomes ("101" and "102") are further away from the other four, the relationship mostly captures the difference between high and low similarity and doesn't have much correlation within those groups.
+Association between sequence identity and Jaccard score doesn't look so great. Two genomes ("102" and "103") are further away from the other four, the relationship mostly captures the difference between high and low similarity and doesn't have much correlation within those groups.
