@@ -1,0 +1,19 @@
+query_file,top_score,predicted_genus,predicted_species,top_genus,genus_threshold,top_species,species_threshold,top_strain,top_description,top_accession
+16AC1611140BCAP_S11_L001_R1_001,0.6625966429710388,Propionibacterium,,Propionibacterium,0.2,acnes,0.914642870426178,HL030PA1,[GCF_000145115.1] Cutibacterium acnes HL030PA1 (high GC Gram+),GCF_000145115.1
+17AC0001411B_S10_L001_R1_001,0.9852272868156433,Staphylococcus,aureus,Staphylococcus,0.2,aureus,0.6303073167800903,M0483,[GCF_000556585.1] Staphylococcus aureus M0483 (firmicutes),GCF_000556585.1
+17AC0006312-1_S21_L001_R1_001,0.9252687096595764,Staphylococcus,epidermidis,Staphylococcus,0.2,epidermidis,0.6898508071899414,NIHLM023,[GCF_000276305.1] Staphylococcus epidermidis NIHLM023 (firmicutes),GCF_000276305.1
+17AC0006313-1_S23_L001_R1_001,0.08741163462400436,,,Veillonella,0.2,parvula,0.3925887942314148,DSM 2008,[GCF_000024945.1] Veillonella parvula DSM 2008 (firmicutes),GCF_000024945.1
+17AC0012453_S1_L001_R1_001,0.11374859511852264,,,Corynebacterium,0.2,simulans,0.5755277276039124,PES1,[GCF_001586215.1] Corynebacterium simulans (high GC Gram+),GCF_001586215.1
+17AC0012454_S2_L001_R1_001,0.98110032081604,Aerococcus,,Aerococcus,0.2,viridans,0.9906976819038391,ATCC 11563,[GCF_000178435.1] Aerococcus viridans ATCC 11563 = CCUG 4311 (firmicutes),GCF_000178435.1
+17AC0012455-1A_S1_L001_R1_001,0.4430764317512512,Streptococcus,,Streptococcus,0.2,constellatus,0.9470046162605286,SK53,[GCF_000257785.1] Streptococcus constellatus subsp. constellatus SK53 (firmicutes),GCF_000257785.1
+17AC0012456-2_S8_L001_R1_001,0.9916031956672668,Elizabethkingia,meningoseptica,Elizabethkingia,0.2,meningoseptica,0.9836129546165466,NBRC 12535,[GCF_000367325.1] Elizabethkingia meningoseptica ATCC 13253 = NBRC 12535 (CFB group bacteria),GCF_000367325.1
+17AC0012457-1_S9_L001_R1_001,0.9792790412902832,Staphylococcus,aureus,Staphylococcus,0.2,aureus,0.6303073167800903,M0483,[GCF_000556585.1] Staphylococcus aureus M0483 (firmicutes),GCF_000556585.1
+17AC0012457-2_S10_L001_R1_001,0.9571771025657654,Staphylococcus,epidermidis,Staphylococcus,0.2,epidermidis,0.6898508071899414,NIHLM023,[GCF_000276305.1] Staphylococcus epidermidis NIHLM023 (firmicutes),GCF_000276305.1
+18AC0002824_S8_L001_R1_001,0.5150763988494873,Eikenella,corrodens,Eikenella,0.2,corrodens,0.33835968375205994,ATCC 23834,[GCF_000158615.1] Eikenella corrodens ATCC 23834 (b-proteobacteria),GCF_000158615.1
+18AC0002825-1_S9_L001_R1_001,0.5227198004722595,Aeromonas,hydrophila,Aeromonas,0.2,hydrophila,0.4721131920814514,NF2,[GCF_000708065.1] Aeromonas hydrophila (g-proteobacteria),GCF_000708065.1
+18AC0002825-2_S10_L001_R1_001,0.8554627299308777,Staphylococcus,epidermidis,Staphylococcus,0.2,epidermidis,0.6898508071899414,NIHLM023,[GCF_000276305.1] Staphylococcus epidermidis NIHLM023 (firmicutes),GCF_000276305.1
+18AC0002826_S11_L001_R1_001,0.9841565489768982,Streptococcus,agalactiae,Streptococcus,0.2,agalactiae,0.6955668926239014,GB-NI-006,[GCF_001218205.1] Streptococcus agalactiae (firmicutes),GCF_001218205.1
+18AC0012151C2_S8_L001_R1_001,0.9546152353286743,Staphylococcus,epidermidis,Staphylococcus,0.2,epidermidis,0.6898508071899414,NIHLM023,[GCF_000276305.1] Staphylococcus epidermidis NIHLM023 (firmicutes),GCF_000276305.1
+18AC0012153B1_S11_L001_R1_001,0.7175307869911194,Enterococcus,faecium,Enterococcus,0.2,faecium,0.6451376676559448,MJR8396B,[GCF_001546375.1] Enterococcus faecium (firmicutes),GCF_001546375.1
+18AC0012153M_S10_L001_R1_001,0.8387950658798218,Escherichia,coli,Escherichia,0.2,coli,0.6537443995475769,KTE77,[GCF_000351725.1] Escherichia coli KTE77 (E. coli),GCF_000351725.1
+18AC0012154-B_S7_L001_R1_001,0.8393706679344177,Escherichia,coli,Escherichia,0.2,coli,0.6537443995475769,KTE77,[GCF_000351725.1] Escherichia coli KTE77 (E. coli),GCF_000351725.1
