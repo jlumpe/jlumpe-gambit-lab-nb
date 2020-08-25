@@ -11,7 +11,7 @@ Calculates all pairwise distances for signature set and saves as raw `Float32` d
 
 #### Output
 
-* `data/intermediate/200727-calculate-pw-dists/genome-pw-distances.raw-float32`
+* `data/intermediate/200727-find-overlaps/genome-pw-distances.raw-float32`
 
 
 ### 200729-find-species-overlaps
@@ -24,7 +24,7 @@ Finds min inter and max intra relationships for each genome and identifies which
 
 #### Output
 
-* `data/intermediate/200727-calculate-pw-dists/200729-refseq-curated-1.1_beta-species-overlaps.h5`
+* `data/intermediate/200727-find-overlaps/200729-refseq-curated-1.1_beta-species-overlaps.h5`
 
 
 
@@ -33,6 +33,6 @@ Finds min inter and max intra relationships for each genome and identifies which
 
 ## Output
 
-* `data/intermediate/200727-calculate-pw-dists/`
+* `data/intermediate/200727-find-overlaps/`
   * `genome-pw-distances.raw-float32` - Raw binary data for `Vector{Float32}`, data for `TriMatrix{Symmetric{False}}` of pairwise distances for all signatures in signature set.
   * `200729-refseq-curated-1.1_beta-species-overlaps.h5` - HDF5 file containing min inter and max intra (distances + indices) for each genome, plus some other basic data on overlaps found.
