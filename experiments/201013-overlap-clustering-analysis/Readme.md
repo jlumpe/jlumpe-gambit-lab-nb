@@ -11,8 +11,20 @@ This experiment will try to dig into some of the overlapping groups of species i
 Test of new clustering and plotting utilities on a set of overlapping species with over 1000 genomes and a fairly high degree of complexity, which would be difficult or impossible to do with old tools. Created set of interactive PlotlyJS plots width dendrograms and heatmaps, using both old and new tools for comparison, to send to David for feedback.
 
 
+### 201017-overlap-component-clustering-reports
+
+Performs hierarchical clustering on genomes from all overlap components and outputs reports containing basic description of component along with interactive Plotly dendrograms and cluster maps. Plots use new truncation method to generate reasonably sized yet informative dendrograms from large hierarchical clustering trees.
+
+#### Results
+
+Omitted report for component 12 because it had too many species (22).
+
 
 ## Output
 
 * `data/processed/201013-overlap-clustering-analysis/`
   * `201013-hclust-plotting-demo/` - PlotlyJS dendrogram and clustermap plots for example problem, exported as interactive HTML.
+* `reports/201013-overlap-clustering-analysis/`
+  * `201017-overlap-component-clustering-reports/` - HTML reports on all overlap components with Plotly clustering plots.
+* `data/intermediate/201013-overlap-clustering-analysis/`
+  * `201017-overlap-component-clustering-reports/` - JSON files containing HClustTree structure and genome accessions for each overlap component, so that dendrogram node IDs and integer genome IDs in reports can be referenced back to database.
