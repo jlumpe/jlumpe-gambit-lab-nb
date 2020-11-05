@@ -40,6 +40,11 @@ For the database being built in this experiment, it's probably only necessary to
 The next version of the database will need to include the thresholds for all taxa in a way which resolves remaining overlaps, and there are definitely cases where a single consistent threshold cannot be assigned at the species level. These cases will require splitting the species into sub-taxa with their own threshold distances, and I expect that using some of the sub-species taxa in this data set will be sufficient for many of them (others might require creating our own custom taxonomic divisions).
 
 
+### 201104-inspect taxa
+
+Re-run of previous after I noticed an error, the `aka_taxids` dict didn't convert the keys from string to int when loading from JSON so taxonomy ID aliases weren't looked up correctly. This doesn't seem to have made any difference in any of the results.
+
+
 ## Output
 
 * `data/intermediate/201031-database-v1.1-software-version-migration/`
