@@ -45,9 +45,24 @@ The next version of the database will need to include the thresholds for all tax
 Re-run of previous after I noticed an error, the `aka_taxids` dict didn't convert the keys from string to int when loading from JSON so taxonomy ID aliases weren't looked up correctly. This doesn't seem to have made any difference in any of the results.
 
 
+### 201109-match-taxa
+
+Attempts to match curated genus and species names in the v1.1 database to NCBI taxa downloaded in `201102-download-taxa`. Attempts to match by name, under the constraint that the matched taxon must be an ancestor of the original NCBI-assigned taxon of one of the genomes in that group.
+
+#### Results
+
+Was not able to match all taxa using this method, probably because some of the entries in the NCBI taxonomy database have changed/been edited since 2016. Two of 419 genera and 101 of 1438 species could not be matched.
+
+
 ## Output
 
 * `data/intermediate/201031-database-v1.1-software-version-migration/`
   * `201102-download-taxa/`
     * `taxa.json` - Data for all downloaded taxa
     * `aka_taxids.json` - mapping from NCBI alias taxonomy IDs to "canonical" IDs
+  * `201109-match-taxa/`
+    * `genus-map.json` - (partial) map from curated genus names to NCBI taxonomy IDs
+    * `species-map.json` - (partial) map from curated genus/species names to NCBI taxonomy IDs
+* `data/processed/201031-database-v1.1-software-version-migration/`
+  * `201109-match-taxa/`
+    * `201109-db-v1.1-unmapped-taxa.csv` - table of unmapped post-curation genera and species along with the corresponding set of original NCBI-assigned taxa for their genomes.
