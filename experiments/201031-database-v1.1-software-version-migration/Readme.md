@@ -54,6 +54,15 @@ Attempts to match curated genus and species names in the v1.1 database to NCBI t
 Was not able to match all taxa using this method, probably because some of the entries in the NCBI taxonomy database have changed/been edited since 2016. Two of 419 genera and 101 of 1438 species could not be matched.
 
 
+### 201109-extract-additional-taxonomy-data
+
+Entries from NCBI taxonomy database were downloaded in XML format (no other option) in `201102-download-taxa` and converted to JSON for easier use in other notebooks. Was not familiar with the XML schema and did not inspect the results fully, so JSON output did not contain all information. Found out later there is an `<OtherNames>` tag in some entries which contains useful information. This notebook checks full set of child tags present in all entries to find if there may be any more useful information, and exports that information to an additional JSON file.
+
+#### Results
+
+Didn't find any additional useful parts of schema apart from `<OtherNames>` tag. Exported information from this tag in all entries to another JSON file.
+
+
 ## Output
 
 * `data/intermediate/201031-database-v1.1-software-version-migration/`
@@ -63,6 +72,8 @@ Was not able to match all taxa using this method, probably because some of the e
   * `201109-match-taxa/`
     * `genus-map.json` - (partial) map from curated genus names to NCBI taxonomy IDs
     * `species-map.json` - (partial) map from curated genus/species names to NCBI taxonomy IDs
+  * `201109-extract-additional-taxonomy-data/`
+    * `taxon-othernames.json` - Contents of `<OtherNames>` tag for all taxa from `201102-download-taxa` which have it.
 * `data/processed/201031-database-v1.1-software-version-migration/`
   * `201109-match-taxa/`
     * `201109-db-v1.1-unmapped-taxa.csv` - table of unmapped post-curation genera and species along with the corresponding set of original NCBI-assigned taxa for their genomes.
