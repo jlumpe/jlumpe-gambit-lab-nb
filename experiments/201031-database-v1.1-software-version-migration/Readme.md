@@ -63,6 +63,21 @@ Entries from NCBI taxonomy database were downloaded in XML format (no other opti
 Didn't find any additional useful parts of schema apart from `<OtherNames>` tag. Exported information from this tag in all entries to another JSON file.
 
 
+### 201113-original-genome-taxa
+
+Extract ESummary data for original NCBI-assigned taxa of genomes from v0.9 archive (which was downloaded in 2016, as opposed to in the v1.1 archive where this data was downloaded again in 2020). This was the data used to assign genus/species names to genomes in the original database.
+
+Used the following steps to attempt to find the single taxon which best matches each curated genus/species name combination:
+
+1. Collect original NCBI-assigned taxonomy IDs for all genomes assigned to the genus/species name in the v1.1 database (most recent)
+2. Filter out taxa for which the genus/species names in the corresponding 2016 ESummary data don't match the v1.1 curated values (these genomes were probably reassigned to this species during curation)
+3. Find the lowest common ancestor of these taxa using the up-to-date taxonomy tree downloaded for this experiment. This should probably correspond to the correct taxon in most cases, or possibly a descendant of it.
+
+#### Results
+
+Lowest common ancestor was at species rank or below for all but 12 of the 1438 species names. Of the remaining, 2 were species groups and 10 were genera. Will examine further in future notebook.
+
+
 ## Output
 
 * `data/intermediate/201031-database-v1.1-software-version-migration/`
@@ -74,6 +89,10 @@ Didn't find any additional useful parts of schema apart from `<OtherNames>` tag.
     * `species-map.json` - (partial) map from curated genus/species names to NCBI taxonomy IDs
   * `201109-extract-additional-taxonomy-data/`
     * `taxon-othernames.json` - Contents of `<OtherNames>` tag for all taxa from `201102-download-taxa` which have it.
+  * `201113-original-genome-taxa/`
+    * `original-tax-summaries.json` - Original taxonomy database ESummary results extracted from metadata in v0.9 archive (downloaded 2016).
+    * `genome-matching-taxids-by-species.json` - Original NCBI taxonomy IDs assigned to genomes in each species (by v1.1 archive), filtering out those for which the genus and species name in the corresponding taxonomy summary data do not match the assigned species.
+    * `species-genome-lcas.json` - Least common ancestor of each set of filtered taxonomy IDs in previous data file.
 * `data/processed/201031-database-v1.1-software-version-migration/`
   * `201109-match-taxa/`
     * `201109-db-v1.1-unmapped-taxa.csv` - table of unmapped post-curation genera and species along with the corresponding set of original NCBI-assigned taxa for their genomes.
