@@ -47,6 +47,8 @@ Re-run of previous after I noticed an error, the `aka_taxids` dict didn't conver
 
 ### 201109-match-taxa
 
+Note - made obsolete by `201122-taxon-name-matching`.
+
 Attempts to match curated genus and species names in the v1.1 database to NCBI taxa downloaded in `201102-download-taxa`. Attempts to match by name, under the constraint that the matched taxon must be an ancestor of the original NCBI-assigned taxon of one of the genomes in that group.
 
 #### Results
@@ -78,13 +80,38 @@ Used the following steps to attempt to find the single taxon which best matches 
 Lowest common ancestor was at species rank or below for all but 12 of the 1438 species names. Of the remaining, 2 were species groups and 10 were genera. Will examine further in future notebook.
 
 
+### 201122-taxon-name-matching
+
+2nd attempt replacing all results from `201109-match-taxa`. Only focused on matching species names to taxa, it is clear that the genera of too many species have changed in the NCBI taxonomy database since the original database version.
+
+Used similar approach as in previous attempt (starting from a set of candidate taxa and then attempting to name match on each taxon and its ancestors) but improved in two primary ways using data from additional notebooks in this experiment:
+
+1. Started with a single candidate taxon per species, which was the LCA of the *filtered* set of taxa originally assigned to genomes in the species as found in `201113-original-genome-taxa`. This filtering step means that genomes which were originally assigned a different genus/species name and later transferred to the given one during our own curation process weren't included in the set of candidate taxa, and thus didn't muddle the results as in the previous attempt.
+2. Also attempted to match on set of alternate names for each taxon, as found in `201109-extract-additional-taxonomy-data`.
+
+Other minor changes include attempting to match on species name only instead of concatenated genus and species name, and some additional normalization on names before attempting matching.
+
+#### Results
+
+This process found a matching NCBI taxon for all but 19 of the 1438 species names. There were no ambiguous/multiple matches, which would have been if a name match occurred for multiple taxa in the lineage of the starting LCA taxon for a species.
+
+Aside from the 19 instances where no match could be found, there were the following potential irregularities:
+
+* 5 instances where the matched taxon was not of species rank. These all look like valid matches, in the new migrated version of the database genomes with these species names should probably be assigned to the species-level ancestor of these matches.
+* 13 instances where the name match used the species name only, not the concatenated genus/species names. All matched taxa were species rank, 4 matched on the primary taxon name and 9 on synonyms. All look correct.
+* 3 instances of two species name matching the same taxon. In each case one of the species names was the primary name of that taxon, the other matched to a synonym. These are apparently instances of one species being merged into another in the NCBI database since 2016. These have the `matched_taxon_unique` column equal to `False` in the summary table.
+* 18 curated species names contain non-alphabetic characters. All but one had a valid match, all of which were of species rank.
+
+I'm inclined to trust all matches to species-level taxa. This leaves the 5 instances of matches to sub-species taxa, where an appropriate ancestor taxon will need to be chosen (and verified), and the 19 species without name matches where some manual work will probably be required to find the correct match.
+
+
 ## Output
 
 * `data/intermediate/201031-database-v1.1-software-version-migration/`
   * `201102-download-taxa/`
     * `taxa.json` - Data for all downloaded taxa
     * `aka_taxids.json` - mapping from NCBI alias taxonomy IDs to "canonical" IDs
-  * `201109-match-taxa/`
+  * `201109-match-taxa/` (obsolete)
     * `genus-map.json` - (partial) map from curated genus names to NCBI taxonomy IDs
     * `species-map.json` - (partial) map from curated genus/species names to NCBI taxonomy IDs
   * `201109-extract-additional-taxonomy-data/`
@@ -93,6 +120,19 @@ Lowest common ancestor was at species rank or below for all but 12 of the 1438 s
     * `original-tax-summaries.json` - Original taxonomy database ESummary results extracted from metadata in v0.9 archive (downloaded 2016).
     * `genome-matching-taxids-by-species.json` - Original NCBI taxonomy IDs assigned to genomes in each species (by v1.1 archive), filtering out those for which the genus and species name in the corresponding taxonomy summary data do not match the assigned species.
     * `species-genome-lcas.json` - Least common ancestor of each set of filtered taxonomy IDs in previous data file.
+  * `201122-taxon-name-matching/`
+    * `species-name-matches.json` - Matched taxon (if any) for each genus/species name, along with which (possibly alias) name was used for match.
 * `data/processed/201031-database-v1.1-software-version-migration/`
-  * `201109-match-taxa/`
+  * `201109-match-taxa/` (obsolete)
     * `201109-db-v1.1-unmapped-taxa.csv` - table of unmapped post-curation genera and species along with the corresponding set of original NCBI-assigned taxa for their genomes.
+  * `201122-taxon-name-matching/`
+    * `201122-db-v1.1-taxon-name-matching-summary.csv` - summary of name-matched taxon for each curated genus/species name in current database version. Columns:
+      * `speciesname_standard_format` - "True" if curated species name contains non-alphabetic characters
+      * `species_ngenomes` - Number of genomes assigned to species in most recent version of database (1.1)
+      * `original_taxon_count` - Number of unique original NCBI-assigned taxa for genomes which were originally assigned to this species in the pre-curated database and were also not reclassified during curation. This is the set used to find the LCA taxon.
+      * `lca_tax*` - info on LCA taxon of all taxa originally assigned to genomes in this species (see `2011113-original-genome-taxa` notebook)
+      * `matched_name` - Taxon name for which match occurred
+      * `matched_nametype` - Type of name for `matched_name` - "primary" for scientific name of taxon, otherwise tag containing name in `<OtherNames>` part of taxon's XML data.
+      * `matched_speciesname_only` - "True" if only species name used for match, instead of concatenated genus/species name.
+      * `matched_tax*` - info on name-matched taxon.
+      * `matched_taxon_unique` - "False" if more than one species name matched to this taxon.
