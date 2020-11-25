@@ -105,6 +105,11 @@ Aside from the 19 instances where no match could be found, there were the follow
 I'm inclined to trust all matches to species-level taxa. This leaves the 5 instances of matches to sub-species taxa, where an appropriate ancestor taxon will need to be chosen (and verified), and the 19 species without name matches where some manual work will probably be required to find the correct match.
 
 
+### 201124-original-taxon-extra info
+
+Calculates and saves some useful extra information related to original NCBI taxonomy assignments so that future notebooks don't have to keep recreating it. See output section for description of files writen.
+
+
 ## Output
 
 * `data/intermediate/201031-database-v1.1-software-version-migration/`
@@ -122,6 +127,9 @@ I'm inclined to trust all matches to species-level taxa. This leaves the 5 insta
     * `species-genome-lcas.json` - Least common ancestor of each set of filtered taxonomy IDs in previous data file.
   * `201122-taxon-name-matching/`
     * `species-name-matches.json` - Matched taxon (if any) for each genus/species name, along with which (possibly alias) name was used for match.
+  * `201124-original-taxa-extra-info/`
+    * `genome-original-taxids.json` - Mapping from genome keys to original NCBI-assigned taxonomy IDs. IDs are original 2016 values, should be run through alias map of "aka taxids" to match to 2020 data.
+    * `original-genome-taxid-counts.json` - Mapping of 2016 taxonomy IDs to # of genomes originally assigned to them, grouped by curated genus/species name. Includes counts filtered by taxa whose 2016 summaries match the genus/species name as well as separate counts for taxa which do not pass the filter. Same information as `201113-original-genome-taxa/genome-original-taxids.json`, with the addition of the counts.
 * `data/processed/201031-database-v1.1-software-version-migration/`
   * `201109-match-taxa/` (obsolete)
     * `201109-db-v1.1-unmapped-taxa.csv` - table of unmapped post-curation genera and species along with the corresponding set of original NCBI-assigned taxa for their genomes.
