@@ -110,6 +110,12 @@ I'm inclined to trust all matches to species-level taxa. This leaves the 5 insta
 Calculates and saves some useful extra information related to original NCBI taxonomy assignments so that future notebooks don't have to keep recreating it. See output section for description of files writen.
 
 
+### 201125-unmatched-species-taxonomy-trees
+
+Generates an HTML report containing taxonomy trees for the 19 species for which no matching NCBI taxon could be found in `201122-taxon-name-matching`. Trees are built from the  taxa used to find the LCA taxon in that experiment (along with any intervening ancestors up to the LCA). These are the original NCBI-assigned taxa of the genomes belonging to the species in the most recent version of the database.
+
+
+
 ## Output
 
 * `data/intermediate/201031-database-v1.1-software-version-migration/`
@@ -144,3 +150,5 @@ Calculates and saves some useful extra information related to original NCBI taxo
       * `matched_speciesname_only` - "True" if only species name used for match, instead of concatenated genus/species name.
       * `matched_tax*` - info on name-matched taxon.
       * `matched_taxon_unique` - "False" if more than one species name matched to this taxon.
+  * `201125-unmatched-species-taxonomy-trees/`
+    * `201125-unmatched-species-taxonomy-trees-report.html` - HTML report containing taxonomy trees for genomes in species for which a single matching NCBI taxon could not be found in the previous experiment. See notebook description for more info.
