@@ -135,6 +135,21 @@ Downloads data for all taxids assigned to assembly database entries from `201201
 Only 49 new taxa needed to be downloaded. None of them had `<AkaTaxIds>` tags so did not need to output a file of ID aliases.
 
 
+### 201206-compare-updated-genome-taxids
+
+Compare the NCBI-assigned taxonomy IDs of original assembly database ESummary data downloaded in 2016 to new data downloaded in `201201-download-updated-assembly-summaries` for all genomes in most recent version of database. Generate and output a table listing all genomes for which the assigned taxon changed between then and now.
+
+#### Results
+
+428 genomes had their taxids changed from their 2016 values. I evalated these to determine if any interfered with the species name -> taxon matches made in `201122-taxon-name-matching`, and was able to group them into 3 categories:
+
+* 27 genomes were in species which had no species taxon match
+* 329 where the new taxon is a descendant of the species match
+* 72 where the new taxon is not a descendant of the species match, but this genome was reassigned to the given species name from a different one during our curation process and so was excluded set used to calculate the LCA and thus match taxon for that species.
+
+Based on this, it seems that all automatic matches made in `201201-download-updated-assembly-summaries` are still valid under the updated genome taxon assignments.
+
+
 
 ## Output
 
@@ -178,3 +193,8 @@ Only 49 new taxa needed to be downloaded. None of them had `<AkaTaxIds>` tags so
       * `matched_taxon_unique` - "False" if more than one species name matched to this taxon.
   * `201125-unmatched-species-taxonomy-trees/`
     * `201125-unmatched-species-taxonomy-trees-report.html` - HTML report containing taxonomy trees for genomes in species for which a single matching NCBI taxon could not be found in the previous experiment. See notebook description for more info.
+  * `201206-compare-updated-genome-taxids/`
+    * `201206-genome-taxid-reassignments.csv` - summary of all genomes whose taxid assignments changed (in the NCBI assembly database) between 2016 and now. Non-obvious columns:
+      * `species_has_match` - whether this species has a matching taxon in `201122-taxon-name-matching`.
+      * `new_in_match` - whether the new taxon is a descendant of the species match.
+      * `reclassified` - whether this genome was reclassified from its original genus/species to the current one during our curation process.
