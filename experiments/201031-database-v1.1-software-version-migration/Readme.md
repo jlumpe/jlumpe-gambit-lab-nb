@@ -105,7 +105,7 @@ Aside from the 19 instances where no match could be found, there were the follow
 I'm inclined to trust all matches to species-level taxa. This leaves the 5 instances of matches to sub-species taxa, where an appropriate ancestor taxon will need to be chosen (and verified), and the 19 species without name matches where some manual work will probably be required to find the correct match.
 
 
-### 201124-original-taxon-extra info
+### 201124-original-taxon-extra-info
 
 Calculates and saves some useful extra information related to original NCBI taxonomy assignments so that future notebooks don't have to keep recreating it. See output section for description of files writen.
 
