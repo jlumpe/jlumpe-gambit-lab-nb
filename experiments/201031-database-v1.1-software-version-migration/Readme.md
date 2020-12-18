@@ -150,6 +150,11 @@ Compare the NCBI-assigned taxonomy IDs of original assembly database ESummary da
 Based on this, it seems that all automatic matches made in `201201-download-updated-assembly-summaries` are still valid under the updated genome taxon assignments.
 
 
+### 201215-unmatched-species-taxonomy-trees
+
+Update of `201125-unmatched-species-taxonomy-trees`. This version uses the new NCBI taxon assignments for each genome from the data downloaded in `201201-download-updated-assembly-summaries` to build the trees, but still displays the original 2016 assignments as well.
+
+
 
 ## Output
 
@@ -198,3 +203,5 @@ Based on this, it seems that all automatic matches made in `201201-download-upda
       * `species_has_match` - whether this species has a matching taxon in `201122-taxon-name-matching`.
       * `new_in_match` - whether the new taxon is a descendant of the species match.
       * `reclassified` - whether this genome was reclassified from its original genus/species to the current one during our curation process.
+  * `201215-unmatched-species-taxonomy-trees/`
+    * `201215-unmatched-species-taxonomy-trees-report.html` - HTML report containing taxonomy trees for genomes in species for which automated taxon matching did not produce a result. See notebook description for more info.
