@@ -212,3 +212,12 @@ Mostly based off report genereated by `201215-unmatched-species-taxonomy-trees`.
       * `reclassified` - whether this genome was reclassified from its original genus/species to the current one during our curation process.
   * `201215-unmatched-species-taxonomy-trees/`
     * `201215-unmatched-species-taxonomy-trees-report.html` - HTML report containing taxonomy trees for genomes in species for which automated taxon matching did not produce a result. See notebook description for more info.
+
+
+## Internal data files
+
+Internal data files reused between notebooks in this experiment (not added to version control) are stored in `.tmp/`:
+
+* `db.sqlite` - Created in `201031-migrate-genomes`, initial attempt at performing migration. Only contains data for genomes, the rest of the data was to be added later until I realized this proces would be much more complicated than originally expected. Quite a few notebooks use this file to get genome information such as the originally-assigned taxonomy IDs, even though that information could just be read from the v1.1 archive file.
+* `tmp/taxa` - Data returned by Entrez EFetch tool for entries in the taxonomy database. Downloaded in `201102-download-taxa` and `201205-download-additional-taxa`. In XML format.
+* `tmp/assembly-summaries/` - Freshly downloaded ESummary data for assembly database entries corresponding to all genomes in current version of database. Created in `201201-download-updated-assembly-summaries`. Files are in JSON format.
