@@ -167,6 +167,18 @@ Mostly based off report genereated by `201215-unmatched-species-taxonomy-trees`.
 Combines successful automatic species name -> taxon assignments in `201122-taxon-name-matching` with manual corrections derived in `201218-species-manual-taxon-matches` and saves in machine-readable format. Output contains all information needed to perform migration.
 
 
+### 201221-perform-migration
+
+Performs full migration of v1.1 database to new schema, including all taxonomy edits from `201218-final-taxonomy-assignments`. Starts from scratch, does not use partial database created in `201031-migrate-genomes`.
+
+Output file is `refseq_curated_1.2a_201221.db`.
+
+
+### 201221-refseq-curated-v1.2a-changes-summary.md
+
+Summary of changes made to new database version.
+
+
 
 ## Output
 
@@ -227,6 +239,7 @@ Combines successful automatic species name -> taxon assignments in `201122-taxon
 
 Internal data files reused between notebooks in this experiment (not added to version control) are stored in `.tmp/`:
 
+* `refseq_curated_1.2a_201221.db` - final migrated database in sqlite format.
 * `db.sqlite` - Created in `201031-migrate-genomes`, initial attempt at performing migration. Only contains data for genomes, the rest of the data was to be added later until I realized this proces would be much more complicated than originally expected. Quite a few notebooks use this file to get genome information such as the originally-assigned taxonomy IDs, even though that information could just be read from the v1.1 archive file.
 * `tmp/taxa` - Data returned by Entrez EFetch tool for entries in the taxonomy database. Downloaded in `201102-download-taxa` and `201205-download-additional-taxa`. In XML format.
 * `tmp/assembly-summaries/` - Freshly downloaded ESummary data for assembly database entries corresponding to all genomes in current version of database. Created in `201201-download-updated-assembly-summaries`. Files are in JSON format.
