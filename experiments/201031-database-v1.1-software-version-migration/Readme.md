@@ -220,19 +220,21 @@ Summary of changes made to new database version.
       * `matched_speciesname_only` - "True" if only species name used for match, instead of concatenated genus/species name.
       * `matched_tax*` - info on name-matched taxon.
       * `matched_taxon_unique` - "False" if more than one species name matched to this taxon.
-  * `201125-unmatched-species-taxonomy-trees/`
-    * `201125-unmatched-species-taxonomy-trees-report.html` - HTML report containing taxonomy trees for genomes in species for which a single matching NCBI taxon could not be found in the previous experiment. See notebook description for more info.
   * `201206-compare-updated-genome-taxids/`
     * `201206-genome-taxid-reassignments.csv` - summary of all genomes whose taxid assignments changed (in the NCBI assembly database) between 2016 and now. Non-obvious columns:
       * `species_has_match` - whether this species has a matching taxon in `201122-taxon-name-matching`.
       * `new_in_match` - whether the new taxon is a descendant of the species match.
       * `reclassified` - whether this genome was reclassified from its original genus/species to the current one during our curation process.
-  * `201215-unmatched-species-taxonomy-trees/`
-    * `201215-unmatched-species-taxonomy-trees-report.html` - HTML report containing taxonomy trees for genomes in species for which automated taxon matching did not produce a result. See notebook description for more info.
   * `201218-final-taxonomy-assignments/`
     * `201218-species-taxon-matches.csv` - Matched NCBI taxon for each species name in previous database version.
 	* `201218-species-alternate-taxonomy-assignments.csv` - Instances where the genomes under a given species name in the previous version should be filed under a different taxon than the matched taxon. An assigned taxid of 0 means the genomes should be deleted.
 	* `201218-additional-taxonomy-edits.csv` - Additional edits to smaller groups of genomes based on their NCBI-assigned taxa falling under a given ancestor. Action "remove" means to remove the genomes entirely, "create" means to add this taxon to the database and reassign those genomes to it, "reassign" means the same but the given taxon should already exist (e.g. as the match of some species name).
+
+* `reports/201031-database-v1.1-software-version-migration/`
+  * `201125-unmatched-species-taxonomy-trees/`
+    * `201125-unmatched-species-taxonomy-trees-report.html` - HTML report containing taxonomy trees for genomes in species for which a single matching NCBI taxon could not be found in the previous experiment. See notebook description for more info.
+  * `201215-unmatched-species-taxonomy-trees/`
+    * `201215-unmatched-species-taxonomy-trees-report.html` - HTML report containing taxonomy trees for genomes in species for which automated taxon matching did not produce a result. See notebook description for more info.
 
 
 ## Internal data files
