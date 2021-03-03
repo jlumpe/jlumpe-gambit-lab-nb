@@ -1,1 +1,4 @@
 .ipynb_checkpoints
+
+# These are ignored by default in my global ignore file
+!Manifest.toml
