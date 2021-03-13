@@ -3,6 +3,13 @@
 This is a new experiment/set of notebooks to check for overlaps in the new "1.1"/rebuild database (beta version created 200604). In contrast to the last one on 200722 which tried to use fancy math to reduce the number of pairwise distances that needed to be checked, this one will start off by brute-forcing the entire pairwise distance matrix using a beastly Google Cloud VM.
 
 
+## WARNING
+
+Added 210312:
+
+Notebook `200729-find-species-overlaps` has a mistake in the method used to detect overlaps, leading to a large number of false negatives. In short, it only recorded overlaps based on the closest inter-species distance for each genome, missing any potential overlaps from that genome to species slightly further away. The results of this experiment, and of other experiments using its data, should be considered unreliable.
+
+
 ## Notebooks
 
 ### 200727-calculate-pw-distances

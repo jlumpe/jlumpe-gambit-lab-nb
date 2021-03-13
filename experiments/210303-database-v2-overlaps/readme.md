@@ -35,4 +35,4 @@ Outputs reference v1.1 and v1.2 species by index, this corresponds to their orde
       * `migration_identical`: If `migration_1to1` and no genomes from the v1.1 source species were dropped (this species and its 1.1 source contain exactly the same genomes).
     * `genera-v1.2.csv`: Summary of all genera in v1.2 database.
     * `migration-genome-reassignment-counts.csv`: counts of v1.1 genomes grouped by source (v1.1) and destination (v1.2) migration species index. A destination index of 0 means the genomes were deleted.
-    * `overlap-components-v1.1.json`: List of v1.1 species indices for each overlap component found in `200727-find-overlaps`. Components appear in same order as they are numbered in the reports from that experiment.
+    * `overlap-components-v1.1.json`: (NOTE 210312: these are invalid due to a mistake in the referenced experiment). List of v1.1 species indices for each overlap component found in `200727-find-overlaps`. Components appear in same order as they are numbered in the reports from that experiment.

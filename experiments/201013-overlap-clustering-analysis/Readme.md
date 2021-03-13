@@ -4,6 +4,13 @@
 This experiment will try to dig into some of the overlapping groups of species in the newest 1.x database using some new hierarchical clustering and plotting tools I have developed for this purpose. The objective is to hopefully find a minimum set of changes to the database that will resolve the overlaps.
 
 
+## WARNING
+
+Added 210312:
+
+This experiment is based off of the overlaps found in `200722-detect-overlaps`, which had a mistake that resulted in a large number of false negatives. The output of this experiment should therefore be considered unreliable.
+
+
 ## Notebooks
 
 ### 201013-hclust-plotting-demo
