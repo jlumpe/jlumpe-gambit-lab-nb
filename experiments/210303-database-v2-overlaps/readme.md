@@ -26,6 +26,24 @@ This isn't technically overlap removal but wanted to do it first before doing a 
 22 species will be left with one genome and will need to be removed. All had only 2 or 3 genomes.
 
 
+### 120323-find-species-overlaps
+
+Finds all overlaps between species in v1.2 database.
+
+#### Results
+
+Goal was to separate species with overlaps into separate components to be individually resolved
+later, this was made impossible by several species which had "outgoing" overlaps to a very large #
+of other species (which would result in only a single connected component containing almost all
+species). The worst was Perchlorococcus marinus, with 1371 outgoing overlaps (nearly all other
+species). There were another 2 species with outgoing counts in the hundreds, and 8 with at least 10.
+
+These problem species probably include a few outlier genomes that artificially inflate their "max
+intra" scores, causing an extreme number of overlaps. Removing these outliers should cause the
+number of outgoing overlaps to drop significantly for these species.
+
+
+
 ## Output
 
 
@@ -48,6 +66,10 @@ This isn't technically overlap removal but wanted to do it first before doing a 
     * `overlap-components-v1.1.json`: (NOTE 210312: these are invalid due to a mistake in the referenced experiment). List of v1.1 species indices for each overlap component found in `200727-find-overlaps`. Components appear in same order as they are numbered in the reports from that experiment.
   * `120317-find-identical-genomes/`
     * `identical-genome-groups.json`: Groups of identical genomes and their exemplars, as genome indices starting from one.
+  * `120323-find-species-overlaps/`
+    * `genomes-addendum.csv`: Extra columns to add to `120303-format-data/genomes-v1.1.csv`.
+    * `species-addendum.csv`: Extra columns to add to `120303-format-data/species-v1.2.csv`.
+    * `species-overlaps.csv`: List of all species overlaps as directed `src => dst` pairs.
 
 * Processed
   * `120317-find-identical-genomes/`
