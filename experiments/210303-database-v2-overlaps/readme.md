@@ -14,6 +14,16 @@ Reads relevant data for this experiment from different sources, performs some pr
 Outputs reference v1.1 and v1.2 species by index, this corresponds to their ordering in the two exported tables. All indices start from 1 for use with Julia.
 
 
+### 120317-find-identical-genomes
+
+This notebook identifies groups of identical genomes (zero Jaccard distance) and chooses one to keep from each group and marks the rest for deletion. Also identifies species which need to be removed entirely because they will have only one genome left.
+This isn't technically overlap removal but wanted to do it first before doing a deep dive into species-level distance matrices.
+
+#### Results
+
+901 groups were found in 123 species. The large majority were just pairs of genomes, groups larger than 10 mostly confined to S. pneumoniae, S. enterica, M. tuberculosis and other species with large nubers of genomes.
+
+22 species will be left with one genome and will need to be removed. All had only 2 or 3 genomes.
 
 
 ## Output
@@ -36,3 +46,11 @@ Outputs reference v1.1 and v1.2 species by index, this corresponds to their orde
     * `genera-v1.2.csv`: Summary of all genera in v1.2 database.
     * `migration-genome-reassignment-counts.csv`: counts of v1.1 genomes grouped by source (v1.1) and destination (v1.2) migration species index. A destination index of 0 means the genomes were deleted.
     * `overlap-components-v1.1.json`: (NOTE 210312: these are invalid due to a mistake in the referenced experiment). List of v1.1 species indices for each overlap component found in `200727-find-overlaps`. Components appear in same order as they are numbered in the reports from that experiment.
+  * `120317-find-identical-genomes/`
+    * `identical-genome-groups.json`: Groups of identical genomes and their exemplars, as genome indices starting from one.
+
+* Processed
+  * `120317-find-identical-genomes/`
+    * `120317-identical-genome-groups.csv`: Info on identical genome groups, one group per line.
+    * `120317-identical-genome-groups-by-species.csv`: Per-species summaries of identical genome groups.
+      * `sp_needs_remove`: If this species needs to be removed entirely because there will be only one genome left.
