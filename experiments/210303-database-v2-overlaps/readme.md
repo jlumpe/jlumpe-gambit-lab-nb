@@ -43,6 +43,15 @@ intra" scores, causing an extreme number of overlaps. Removing these outliers sh
 number of outgoing overlaps to drop significantly for these species.
 
 
+### 120327-fix-problem-species
+
+Attempt to fix species causing a large number of overlaps in previous experiment. Decicded to focus on species with overlaps to species from other genera. After fixing these some "problematic" species may remain, but should still be able to group all overlapping species into separate components.
+
+#### Results
+
+Identified 8 species with outgoing overlaps to other genera. Fixed using a combination of deleting outliers, manually lowering thresholds, and splitting into subgroups.
+
+
 
 ## Output
 
@@ -70,9 +79,16 @@ number of outgoing overlaps to drop significantly for these species.
     * `genomes-addendum.csv`: Extra columns to add to `120303-format-data/genomes-v1.1.csv`.
     * `species-addendum.csv`: Extra columns to add to `120303-format-data/species-v1.2.csv`.
     * `species-overlaps.csv`: List of all species overlaps as directed `src => dst` pairs.
+  * `210327-fix-problem-species/`
+    * `problem-species.json`: Data on all "problem species", including all outgoing genus-genus overlaps.
+	* `fixes.json`: Description of fixes applied to remove overlaps from species.
 
 * Processed
   * `120317-find-identical-genomes/`
     * `120317-identical-genome-groups.csv`: Info on identical genome groups, one group per line.
     * `120317-identical-genome-groups-by-species.csv`: Per-species summaries of identical genome groups.
       * `sp_needs_remove`: If this species needs to be removed entirely because there will be only one genome left.
+
+* Reports
+  * `210327-fix-problem-species/`
+    * `*.html`: Plotly cluster maps for all problem species.
