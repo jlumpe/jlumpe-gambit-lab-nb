@@ -52,6 +52,10 @@ Attempt to fix species causing a large number of overlaps in previous experiment
 Identified 8 species with outgoing overlaps to other genera. Fixed using a combination of deleting outliers, manually lowering thresholds, and splitting into subgroups.
 
 
+### 120328-compile-edits
+
+Merges genome removals from `120317-find-identical-genomes` and other edits in `120327-fix-problem-species` into genus/species lists from `210303-format-data`. Also removes species with less than 2 genomes remaining after removals. Outputs unified list of taxa and genome assignments.
+
 
 ## Output
 
@@ -82,6 +86,13 @@ Identified 8 species with outgoing overlaps to other genera. Fixed using a combi
   * `210327-fix-problem-species/`
     * `problem-species.json`: Data on all "problem species", including all outgoing genus-genus overlaps.
 	* `fixes.json`: Description of fixes applied to remove overlaps from species.
+  * `210328-compile-edits/`
+    * `taxa.csv`: Table listing all taxa in database after applied updates (genera, species, and any species subgroups manually added). Column descriptions:
+      * `id`: Unique ID integer ID. This is equal to the database ID for all tax present in the v1.2 database.
+      * `manual_threshold`: Manually set thresholds for certain taxa, others are NaN.
+      * `is_leaf`: if taxon has no children.
+    * `deleted-taxa-db-ids.json`: Database IDs of deleted taxa from v1.2.
+    * `genome-taxon-assignments.json`: ID of taxon assigned to each genome. Removed genomes are zero. Simple integer array, order corresponds to `../120303-format-data/genomes-v1.1.csv`.
 
 * Processed
   * `120317-find-identical-genomes/`

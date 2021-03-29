@@ -1,0 +1,1890 @@
+id,ncbi_id,name,rank,parent_id,in_v12,manual_threshold,report,is_leaf
+1,2050,Mobiluncus,genus,,true,NaN,true,false
+2,2053,Gordonia,genus,,true,NaN,true,false
+3,65551,Meiothermus,genus,,true,NaN,true,false
+4,2063,Kitasatospora,genus,,true,NaN,true,false
+5,22,Shewanella,genus,,true,NaN,true,false
+6,2077,Sporolactobacillus,genus,,true,NaN,true,false
+7,231454,Dyella,genus,,true,NaN,true,false
+8,32,Myxococcus,genus,,true,NaN,true,false
+9,40,Stigmatella,genus,,true,NaN,true,false
+10,2093,Mycoplasma,genus,,true,NaN,true,false
+11,235572,Candidatus Portiera,genus,,true,NaN,true,false
+12,335927,Thalassobius,genus,,true,NaN,true,false
+13,946234,Flavonifractor,genus,,true,NaN,true,false
+14,68,Lysobacter,genus,,true,NaN,true,false
+15,559173,Fructobacillus,genus,,true,NaN,true,false
+16,75,Caulobacter,genus,,true,NaN,true,false
+17,1470540,Jeotgalibaca,genus,,true,NaN,true,false
+18,2129,Ureaplasma,genus,,true,NaN,true,false
+19,2132,Spiroplasma,genus,,true,NaN,true,false
+20,53335,Pantoea,genus,,true,NaN,true,false
+21,106589,Cupriavidus,genus,,true,NaN,true,false
+22,245876,Nitratireductor,genus,,true,NaN,true,false
+23,2529408,Schaalia,genus,,true,NaN,true,false
+24,90243,Oligella,genus,,true,NaN,true,false
+25,138,Borrelia,genus,,true,NaN,true,false
+26,98443,Richelia,genus,,true,NaN,true,false
+27,84111,Eggerthella,genus,,true,NaN,true,false
+28,1742992,Paenarthrobacter,genus,,true,NaN,true,false
+29,146,Spirochaeta,genus,,true,NaN,true,false
+30,1960084,Rodentibacter,genus,,true,NaN,true,false
+31,57493,Kocuria,genus,,true,NaN,true,false
+32,202907,Collimonas,genus,,true,NaN,true,false
+33,57499,Kytococcus,genus,,true,NaN,true,false
+34,157,Treponema,genus,,true,NaN,true,false
+35,270497,Catabacter,genus,,true,NaN,true,false
+36,202746,Sulfurimonas,genus,,true,NaN,true,false
+37,51366,Salinivibrio,genus,,true,NaN,true,false
+38,171,Leptospira,genus,,true,NaN,true,false
+39,179,Leptospirillum,genus,,true,NaN,true,false
+40,1048757,Candidatus Moranella,genus,,true,NaN,true,false
+41,1849530,Oblitimonas,genus,,true,NaN,true,false
+42,1335483,Shimwellia,genus,,true,NaN,true,false
+43,191,Azospirillum,genus,,true,NaN,true,false
+44,1618113,Saccharicrinis,genus,,true,NaN,true,false
+45,194,Campylobacter,genus,,true,NaN,true,false
+46,121038,Ferrimicrobium,genus,,true,NaN,true,false
+47,75984,Mannheimia,genus,,true,NaN,true,false
+48,209,Helicobacter,genus,,true,NaN,true,false
+49,28884,Hydrogenovibrio,genus,,true,NaN,true,false
+50,222,Achromobacter,genus,,true,NaN,true,false
+51,28895,Thermoanaerobacterium,genus,,true,NaN,true,false
+52,226,Alteromonas,genus,,true,NaN,true,false
+53,234,Brucella,genus,,true,NaN,true,false
+54,237,Flavobacterium,genus,,true,NaN,true,false
+55,1906945,Parageobacillus,genus,,true,NaN,true,false
+56,119044,Filomicrobium,genus,,true,NaN,true,false
+57,262,Francisella,genus,,true,NaN,true,false
+58,265,Paracoccus,genus,,true,NaN,true,false
+59,270,Thermus,genus,,true,NaN,true,false
+60,283,Comamonas,genus,,true,NaN,true,false
+61,286,Pseudomonas,genus,,true,NaN,true,false
+62,33055,Candidatus Kinetoplastibacterium,genus,,true,NaN,true,false
+63,2335,Thermotoga,genus,,true,NaN,true,false
+64,33057,Thauera,genus,,true,NaN,true,false
+65,125216,Roseomonas,genus,,true,NaN,true,false
+66,1792291,Marinagarivorans,genus,,true,NaN,true,false
+67,2582840,Desulfocurvibacter,genus,,true,NaN,true,false
+68,129337,Geobacillus,genus,,true,NaN,true,false
+69,41275,Brevundimonas,genus,,true,NaN,true,false
+70,47420,Hydrogenophaga,genus,,true,NaN,true,false
+71,1745211,Chania,genus,,true,NaN,true,false
+72,239934,Akkermansia,genus,,true,NaN,true,false
+73,57665,Sulfurospirillum,genus,,true,NaN,true,false
+74,2370,Xylella,genus,,true,NaN,true,false
+75,2742598,Limosilactobacillus,genus,,true,NaN,true,false
+76,2375,Sporomusa,genus,,true,NaN,true,false
+77,338,Xanthomonas,genus,,true,NaN,true,false
+78,59732,Chryseobacterium,genus,,true,NaN,true,false
+79,59735,Bergeyella,genus,,true,NaN,true,false
+80,909656,Phocaeicola,genus,,true,NaN,true,false
+81,59738,Marinilabilia,genus,,true,NaN,true,false
+82,43356,Kutzneria,genus,,true,NaN,true,false
+83,352,Azotobacter,genus,,true,NaN,true,false
+84,357,Agrobacterium,genus,,true,NaN,true,false
+85,2420,Thermosipho,genus,,true,NaN,true,false
+86,1505652,Terrisporobacter,genus,,true,NaN,true,false
+87,374,Bradyrhizobium,genus,,true,NaN,true,false
+88,653686,Wenxinia,genus,,true,NaN,true,false
+89,2425,Teredinibacter,genus,,true,NaN,true,false
+90,379,Rhizobium,genus,,true,NaN,true,false
+91,1827195,Caballeronia,genus,,true,NaN,true,false
+92,203133,Propionimicrobium,genus,,true,NaN,true,false
+93,1505663,Erysipelatoclostridium,genus,,true,NaN,true,false
+94,1276290,Caldibacillus,genus,,true,NaN,true,false
+95,201096,Alicycliphilus,genus,,true,NaN,true,false
+96,207244,Anaerostipes,genus,,true,NaN,true,false
+97,407,Methylobacterium,genus,,true,NaN,true,false
+98,135575,Idiomarina,genus,,true,NaN,true,false
+99,1434011,Komagataeibacter,genus,,true,NaN,true,false
+100,413,Methylococcus,genus,,true,NaN,true,false
+101,217510,Fulvimarina,genus,,true,NaN,true,false
+102,429,Methylobacter,genus,,true,NaN,true,false
+103,1847725,Lawsonella,genus,,true,NaN,true,false
+104,289201,Pontibacillus,genus,,true,NaN,true,false
+105,434,Acetobacter,genus,,true,NaN,true,false
+106,182709,Oceanobacillus,genus,,true,NaN,true,false
+107,84406,Virgibacillus,genus,,true,NaN,true,false
+108,1069494,Trueperella,genus,,true,NaN,true,false
+109,1653174,Actinotignum,genus,,true,NaN,true,false
+110,441,Gluconobacter,genus,,true,NaN,true,false
+111,445,Legionella,genus,,true,NaN,true,false
+112,461,Fluoribacter,genus,,true,NaN,true,false
+113,465,Tatlockia,genus,,true,NaN,true,false
+114,51668,Tetragenococcus,genus,,true,NaN,true,false
+115,469,Acinetobacter,genus,,true,NaN,true,false
+116,475,Moraxella,genus,,true,NaN,true,false
+117,1849822,Paraclostridium,genus,,true,NaN,true,false
+118,2767327,Fannyhessea,genus,,true,NaN,true,false
+119,482,Neisseria,genus,,true,NaN,true,false
+120,377315,Mariprofundus,genus,,true,NaN,true,false
+121,1849828,Paeniclostridium,genus,,true,NaN,true,false
+122,123375,Solobacterium,genus,,true,NaN,true,false
+123,162289,Peptoniphilus,genus,,true,NaN,true,false
+124,497,Psychrobacter,genus,,true,NaN,true,false
+125,162291,Planomicrobium,genus,,true,NaN,true,false
+126,375288,Parabacteroides,genus,,true,NaN,true,false
+127,2767353,Lancefieldella,genus,,true,NaN,true,false
+128,507,Alcaligenes,genus,,true,NaN,true,false
+129,2767358,Mycoplasmopsis,genus,,true,NaN,true,false
+130,517,Bordetella,genus,,true,NaN,true,false
+131,150022,Finegoldia,genus,,true,NaN,true,false
+132,2038280,Robbsia,genus,,true,NaN,true,false
+133,522,Acidiphilium,genus,,true,NaN,true,false
+134,528,Ochrobactrum,genus,,true,NaN,true,false
+135,1382931,Ardenticatena,genus,,true,NaN,true,false
+136,168470,Laribacter,genus,,true,NaN,true,false
+137,535,Chromobacterium,genus,,true,NaN,true,false
+138,538,Eikenella,genus,,true,NaN,true,false
+139,541,Zymomonas,genus,,true,NaN,true,false
+140,2675230,Cytobacillus,genus,,true,NaN,true,false
+141,2675231,Mesobacillus,genus,,true,NaN,true,false
+142,544,Citrobacter,genus,,true,NaN,true,false
+143,227873,Pannonibacter,genus,,true,NaN,true,false
+144,2675234,Alkalihalobacillus,genus,,true,NaN,true,false
+145,547,Enterobacter,genus,,true,NaN,true,false
+146,2675232,Neobacillus,genus,,true,NaN,true,false
+147,184869,Varibaculum,genus,,true,NaN,true,false
+148,551,Erwinia,genus,,true,NaN,true,false
+149,561,Escherichia,genus,,true,NaN,true,false
+150,568,Hafnia,genus,,true,NaN,true,false
+151,266808,Thalassobacter,genus,,true,NaN,true,false
+152,570,Klebsiella,genus,,true,NaN,true,false
+153,2755140,Pseudoleptotrichia,genus,,true,NaN,true,false
+154,581,Morganella,genus,,true,NaN,true,false
+155,583,Proteus,genus,,true,NaN,true,false
+156,586,Providencia,genus,,true,NaN,true,false
+157,590,Salmonella,genus,,true,NaN,true,false
+158,543311,Parvimonas,genus,,true,NaN,true,false
+159,84567,Pedobacter,genus,,true,NaN,true,false
+160,613,Serratia,genus,,true,NaN,true,false
+161,620,Shigella,genus,,true,NaN,true,false
+162,84593,Verrucosispora,genus,,true,NaN,true,false
+163,626,Xenorhabdus,genus,,true,NaN,true,false
+164,12916,Acidovorax,genus,,true,NaN,true,false
+165,629,Yersinia,genus,,true,NaN,true,false
+166,635,Edwardsiella,genus,,true,NaN,true,false
+167,1649279,Epibacterium,genus,,true,NaN,true,false
+168,642,Aeromonas,genus,,true,NaN,true,false
+169,2701,Gardnerella,genus,,true,NaN,true,false
+170,1649295,Franconibacter,genus,,true,NaN,true,false
+171,657,Photobacterium,genus,,true,NaN,true,false
+172,662,Vibrio,genus,,true,NaN,true,false
+173,1573534,Faecalitalea,genus,,true,NaN,true,false
+174,55968,Leucobacter,genus,,true,NaN,true,false
+175,414371,Aureimonas,genus,,true,NaN,true,false
+176,428711,Jonquetella,genus,,true,NaN,true,false
+177,2304691,Thermoclostridium,genus,,true,NaN,true,false
+178,2304692,Hungateiclostridium,genus,,true,NaN,true,false
+179,2742,Marinobacter,genus,,true,NaN,true,false
+180,762551,Jejuia,genus,,true,NaN,true,false
+181,2745,Halomonas,genus,,true,NaN,true,false
+182,2747,Carnobacterium,genus,,true,NaN,true,false
+183,702,Plesiomonas,genus,,true,NaN,true,false
+184,68287,Mesorhizobium,genus,,true,NaN,true,false
+185,58050,Moritella,genus,,true,NaN,true,false
+186,2755,Brochothrix,genus,,true,NaN,true,false
+187,713,Actinobacillus,genus,,true,NaN,true,false
+188,724,Haemophilus,genus,,true,NaN,true,false
+189,361177,Altererythrobacter,genus,,true,NaN,true,false
+190,39643,Sorangium,genus,,true,NaN,true,false
+191,150247,Anoxybacillus,genus,,true,NaN,true,false
+192,60136,Sulfitobacter,genus,,true,NaN,true,false
+193,745,Pasteurella,genus,,true,NaN,true,false
+194,305899,Endozoicomonas,genus,,true,NaN,true,false
+195,41707,Lawsonia,genus,,true,NaN,true,false
+196,168694,Salinispora,genus,,true,NaN,true,false
+197,768,Anaplasma,genus,,true,NaN,true,false
+198,58113,Glycomyces,genus,,true,NaN,true,false
+199,613121,Smaragdicoccus,genus,,true,NaN,true,false
+200,773,Bartonella,genus,,true,NaN,true,false
+201,776,Coxiella,genus,,true,NaN,true,false
+202,780,Rickettsia,genus,,true,NaN,true,false
+203,1381133,Candidatus Profftella,genus,,true,NaN,true,false
+204,92944,Ketogulonicigenium,genus,,true,NaN,true,false
+205,29465,Veillonella,genus,,true,NaN,true,false
+206,97050,Ruegeria,genus,,true,NaN,true,false
+207,365348,Pelosinus,genus,,true,NaN,true,false
+208,133925,Olsenella,genus,,true,NaN,true,false
+209,810,Chlamydia,genus,,true,NaN,true,false
+210,29487,Photorhabdus,genus,,true,NaN,true,false
+211,816,Bacteroides,genus,,true,NaN,true,false
+212,1649459,Hungatella,genus,,true,NaN,true,false
+213,670516,Mycobacteroides,genus,,true,NaN,true,false
+214,475960,Bellilinea,genus,,true,NaN,true,false
+215,475966,Leptolinea,genus,,true,NaN,true,false
+216,830,Butyrivibrio,genus,,true,NaN,true,false
+217,832,Fibrobacter,genus,,true,NaN,true,false
+218,836,Porphyromonas,genus,,true,NaN,true,false
+219,838,Prevotella,genus,,true,NaN,true,false
+220,582472,Wohlfahrtiimonas,genus,,true,NaN,true,false
+221,841,Roseburia,genus,,true,NaN,true,false
+222,1635148,Sanguibacteroides,genus,,true,NaN,true,false
+223,848,Fusobacterium,genus,,true,NaN,true,false
+224,29521,Brachyspira,genus,,true,NaN,true,false
+225,76634,Mycetocola,genus,,true,NaN,true,false
+226,869,Dichelobacter,genus,,true,NaN,true,false
+227,872,Desulfovibrio,genus,,true,NaN,true,false
+228,29548,Rhodothermus,genus,,true,NaN,true,false
+229,478070,Labrenzia,genus,,true,NaN,true,false
+230,29574,Taylorella,genus,,true,NaN,true,false
+231,904,Acidaminococcus,genus,,true,NaN,true,false
+232,1637257,Mageeibacillus,genus,,true,NaN,true,false
+233,906,Megasphaera,genus,,true,NaN,true,false
+234,29580,Janthinobacterium,genus,,true,NaN,true,false
+235,363408,Nonlabens,genus,,true,NaN,true,false
+236,189330,Dorea,genus,,true,NaN,true,false
+237,160674,Raoultella,genus,,true,NaN,true,false
+238,939,Hydrogenobacter,genus,,true,NaN,true,false
+239,943,Ehrlichia,genus,,true,NaN,true,false
+240,953,Wolbachia,genus,,true,NaN,true,false
+241,336827,Rhodonellum,genus,,true,NaN,true,false
+242,963,Herbaspirillum,genus,,true,NaN,true,false
+243,2094023,Glaesserella,genus,,true,NaN,true,false
+244,970,Selenomonas,genus,,true,NaN,true,false
+245,314318,Prolixibacter,genus,,true,NaN,true,false
+246,41949,Candidatus Microthrix,genus,,true,NaN,true,false
+247,2767842,Lactiplantibacillus,genus,,true,NaN,true,false
+248,168934,Thalassospira,genus,,true,NaN,true,false
+249,447467,Simiduia,genus,,true,NaN,true,false
+250,35823,Arthrospira,genus,,true,NaN,true,false
+251,35832,Bilophila,genus,,true,NaN,true,false
+252,1016,Capnocytophaga,genus,,true,NaN,true,false
+253,2767875,Agrilactobacillus,genus,,true,NaN,true,false
+254,2767877,Apilactobacillus,genus,,true,NaN,true,false
+255,2767879,Companilactobacillus,genus,,true,NaN,true,false
+256,2767881,Fructilactobacillus,genus,,true,NaN,true,false
+257,2767882,Furfurilactobacillus,genus,,true,NaN,true,false
+258,2767883,Holzapfelia,genus,,true,NaN,true,false
+259,39948,Dialister,genus,,true,NaN,true,false
+260,2767885,Latilactobacillus,genus,,true,NaN,true,false
+261,2767886,Levilactobacillus,genus,,true,NaN,true,false
+262,2767887,Ligilactobacillus,genus,,true,NaN,true,false
+263,2767888,Liquorilactobacillus,genus,,true,NaN,true,false
+264,2767889,Loigolactobacillus,genus,,true,NaN,true,false
+265,2767890,Paucilactobacillus,genus,,true,NaN,true,false
+266,2767891,Schleiferilactobacillus,genus,,true,NaN,true,false
+267,2767892,Secundilactobacillus,genus,,true,NaN,true,false
+268,2767893,Lentilactobacillus,genus,,true,NaN,true,false
+269,2692118,Winkia,genus,,true,NaN,true,false
+270,1041,Erythrobacter,genus,,true,NaN,true,false
+271,37914,Dietzia,genus,,true,NaN,true,false
+272,2282523,Methylorubrum,genus,,true,NaN,true,false
+273,76831,Myroides,genus,,true,NaN,true,false
+274,54304,Planktothrix,genus,,true,NaN,true,false
+275,93217,Pandoraea,genus,,true,NaN,true,false
+276,76833,Actinobaculum,genus,,true,NaN,true,false
+277,82980,Leminorella,genus,,true,NaN,true,false
+278,1060,Rhodobacter,genus,,true,NaN,true,false
+279,82986,Tatumella,genus,,true,NaN,true,false
+280,228398,Streptacidiphilus,genus,,true,NaN,true,false
+281,2759736,Lacticaseibacillus,genus,,true,NaN,true,false
+282,1081,Rhodospirillum,genus,,true,NaN,true,false
+283,166974,Lechevalieria,genus,,true,NaN,true,false
+284,490567,Arenimonas,genus,,true,NaN,true,false
+285,246861,Grimontia,genus,,true,NaN,true,false
+286,33882,Microbacterium,genus,,true,NaN,true,false
+287,76890,Asticcacaulis,genus,,true,NaN,true,false
+288,33886,Rathayibacter,genus,,true,NaN,true,false
+289,572511,Blautia,genus,,true,NaN,true,false
+290,1123,Chlorogloeopsis,genus,,true,NaN,true,false
+291,187492,Thalassolituus,genus,,true,NaN,true,false
+292,1125,Microcystis,genus,,true,NaN,true,false
+293,1129,Synechococcus,genus,,true,NaN,true,false
+294,158848,Moellerella,genus,,true,NaN,true,false
+295,158851,Trabulsiella,genus,,true,NaN,true,false
+296,1866885,Mycolicibacterium,genus,,true,NaN,true,false
+297,33926,Candidatus Phytoplasma,genus,,true,NaN,true,false
+298,416916,Aggregatibacter,genus,,true,NaN,true,false
+299,1175,Aphanizomenon,genus,,true,NaN,true,false
+300,158876,Yokenella,genus,,true,NaN,true,false
+301,46239,Mesoplasma,genus,,true,NaN,true,false
+302,119977,Acidithiobacillus,genus,,true,NaN,true,false
+303,140458,Thermacetogenium,genus,,true,NaN,true,false
+304,46254,Oenococcus,genus,,true,NaN,true,false
+305,46255,Weissella,genus,,true,NaN,true,false
+306,33969,Melissococcus,genus,,true,NaN,true,false
+307,238783,Pseudorhodobacter,genus,,true,NaN,true,false
+308,1218,Prochlorococcus,genus,,true,NaN,true,false
+309,33986,Exiguobacterium,genus,,true,NaN,true,false
+310,40136,Oligotropha,genus,,true,NaN,true,false
+311,1227,Nitrosococcus,genus,,true,NaN,true,false
+312,1237,Piscirickettsia,genus,,true,NaN,true,false
+313,34008,Rhodovulum,genus,,true,NaN,true,false
+314,44249,Paenibacillus,genus,,true,NaN,true,false
+315,1243,Leuconostoc,genus,,true,NaN,true,false
+316,748770,Dolichospermum,genus,,true,NaN,true,false
+317,34019,Liberibacter,genus,,true,NaN,true,false
+318,44260,Moorella,genus,,true,NaN,true,false
+319,1253,Pediococcus,genus,,true,NaN,true,false
+320,466152,Singulisphaera,genus,,true,NaN,true,false
+321,1257,Peptostreptococcus,genus,,true,NaN,true,false
+322,1263,Ruminococcus,genus,,true,NaN,true,false
+323,1269,Micrococcus,genus,,true,NaN,true,false
+324,34037,Rahnella,genus,,true,NaN,true,false
+325,1506553,Lachnoclostridium,genus,,true,NaN,true,false
+326,400634,Lysinibacillus,genus,,true,NaN,true,false
+327,1279,Staphylococcus,genus,,true,NaN,true,false
+328,204037,Dickeya,genus,,true,NaN,true,false
+329,32008,Burkholderia,genus,,true,NaN,true,false
+330,66831,Facklamia,genus,,true,NaN,true,false
+331,265488,Rhodopirellula,genus,,true,NaN,true,false
+332,1298,Deinococcus,genus,,true,NaN,true,false
+333,1301,Streptococcus,genus,,true,NaN,true,false
+334,288021,Kordiimonas,genus,,true,NaN,true,false
+335,34072,Variovorax,genus,,true,NaN,true,false
+336,34084,Riemerella,genus,,true,NaN,true,false
+337,156973,Dysgonomonas,genus,,true,NaN,true,false
+338,1508657,Ruminiclostridium,genus,,true,NaN,true,false
+339,89404,Glaciecola,genus,,true,NaN,true,false
+340,32067,Leptotrichia,genus,,true,NaN,true,false
+341,1350,Enterococcus,genus,,true,NaN,true,false
+342,1357,Lactococcus,genus,,true,NaN,true,false
+343,1082702,Lonsdalea,genus,,true,NaN,true,false
+344,140625,Lachnobacterium,genus,,true,NaN,true,false
+345,263510,Crocosphaera,genus,,true,NaN,true,false
+346,1375,Aerococcus,genus,,true,NaN,true,false
+347,378210,Methyloversatilis,genus,,true,NaN,true,false
+348,1378,Gemella,genus,,true,NaN,true,false
+349,1380,Atopobium,genus,,true,NaN,true,false
+350,1386,Bacillus,genus,,true,NaN,true,false
+351,195950,Tannerella,genus,,true,NaN,true,false
+352,476528,Bibersteinia,genus,,true,NaN,true,false
+353,1330546,Pluralibacter,genus,,true,NaN,true,false
+354,1330547,Kosakonia,genus,,true,NaN,true,false
+355,13687,Sphingomonas,genus,,true,NaN,true,false
+356,64895,Borreliella,genus,,true,NaN,true,false
+357,28033,Sulfobacillus,genus,,true,NaN,true,false
+358,40323,Stenotrophomonas,genus,,true,NaN,true,false
+359,28050,Lachnospira,genus,,true,NaN,true,false
+360,171412,Eremococcus,genus,,true,NaN,true,false
+361,302485,Phaeobacter,genus,,true,NaN,true,false
+362,1912215,Acidipropionibacterium,genus,,true,NaN,true,false
+363,1912216,Cutibacterium,genus,,true,NaN,true,false
+364,1912217,Pseudopropionibacterium,genus,,true,NaN,true,false
+365,1279384,Eggerthia,genus,,true,NaN,true,false
+366,1279388,Kandleria,genus,,true,NaN,true,false
+367,28067,Rubrivivax,genus,,true,NaN,true,false
+368,122277,Pectobacterium,genus,,true,NaN,true,false
+369,171436,Tistrella,genus,,true,NaN,true,false
+370,1643951,Pseudothermotoga,genus,,true,NaN,true,false
+371,32199,Buchnera,genus,,true,NaN,true,false
+372,28105,Sinorhizobium,genus,,true,NaN,true,false
+373,1485,Clostridium,genus,,true,NaN,true,false
+374,32207,Rothia,genus,,true,NaN,true,false
+375,159191,Nodularia,genus,,true,NaN,true,false
+376,146918,Salinibacter,genus,,true,NaN,true,false
+377,89583,Gluconacetobacter,genus,,true,NaN,true,false
+378,196081,Scardovia,genus,,true,NaN,true,false
+379,196082,Parascardovia,genus,,true,NaN,true,false
+380,32257,Kingella,genus,,true,NaN,true,false
+381,282132,Candidatus Protochlamydia,genus,,true,NaN,true,false
+382,1562,Desulfotomaculum,genus,,true,NaN,true,false
+383,499228,Tepidanaerobacter,genus,,true,NaN,true,false
+384,1621534,Paraglaciecola,genus,,true,NaN,true,false
+385,28196,Arcobacter,genus,,true,NaN,true,false
+386,1578,Lactobacillus,genus,,true,NaN,true,false
+387,1193515,Snodgrassella,genus,,true,NaN,true,false
+388,75309,Rhodanobacter,genus,,true,NaN,true,false
+389,28231,Geobacter,genus,,true,NaN,true,false
+390,114248,Tepidimonas,genus,,true,NaN,true,false
+391,2719313,Enterocloster,genus,,true,NaN,true,false
+392,1164882,Lachnoanaerobaculum,genus,,true,NaN,true,false
+393,282198,Nereida,genus,,true,NaN,true,false
+394,28250,Ornithobacterium,genus,,true,NaN,true,false
+395,83551,Parachlamydia,genus,,true,NaN,true,false
+396,648800,Solibacillus,genus,,true,NaN,true,false
+397,40544,Sutterella,genus,,true,NaN,true,false
+398,1637,Listeria,genus,,true,NaN,true,false
+399,28261,Thermodesulfovibrio,genus,,true,NaN,true,false
+400,198251,Candidatus Pelagibacter,genus,,true,NaN,true,false
+401,1541743,Candidatus Ruthia,genus,,true,NaN,true,false
+402,1647,Erysipelothrix,genus,,true,NaN,true,false
+403,1654,Actinomyces,genus,,true,NaN,true,false
+404,1525371,Neorhizobium,genus,,true,NaN,true,false
+405,308865,Elizabethkingia,genus,,true,NaN,true,false
+406,292486,Avibacterium,genus,,true,NaN,true,false
+407,1678,Bifidobacterium,genus,,true,NaN,true,false
+408,568987,Candidatus Hamiltonella,genus,,true,NaN,true,false
+409,568988,Candidatus Regiella,genus,,true,NaN,true,false
+410,1696,Brevibacterium,genus,,true,NaN,true,false
+411,83618,Pseudoxanthomonas,genus,,true,NaN,true,false
+412,448176,Granulicoccus,genus,,true,NaN,true,false
+413,1716,Corynebacterium,genus,,true,NaN,true,false
+414,249529,Caldanaerobacter,genus,,true,NaN,true,false
+415,511678,Aliivibrio,genus,,true,NaN,true,false
+416,261827,Algibacter,genus,,true,NaN,true,false
+417,83654,Leclercia,genus,,true,NaN,true,false
+418,1740,Thermodesulfobacterium,genus,,true,NaN,true,false
+419,1743,Propionibacterium,genus,,true,NaN,true,false
+420,1754,Thermoanaerobacter,genus,,true,NaN,true,false
+421,83677,Thermobifida,genus,,true,NaN,true,false
+422,1763,Mycobacterium,genus,,true,NaN,true,false
+423,188143,Enterovibrio,genus,,true,NaN,true,false
+424,2316020,Mediterraneibacter,genus,,true,NaN,true,false
+425,265975,Oribacterium,genus,,true,NaN,true,false
+426,1822464,Paraburkholderia,genus,,true,NaN,true,false
+427,511745,Methylacidiphilum,genus,,true,NaN,true,false
+428,1392389,Intestinimonas,genus,,true,NaN,true,false
+429,1813,Amycolatopsis,genus,,true,NaN,true,false
+430,1817,Nocardia,genus,,true,NaN,true,false
+431,1827,Rhodococcus,genus,,true,NaN,true,false
+432,28453,Sphingobacterium,genus,,true,NaN,true,false
+433,55079,Aneurinibacillus,genus,,true,NaN,true,false
+434,55080,Brevibacillus,genus,,true,NaN,true,false
+435,1835,Saccharopolyspora,genus,,true,NaN,true,false
+436,212791,Enhydrobacter,genus,,true,NaN,true,false
+437,413496,Cronobacter,genus,,true,NaN,true,false
+438,1851,Saccharomonospora,genus,,true,NaN,true,false
+439,165695,Sphingobium,genus,,true,NaN,true,false
+440,165696,Novosphingobium,genus,,true,NaN,true,false
+441,165697,Sphingopyxis,genus,,true,NaN,true,false
+442,104264,Cellulophaga,genus,,true,NaN,true,false
+443,1883,Streptomyces,genus,,true,NaN,true,false
+444,69474,Orientia,genus,,true,NaN,true,false
+445,155493,Gallibacterium,genus,,true,NaN,true,false
+446,364409,Granulibacter,genus,,true,NaN,true,false
+447,214906,Histophilus,genus,,true,NaN,true,false
+448,36739,Dermabacter,genus,,true,NaN,true,false
+449,1486726,Pseudobacteroides,genus,,true,NaN,true,false
+450,59282,Blastochloris,genus,,true,NaN,true,false
+451,165779,Anaerococcus,genus,,true,NaN,true,false
+452,577469,Demequina,genus,,true,NaN,true,false
+453,2000,Streptosporangium,genus,,true,NaN,true,false
+454,65496,Actinoalloteichus,genus,,true,NaN,true,false
+455,2013,Nocardiopsis,genus,,true,NaN,true,false
+456,2034,Curtobacterium,genus,,true,NaN,true,false
+457,71666,Waddlia,genus,,true,NaN,true,false
+458,36853,Desulfitobacterium,genus,,true,NaN,true,false
+459,2038,Tropheryma,genus,,true,NaN,true,false
+460,61434,Dehalococcoides,genus,,true,NaN,true,false
+461,182269,Aurantimonas,genus,,true,NaN,true,false
+462,53246,Pseudoalteromonas,genus,,true,NaN,true,false
+463,39492,[Eubacterium] siraeum,species,0,true,NaN,true,true
+1105,2051,Mobiluncus curtisii,species,1,true,NaN,true,true
+1106,2052,Mobiluncus mulieris,species,1,true,NaN,true,true
+947,173559,Gordonia sihwensis,species,2,true,NaN,true,true
+1107,2055,Gordonia terrae,species,2,true,NaN,true,true
+1145,84096,Gordonia alkanivorans,species,2,true,NaN,true,true
+1199,84595,Gordonia polyisoprenivorans,species,2,true,NaN,true,true
+1794,89053,Gordonia amicalis,species,2,true,NaN,true,true
+540,277,Meiothermus ruber,species,3,true,NaN,true,true
+1079,1894,Kitasatospora aureofaciens,species,4,true,NaN,true,true
+1109,2066,Kitasatospora setae,species,4,true,NaN,true,true
+467,24,Shewanella putrefaciens,species,5,true,NaN,true,true
+1571,62322,Shewanella baltica,species,5,true,NaN,true,true
+1635,38313,Shewanella algae,species,5,true,NaN,true,true
+1852,56812,Shewanella frigidimarina,species,5,true,NaN,true,true
+1118,444463,Sporolactobacillus vineae,species,6,true,NaN,true,true
+1838,269673,Sporolactobacillus terrae,species,6,true,NaN,true,true
+1110,231455,Dyella japonica,species,7,true,NaN,true,true
+470,34,Myxococcus xanthus,species,8,true,NaN,true,true
+471,41,Stigmatella aurantiaca,species,9,true,NaN,true,true
+469,57372,Mycoplasma suis,species,10,true,NaN,true,true
+1111,2094,Mycoplasma arginini,species,10,true,NaN,true,true
+1112,2095,Mycoplasma capricolum,species,10,true,NaN,true,true
+1113,2096,Mycoplasma gallisepticum,species,10,true,NaN,true,true
+1114,2097,Mycoplasma genitalium,species,10,true,NaN,true,true
+1115,2098,Mycoplasma hominis,species,10,true,NaN,true,true
+1116,2099,Mycoplasma hyopneumoniae,species,10,true,NaN,true,true
+1117,2100,Mycoplasma hyorhinis,species,10,true,NaN,true,true
+1121,2102,Mycoplasma mycoides,species,10,true,NaN,true,true
+1123,2105,Mycoplasma leachii,species,10,true,NaN,true,true
+1124,2104,Mycoplasma pneumoniae,species,10,true,NaN,true,true
+1125,2109,Mycoplasma synoviae,species,10,true,NaN,true,true
+1128,2115,Mycoplasma fermentans,species,10,true,NaN,true,true
+1129,2116,Mycoplasma iowae,species,10,true,NaN,true,true
+1131,2122,Mycoplasma pirum,species,10,true,NaN,true,true
+1132,2123,Mycoplasma putrefaciens,species,10,true,NaN,true,true
+1133,2128,Mycoplasma flocculare,species,10,true,NaN,true,true
+1148,51365,Mycoplasma yeatsii,species,10,true,NaN,true,true
+1461,28903,Mycoplasma bovis,species,10,true,NaN,true,true
+1560,29501,Mycoplasma haemofelis,species,10,true,NaN,true,true
+1572,29555,Mycoplasma canis,species,10,true,NaN,true,true
+1573,29559,Mycoplasma hyosynoviae,species,10,true,NaN,true,true
+1575,29561,Mycoplasma meleagridis,species,10,true,NaN,true,true
+1030,91844,Candidatus Portiera aleyrodidarum,species,11,true,NaN,true,true
+1438,340021,Thalassobius mediterraneus,species,12,true,NaN,true,true
+1683,292800,Flavonifractor plautii,species,13,true,NaN,true,true
+1027,435897,Lysobacter capsici,species,14,true,NaN,true,true
+1191,84531,Lysobacter antibioticus,species,14,true,NaN,true,true
+1733,391738,Lysobacter defluvii,species,14,true,NaN,true,true
+988,1631,Fructobacillus fructosus,species,15,true,NaN,true,true
+521,155892,Caulobacter vibrioides,species,16,true,NaN,true,true
+1398,69395,Caulobacter henricii,species,16,true,NaN,true,true
+1370,708126,Jeotgalibaca dankookensis,species,17,true,NaN,true,true
+1134,2130,Ureaplasma urealyticum,species,18,true,NaN,true,true
+1386,134821,Ureaplasma parvum,species,18,true,NaN,true,true
+1136,2134,Spiroplasma melliferum,species,19,true,NaN,true,true
+1140,2144,Spiroplasma mirum,species,19,true,NaN,true,true
+619,549,Pantoea agglomerans,species,20,true,NaN,true,true
+623,553,Pantoea ananatis,species,20,true,NaN,true,true
+700,66269,Pantoea stewartii,species,20,true,NaN,true,true
+1175,59814,Pantoea dispersa,species,20,true,NaN,true,true
+1803,1235990,Candidatus Pantoea carbekii,species,20,true,NaN,true,true
+476,106590,Cupriavidus necator,species,21,true,NaN,true,true
+686,164546,Cupriavidus taiwanensis,species,21,true,NaN,true,true
+1474,119219,Cupriavidus metallidurans,species,21,true,NaN,true,true
+1900,204799,Nitratireductor aquibiodomus,species,22,true,NaN,true,true
+1003,1660,Schaalia odontolytica,species,23,true,NaN,true,true
+1371,52768,Schaalia georgiae,species,23,true,NaN,true,true
+480,90245,Oligella urethralis,species,24,true,NaN,true,true
+482,140,Borrelia hermsii,species,25,true,NaN,true,true
+483,141,Borrelia parkeri,species,25,true,NaN,true,true
+485,144,Borrelia coriaceae,species,25,true,NaN,true,true
+1565,29520,Borrelia crocidurae,species,25,true,NaN,true,true
+1719,47466,Borrelia miyamotoi,species,25,true,NaN,true,true
+1885,40834,Borrelia duttonii,species,25,true,NaN,true,true
+1029,1164990,Richelia intracellularis,species,26,true,NaN,true,true
+1146,84112,Eggerthella lenta,species,27,true,NaN,true,true
+1507,29320,Paenarthrobacter nicotinovorans,species,28,true,NaN,true,true
+489,154,Spirochaeta thermophila,species,29,true,NaN,true,true
+706,758,Rodentibacter pneumotropicus,species,30,true,NaN,true,true
+1716,71999,Kocuria palustris,species,31,true,NaN,true,true
+1717,72000,Kocuria rhizophila,species,31,true,NaN,true,true
+611,279058,Collimonas arenae,species,32,true,NaN,true,true
+636,279113,Collimonas pratensis,species,32,true,NaN,true,true
+829,1276,Kytococcus sedentarius,species,33,true,NaN,true,true
+492,158,Treponema denticola,species,34,true,NaN,true,true
+493,160,Treponema pallidum,species,34,true,NaN,true,true
+495,162,Treponema phagedenis,species,34,true,NaN,true,true
+1442,69710,Treponema vincentii,species,34,true,NaN,true,true
+1450,53419,Treponema socranskii,species,34,true,NaN,true,true
+1881,409322,Treponema pedis,species,34,true,NaN,true,true
+494,270498,Catabacter hongkongensis,species,35,true,NaN,true,true
+1583,1176482,Sulfurimonas gotlandica,species,36,true,NaN,true,true
+1229,1510206,Salinivibrio socompensis,species,37,true,NaN,true,true
+498,172,Leptospira biflexa,species,38,true,NaN,true,true
+499,173,Leptospira interrogans,species,38,true,NaN,true,true
+500,174,Leptospira borgpetersenii,species,38,true,NaN,true,true
+1365,28182,Leptospira noguchii,species,38,true,NaN,true,true
+1366,28183,Leptospira santarosai,species,38,true,NaN,true,true
+1367,28184,Leptospira weilii,species,38,true,NaN,true,true
+1401,28452,Leptospira alstonii,species,38,true,NaN,true,true
+1506,447106,Leptospira licerasiae,species,38,true,NaN,true,true
+1561,29507,Leptospira kirschneri,species,38,true,NaN,true,true
+1562,29508,Leptospira meyeri,species,38,true,NaN,true,true
+1789,1137606,Leptospira mayottensis,species,38,true,NaN,true,true
+1727,178606,Leptospirillum ferriphilum,species,39,true,NaN,true,true
+501,1048758,Candidatus Moranella endobia,species,40,true,NaN,true,true
+855,1697053,Oblitimonas alkaliphila,species,41,true,NaN,true,true
+627,563,Shimwellia blattae,species,42,true,NaN,true,true
+503,192,Azospirillum brasilense,species,43,true,NaN,true,true
+1414,528244,Azospirillum thiophilum,species,43,true,NaN,true,true
+755,982,Saccharicrinis fermentans,species,44,true,NaN,true,true
+505,195,Campylobacter coli,species,45,true,NaN,true,true
+506,196,Campylobacter fetus,species,45,true,NaN,true,true
+507,197,Campylobacter jejuni,species,45,true,NaN,true,true
+508,199,Campylobacter concisus,species,45,true,NaN,true,true
+509,200,Campylobacter curvus,species,45,true,NaN,true,true
+510,201,Campylobacter lari,species,45,true,NaN,true,true
+728,824,Campylobacter gracilis,species,45,true,NaN,true,true
+1329,28080,Campylobacter upsaliensis,species,45,true,NaN,true,true
+1691,497724,Campylobacter subantarcticus,species,45,true,NaN,true,true
+1840,1244531,Campylobacter iguaniorum,species,45,true,NaN,true,true
+1709,121039,Ferrimicrobium acidiphilum,species,46,true,NaN,true,true
+1153,75985,Mannheimia haemolytica,species,47,true,NaN,true,true
+1325,85404,Mannheimia varigena,species,47,true,NaN,true,true
+511,210,Helicobacter pylori,species,48,true,NaN,true,true
+512,213,Helicobacter cinaedi,species,48,true,NaN,true,true
+751,123841,Helicobacter canadensis,species,48,true,NaN,true,true
+1058,50960,Helicobacter trogontum,species,48,true,NaN,true,true
+1260,35817,Helicobacter heilmannii,species,48,true,NaN,true,true
+1261,35818,Helicobacter pullorum,species,48,true,NaN,true,true
+1284,76936,Helicobacter typhlonius,species,48,true,NaN,true,true
+1483,37372,Helicobacter bilis,species,48,true,NaN,true,true
+1662,1578720,Helicobacter ailurogastricus,species,48,true,NaN,true,true
+1701,104628,Helicobacter suis,species,48,true,NaN,true,true
+1861,56877,Helicobacter bizzozeronii,species,48,true,NaN,true,true
+1459,28885,Hydrogenovibrio marinus,species,49,true,NaN,true,true
+1387,85698,Achromobacter xylosoxidans,species,50,true,NaN,true,true
+1774,72556,Achromobacter piechaudii,species,50,true,NaN,true,true
+941,1517,Thermoanaerobacterium thermosaccharolyticum,species,51,true,NaN,true,true
+473,589873,Alteromonas australica,species,52,true,NaN,true,true
+1238,314275,Alteromonas mediterranea,species,52,true,NaN,true,true
+1338,28108,Alteromonas macleodii,species,52,true,NaN,true,true
+1412,233316,Alteromonas stellipolaris,species,52,true,NaN,true,true
+515,235,Brucella abortus,species,53,true,NaN,true,true
+516,236,Brucella ovis,species,53,true,NaN,true,true
+1427,36855,Brucella canis,species,53,true,NaN,true,true
+1470,94625,Brucella intermedia,species,53,true,NaN,true,true
+1540,29459,Brucella melitensis,species,53,true,NaN,true,true
+1541,29460,Brucella neotomae,species,53,true,NaN,true,true
+1542,29461,Brucella suis,species,53,true,NaN,true,true
+1664,120576,Brucella pinnipedialis,species,53,true,NaN,true,true
+1665,120577,Brucella ceti,species,53,true,NaN,true,true
+519,426226,Flavobacterium subsaxonicum,species,54,true,NaN,true,true
+1256,510946,Flavobacterium cauense,species,54,true,NaN,true,true
+1663,1341165,Flavobacterium enshiense,species,54,true,NaN,true,true
+1694,96345,Flavobacterium psychrophilum,species,54,true,NaN,true,true
+1749,498301,Flavobacterium rivuli,species,54,true,NaN,true,true
+1755,350894,Flavobacterium suncheonense,species,54,true,NaN,true,true
+913,1426,Parageobacillus thermoglucosidasius,species,55,true,NaN,true,true
+1648,153151,Parageobacillus toebii,species,55,true,NaN,true,true
+1855,81408,Parageobacillus caldoxylosilyticus,species,55,true,NaN,true,true
+529,263,Francisella tularensis,species,57,true,NaN,true,true
+1340,28110,Francisella philomiragia,species,57,true,NaN,true,true
+1498,299583,Francisella orientalis,species,57,true,NaN,true,true
+592,82367,Paracoccus pantotrophus,species,58,true,NaN,true,true
+1566,1545044,Paracoccus sanguinis,species,58,true,NaN,true,true
+537,271,Thermus aquaticus,species,59,true,NaN,true,true
+538,274,Thermus thermophilus,species,59,true,NaN,true,true
+1533,37636,Thermus scotoductus,species,59,true,NaN,true,true
+1642,456163,Thermus parvatiensis,species,59,true,NaN,true,true
+1868,56957,Thermus oshimai,species,59,true,NaN,true,true
+545,285,Comamonas testosteroni,species,60,true,NaN,true,true
+1518,225991,Comamonas aquatica,species,60,true,NaN,true,true
+472,237610,Pseudomonas psychrotolerans,species,61,true,NaN,true,true
+546,287,Pseudomonas aeruginosa,species,61,true,NaN,true,true
+551,294,Pseudomonas fluorescens,species,61,true,NaN,true,true
+553,296,Pseudomonas fragi,species,61,true,NaN,true,true
+554,301,Pseudomonas oleovorans,species,61,true,NaN,true,true
+555,303,Pseudomonas putida,species,61,true,NaN,true,true
+556,316,Pseudomonas stutzeri,species,61,true,NaN,true,true
+557,317,Pseudomonas syringae,species,61,true,NaN,true,true
+778,74829,Pseudomonas balearica,species,61,true,NaN,true,true
+796,50340,Pseudomonas fuscovaginae,species,61,true,NaN,true,true
+1135,157782,Pseudomonas parafulva,species,61,true,NaN,true,true
+1138,157784,Pseudomonas thermotolerans,species,61,true,NaN,true,true
+1158,43263,Pseudomonas alcaligenes,species,61,true,NaN,true,true
+1165,43306,Pseudomonas denitrificans (nom. rej.),species,61,true,NaN,true,true
+1251,76759,Pseudomonas monteilii,species,61,true,NaN,true,true
+1253,76761,Pseudomonas veronii,species,61,true,NaN,true,true
+1302,1608996,Pseudomonas helleri,species,61,true,NaN,true,true
+1361,183795,Pseudomonas mediterranea,species,61,true,NaN,true,true
+1395,200451,Pseudomonas poae,species,61,true,NaN,true,true
+1447,53408,Pseudomonas citronellolis,species,61,true,NaN,true,true
+1448,53409,Pseudomonas coronafaciens,species,61,true,NaN,true,true
+1530,29438,Pseudomonas savastanoi,species,61,true,NaN,true,true
+1531,29442,Pseudomonas tolaasii,species,61,true,NaN,true,true
+1603,70775,Pseudomonas plecoglossicida,species,61,true,NaN,true,true
+1611,46257,Pseudomonas avellanae,species,61,true,NaN,true,true
+1651,46677,Pseudomonas agarici,species,61,true,NaN,true,true
+1652,46680,Pseudomonas nitroreducens,species,61,true,NaN,true,true
+1672,251699,Pseudomonas syringae group genomosp. 7,species,61,true,NaN,true,true
+1685,587753,Pseudomonas chlororaphis,species,61,true,NaN,true,true
+1762,47877,Pseudomonas amygdali,species,61,true,NaN,true,true
+1763,47879,Pseudomonas corrugata,species,61,true,NaN,true,true
+1764,47880,Pseudomonas fulva,species,61,true,NaN,true,true
+1798,89065,Pseudomonas abietaniphila,species,61,true,NaN,true,true
+1853,122355,Pseudomonas psychrophila,species,61,true,NaN,true,true
+1161,2336,Thermotoga maritima,species,63,true,NaN,true,true
+1162,2337,Thermotoga neapolitana,species,63,true,NaN,true,true
+1169,76112,Thauera linaloolentis,species,64,true,NaN,true,true
+1186,207340,Roseomonas mucosa,species,65,true,NaN,true,true
+1673,1513270,Marinagarivorans algicola,species,66,true,NaN,true,true
+740,873,Desulfocurvibacter africanus,species,67,true,NaN,true,true
+791,33940,Geobacillus thermodenitrificans,species,68,true,NaN,true,true
+792,33941,Geobacillus thermoleovorans,species,68,true,NaN,true,true
+911,1422,Geobacillus stearothermophilus,species,68,true,NaN,true,true
+919,1462,Geobacillus kaustophilus,species,68,true,NaN,true,true
+550,293,Brevundimonas diminuta,species,69,true,NaN,true,true
+524,65786,Hydrogenophaga intermedia,species,70,true,NaN,true,true
+687,1639108,Chania multitudinisentens,species,71,true,NaN,true,true
+1166,239935,Akkermansia muciniphila,species,72,true,NaN,true,true
+1682,366522,Sulfurospirillum cavolei,species,73,true,NaN,true,true
+1167,2371,Xylella fastidiosa,species,74,true,NaN,true,true
+789,148604,Lactobacillus ingluviei,species,75,true,NaN,true,true
+967,1598,Lactobacillus reuteri,species,75,true,NaN,true,true
+976,1613,Limosilactobacillus fermentum,species,75,true,NaN,true,true
+990,1632,Limosilactobacillus oris,species,75,true,NaN,true,true
+993,1633,Lactobacillus vaginalis,species,75,true,NaN,true,true
+1722,47493,Lactobacillus panis,species,75,true,NaN,true,true
+1743,227942,Lactobacillus gastricus,species,75,true,NaN,true,true
+1744,227943,Lactobacillus antri,species,75,true,NaN,true,true
+1819,97478,Lactobacillus mucosae,species,75,true,NaN,true,true
+1864,417373,Lactobacillus equigenerosi,species,75,true,NaN,true,true
+1168,2378,Sporomusa ovata,species,76,true,NaN,true,true
+558,442694,Xanthomonas perforans,species,77,true,NaN,true,true
+560,339,Xanthomonas campestris,species,77,true,NaN,true,true
+561,343,Xanthomonas translucens,species,77,true,NaN,true,true
+563,346,Xanthomonas citri,species,77,true,NaN,true,true
+564,347,Xanthomonas oryzae,species,77,true,NaN,true,true
+1216,1985254,Xanthomonas phaseoli,species,77,true,NaN,true,true
+1535,29447,Xanthomonas albilineans,species,77,true,NaN,true,true
+1653,456327,Xanthomonas euvesicatoria,species,77,true,NaN,true,true
+1812,56448,Xanthomonas arboricola,species,77,true,NaN,true,true
+1814,56454,Xanthomonas hortorum,species,77,true,NaN,true,true
+1815,56458,Xanthomonas sacchari,species,77,true,NaN,true,true
+1816,56459,Xanthomonas vasicola,species,77,true,NaN,true,true
+1817,56460,Xanthomonas vesicatoria,species,77,true,NaN,true,true
+761,1015,Bergeyella zoohelcum,species,79,true,NaN,true,true
+726,821,Phocaeicola vulgatus,species,80,true,NaN,true,true
+1108,387090,Phocaeicola coprophilus,species,80,true,NaN,true,true
+1581,357276,Phocaeicola dorei,species,80,true,NaN,true,true
+1880,204516,Phocaeicola massiliensis,species,80,true,NaN,true,true
+1898,376804,Phocaeicola barnesiae,species,80,true,NaN,true,true
+757,989,Marinilabilia salmonicolor,species,81,true,NaN,true,true
+1171,43357,Kutzneria albida,species,82,true,NaN,true,true
+566,354,Azotobacter vinelandii,species,83,true,NaN,true,true
+569,358,Agrobacterium tumefaciens,species,84,true,NaN,true,true
+1173,2421,Thermosipho africanus,species,85,true,NaN,true,true
+1426,36841,Terrisporobacter glycolicus,species,86,true,NaN,true,true
+572,375,Bradyrhizobium japonicum,species,87,true,NaN,true,true
+942,108015,Bradyrhizobium yuanmingense,species,87,true,NaN,true,true
+1240,1518501,Bradyrhizobium valentinum,species,87,true,NaN,true,true
+1252,43992,Bradyrhizobium liaoningense,species,87,true,NaN,true,true
+1389,1355477,Bradyrhizobium diazoefficiens,species,87,true,NaN,true,true
+1536,29448,Bradyrhizobium elkanii,species,87,true,NaN,true,true
+1643,390641,Wenxinia marina,species,88,true,NaN,true,true
+1174,2426,Teredinibacter turnerae,species,89,true,NaN,true,true
+575,384,Rhizobium leguminosarum,species,90,true,NaN,true,true
+818,492774,Rhizobium alamii,species,90,true,NaN,true,true
+1537,29449,Rhizobium etli,species,90,true,NaN,true,true
+1732,1079800,Rhizobium mesoamericanum,species,90,true,NaN,true,true
+1224,871203,Caballeronia zhejiangensis,species,91,true,NaN,true,true
+523,33012,Propionimicrobium lymphophilum,species,92,true,NaN,true,true
+945,1522,[Clostridium] innocuum,species,93,true,NaN,true,true
+1695,301148,Caldibacillus debilis,species,94,true,NaN,true,true
+1847,179636,Alicycliphilus denitrificans,species,95,true,NaN,true,true
+1188,649756,Anaerostipes hadrus,species,96,true,NaN,true,true
+466,270351,Methylobacterium aquaticum,species,97,true,NaN,true,true
+1019,427683,Methylobacterium platani,species,97,true,NaN,true,true
+1826,31998,Methylobacterium radiotolerans,species,97,true,NaN,true,true
+583,436,Komagataeibacter hansenii,species,99,true,NaN,true,true
+682,66229,Komagataeibacter intermedius,species,99,true,NaN,true,true
+807,33995,Komagataeibacter europaeus,species,99,true,NaN,true,true
+580,414,Methylococcus capsulatus,species,100,true,NaN,true,true
+1471,217511,Fulvimarina pelagi,species,101,true,NaN,true,true
+865,173365,Methylobacter tundripaludum,species,102,true,NaN,true,true
+1465,1528099,Lawsonella clevelandensis,species,103,true,NaN,true,true
+640,516704,Pontibacillus halophilus,species,104,true,NaN,true,true
+1221,273164,Pontibacillus marinus,species,104,true,NaN,true,true
+581,65959,Acetobacter pomorum,species,105,true,NaN,true,true
+582,435,Acetobacter aceti,species,105,true,NaN,true,true
+584,438,Acetobacter pasteurianus,species,105,true,NaN,true,true
+1656,104099,Acetobacter orleanensis,species,105,true,NaN,true,true
+1657,104102,Acetobacter tropicalis,species,105,true,NaN,true,true
+1758,178900,Acetobacter cerevisiae,species,105,true,NaN,true,true
+1876,171693,Oceanobacillus picturae,species,106,true,NaN,true,true
+926,1482,Virgibacillus halodenitrificans,species,107,true,NaN,true,true
+1004,1661,Trueperella pyogenes,species,108,true,NaN,true,true
+1142,59505,Actinotignum schaalii,species,109,true,NaN,true,true
+585,442,Gluconobacter oxydans,species,110,true,NaN,true,true
+1326,257438,Gluconobacter thailandicus,species,110,true,NaN,true,true
+1821,318683,Gluconobacter albidus,species,110,true,NaN,true,true
+589,449,Legionella hackeliae,species,111,true,NaN,true,true
+590,450,Legionella longbeachae,species,111,true,NaN,true,true
+591,446,Legionella pneumophila,species,111,true,NaN,true,true
+1331,28082,Legionella anisa,species,111,true,NaN,true,true
+1332,28084,Legionella cherrii,species,111,true,NaN,true,true
+1333,28087,Legionella sainthelensi,species,111,true,NaN,true,true
+1429,45065,Legionella geestiana,species,111,true,NaN,true,true
+1431,45067,Legionella lansingensis,species,111,true,NaN,true,true
+1435,45075,Legionella shakespearei,species,111,true,NaN,true,true
+1522,29423,Legionella oakridgensis,species,111,true,NaN,true,true
+1804,39962,Legionella moravica,species,111,true,NaN,true,true
+594,463,Fluoribacter dumoffii,species,112,true,NaN,true,true
+593,451,Tatlockia micdadei,species,113,true,NaN,true,true
+1184,51669,Tetragenococcus halophilus,species,114,true,NaN,true,true
+1813,64642,Tetragenococcus muriaticus,species,114,true,NaN,true,true
+486,106648,Acinetobacter bereziniae,species,115,true,NaN,true,true
+487,106649,Acinetobacter guillouiae,species,115,true,NaN,true,true
+490,106654,Acinetobacter nosocomialis,species,115,true,NaN,true,true
+595,470,Acinetobacter baumannii,species,115,true,NaN,true,true
+596,471,Acinetobacter calcoaceticus,species,115,true,NaN,true,true
+609,262668,Acinetobacter beijerinckii,species,115,true,NaN,true,true
+830,1148157,Acinetobacter oleivorans,species,115,true,NaN,true,true
+1143,632955,Acinetobacter rudis,species,115,true,NaN,true,true
+1178,108980,Acinetobacter ursingii,species,115,true,NaN,true,true
+1179,108981,Acinetobacter schindleri,species,115,true,NaN,true,true
+1239,52133,Acinetobacter venetianus,species,115,true,NaN,true,true
+1272,396323,Acinetobacter brisouii,species,115,true,NaN,true,true
+1287,756892,Acinetobacter indicus,species,115,true,NaN,true,true
+1316,134533,Acinetobacter parvus,species,115,true,NaN,true,true
+1317,134534,Acinetobacter gyllenbergii,species,115,true,NaN,true,true
+1334,28090,Acinetobacter lwoffii,species,115,true,NaN,true,true
+1419,487316,Acinetobacter soli,species,115,true,NaN,true,true
+1524,29430,Acinetobacter haemolyticus,species,115,true,NaN,true,true
+1702,202950,Acinetobacter baylyi,species,115,true,NaN,true,true
+1703,202951,Acinetobacter bouvetii,species,115,true,NaN,true,true
+1704,202952,Acinetobacter gerneri,species,115,true,NaN,true,true
+1705,202954,Acinetobacter tandoii,species,115,true,NaN,true,true
+1706,202955,Acinetobacter tjernbergiae,species,115,true,NaN,true,true
+1707,202956,Acinetobacter towneri,species,115,true,NaN,true,true
+1818,48296,Acinetobacter pittii,species,115,true,NaN,true,true
+1831,40214,Acinetobacter johnsonii,species,115,true,NaN,true,true
+1832,40215,Acinetobacter junii,species,115,true,NaN,true,true
+1833,40216,Acinetobacter radioresistens,species,115,true,NaN,true,true
+597,480,Moraxella catarrhalis,species,116,true,NaN,true,true
+931,1490,Paraclostridium bifermentans,species,117,true,NaN,true,true
+513,82135,Fannyhessea vaginae,species,118,true,NaN,true,true
+598,485,Neisseria gonorrhoeae,species,119,true,NaN,true,true
+599,486,Neisseria lactamica,species,119,true,NaN,true,true
+600,487,Neisseria meningitidis,species,119,true,NaN,true,true
+601,488,Neisseria mucosa,species,119,true,NaN,true,true
+602,489,Neisseria polysaccharea,species,119,true,NaN,true,true
+603,495,Neisseria elongata,species,119,true,NaN,true,true
+1335,28091,Neisseria weaveri,species,119,true,NaN,true,true
+1262,314344,Mariprofundus ferrooxydans,species,120,true,NaN,true,true
+935,1505,Paeniclostridium sordellii,species,121,true,NaN,true,true
+1396,102148,Solobacterium moorei,species,122,true,NaN,true,true
+535,33031,Peptoniphilus lacrimalis,species,123,true,NaN,true,true
+1523,54005,Peptoniphilus harei,species,123,true,NaN,true,true
+1526,29432,Psychrobacter phenylpyruvicus,species,124,true,NaN,true,true
+691,459472,Planomicrobium glaciei,species,125,true,NaN,true,true
+727,823,Parabacteroides distasonis,species,126,true,NaN,true,true
+785,328812,Parabacteroides goldsteinii,species,126,true,NaN,true,true
+928,574930,Parabacteroides gordonii,species,126,true,NaN,true,true
+1195,387661,Parabacteroides johnsonii,species,126,true,NaN,true,true
+1634,46503,Parabacteroides merdae,species,126,true,NaN,true,true
+605,511,Alcaligenes faecalis,species,128,true,NaN,true,true
+504,114881,Mycoplasmopsis columbina,species,129,true,NaN,true,true
+1127,2113,Mycoplasmopsis californica,species,129,true,NaN,true,true
+606,518,Bordetella bronchiseptica,species,130,true,NaN,true,true
+607,520,Bordetella pertussis,species,130,true,NaN,true,true
+608,521,Bordetella avium,species,130,true,NaN,true,true
+764,123899,Bordetella trematum,species,130,true,NaN,true,true
+1257,35814,Bordetella holmesii,species,130,true,NaN,true,true
+1439,1331258,Bordetella pseudohinzii,species,130,true,NaN,true,true
+1637,103855,Bordetella hinzii,species,130,true,NaN,true,true
+820,1260,Finegoldia magna,species,131,true,NaN,true,true
+1336,28092,Robbsia andropogonis,species,132,true,NaN,true,true
+1514,62140,Acidiphilium multivorum,species,133,true,NaN,true,true
+610,529,Ochrobactrum anthropi,species,134,true,NaN,true,true
+1485,872965,Ardenticatena maritima,species,135,true,NaN,true,true
+1492,168471,Laribacter hongkongensis,species,136,true,NaN,true,true
+612,536,Chromobacterium violaceum,species,137,true,NaN,true,true
+1024,394935,Chromobacterium haemolyticum,species,137,true,NaN,true,true
+1198,1108595,Chromobacterium vaccinii,species,137,true,NaN,true,true
+1677,251747,Chromobacterium subtsugae,species,137,true,NaN,true,true
+613,539,Eikenella corrodens,species,138,true,NaN,true,true
+614,542,Zymomonas mobilis,species,139,true,NaN,true,true
+902,1399,Cytobacillus firmus,species,140,true,NaN,true,true
+571,57706,Citrobacter braakii,species,142,true,NaN,true,true
+616,545,Citrobacter koseri,species,142,true,NaN,true,true
+617,546,Citrobacter freundii,species,142,true,NaN,true,true
+1156,67825,Citrobacter rodentium,species,142,true,NaN,true,true
+1233,35703,Citrobacter amalonaticus,species,142,true,NaN,true,true
+1778,121719,Pannonibacter phragmitetus,species,143,true,NaN,true,true
+1298,519424,Alkalihalobacillus trypoxylicola,species,144,true,NaN,true,true
+1687,79880,Alkalihalobacillus clausii,species,144,true,NaN,true,true
+620,550,Enterobacter cloacae,species,145,true,NaN,true,true
+1280,158836,Enterobacter hormaechei,species,145,true,NaN,true,true
+1382,69218,Enterobacter cancerogenus,species,145,true,NaN,true,true
+1456,61645,Enterobacter asburiae,species,145,true,NaN,true,true
+1525,299767,Enterobacter ludwigii,species,145,true,NaN,true,true
+1857,220686,Neobacillus vireti,species,146,true,NaN,true,true
+1494,184870,Varibaculum cambriense,species,147,true,NaN,true,true
+496,65700,Erwinia tracheiphila,species,148,true,NaN,true,true
+621,552,Erwinia amylovora,species,148,true,NaN,true,true
+1126,182337,Erwinia billingiae,species,148,true,NaN,true,true
+1385,1560201,Erwinia iniecta,species,148,true,NaN,true,true
+1696,79967,Erwinia pyrifoliae,species,148,true,NaN,true,true
+626,562,Escherichia coli,species,149,true,NaN,true,true
+628,564,Escherichia fergusonii,species,149,true,NaN,true,true
+1440,208962,Escherichia albertii,species,149,true,NaN,true,true
+629,569,Hafnia alvei,species,150,true,NaN,true,true
+1496,266809,Thalassobacter stenotrophicus,species,151,true,NaN,true,true
+618,548,Klebsiella aerogenes,species,152,true,NaN,true,true
+630,571,Klebsiella oxytoca,species,152,true,NaN,true,true
+631,573,Klebsiella pneumoniae,species,152,true,NaN,true,true
+1752,244366,Klebsiella variicola,species,152,true,NaN,true,true
+1102,157692,Pseudoleptotrichia goodfellowii,species,153,true,NaN,true,true
+634,582,Morganella morganii,species,154,true,NaN,true,true
+635,584,Proteus mirabilis,species,155,true,NaN,true,true
+638,587,Providencia rettgeri,species,156,true,NaN,true,true
+639,588,Providencia stuartii,species,156,true,NaN,true,true
+1330,126385,Providencia alcalifaciens,species,156,true,NaN,true,true
+1460,28901,Salmonella enterica,species,157,true,NaN,true,true
+1641,54736,Salmonella bongori,species,157,true,NaN,true,true
+531,33033,Parvimonas micra,species,158,true,NaN,true,true
+756,984,Pedobacter heparinus,species,159,true,NaN,true,true
+642,614,Serratia liquefaciens,species,160,true,NaN,true,true
+643,615,Serratia marcescens,species,160,true,NaN,true,true
+773,82995,Serratia grimesii,species,160,true,NaN,true,true
+774,82996,Serratia plymuthica,species,160,true,NaN,true,true
+1458,61652,Serratia rubidaea,species,160,true,NaN,true,true
+1766,47917,Serratia fonticola,species,160,true,NaN,true,true
+1772,138074,Serratia symbiotica,species,160,true,NaN,true,true
+644,621,Shigella boydii,species,161,true,NaN,true,true
+645,622,Shigella dysenteriae,species,161,true,NaN,true,true
+646,623,Shigella flexneri,species,161,true,NaN,true,true
+648,624,Shigella sonnei,species,161,true,NaN,true,true
+1383,1003110,Verrucosispora maris,species,162,true,NaN,true,true
+649,628,Xenorhabdus nematophila,species,163,true,NaN,true,true
+1869,40576,Xenorhabdus bovienii,species,163,true,NaN,true,true
+1597,758826,Acidovorax radicis,species,164,true,NaN,true,true
+1795,80867,Acidovorax avenae,species,164,true,NaN,true,true
+1797,80869,Acidovorax citrulli,species,164,true,NaN,true,true
+552,33060,Yersinia mollaretii,species,165,true,NaN,true,true
+650,630,Yersinia enterocolitica,species,165,true,NaN,true,true
+652,631,Yersinia intermedia,species,165,true,NaN,true,true
+653,632,Yersinia pestis,species,165,true,NaN,true,true
+654,634,Yersinia bercovieri,species,165,true,NaN,true,true
+655,633,Yersinia pseudotuberculosis,species,165,true,NaN,true,true
+1006,263819,Yersinia aleksiciae,species,165,true,NaN,true,true
+1150,1288385,Yersinia pekkanenii,species,165,true,NaN,true,true
+1362,28152,Yersinia kristensenii,species,165,true,NaN,true,true
+1546,29483,Yersinia aldovae,species,165,true,NaN,true,true
+1547,29484,Yersinia frederiksenii,species,165,true,NaN,true,true
+1550,29485,Yersinia rohdei,species,165,true,NaN,true,true
+1552,29486,Yersinia ruckeri,species,165,true,NaN,true,true
+1708,1341643,Yersinia wautersii,species,165,true,NaN,true,true
+1741,367190,Yersinia similis,species,165,true,NaN,true,true
+656,636,Edwardsiella tarda,species,166,true,NaN,true,true
+1151,67780,Edwardsiella ictaluri,species,166,true,NaN,true,true
+1300,1821960,Edwardsiella anguillarum,species,166,true,NaN,true,true
+1183,379347,Epibacterium mobile,species,167,true,NaN,true,true
+657,644,Aeromonas hydrophila,species,168,true,NaN,true,true
+658,645,Aeromonas salmonicida,species,168,true,NaN,true,true
+659,648,Aeromonas caviae,species,168,true,NaN,true,true
+660,650,Aeromonas jandaei,species,168,true,NaN,true,true
+661,651,Aeromonas media,species,168,true,NaN,true,true
+662,652,Aeromonas schubertii,species,168,true,NaN,true,true
+664,654,Aeromonas veronii,species,168,true,NaN,true,true
+665,656,Aeromonas allosaccharophila,species,168,true,NaN,true,true
+1193,633417,Aeromonas taiwanensis,species,168,true,NaN,true,true
+1268,502790,Aeromonas diversa,species,168,true,NaN,true,true
+1553,29489,Aeromonas enteropelogenes,species,168,true,NaN,true,true
+1848,196024,Aeromonas dhakensis,species,168,true,NaN,true,true
+1201,2702,Gardnerella vaginalis,species,169,true,NaN,true,true
+1031,435910,Franconibacter pulveris,species,170,true,NaN,true,true
+1574,357240,Franconibacter helveticus,species,170,true,NaN,true,true
+666,661,Photobacterium angustum,species,171,true,NaN,true,true
+768,1295392,Photobacterium gaetbulicola,species,171,true,NaN,true,true
+1510,553611,Photobacterium leiognathi,species,171,true,NaN,true,true
+1629,38293,Photobacterium damselae,species,171,true,NaN,true,true
+1780,56192,Photobacterium iliopiscarium,species,171,true,NaN,true,true
+1799,318456,Photobacterium kishitanii,species,171,true,NaN,true,true
+497,696485,Vibrio owensii,species,172,true,NaN,true,true
+578,246167,Vibrio crassostreae,species,172,true,NaN,true,true
+667,663,Vibrio alginolyticus,species,172,true,NaN,true,true
+669,666,Vibrio cholerae,species,172,true,NaN,true,true
+671,669,Vibrio harveyi,species,172,true,NaN,true,true
+672,670,Vibrio parahaemolyticus,species,172,true,NaN,true,true
+675,674,Vibrio mimicus,species,172,true,NaN,true,true
+676,672,Vibrio vulnificus,species,172,true,NaN,true,true
+677,676,Vibrio fluvialis,species,172,true,NaN,true,true
+678,680,Vibrio campbellii,species,172,true,NaN,true,true
+680,689,Vibrio mediterranei,species,172,true,NaN,true,true
+681,691,Vibrio natriegens,species,172,true,NaN,true,true
+683,693,Vibrio nereis,species,172,true,NaN,true,true
+955,50719,Vibrio diabolicus,species,172,true,NaN,true,true
+1154,379097,Vibrio sinaloensis,species,172,true,NaN,true,true
+1176,190893,Vibrio coralliilyticus,species,172,true,NaN,true,true
+1177,190895,Vibrio rotiferianus,species,172,true,NaN,true,true
+1223,1534743,Vibrio hyugaensis,species,172,true,NaN,true,true
+1278,1461322,Vibrio renipiscarius,species,172,true,NaN,true,true
+1363,28173,Vibrio nigripulchritudo,species,172,true,NaN,true,true
+1364,28175,Vibrio orientalis,species,172,true,NaN,true,true
+1462,553239,Vibrio breoganii,species,172,true,NaN,true,true
+1509,512649,Vibrio azureus,species,172,true,NaN,true,true
+1554,29494,Vibrio furnissii,species,172,true,NaN,true,true
+1555,29495,Vibrio navarrensis,species,172,true,NaN,true,true
+1556,29497,Vibrio splendidus,species,172,true,NaN,true,true
+1557,29498,Vibrio tubiashii,species,172,true,NaN,true,true
+1714,55601,Vibrio anguillarum,species,172,true,NaN,true,true
+1768,47951,Vibrio cyclitrophicus,species,172,true,NaN,true,true
+1788,1481663,Vibrio metoecus,species,172,true,NaN,true,true
+1877,212663,Vibrio tasmaniensis,species,172,true,NaN,true,true
+1734,39483,Faecalitalea cylindroides,species,173,true,NaN,true,true
+1756,1079994,Leucobacter chromiiresistens,species,174,true,NaN,true,true
+488,401562,Aureimonas ureilytica,species,175,true,NaN,true,true
+1207,428712,Jonquetella anthropi,species,176,true,NaN,true,true
+937,1510,Thermoclostridium stercorarium,species,177,true,NaN,true,true
+940,1515,Hungateiclostridium thermocellum,species,178,true,NaN,true,true
+1152,288965,Hungateiclostridium clariflavum,species,178,true,NaN,true,true
+1208,2743,Marinobacter hydrocarbonoclasticus,species,179,true,NaN,true,true
+1513,504487,Jejuia pallidilutea,species,180,true,NaN,true,true
+1493,258591,Halomonas anticariensis,species,181,true,NaN,true,true
+1777,1178482,Halomonas huangheensis,species,181,true,NaN,true,true
+525,147709,Carnobacterium inhibens,species,182,true,NaN,true,true
+1209,2748,Carnobacterium divergens,species,182,true,NaN,true,true
+1210,2751,Carnobacterium maltaromaticum,species,182,true,NaN,true,true
+1529,545534,Carnobacterium jeotgali,species,182,true,NaN,true,true
+684,703,Plesiomonas shigelloides,species,183,true,NaN,true,true
+1466,69974,Mesorhizobium plurifarium,species,184,true,NaN,true,true
+1761,39645,Mesorhizobium ciceri,species,184,true,NaN,true,true
+647,90736,Moritella marina,species,185,true,NaN,true,true
+1212,2756,Brochothrix thermosphacta,species,186,true,NaN,true,true
+689,715,Actinobacillus pleuropneumoniae,species,187,true,NaN,true,true
+690,716,Actinobacillus suis,species,187,true,NaN,true,true
+692,726,Haemophilus haemolyticus,species,188,true,NaN,true,true
+693,727,Haemophilus influenzae,species,188,true,NaN,true,true
+695,729,Haemophilus parainfluenzae,species,188,true,NaN,true,true
+701,735,Haemophilus parahaemolyticus,species,188,true,NaN,true,true
+1613,1078480,Haemophilus sputorum,species,188,true,NaN,true,true
+1282,543877,Altererythrobacter marensis,species,189,true,NaN,true,true
+475,56,Sorangium cellulosum,species,190,true,NaN,true,true
+1074,198467,Anoxybacillus gonensis,species,191,true,NaN,true,true
+844,83219,Sulfitobacter mediterraneus,species,192,true,NaN,true,true
+1285,421000,Sulfitobacter donghicola,species,192,true,NaN,true,true
+704,747,Pasteurella multocida,species,193,true,NaN,true,true
+1217,305900,Endozoicomonas elysicola,species,194,true,NaN,true,true
+1292,1027273,Endozoicomonas montiporae,species,194,true,NaN,true,true
+478,999544,Salinispora vitiensis,species,196,true,NaN,true,true
+479,999545,Salinispora mooreana,species,196,true,NaN,true,true
+986,1050199,Salinispora oceanensis,species,196,true,NaN,true,true
+1527,168697,Salinispora arenicola,species,196,true,NaN,true,true
+1528,168695,Salinispora tropica,species,196,true,NaN,true,true
+1747,1137263,Salinispora fenicalii,species,196,true,NaN,true,true
+1792,351187,Salinispora pacifica,species,196,true,NaN,true,true
+708,770,Anaplasma marginale,species,197,true,NaN,true,true
+749,948,Anaplasma phagocytophilum,species,197,true,NaN,true,true
+709,58116,Glycomyces tenuis,species,198,true,NaN,true,true
+1785,359359,Smaragdicoccus niigatensis,species,199,true,NaN,true,true
+539,33044,Bartonella doshiae,species,200,true,NaN,true,true
+541,33045,Bartonella grahamii,species,200,true,NaN,true,true
+542,33047,Bartonella vinsonii,species,200,true,NaN,true,true
+710,774,Bartonella bacilliformis,species,200,true,NaN,true,true
+720,803,Bartonella quintana,species,200,true,NaN,true,true
+721,807,Bartonella elizabethae,species,200,true,NaN,true,true
+1388,85701,Bartonella tribocorum,species,200,true,NaN,true,true
+1576,373638,Bartonella tamiae,species,200,true,NaN,true,true
+1579,111504,Bartonella birtlesii,species,200,true,NaN,true,true
+1639,38323,Bartonella henselae,species,200,true,NaN,true,true
+1720,186739,Bartonella washoeensis,species,200,true,NaN,true,true
+1810,56426,Bartonella clarridgeiae,species,200,true,NaN,true,true
+1863,155194,Bartonella bovis,species,200,true,NaN,true,true
+1888,270250,Bartonella rattimassiliensis,species,200,true,NaN,true,true
+711,777,Coxiella burnetii,species,201,true,NaN,true,true
+514,467174,Rickettsia hoogstraalii,species,202,true,NaN,true,true
+713,781,Rickettsia conorii,species,202,true,NaN,true,true
+714,782,Rickettsia prowazekii,species,202,true,NaN,true,true
+715,783,Rickettsia rickettsii,species,202,true,NaN,true,true
+718,787,Rickettsia australis,species,202,true,NaN,true,true
+719,788,Rickettsia canadensis,species,202,true,NaN,true,true
+804,33989,Rickettsia amblyommatis,species,202,true,NaN,true,true
+805,33990,Rickettsia bellii,species,202,true,NaN,true,true
+806,33992,Rickettsia rhipicephali,species,202,true,NaN,true,true
+1082,42862,Rickettsia felis,species,202,true,NaN,true,true
+1245,35790,Rickettsia japonica,species,202,true,NaN,true,true
+1247,35792,Rickettsia parkeri,species,202,true,NaN,true,true
+1248,35793,Rickettsia sibirica,species,202,true,NaN,true,true
+1674,669502,Candidatus Profftella armatura,species,203,true,NaN,true,true
+1222,92945,Ketogulonicigenium vulgare,species,204,true,NaN,true,true
+1543,29466,Veillonella parvula,species,205,true,NaN,true,true
+1773,39777,Veillonella atypica,species,205,true,NaN,true,true
+1786,187328,Veillonella montpellierensis,species,205,true,NaN,true,true
+1874,81569,Ruegeria atlantica,species,206,true,NaN,true,true
+1545,365349,Pelosinus fermentans,species,207,true,NaN,true,true
+1226,133926,Olsenella uli,species,208,true,NaN,true,true
+722,813,Chlamydia trachomatis,species,209,true,NaN,true,true
+991,83554,Chlamydia psittaci,species,209,true,NaN,true,true
+992,83555,Chlamydia abortus,species,209,true,NaN,true,true
+994,83558,Chlamydia pneumoniae,species,209,true,NaN,true,true
+996,83560,Chlamydia muridarum,species,209,true,NaN,true,true
+1425,85991,Chlamydia pecorum,species,209,true,NaN,true,true
+781,574560,Photorhabdus temperata,species,210,true,NaN,true,true
+1551,29488,Photorhabdus luminescens,species,210,true,NaN,true,true
+1750,2218628,Photorhabdus laumondii,species,210,true,NaN,true,true
+723,817,Bacteroides fragilis,species,211,true,NaN,true,true
+724,818,Bacteroides thetaiotaomicron,species,211,true,NaN,true,true
+725,820,Bacteroides uniformis,species,211,true,NaN,true,true
+765,246787,Bacteroides cellulosilyticus,species,211,true,NaN,true,true
+1144,329854,Bacteroides intestinalis,species,211,true,NaN,true,true
+1159,338188,Bacteroides finegoldii,species,211,true,NaN,true,true
+1185,477666,Bacteroides graminisolvens,species,211,true,NaN,true,true
+1236,371601,Bacteroides xylanisolvens,species,211,true,NaN,true,true
+1341,28111,Bacteroides eggerthii,species,211,true,NaN,true,true
+1344,28116,Bacteroides ovatus,species,211,true,NaN,true,true
+1558,291644,Bacteroides salyersiae,species,211,true,NaN,true,true
+1559,291645,Bacteroides nordii,species,211,true,NaN,true,true
+1636,46506,Bacteroides stercoris,species,211,true,NaN,true,true
+1735,47678,Bacteroides caccae,species,211,true,NaN,true,true
+1805,310300,Bacteroides pyogenes,species,211,true,NaN,true,true
+1870,392838,Bacteroides propionicifaciens,species,211,true,NaN,true,true
+1899,376806,Bacteroides gallinarum,species,211,true,NaN,true,true
+1730,154046,Hungatella hathewayi,species,212,true,NaN,true,true
+872,83262,Mycobacteroides immunogenum,species,213,true,NaN,true,true
+1424,36809,Mycobacteroides abscessus,species,213,true,NaN,true,true
+1895,360411,Bellilinea caldifistulae,species,214,true,NaN,true,true
+615,229920,Leptolinea tardivitalis,species,215,true,NaN,true,true
+729,831,Butyrivibrio fibrisolvens,species,216,true,NaN,true,true
+1164,43305,Butyrivibrio proteoclasticus,species,216,true,NaN,true,true
+730,833,Fibrobacter succinogenes,species,217,true,NaN,true,true
+685,393921,Porphyromonas crevioricanis,species,218,true,NaN,true,true
+732,837,Porphyromonas gingivalis,species,218,true,NaN,true,true
+762,41976,Porphyromonas catoniae,species,218,true,NaN,true,true
+1306,281920,Porphyromonas uenonis,species,218,true,NaN,true,true
+1343,28115,Porphyromonas macacae,species,218,true,NaN,true,true
+1346,28123,Porphyromonas asaccharolytica,species,218,true,NaN,true,true
+1432,36874,Porphyromonas cangingivalis,species,218,true,NaN,true,true
+1433,36875,Porphyromonas canoris,species,218,true,NaN,true,true
+1484,111105,Porphyromonas gulae,species,218,true,NaN,true,true
+1491,266762,Porphyromonas gingivicanis,species,218,true,NaN,true,true
+733,840,Prevotella loescheii,species,219,true,NaN,true,true
+802,419005,Prevotella amnii,species,219,true,NaN,true,true
+850,189722,Prevotella marshii,species,219,true,NaN,true,true
+853,189723,Prevotella micans,species,219,true,NaN,true,true
+856,83231,Prevotella brevis,species,219,true,NaN,true,true
+896,386414,Prevotella timonensis,species,219,true,NaN,true,true
+1170,76123,Prevotella enoeca,species,219,true,NaN,true,true
+1192,305719,Prevotella baroniae,species,219,true,NaN,true,true
+1232,633701,Prevotella saccharolytica,species,219,true,NaN,true,true
+1267,52227,Prevotella dentalis,species,219,true,NaN,true,true
+1303,77095,Prevotella bryantii,species,219,true,NaN,true,true
+1347,28125,Prevotella bivia,species,219,true,NaN,true,true
+1348,28126,Prevotella buccae,species,219,true,NaN,true,true
+1349,28127,Prevotella buccalis,species,219,true,NaN,true,true
+1350,28128,Prevotella corporis,species,219,true,NaN,true,true
+1351,28129,Prevotella denticola,species,219,true,NaN,true,true
+1352,28130,Prevotella disiens,species,219,true,NaN,true,true
+1353,28131,Prevotella intermedia,species,219,true,NaN,true,true
+1354,28133,Prevotella nigrescens,species,219,true,NaN,true,true
+1355,28134,Prevotella oralis,species,219,true,NaN,true,true
+1356,28135,Prevotella oris,species,219,true,NaN,true,true
+1357,28136,Prevotella oulorum,species,219,true,NaN,true,true
+1358,28137,Prevotella veroralis,species,219,true,NaN,true,true
+1373,470565,Prevotella histicola,species,219,true,NaN,true,true
+1423,77768,Prevotella albensis,species,219,true,NaN,true,true
+1585,185294,Prevotella paludivivens,species,219,true,NaN,true,true
+1630,439703,Prevotella maculosa,species,219,true,NaN,true,true
+1725,407975,Prevotella pleuritidis,species,219,true,NaN,true,true
+1825,228604,Prevotella salivae,species,219,true,NaN,true,true
+1867,589436,Prevotella fusca,species,219,true,NaN,true,true
+1893,425941,Prevotella nanceiensis,species,219,true,NaN,true,true
+1862,400946,Wohlfahrtiimonas chitiniclastica,species,220,true,NaN,true,true
+570,360807,Roseburia inulinivorans,species,221,true,NaN,true,true
+1835,1547597,Sanguibacteroides justesenii,species,222,true,NaN,true,true
+734,849,Fusobacterium gonidiaformans,species,223,true,NaN,true,true
+735,851,Fusobacterium nucleatum,species,223,true,NaN,true,true
+737,859,Fusobacterium necrophorum,species,223,true,NaN,true,true
+738,861,Fusobacterium ulcerans,species,223,true,NaN,true,true
+1101,1583098,Fusobacterium hwasookii,species,223,true,NaN,true,true
+491,159,Brachyspira hyodysenteriae,species,224,true,NaN,true,true
+1310,52584,Brachyspira pilosicoli,species,224,true,NaN,true,true
+1231,76636,Mycetocola saprophilus,species,225,true,NaN,true,true
+739,870,Dichelobacter nodosus,species,226,true,NaN,true,true
+731,58180,Desulfovibrio alaskensis,species,227,true,NaN,true,true
+741,879,Desulfovibrio gigas,species,227,true,NaN,true,true
+742,881,Desulfovibrio vulgaris,species,227,true,NaN,true,true
+1190,191026,Desulfovibrio hydrothermalis,species,227,true,NaN,true,true
+1569,29549,Rhodothermus marinus,species,228,true,NaN,true,true
+477,311410,Labrenzia alba,species,229,true,NaN,true,true
+1305,388408,Labrenzia alexandrii,species,229,true,NaN,true,true
+1197,84590,Taylorella asinigenitalis,species,230,true,NaN,true,true
+1577,29575,Taylorella equigenitalis,species,230,true,NaN,true,true
+1784,187327,Acidaminococcus intestini,species,231,true,NaN,true,true
+1892,884684,Mageeibacillus indolicus,species,232,true,NaN,true,true
+743,907,Megasphaera elsdenii,species,233,true,NaN,true,true
+1710,55508,Janthinobacterium agaricidamnosum,species,234,true,NaN,true,true
+1654,906888,Nonlabens ulvanivorans,species,235,true,NaN,true,true
+1736,39486,Dorea formicigenerans,species,236,true,NaN,true,true
+632,575,Raoultella planticola,species,237,true,NaN,true,true
+1589,54291,Raoultella ornithinolytica,species,237,true,NaN,true,true
+712,779,Ehrlichia ruminantium,species,239,true,NaN,true,true
+748,945,Ehrlichia chaffeensis,species,239,true,NaN,true,true
+1250,35795,Ehrlichia muris,species,239,true,NaN,true,true
+840,263437,Wolbachia endosymbiont of Culex quinquefasciatus,species,240,true,NaN,true,true
+1837,163164,Wolbachia endosymbiont of Drosophila melanogaster,species,240,true,NaN,true,true
+750,336828,Rhodonellum psychrophilum,species,241,true,NaN,true,true
+752,964,Herbaspirillum seropedicae,species,242,true,NaN,true,true
+1751,211589,Herbaspirillum chlorophenolicum,species,242,true,NaN,true,true
+1790,80842,Herbaspirillum rubrisubalbicans,species,242,true,NaN,true,true
+703,738,Glaesserella parasuis,species,243,true,NaN,true,true
+1420,135083,Selenomonas noxia,species,244,true,NaN,true,true
+1454,69823,Selenomonas sputigena,species,244,true,NaN,true,true
+1767,416586,Selenomonas bovis,species,244,true,NaN,true,true
+1854,671224,Selenomonas artemidis,species,244,true,NaN,true,true
+1246,314319,Prolixibacter bellariivorans,species,245,true,NaN,true,true
+758,41950,Candidatus Microthrix parvicella,species,246,true,NaN,true,true
+964,1589,Lactobacillus pentosus,species,247,true,NaN,true,true
+965,1590,Lactiplantibacillus plantarum,species,247,true,NaN,true,true
+1279,60520,Lactobacillus paraplantarum,species,247,true,NaN,true,true
+1878,483011,Lactobacillus fabifermentans,species,247,true,NaN,true,true
+1858,220697,Thalassospira xiamenensis,species,248,true,NaN,true,true
+1587,447471,Simiduia agarivorans,species,249,true,NaN,true,true
+1399,118562,Arthrospira platensis,species,250,true,NaN,true,true
+1265,35833,Bilophila wadsworthia,species,251,true,NaN,true,true
+763,1018,Capnocytophaga ochracea,species,252,true,NaN,true,true
+1368,28188,Capnocytophaga canimorsus,species,252,true,NaN,true,true
+1369,28189,Capnocytophaga cynodegmi,species,252,true,NaN,true,true
+1650,1848903,Capnocytophaga canis,species,252,true,NaN,true,true
+1616,398555,Agrilactobacillus composti,species,253,true,NaN,true,true
+884,148814,Lactobacillus kunkeei,species,254,true,NaN,true,true
+973,83526,Lactobacillus paralimentarius,species,255,true,NaN,true,true
+975,1612,Lactobacillus farciminis,species,255,true,NaN,true,true
+1130,460870,Lactobacillus nodensis,species,255,true,NaN,true,true
+1668,194326,Lactobacillus versmoldensis,species,255,true,NaN,true,true
+1822,392416,Lactobacillus crustorum,species,255,true,NaN,true,true
+883,640331,Lactobacillus florum,species,256,true,NaN,true,true
+977,1614,Lactobacillus fructivorans,species,256,true,NaN,true,true
+984,1625,Lactobacillus sanfranciscensis,species,256,true,NaN,true,true
+1455,53444,Lactobacillus lindneri,species,256,true,NaN,true,true
+1005,231049,Lactobacillus rossiae,species,257,true,NaN,true,true
+1836,679249,Lactobacillus floricola,species,258,true,NaN,true,true
+1679,309120,Dialister micraerophilus,species,259,true,NaN,true,true
+622,164393,Lactobacillus fuchuensis,species,260,true,NaN,true,true
+968,1599,Lactobacillus sakei,species,260,true,NaN,true,true
+1318,28038,Lactobacillus curvatus,species,260,true,NaN,true,true
+957,1580,Lactobacillus brevis,species,261,true,NaN,true,true
+1323,216463,Lactobacillus spicheri,species,261,true,NaN,true,true
+1359,380393,Lactobacillus namurensis,species,261,true,NaN,true,true
+1582,357278,Lactobacillus parabrevis,species,261,true,NaN,true,true
+1802,637971,Lactobacillus koreensis,species,261,true,NaN,true,true
+970,1601,Ligilactobacillus agilis,species,262,true,NaN,true,true
+972,1605,Lactobacillus animalis,species,262,true,NaN,true,true
+981,1622,Lactobacillus murinus,species,262,true,NaN,true,true
+982,1623,Lactobacillus ruminis,species,262,true,NaN,true,true
+983,1624,Ligilactobacillus salivarius,species,262,true,NaN,true,true
+1075,395085,Lactobacillus ceti,species,262,true,NaN,true,true
+1328,396716,Lactobacillus hayakitensis,species,262,true,NaN,true,true
+1422,307126,Lactobacillus apodemi,species,262,true,NaN,true,true
+1699,137357,Lactobacillus equi,species,262,true,NaN,true,true
+1781,228229,Lactobacillus saerimneri,species,262,true,NaN,true,true
+1796,89059,Lactobacillus acidipiscis,species,262,true,NaN,true,true
+1811,449659,Lactobacillus pobuzihii,species,262,true,NaN,true,true
+587,238015,Liquorilactobacillus vini,species,263,true,NaN,true,true
+979,1618,Lactobacillus mali,species,263,true,NaN,true,true
+1234,519050,Lactobacillus sucicola,species,263,true,NaN,true,true
+974,1610,Lactobacillus coryniformis,species,264,true,NaN,true,true
+1539,152335,Lactobacillus suebicus,species,265,true,NaN,true,true
+1604,1193095,Lactobacillus hokkaidonensis,species,265,true,NaN,true,true
+779,304207,Lactobacillus harbinensis,species,266,true,NaN,true,true
+798,33960,Lactobacillus collinoides,species,267,true,NaN,true,true
+1227,240427,Lactobacillus paracollinoides,species,267,true,NaN,true,true
+1449,176292,Lactobacillus malefermentans,species,267,true,NaN,true,true
+1586,414682,Lactobacillus similis,species,267,true,NaN,true,true
+958,1581,Lactobacillus buchneri,species,268,true,NaN,true,true
+963,1588,Lactobacillus hilgardii,species,268,true,NaN,true,true
+1538,152331,Lactobacillus parabuchneri,species,268,true,NaN,true,true
+1659,390841,Lactobacillus farraginis,species,268,true,NaN,true,true
+1660,390842,Lactobacillus parafarraginis,species,268,true,NaN,true,true
+1728,481720,Lactobacillus otakiensis,species,268,true,NaN,true,true
+1729,481722,Lactobacillus kisonensis,species,268,true,NaN,true,true
+518,33007,Winkia neuii,species,269,true,NaN,true,true
+1658,874156,Erythrobacter marinus,species,270,true,NaN,true,true
+1065,321318,Dietzia cinnamea,species,271,true,NaN,true,true
+579,408,Methylorubrum extorquens,species,272,true,NaN,true,true
+526,256,Myroides odoratus,species,273,true,NaN,true,true
+1270,76832,Myroides odoratimimus,species,273,true,NaN,true,true
+1775,703342,Myroides marinus,species,273,true,NaN,true,true
+1594,54307,Planktothrix prolifica,species,274,true,NaN,true,true
+1271,93218,Pandoraea apista,species,275,true,NaN,true,true
+1273,93220,Pandoraea pnomenusa,species,275,true,NaN,true,true
+1688,202789,Actinobaculum massiliense,species,276,true,NaN,true,true
+769,82981,Leminorella grimontii,species,277,true,NaN,true,true
+770,1061,Rhodobacter capsulatus,species,278,true,NaN,true,true
+771,1063,Rhodobacter sphaeroides,species,278,true,NaN,true,true
+772,82987,Tatumella ptyseos,species,279,true,NaN,true,true
+1791,105425,Streptacidiphilus albus,species,280,true,NaN,true,true
+959,1582,Lactobacillus casei,species,281,true,NaN,true,true
+966,1597,Lacticaseibacillus paracasei,species,281,true,NaN,true,true
+985,1626,Lactobacillus sharpeae,species,281,true,NaN,true,true
+1189,944671,Lactobacillus nasuensis,species,281,true,NaN,true,true
+1548,381741,Lactobacillus thailandensis,species,281,true,NaN,true,true
+1549,381742,Lacticaseibacillus camelliae,species,281,true,NaN,true,true
+1661,931533,Lactobacillus saniviri,species,281,true,NaN,true,true
+1742,47715,Lactobacillus rhamnosus,species,281,true,NaN,true,true
+1856,171523,Lactobacillus pantheris,species,281,true,NaN,true,true
+776,1085,Rhodospirillum rubrum,species,282,true,NaN,true,true
+1194,68170,Lentzea aerocolonigenes,species,283,true,NaN,true,true
+1137,370776,Arenimonas composti,species,284,true,NaN,true,true
+1723,498055,Arenimonas oryziterrae,species,284,true,NaN,true,true
+674,673,Grimontia hollisae,species,285,true,NaN,true,true
+1096,2033,Microbacterium testaceum,species,286,true,NaN,true,true
+1301,273677,Microbacterium oleivorans,species,286,true,NaN,true,true
+1307,347481,Asticcacaulis benevestitus,species,287,true,NaN,true,true
+1690,145458,Rathayibacter toxicus,species,288,true,NaN,true,true
+533,33035,Blautia producta,species,289,true,NaN,true,true
+588,418240,Blautia wexlerae,species,289,true,NaN,true,true
+783,1124,Chlorogloeopsis fritschii,species,290,true,NaN,true,true
+1809,187493,Thalassolituus oleivorans,species,291,true,NaN,true,true
+784,1126,Microcystis aeruginosa,species,292,true,NaN,true,true
+1834,32046,Synechococcus elongatus,species,293,true,NaN,true,true
+1281,158849,Moellerella wisconsensis,species,294,true,NaN,true,true
+1264,379893,Trabulsiella odontotermitis,species,295,true,NaN,true,true
+1043,1766,Mycolicibacterium fortuitum,species,296,true,NaN,true,true
+1047,1771,Mycolicibacterium phlei,species,296,true,NaN,true,true
+1048,1772,Mycolicibacterium smegmatis,species,296,true,NaN,true,true
+1053,1795,Mycolicibacterium neoaurum,species,296,true,NaN,true,true
+1054,1796,Mycolicibacterium senegalense,species,296,true,NaN,true,true
+1055,1797,Mycolicibacterium thermoresistibile,species,296,true,NaN,true,true
+1056,1804,Mycolicibacterium gilvum,species,296,true,NaN,true,true
+1057,1807,Mycolicibacterium obuense,species,296,true,NaN,true,true
+1059,1810,Mycolicibacterium vaccae,species,296,true,NaN,true,true
+1592,37916,Mycolicibacterium chlorophenolicum,species,296,true,NaN,true,true
+1608,431269,Mycolicibacterium setense,species,296,true,NaN,true,true
+1618,46351,Mycolicibacterium hassiacum,species,296,true,NaN,true,true
+1839,56689,Mycolicibacterium mucogenicum,species,296,true,NaN,true,true
+1172,59748,Candidatus Phytoplasma australiense,species,297,true,NaN,true,true
+688,714,Aggregatibacter actinomycetemcomitans,species,298,true,NaN,true,true
+698,732,Aggregatibacter aphrophilus,species,298,true,NaN,true,true
+794,1176,Aphanizomenon flos-aquae,species,299,true,NaN,true,true
+1288,158877,Yokenella regensburgei,species,300,true,NaN,true,true
+1141,2151,Mesoplasma florum,species,301,true,NaN,true,true
+548,33059,Acidithiobacillus caldus,species,302,true,NaN,true,true
+744,920,Acidithiobacillus ferrooxidans,species,302,true,NaN,true,true
+745,930,Acidithiobacillus thiooxidans,species,302,true,NaN,true,true
+1596,160808,Acidithiobacillus ferrivorans,species,302,true,NaN,true,true
+1413,85874,Thermacetogenium phaeum,species,303,true,NaN,true,true
+780,336988,Oenococcus kitaharae,species,304,true,NaN,true,true
+814,1247,Oenococcus oeni,species,304,true,NaN,true,true
+819,165096,Weissella koreensis,species,305,true,NaN,true,true
+960,1583,Weissella confusa,species,305,true,NaN,true,true
+978,1615,Weissella halotolerans,species,305,true,NaN,true,true
+1675,759620,Weissella ceti,species,305,true,NaN,true,true
+1721,137591,Weissella cibaria,species,305,true,NaN,true,true
+801,33970,Melissococcus plutonius,species,306,true,NaN,true,true
+1295,77008,Pseudorhodobacter ferrugineus,species,307,true,NaN,true,true
+803,1219,Prochlorococcus marinus,species,308,true,0.0,true,false
+950,1385984,Exiguobacterium chiriqhucha,species,309,true,NaN,true,true
+1070,132920,Exiguobacterium antarcticum,species,309,true,NaN,true,true
+1614,169177,Exiguobacterium undae,species,309,true,NaN,true,true
+1820,40137,Oligotropha carboxidovorans,species,310,true,NaN,true,true
+809,1229,Nitrosococcus oceani,species,311,true,NaN,true,true
+810,1238,Piscirickettsia salmonis,species,312,true,NaN,true,true
+1255,35806,Rhodovulum sulfidophilum,species,313,true,NaN,true,true
+641,483937,Paenibacillus riograndensis,species,314,true,NaN,true,true
+760,189425,Paenibacillus graminis,species,314,true,NaN,true,true
+828,189691,Paenibacillus elgii,species,314,true,NaN,true,true
+907,1406,Paenibacillus polymyxa,species,314,true,NaN,true,true
+921,1464,Paenibacillus larvae,species,314,true,NaN,true,true
+1180,59843,Paenibacillus glucanolyticus,species,314,true,NaN,true,true
+1296,44251,Paenibacillus durus,species,314,true,NaN,true,true
+1452,61624,Paenibacillus mucilaginosus,species,314,true,NaN,true,true
+1469,1380763,Paenibacillus darwinianus,species,314,true,NaN,true,true
+1503,225917,Paenibacillus massiliensis,species,314,true,NaN,true,true
+1669,669462,Paenibacillus pinihumi,species,314,true,NaN,true,true
+799,33964,Leuconostoc citreum,species,315,true,NaN,true,true
+800,33968,Leuconostoc pseudomesenteroides,species,315,true,NaN,true,true
+811,1244,Leuconostoc gelidum,species,315,true,NaN,true,true
+812,1245,Leuconostoc mesenteroides,species,315,true,NaN,true,true
+1213,109265,Dolichospermum circinale,species,316,true,NaN,true,true
+815,34021,Candidatus Liberibacter asiaticus,species,317,true,NaN,true,true
+1304,1273132,Liberibacter crescens,species,317,true,NaN,true,true
+1746,309868,Candidatus Liberibacter americanus,species,317,true,NaN,true,true
+1827,556287,Candidatus Liberibacter solanacearum,species,317,true,NaN,true,true
+946,1525,Moorella thermoacetica,species,318,true,NaN,true,true
+816,1254,Pediococcus acidilactici,species,319,true,NaN,true,true
+817,1255,Pediococcus pentosaceus,species,319,true,NaN,true,true
+1181,51663,Pediococcus damnosus,species,319,true,NaN,true,true
+1807,187452,Pediococcus claussenii,species,319,true,NaN,true,true
+1824,466153,Singulisphaera acidiphila,species,320,true,NaN,true,true
+821,1261,Peptostreptococcus anaerobius,species,321,true,NaN,true,true
+822,1264,Ruminococcus albus,species,322,true,NaN,true,true
+1759,1161942,Ruminococcus champanellensis,species,322,true,NaN,true,true
+825,1270,Micrococcus luteus,species,323,true,NaN,true,true
+826,34038,Rahnella aquatilis,species,324,true,NaN,true,true
+679,66219,Lachnoclostridium phytofermentans,species,325,true,NaN,true,true
+938,1512,[Clostridium] symbiosum,species,325,true,NaN,true,true
+910,1421,Lysinibacillus sphaericus,species,326,true,NaN,true,true
+1313,28031,Lysinibacillus fusiformis,species,326,true,NaN,true,true
+1678,202611,Lysinibacillus odysseyi,species,326,true,NaN,true,true
+673,246432,Staphylococcus equorum,species,327,true,NaN,true,true
+832,1280,Staphylococcus aureus,species,327,true,NaN,true,true
+833,1281,Staphylococcus carnosus,species,327,true,NaN,true,true
+834,1282,Staphylococcus epidermidis,species,327,true,NaN,true,true
+835,1283,Staphylococcus haemolyticus,species,327,true,NaN,true,true
+836,1286,Staphylococcus simulans,species,327,true,NaN,true,true
+837,1288,Staphylococcus xylosus,species,327,true,NaN,true,true
+838,1290,Staphylococcus hominis,species,327,true,NaN,true,true
+839,1292,Staphylococcus warneri,species,327,true,NaN,true,true
+841,1295,Staphylococcus schleiferi,species,327,true,NaN,true,true
+842,1296,Staphylococcus sciuri,species,327,true,NaN,true,true
+1205,985762,Staphylococcus agnetis,species,327,true,NaN,true,true
+1315,28035,Staphylococcus lugdunensis,species,327,true,NaN,true,true
+1379,61015,Staphylococcus succinus,species,327,true,NaN,true,true
+1515,29380,Staphylococcus caprae,species,327,true,NaN,true,true
+1519,29382,Staphylococcus cohnii,species,327,true,NaN,true,true
+1520,29385,Staphylococcus saprophyticus,species,327,true,NaN,true,true
+1601,283734,Staphylococcus pseudintermedius,species,327,true,NaN,true,true
+1765,555791,Staphylococcus massiliensis,species,327,true,NaN,true,true
+1866,1654388,Staphylococcus schweitzeri,species,327,true,NaN,true,true
+625,556,Dickeya chrysanthemi,species,328,true,NaN,true,true
+1828,204038,Dickeya dadantii,species,328,true,NaN,true,true
+1829,204039,Dickeya dianthicola,species,328,true,NaN,true,true
+1830,204042,Dickeya zeae,species,328,true,NaN,true,true
+1887,1089444,Dickeya solani,species,328,true,NaN,true,true
+549,292,Burkholderia cepacia,species,329,true,NaN,true,true
+559,337,Burkholderia glumae,species,329,true,NaN,true,true
+651,57975,Burkholderia thailandensis,species,329,true,NaN,true,true
+1283,60552,Burkholderia vietnamiensis,species,329,true,NaN,true,true
+1291,101571,Burkholderia ubonensis,species,329,true,NaN,true,true
+1293,1207504,Burkholderia pseudomultivorans,species,329,true,NaN,true,true
+1337,28095,Burkholderia gladioli,species,329,true,NaN,true,true
+1400,28450,Burkholderia pseudomallei,species,329,true,NaN,true,true
+1410,1503054,Burkholderia stagnalis,species,329,true,NaN,true,true
+1411,1503055,Burkholderia territorii,species,329,true,NaN,true,true
+1584,152500,Burkholderia dolosa,species,329,true,NaN,true,true
+1588,488447,Burkholderia contaminans,species,329,true,NaN,true,true
+1599,13373,Burkholderia mallei,species,329,true,NaN,true,true
+1617,95486,Burkholderia cenocepacia,species,329,true,NaN,true,true
+1619,488732,Burkholderia diffusa,species,329,true,NaN,true,true
+1676,87883,Burkholderia multivorans,species,329,true,NaN,true,true
+1697,342113,Burkholderia oklahomensis,species,329,true,NaN,true,true
+1871,482957,Burkholderia lata,species,329,true,NaN,true,true
+1875,179879,Burkholderia anthina,species,329,true,NaN,true,true
+1689,178214,Facklamia hominis,species,330,true,NaN,true,true
+1157,1263866,Rhodopirellula europaea,species,331,true,NaN,true,true
+1319,265606,Rhodopirellula baltica,species,331,true,NaN,true,true
+843,1299,Deinococcus radiodurans,species,332,true,NaN,true,true
+1640,980427,Deinococcus wulumuqiensis,species,332,true,NaN,true,true
+663,361101,Streptococcus pseudoporcinus,species,333,true,NaN,true,true
+759,197614,Streptococcus pasteurianus,species,333,true,NaN,true,true
+845,1302,Streptococcus gordonii,species,333,true,NaN,true,true
+847,1303,Streptococcus oralis,species,333,true,NaN,true,true
+848,1304,Streptococcus salivarius,species,333,true,NaN,true,true
+849,1305,Streptococcus sanguinis,species,333,true,NaN,true,true
+851,1307,Streptococcus suis,species,333,true,NaN,true,true
+852,1308,Streptococcus thermophilus,species,333,true,NaN,true,true
+854,1310,Streptococcus sobrinus,species,333,true,NaN,true,true
+857,1311,Streptococcus agalactiae,species,333,true,NaN,true,true
+858,1309,Streptococcus mutans,species,333,true,NaN,true,true
+859,1313,Streptococcus pneumoniae,species,333,true,NaN,true,true
+860,1314,Streptococcus pyogenes,species,333,true,NaN,true,true
+862,1318,Streptococcus parasanguinis,species,333,true,NaN,true,true
+863,1328,Streptococcus anginosus,species,333,true,NaN,true,true
+866,1334,Streptococcus dysgalactiae,species,333,true,NaN,true,true
+867,1335,Streptococcus equinus,species,333,true,NaN,true,true
+868,1336,Streptococcus equi,species,333,true,NaN,true,true
+869,1338,Streptococcus intermedius,species,333,true,NaN,true,true
+871,1341,Streptococcus ratti,species,333,true,NaN,true,true
+873,1343,Streptococcus vestibularis,species,333,true,NaN,true,true
+874,1346,Streptococcus iniae,species,333,true,NaN,true,true
+875,1348,Streptococcus parauberis,species,333,true,NaN,true,true
+876,1349,Streptococcus uberis,species,333,true,NaN,true,true
+952,149016,Streptococcus urinalis,species,333,true,NaN,true,true
+1139,313439,Streptococcus massiliensis,species,333,true,NaN,true,true
+1275,76860,Streptococcus constellatus,species,333,true,NaN,true,true
+1321,28037,Streptococcus mitis,species,333,true,NaN,true,true
+1391,257758,Streptococcus pseudopneumoniae,species,333,true,NaN,true,true
+1434,315405,Streptococcus gallolyticus,species,333,true,NaN,true,true
+1463,102684,Streptococcus infantarius,species,333,true,NaN,true,true
+1476,119224,Streptococcus phocae,species,333,true,NaN,true,true
+1499,45634,Streptococcus cristatus,species,333,true,NaN,true,true
+1731,113107,Streptococcus australis,species,333,true,NaN,true,true
+846,288022,Kordiimonas gwangyangensis,species,334,true,NaN,true,true
+1845,34073,Variovorax paradoxus,species,335,true,NaN,true,true
+861,34085,Riemerella anatipestifer,species,336,true,NaN,true,true
+1884,163665,Dysgonomonas mossii,species,337,true,NaN,true,true
+932,1499,Ruminiclostridium josui,species,338,true,NaN,true,true
+1850,56807,Glaciecola pallidula,species,339,true,NaN,true,true
+1098,157687,Leptotrichia wadei,species,340,true,NaN,true,true
+1100,157688,Leptotrichia hofstadii,species,340,true,NaN,true,true
+576,57732,Enterococcus asini,species,341,true,NaN,true,true
+766,41997,Enterococcus saccharolyticus,species,341,true,NaN,true,true
+795,33945,Enterococcus avium,species,341,true,NaN,true,true
+877,1351,Enterococcus faecalis,species,341,true,NaN,true,true
+878,1352,Enterococcus faecium,species,341,true,NaN,true,true
+879,1353,Enterococcus gallinarum,species,341,true,NaN,true,true
+880,1354,Enterococcus hirae,species,341,true,NaN,true,true
+881,1355,Enterococcus columbae,species,341,true,NaN,true,true
+1258,44008,Enterococcus cecorum,species,341,true,NaN,true,true
+1259,44009,Enterococcus dispar,species,341,true,NaN,true,true
+1444,53345,Enterococcus durans,species,341,true,NaN,true,true
+1445,53346,Enterococcus mundtii,species,341,true,NaN,true,true
+1516,160453,Enterococcus gilvus,species,341,true,NaN,true,true
+1517,160454,Enterococcus pallens,species,341,true,NaN,true,true
+1567,37734,Enterococcus casseliflavus,species,341,true,NaN,true,true
+1671,71452,Enterococcus raffinosus,species,341,true,NaN,true,true
+1711,112904,Enterococcus villorum,species,341,true,NaN,true,true
+1713,317735,Enterococcus caccae,species,341,true,NaN,true,true
+1800,154621,Enterococcus phoeniculicola,species,341,true,NaN,true,true
+1896,155617,Enterococcus moraviensis,species,341,true,NaN,true,true
+1897,155618,Enterococcus haemoperoxidus,species,341,true,NaN,true,true
+885,1358,Lactococcus lactis,species,342,true,NaN,true,true
+887,1363,Lactococcus garvieae,species,342,true,NaN,true,true
+1684,71657,Lonsdalea quercina,species,343,true,NaN,true,true
+886,140626,Lachnobacterium bovis,species,344,true,NaN,true,true
+888,263511,Crocosphaera watsonii,species,345,true,NaN,true,true
+889,1376,Aerococcus urinae,species,346,true,NaN,true,true
+890,1377,Aerococcus viridans,species,346,true,NaN,true,true
+1182,51665,Aerococcus urinaeequi,species,346,true,NaN,true,true
+1644,87541,Aerococcus christensenii,species,346,true,NaN,true,true
+892,378211,Methyloversatilis universalis,species,347,true,NaN,true,true
+1620,1119528,Methyloversatilis discipulorum,species,347,true,NaN,true,true
+1149,84135,Gemella sanguinis,species,348,true,NaN,true,true
+893,1381,Atopobium minutum,species,349,true,NaN,true,true
+746,574375,Bacillus gaemokensis,species,350,true,NaN,true,true
+753,189381,Bacillus marisflavi,species,350,true,NaN,true,true
+777,1664069,Bacillus glycinifermentans,species,350,true,NaN,true,true
+790,492670,Bacillus velezensis,species,350,true,NaN,true,true
+895,1390,Bacillus amyloliquefaciens,species,350,true,NaN,true,true
+897,1392,Bacillus anthracis,species,350,true,NaN,true,true
+899,1396,Bacillus cereus,species,350,true,0.0,true,false
+900,1397,Bacillus circulans,species,350,true,NaN,true,true
+901,1398,Bacillus coagulans,species,350,true,NaN,true,true
+904,1402,Bacillus licheniformis,species,350,true,NaN,true,true
+905,1404,Bacillus megaterium,species,350,true,NaN,true,true
+906,1405,Bacillus mycoides,species,350,true,NaN,true,true
+908,1408,Bacillus pumilus,species,350,true,NaN,true,true
+912,1423,Bacillus subtilis,species,350,true,NaN,true,true
+914,1428,Bacillus thuringiensis,species,350,true,NaN,true,true
+915,1452,Bacillus atrophaeus,species,350,true,NaN,true,true
+916,1454,Bacillus azotoformans,species,350,true,NaN,true,true
+917,1455,Bacillus badius,species,350,true,NaN,true,true
+924,1471,Bacillus methanolicus,species,350,true,NaN,true,true
+925,1479,Bacillus smithii,species,350,true,NaN,true,true
+1160,1648923,Bacillus paralicheniformis,species,350,true,NaN,true,true
+1214,412384,Bacillus aryabhattai,species,350,true,NaN,true,true
+1266,35841,Bacillus thermoamylovorans,species,350,true,NaN,true,true
+1308,363870,Bacillus ginsengihumi,species,350,true,NaN,true,true
+1402,659243,Bacillus siamensis,species,350,true,NaN,true,true
+1495,135735,Bacillus endophyticus,species,350,true,NaN,true,true
+1521,561879,Bacillus safensis,species,350,true,NaN,true,true
+1598,119858,Bacillus sonorensis,species,350,true,NaN,true,true
+1610,218284,Bacillus vietnamensis,species,350,true,NaN,true,true
+1737,580165,Bacillus cytotoxicus,species,350,true,NaN,true,true
+1754,72360,Bacillus mojavensis,species,350,true,NaN,true,true
+1801,408580,Bacillus coahuilensis,species,350,true,NaN,true,true
+1889,1793963,Bacillus nakamurai,species,350,true,NaN,true,true
+1342,28112,Tannerella forsythia,species,351,true,NaN,true,true
+1748,47735,Bibersteinia trehalosi,species,352,true,NaN,true,true
+1457,61647,Pluralibacter gergoviae,species,353,true,NaN,true,true
+1595,283686,Kosakonia radicincitans,species,354,true,NaN,true,true
+1590,160791,Sphingomonas wittichii,species,355,true,NaN,true,true
+1602,152682,Sphingomonas melonis,species,355,true,NaN,true,true
+1624,13689,Sphingomonas paucimobilis,species,355,true,NaN,true,true
+481,139,Borreliella burgdorferi,species,356,true,NaN,true,true
+1511,62088,Borreliella valaisiana,species,356,true,NaN,true,true
+1563,29518,Borreliella afzelii,species,356,true,NaN,true,true
+1564,29519,Borreliella garinii,species,356,true,NaN,true,true
+1314,28034,Sulfobacillus thermosulfidooxidans,species,357,true,NaN,true,true
+1666,128780,Stenotrophomonas acidaminiphila,species,358,true,NaN,true,true
+1842,40324,Stenotrophomonas maltophilia,species,358,true,NaN,true,true
+1324,28051,Lachnospira multipara,species,359,true,NaN,true,true
+1692,88132,Eremococcus coleocola,species,360,true,NaN,true,true
+1345,60890,Phaeobacter gallaeciensis,species,361,true,NaN,true,true
+1700,481446,Phaeobacter italicus,species,361,true,NaN,true,true
+1037,1748,Acidipropionibacterium acidipropionici,species,362,true,NaN,true,true
+520,33010,Cutibacterium avidum,species,363,true,NaN,true,true
+522,33011,Cutibacterium granulosum,species,363,true,NaN,true,true
+1036,1747,Cutibacterium acnes,species,363,true,NaN,true,true
+1155,1050843,[Propionibacterium] humerusii,species,363,true,NaN,true,true
+1038,1750,Pseudopropionibacterium propionicum,species,364,true,NaN,true,true
+1823,31973,Eggerthia catenaformis,species,365,true,NaN,true,true
+987,1630,Kandleria vitulina,species,366,true,NaN,true,true
+1327,28068,Rubrivivax gelatinosus,species,367,true,NaN,true,true
+1649,316997,Rubrivivax benzoatilyticus,species,367,true,NaN,true,true
+624,554,Pectobacterium carotovorum,species,368,true,NaN,true,true
+702,180957,Pectobacterium brasiliense,species,368,true,NaN,true,true
+923,2778550,Pectobacterium parvum,species,368,true,NaN,true,true
+1497,78398,Pectobacterium odoriferum,species,368,true,NaN,true,true
+1544,29471,Pectobacterium atrosepticum,species,368,true,NaN,true,true
+1600,1905730,Pectobacterium parmentieri,species,368,true,NaN,true,true
+1680,55207,Pectobacterium betavasculorum,species,368,true,NaN,true,true
+1681,55208,Pectobacterium wasabiae,species,368,true,NaN,true,true
+1846,171437,Tistrella mobilis,species,369,true,NaN,true,true
+484,57487,Pseudothermotoga hypogea,species,370,true,NaN,true,true
+1638,38322,Pseudothermotoga elfii,species,370,true,NaN,true,true
+464,9,Buchnera aphidicola,species,371,true,NaN,true,true
+573,380,Sinorhizobium fredii,species,372,true,NaN,true,true
+574,382,Sinorhizobium meliloti,species,372,true,NaN,true,true
+1394,110321,Sinorhizobium medicae,species,372,true,NaN,true,true
+823,1267,Clostridium ventriculi,species,373,true,NaN,true,true
+927,1488,Clostridium acetobutylicum,species,373,true,NaN,true,true
+929,1491,Clostridium botulinum,species,373,true,0.0,true,false
+930,1492,Clostridium butyricum,species,373,true,NaN,true,true
+933,1501,Clostridium pasteurianum,species,373,true,NaN,true,true
+934,1502,Clostridium perfringens,species,373,true,NaN,true,true
+936,1509,Clostridium sporogenes,species,373,true,NaN,true,true
+939,1513,Clostridium tetani,species,373,true,NaN,true,true
+943,1520,Clostridium beijerinckii,species,373,true,NaN,true,true
+944,1519,Clostridium tyrobutyricum,species,373,true,NaN,true,true
+949,1534,Clostridium kluyveri,species,373,true,NaN,true,true
+951,1542,Clostridium novyi,species,373,true,NaN,true,true
+953,1561,Clostridium baratii,species,373,true,NaN,true,true
+1119,84022,Clostridium aceticum,species,373,true,NaN,true,true
+1120,84023,Clostridium autoethanogenum,species,373,true,NaN,true,true
+1122,84025,Clostridium haemolyticum,species,373,true,NaN,true,true
+1418,36745,Clostridium saccharoperbutylacetonicum,species,373,true,NaN,true,true
+1441,217159,Clostridium carboxidivorans,species,373,true,NaN,true,true
+465,172042,Rothia aeria,species,374,true,NaN,true,true
+1104,2047,Rothia dentocariosa,species,374,true,NaN,true,true
+1204,43675,Rothia mucilaginosa,species,374,true,NaN,true,true
+1593,37923,Rothia kristinae,species,374,true,NaN,true,true
+1605,70799,Nodularia spumigena,species,375,true,NaN,true,true
+1851,146919,Salinibacter ruber,species,376,true,NaN,true,true
+808,33996,Gluconacetobacter diazotrophicus,species,377,true,NaN,true,true
+707,230143,Scardovia wiggsiae,species,378,true,NaN,true,true
+1473,78258,Parascardovia denticolens,species,379,true,NaN,true,true
+604,504,Kingella kingae,species,380,true,NaN,true,true
+1163,362787,Candidatus Protochlamydia amoebophila,species,381,true,NaN,true,true
+954,1565,Desulfotomaculum nigrificans,species,382,true,NaN,true,true
+1859,499229,Tepidanaerobacter acetatoxydans,species,383,true,NaN,true,true
+1782,326544,Paraglaciecola psychrophila,species,384,true,NaN,true,true
+1372,28197,Arcobacter butzleri,species,385,true,NaN,true,true
+1384,1355374,Arcobacter lanthieri,species,385,true,NaN,true,true
+562,147802,Lactobacillus iners,species,386,true,NaN,true,true
+797,33959,Lactobacillus johnsonii,species,386,true,NaN,true,true
+903,116089,Lactobacillus psittaci,species,386,true,NaN,true,true
+956,1579,Lactobacillus acidophilus,species,386,true,NaN,true,true
+961,1584,Lactobacillus delbrueckii,species,386,true,NaN,true,true
+962,1587,Lactobacillus helveticus,species,386,true,NaN,true,true
+969,1600,Lactobacillus acetotolerans,species,386,true,NaN,true,true
+971,1604,Lactobacillus amylovorus,species,386,true,NaN,true,true
+1041,83683,Lactobacillus amylolyticus,species,386,true,NaN,true,true
+1225,420645,Lactobacillus equicursoris,species,386,true,NaN,true,true
+1269,52242,Lactobacillus gallinarum,species,386,true,NaN,true,true
+1297,109790,Lactobacillus jensenii,species,386,true,NaN,true,true
+1417,872327,Lactobacillus pasteurii,species,386,true,NaN,true,true
+1609,431273,Lactobacillus senmaizukei,species,386,true,NaN,true,true
+1646,267818,Lactobacillus kefiranofaciens,species,386,true,NaN,true,true
+1715,96565,Lactobacillus hamsteri,species,386,true,NaN,true,true
+1745,227945,Lactobacillus ultunensis,species,386,true,NaN,true,true
+1753,47770,Lactobacillus crispatus,species,386,true,NaN,true,true
+1770,1203033,Lactobacillus hominis,species,386,true,NaN,true,true
+1779,1203069,Lactobacillus gigeriorum,species,386,true,NaN,true,true
+1879,57037,Lactobacillus zeae,species,386,true,NaN,true,true
+1886,237446,Lactobacillus kitasatonis,species,386,true,NaN,true,true
+1890,81857,Lactobacillus selangorensis,species,386,true,NaN,true,true
+474,1196083,Snodgrassella alvi,species,387,true,NaN,true,true
+1276,666685,Rhodanobacter denitrificans,species,388,true,NaN,true,true
+1726,416169,Rhodanobacter thiooxydans,species,388,true,NaN,true,true
+1215,35554,Geobacter sulfurreducens,species,389,true,NaN,true,true
+1377,28232,Geobacter metallireducens,species,389,true,NaN,true,true
+1464,307486,Tepidimonas taiwanensis,species,390,true,NaN,true,true
+948,1531,Enterocloster clostridioformis,species,391,true,NaN,true,true
+1381,208479,Enterocloster bolteae,species,391,true,NaN,true,true
+1718,358743,Enterocloster citroniae,species,391,true,NaN,true,true
+532,467210,Lachnoanaerobaculum saburreum,species,392,true,NaN,true,true
+1380,28251,Ornithobacterium rhinotracheale,species,394,true,NaN,true,true
+989,83552,Parachlamydia acanthamoebae,species,395,true,NaN,true,true
+1274,76853,Solibacillus silvestris,species,396,true,NaN,true,true
+1865,40545,Sutterella wadsworthensis,species,397,true,NaN,true,true
+995,1638,Listeria ivanovii,species,398,true,NaN,true,true
+997,1641,Listeria grayi,species,398,true,NaN,true,true
+998,1642,Listeria innocua,species,398,true,NaN,true,true
+999,1639,Listeria monocytogenes,species,398,true,NaN,true,true
+1000,1640,Listeria seeligeri,species,398,true,NaN,true,true
+1532,1069827,Listeria fleischmannii,species,398,true,NaN,true,true
+1739,1497681,Listeria newyorkensis,species,398,true,NaN,true,true
+1446,86166,Thermodesulfovibrio aggregans,species,399,true,NaN,true,true
+1001,198252,Candidatus Pelagibacter ubique,species,400,true,NaN,true,true
+920,386487,Candidatus Ruthia magnifica,species,401,true,NaN,true,true
+1002,1648,Erysipelothrix rhusiopathiae,species,402,true,NaN,true,true
+1196,461393,Actinomyces massiliensis,species,403,true,NaN,true,true
+1408,544580,Actinomyces oris,species,403,true,NaN,true,true
+1409,544581,Actinomyces johnsonii,species,403,true,NaN,true,true
+1612,103621,Actinomyces urogenitalis,species,403,true,NaN,true,true
+1712,55565,Actinomyces graevenitzii,species,403,true,NaN,true,true
+577,399,Neorhizobium galegae,species,404,true,NaN,true,true
+517,238,Elizabethkingia meningoseptica,species,405,true,NaN,true,true
+1339,1117645,Elizabethkingia anophelis,species,405,true,NaN,true,true
+694,728,Avibacterium paragallinarum,species,406,true,NaN,true,true
+565,762209,Bifidobacterium callitrichos,species,407,true,NaN,true,true
+567,762210,Bifidobacterium saguini,species,407,true,NaN,true,true
+568,762212,Bifidobacterium biavatii,species,407,true,NaN,true,true
+668,983706,Bifidobacterium reuteri,species,407,true,NaN,true,true
+736,246618,Bifidobacterium thermacidophilum,species,407,true,NaN,true,true
+787,33905,Bifidobacterium thermophilum,species,407,true,NaN,true,true
+1007,1680,Bifidobacterium adolescentis,species,407,true,NaN,true,true
+1008,1681,Bifidobacterium bifidum,species,407,true,NaN,true,true
+1009,1683,Bifidobacterium angulatum,species,407,true,NaN,true,true
+1010,1685,Bifidobacterium breve,species,407,true,NaN,true,true
+1011,1686,Bifidobacterium catenulatum,species,407,true,NaN,true,true
+1012,1687,Bifidobacterium coryneforme,species,407,true,NaN,true,true
+1013,1688,Bifidobacterium cuniculi,species,407,true,NaN,true,true
+1014,1689,Bifidobacterium dentium,species,407,true,NaN,true,true
+1015,1691,Bifidobacterium indicum,species,407,true,NaN,true,true
+1016,1692,Bifidobacterium magnum,species,407,true,NaN,true,true
+1017,1693,Bifidobacterium minimum,species,407,true,NaN,true,true
+1018,1694,Bifidobacterium pseudolongum,species,407,true,NaN,true,true
+1187,518643,Bifidobacterium mongoliense,species,407,true,NaN,true,true
+1242,35760,Bifidobacterium choerinum,species,407,true,NaN,true,true
+1277,158787,Bifidobacterium scardovii,species,407,true,NaN,true,true
+1311,28025,Bifidobacterium animalis,species,407,true,NaN,true,true
+1312,28026,Bifidobacterium pseudocatenulatum,species,407,true,NaN,true,true
+1393,216816,Bifidobacterium longum,species,407,true,NaN,true,true
+1407,77635,Bifidobacterium subtile,species,407,true,NaN,true,true
+1472,78257,Bifidobacterium saeculare,species,407,true,NaN,true,true
+1480,471511,Bifidobacterium bombi,species,407,true,NaN,true,true
+1481,356829,Bifidobacterium tsurumiense,species,407,true,NaN,true,true
+1486,78342,Bifidobacterium gallicum,species,407,true,NaN,true,true
+1487,78343,Bifidobacterium boum,species,407,true,NaN,true,true
+1488,78344,Bifidobacterium gallinarum,species,407,true,NaN,true,true
+1489,78345,Bifidobacterium merycicum,species,407,true,NaN,true,true
+1490,78346,Bifidobacterium ruminantium,species,407,true,NaN,true,true
+1591,218140,Bifidobacterium psychraerophilum,species,407,true,NaN,true,true
+1872,638617,Bifidobacterium bohemicum,species,407,true,NaN,true,true
+1873,638619,Bifidobacterium actinocoloniiforme,species,407,true,NaN,true,true
+1769,138072,Candidatus Hamiltonella defensa,species,408,true,NaN,true,true
+1771,138073,Candidatus Regiella insecticola,species,409,true,NaN,true,true
+782,33889,Brevibacterium casei,species,410,true,NaN,true,true
+1020,1703,Brevibacterium linens,species,410,true,NaN,true,true
+1309,314722,Pseudoxanthomonas suwonensis,species,411,true,NaN,true,true
+1500,266854,Granulicoccus phenolivorans,species,412,true,NaN,true,true
+1022,1717,Corynebacterium diphtheriae,species,413,true,NaN,true,true
+1023,1718,Corynebacterium glutamicum,species,413,true,NaN,true,true
+1025,1719,Corynebacterium pseudotuberculosis,species,413,true,NaN,true,true
+1026,1721,Corynebacterium callunae,species,413,true,NaN,true,true
+1028,1725,Corynebacterium xerosis,species,413,true,NaN,true,true
+1073,42817,Corynebacterium argentoratense,species,413,true,NaN,true,true
+1219,43768,Corynebacterium matruchotii,species,413,true,NaN,true,true
+1220,43771,Corynebacterium urealyticum,species,413,true,NaN,true,true
+1230,1223514,Corynebacterium humireducens,species,413,true,NaN,true,true
+1241,35756,Corynebacterium pilosum,species,413,true,NaN,true,true
+1437,225326,Corynebacterium halotolerans,species,413,true,NaN,true,true
+1505,160386,Corynebacterium casei,species,413,true,NaN,true,true
+1508,29321,Corynebacterium otitidis,species,413,true,NaN,true,true
+1534,37637,Corynebacterium pseudodiphtheriticum,species,413,true,NaN,true,true
+1615,152794,Corynebacterium efficiens,species,413,true,NaN,true,true
+1622,169292,Corynebacterium aurimucosum,species,413,true,0.75,true,true
+1627,38284,Corynebacterium accolens,species,413,true,NaN,true,true
+1628,38289,Corynebacterium jeikeium,species,413,true,NaN,true,true
+1632,38301,Corynebacterium minutissimum,species,413,true,NaN,true,true
+1633,38305,Corynebacterium vitaeruminis,species,413,true,NaN,true,true
+1693,161879,Corynebacterium kroppenstedtii,species,413,true,NaN,true,true
+1698,161896,Corynebacterium camporealensis,species,413,true,NaN,true,true
+1776,39791,Corynebacterium glucuronolyticum,species,413,true,NaN,true,true
+1808,1121358,Corynebacterium doosanense,species,413,true,NaN,true,true
+1844,146827,Corynebacterium simulans,species,413,true,NaN,true,true
+1860,65058,Corynebacterium ulcerans,species,413,true,NaN,true,true
+1050,911092,Caldanaerobacter subterraneus,species,414,true,NaN,true,true
+670,668,Aliivibrio fischeri,species,415,true,NaN,true,true
+1793,80852,Aliivibrio wodanis,species,415,true,NaN,true,true
+1891,221126,Algibacter lectus,species,416,true,NaN,true,true
+1032,83655,Leclercia adecarboxylata,species,417,true,NaN,true,true
+1034,1741,Thermodesulfobacterium commune,species,418,true,NaN,true,true
+1035,1744,Propionibacterium freudenreichii,species,419,true,NaN,true,true
+1849,556499,Propionibacterium acidifaciens,species,419,true,NaN,true,true
+1039,1757,Thermoanaerobacter ethanolicus,species,420,true,NaN,true,true
+1512,29350,Thermoanaerobacter thermocopriae,species,420,true,NaN,true,true
+1095,2021,Thermobifida fusca,species,421,true,NaN,true,true
+980,222805,Mycobacterium chimaera,species,422,true,NaN,true,true
+1042,1764,Mycobacterium avium,species,422,true,NaN,true,true
+1044,1767,Mycobacterium intracellulare,species,422,true,NaN,true,true
+1045,1768,Mycobacterium kansasii,species,422,true,NaN,true,true
+1046,1769,Mycobacterium leprae,species,422,true,NaN,true,true
+1049,1773,Mycobacterium tuberculosis,species,422,true,NaN,true,true
+1051,1781,Mycobacterium marinum,species,422,true,NaN,true,true
+1052,1784,Mycobacterium simiae,species,422,true,NaN,true,true
+1443,487514,Mycobacterium kyorinense,species,422,true,NaN,true,true
+1482,78331,Mycobacterium canettii,species,422,true,NaN,true,true
+1504,29311,Mycobacterium haemophilum,species,422,true,NaN,true,true
+1607,480418,Mycobacterium lepromatosis,species,422,true,NaN,true,true
+1738,244292,Mycobacterium nebraskense,species,422,true,NaN,true,true
+813,91359,Enterovibrio calviensis,species,423,true,NaN,true,true
+1882,188144,Enterovibrio norvegicus,species,423,true,NaN,true,true
+536,33038,[Ruminococcus] gnavus,species,424,true,NaN,true,true
+1606,46228,[Ruminococcus] lactaris,species,424,true,NaN,true,true
+1147,1501329,Oribacterium parvum,species,425,true,NaN,true,true
+696,312026,Paraburkholderia mimosarum,species,426,true,NaN,true,true
+824,984307,Paraburkholderia kururiensis,species,426,true,NaN,true,true
+891,75105,Paraburkholderia caribensis,species,426,true,NaN,true,true
+1320,134537,Paraburkholderia fungorum,species,426,true,NaN,true,true
+1430,36873,Paraburkholderia xenovorans,species,426,true,NaN,true,true
+1806,252970,Paraburkholderia phenoliruptrix,species,426,true,NaN,true,true
+864,591154,Methylacidiphilum fumariolicum,species,427,true,NaN,true,true
+1294,1297617,Intestinimonas butyriciproducens,species,428,true,NaN,true,true
+788,33910,Amycolatopsis mediterranei,species,429,true,NaN,true,true
+1060,1814,Amycolatopsis methanolica,species,429,true,NaN,true,true
+1376,208444,Amycolatopsis vancoresmycina,species,429,true,NaN,true,true
+1647,546365,Amycolatopsis regifaucium,species,429,true,NaN,true,true
+699,426716,Nocardia rhamnosiphila,species,430,true,NaN,true,true
+1063,1823,Nocardia otitidiscaviarum,species,430,true,NaN,true,true
+1235,1141647,Nocardia arizonensis,species,430,true,NaN,true,true
+1237,1141657,Nocardia vulneris,species,430,true,NaN,true,true
+1477,37328,Nocardia carnea,species,430,true,NaN,true,true
+1478,37329,Nocardia farcinica,species,430,true,NaN,true,true
+1479,37332,Nocardia seriolae,species,430,true,NaN,true,true
+1645,382504,Nocardia jinanensis,species,430,true,NaN,true,true
+1064,1828,Rhodococcus fascians,species,431,true,NaN,true,true
+1066,1830,Rhodococcus ruber,species,431,true,NaN,true,true
+1067,1833,Rhodococcus erythropolis,species,431,true,NaN,true,true
+1218,43767,Rhodococcus hoagii,species,431,true,NaN,true,true
+1626,103816,Rhodococcus pyridinivorans,species,431,true,NaN,true,true
+1757,334542,Rhodococcus qingshengii,species,431,true,NaN,true,true
+527,258,Sphingobacterium spiritivorum,species,432,true,NaN,true,true
+1724,47500,Aneurinibacillus migulanus,species,433,true,NaN,true,true
+793,33942,Brevibacillus thermoruber,species,434,true,NaN,true,true
+898,1393,Brevibacillus brevis,species,434,true,NaN,true,true
+922,1465,Brevibacillus laterosporus,species,434,true,NaN,true,true
+1092,51101,Brevibacillus agri,species,434,true,NaN,true,true
+1467,45462,Brevibacillus borstelensis,species,434,true,NaN,true,true
+1068,1836,Saccharopolyspora erythraea,species,435,true,NaN,true,true
+1322,28042,Saccharopolyspora rectivirgula,species,435,true,NaN,true,true
+1436,225324,Enhydrobacter aerosaccus,species,436,true,NaN,true,true
+586,1163710,Cronobacter condimenti,species,437,true,NaN,true,true
+1289,535744,Cronobacter universalis,species,437,true,NaN,true,true
+1360,28141,Cronobacter sakazakii,species,437,true,NaN,true,true
+1403,413497,Cronobacter dublinensis,species,437,true,NaN,true,true
+1404,413501,Cronobacter muytjensii,species,437,true,NaN,true,true
+1405,413502,Cronobacter turicensis,species,437,true,0.6,true,true
+1406,413503,Cronobacter malonaticus,species,437,true,NaN,true,true
+468,40988,Saccharomonospora azurea,species,438,true,NaN,true,true
+1072,1852,Saccharomonospora viridis,species,438,true,NaN,true,true
+1286,76947,Sphingobium herbicidovorans,species,439,true,NaN,true,true
+1570,1332080,Sphingobium baderi,species,439,true,NaN,true,true
+1623,46429,Sphingobium chlorophenolicum,species,439,true,NaN,true,true
+1625,13690,Sphingobium yanoikuyae,species,439,true,NaN,true,true
+1740,121428,Sphingobium xenophagum,species,439,true,NaN,true,true
+767,205844,Novosphingobium pentaromativorans,species,440,true,NaN,true,true
+1021,378548,Novosphingobium nitrogenifigens,species,440,true,NaN,true,true
+1883,48936,Novosphingobium subterraneum,species,440,true,NaN,true,true
+543,33050,Sphingopyxis macrogoltabida,species,441,true,NaN,true,true
+544,33052,Sphingopyxis terrae,species,441,true,NaN,true,true
+754,979,Cellulophaga lytica,species,442,true,NaN,true,true
+1228,76594,Cellulophaga baltica,species,442,true,NaN,true,true
+786,33903,Streptomyces avermitilis,species,443,true,NaN,true,true
+827,42234,Streptomyces acidiscabies,species,443,true,NaN,true,true
+831,42235,Streptomyces bottropensis,species,443,true,NaN,true,true
+870,66874,Streptomyces bicolor,species,443,true,NaN,true,true
+918,83378,Streptomyces ruber,species,443,true,NaN,true,true
+1033,67275,Streptomyces aureocirculatus,species,443,true,NaN,true,true
+1040,67294,Streptomyces filamentosus,species,443,true,NaN,true,true
+1061,67351,Streptomyces californicus,species,443,true,NaN,true,true
+1062,67356,Streptomyces resistomycificus,species,443,true,NaN,true,true
+1069,67373,Streptomyces varsoviensis,species,443,true,NaN,true,true
+1071,67385,Streptomyces xanthophaeus,species,443,true,NaN,true,true
+1076,1888,Streptomyces albus,species,443,true,NaN,true,true
+1077,1889,Streptomyces ambofaciens,species,443,true,NaN,true,true
+1078,1892,Streptomyces anulatus,species,443,true,NaN,true,true
+1080,1896,Streptomyces bikiniensis,species,443,true,NaN,true,true
+1081,1901,Streptomyces clavuligerus,species,443,true,NaN,true,true
+1083,1905,Streptomyces exfoliatus,species,443,true,NaN,true,true
+1084,1906,Streptomyces fradiae,species,443,true,NaN,true,true
+1085,1911,Streptomyces griseus,species,443,true,NaN,true,true
+1086,1912,Streptomyces hygroscopicus,species,443,true,NaN,true,true
+1087,1916,Streptomyces lividans,species,443,true,NaN,true,true
+1088,1927,Streptomyces rimosus,species,443,true,NaN,true,true
+1089,1930,Streptomyces scabiei,species,443,true,NaN,true,true
+1090,1938,Streptomyces viridochromogenes,species,443,true,NaN,true,true
+1091,1943,Streptomyces griseoruber,species,443,true,NaN,true,true
+1203,68242,Streptomyces natalensis,species,443,true,NaN,true,true
+1206,68260,Streptomyces pyridomyceticus,species,443,true,NaN,true,true
+1244,76728,Streptomyces vitaminophilus,species,443,true,NaN,true,true
+1254,68570,Streptomyces albulus,species,443,true,NaN,true,true
+1299,1355015,Streptomyces pluripotens,species,443,true,NaN,true,true
+1375,85558,Streptomyces turgidiscabies,species,443,true,NaN,true,true
+1392,249567,Streptomyces decoyicus,species,443,true,NaN,true,true
+1397,1437453,Streptomyces leeuwenhoekii,species,443,true,NaN,true,true
+1502,29303,Streptomyces cattleya,species,443,true,NaN,true,true
+1621,54571,Streptomyces venezuelae,species,443,true,NaN,true,true
+1631,38300,Streptomyces pristinaespiralis,species,443,true,NaN,true,true
+1760,359131,Streptomyces rubellomurinus,species,443,true,NaN,true,true
+1841,146819,Streptomyces europaeiscabiei,species,443,true,NaN,true,true
+1843,146820,Streptomyces stelliscabiei,species,443,true,NaN,true,true
+716,784,Orientia tsutsugamushi,species,444,true,NaN,true,true
+705,750,Gallibacterium anatis,species,445,true,NaN,true,true
+1415,364410,Granulibacter bethesdensis,species,446,true,NaN,true,true
+697,731,Histophilus somni,species,447,true,NaN,true,true
+1416,36740,Dermabacter hominis,species,448,true,NaN,true,true
+1263,35825,Pseudobacteroides cellulosolvens,species,449,true,NaN,true,true
+775,1079,Blastochloris viridis,species,450,true,NaN,true,true
+528,33029,Anaerococcus hydrogenalis,species,451,true,NaN,true,true
+530,33032,Anaerococcus lactolyticus,species,451,true,NaN,true,true
+534,33036,Anaerococcus tetradius,species,451,true,NaN,true,true
+633,1638982,Demequina maris,species,452,true,NaN,true,true
+637,1638985,Demequina rhizosphaerae,species,452,true,NaN,true,true
+1093,2001,Streptosporangium roseum,species,453,true,NaN,true,true
+1894,65497,Actinoalloteichus cyanogriseus,species,454,true,NaN,true,true
+1094,2014,Nocardiopsis dassonvillei,species,455,true,NaN,true,true
+1453,53437,Nocardiopsis alba,species,455,true,NaN,true,true
+1097,2035,Curtobacterium flaccumfaciens,species,456,true,NaN,true,true
+1783,465820,Curtobacterium oceanosedimentum,species,456,true,NaN,true,true
+1686,71667,Waddlia chondrophila,species,457,true,NaN,true,true
+502,49338,Desulfitobacterium hafniense,species,458,true,NaN,true,true
+1099,2039,Tropheryma whipplei,species,459,true,NaN,true,true
+1428,61435,Dehalococcoides mccartyi,species,460,true,NaN,true,true
+1103,182270,Aurantimonas coralicida,species,461,true,NaN,true,true
+1421,651183,Aurantimonas manganoxydans,species,461,true,NaN,true,true
+1200,43657,Pseudoalteromonas luteoviolacea,species,462,true,NaN,true,true
+1202,43662,Pseudoalteromonas piscicida,species,462,true,NaN,true,true
+1374,151081,Pseudoalteromonas ruthenica,species,462,true,NaN,true,true
+1787,187330,Pseudoalteromonas porphyrae,species,462,true,NaN,true,true
+1901,,Prochlorococcus marinus subgroup 1,,803,false,NaN,false,true
+1902,,Prochlorococcus marinus subgroup 2,,803,false,NaN,false,true
+1903,,Prochlorococcus marinus subgroup 3,,803,false,NaN,false,true
+1904,,Prochlorococcus marinus subgroup 4,,803,false,NaN,false,true
+1905,,Clostridium botulinum subgroup 1,,929,false,NaN,false,true
+1906,,Clostridium botulinum subgroup 2,,929,false,NaN,false,true
+1907,,Clostridium botulinum subgroup 3,,929,false,NaN,false,true
+1908,,Bacillus cereus subgroup 1,,899,false,NaN,false,true
+1909,,Bacillus cereus subgroup 2,,899,false,NaN,false,true
+1910,,Bacillus cereus subgroup 3,,899,false,NaN,false,true
+1911,,Bacillus cereus subgroup 4,,899,false,NaN,false,true
