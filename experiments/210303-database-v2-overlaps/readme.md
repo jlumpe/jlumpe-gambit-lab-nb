@@ -1,4 +1,4 @@
-# 120303 Database v1.2 overlaps
+# 210303 Database v1.2 overlaps
 
 
 TODO purpose
@@ -7,14 +7,14 @@ TODO purpose
 
 ## Notebooks
 
-### 120303-format-data
+### 210303-format-data
 
 Reads relevant data for this experiment from different sources, performs some pre-processing, and saves them to CSV and JSON files for easy use from Julia. Genome and taxonomy info for v1.1 and v1.2 databases are exported to CSV files. Information about assignment of genomes from v1.1 species to v1.2 species during v1.2 -> v1.2 migration is exported in its own file and also used to annotate species tables. Also reads v1.1 overlap components from hdf5 file from `200727-find-overlaps` experiment and outputs in simpler JSON format.
 
 Outputs reference v1.1 and v1.2 species by index, this corresponds to their ordering in the two exported tables. All indices start from 1 for use with Julia.
 
 
-### 120317-find-identical-genomes
+### 210317-find-identical-genomes
 
 This notebook identifies groups of identical genomes (zero Jaccard distance) and chooses one to keep from each group and marks the rest for deletion. Also identifies species which need to be removed entirely because they will have only one genome left.
 This isn't technically overlap removal but wanted to do it first before doing a deep dive into species-level distance matrices.
@@ -26,7 +26,7 @@ This isn't technically overlap removal but wanted to do it first before doing a 
 22 species will be left with one genome and will need to be removed. All had only 2 or 3 genomes.
 
 
-### 120323-find-species-overlaps
+### 210323-find-species-overlaps
 
 Finds all overlaps between species in v1.2 database.
 
@@ -43,7 +43,7 @@ intra" scores, causing an extreme number of overlaps. Removing these outliers sh
 number of outgoing overlaps to drop significantly for these species.
 
 
-### 120327-fix-problem-species
+### 210327-fix-problem-species
 
 Attempt to fix species causing a large number of overlaps in previous experiment. Decicded to focus on species with overlaps to species from other genera. After fixing these some "problematic" species may remain, but should still be able to group all overlapping species into separate components.
 
@@ -52,16 +52,16 @@ Attempt to fix species causing a large number of overlaps in previous experiment
 Identified 8 species with outgoing overlaps to other genera. Fixed using a combination of deleting outliers, manually lowering thresholds, and splitting into subgroups.
 
 
-### 120328-compile-edits
+### 210328-compile-edits
 
-Merges genome removals from `120317-find-identical-genomes` and other edits in `120327-fix-problem-species` into genus/species lists from `210303-format-data`. Also removes species with less than 2 genomes remaining after removals. Outputs unified list of taxa and genome assignments.
+Merges genome removals from `210317-find-identical-genomes` and other edits in `210327-fix-problem-species` into genus/species lists from `210303-format-data`. Also removes species with less than 2 genomes remaining after removals. Outputs unified list of taxa and genome assignments.
 
 
 ## Output
 
 
 * Intermediate
-  * `120303-format-data`
+  * `210303-format-data`
     * `genomes-v1.1.csv`: All genomes in v1.1 database (superset of all genomes in 1.2 databawe), annotated with species indices for both v1.1 and v1.2 databases. Order of genomes in table corresponds to row/columns of pairwise distance matrix caluclated in 200xx. v1.2 index of 0 means that genome was removed.
     * `species-v1.1.csv`: Summary of all species in v1.1 database. Other files which reference a 1.1 species by index use the order in this table.
       * `migration_dst_idxs1`: Indices of all v1.2 species this species' genomes were assigned to.
@@ -77,11 +77,11 @@ Merges genome removals from `120317-find-identical-genomes` and other edits in `
     * `genera-v1.2.csv`: Summary of all genera in v1.2 database.
     * `migration-genome-reassignment-counts.csv`: counts of v1.1 genomes grouped by source (v1.1) and destination (v1.2) migration species index. A destination index of 0 means the genomes were deleted.
     * `overlap-components-v1.1.json`: (NOTE 210312: these are invalid due to a mistake in the referenced experiment). List of v1.1 species indices for each overlap component found in `200727-find-overlaps`. Components appear in same order as they are numbered in the reports from that experiment.
-  * `120317-find-identical-genomes/`
+  * `210317-find-identical-genomes/`
     * `identical-genome-groups.json`: Groups of identical genomes and their exemplars, as genome indices starting from one.
-  * `120323-find-species-overlaps/`
-    * `genomes-addendum.csv`: Extra columns to add to `120303-format-data/genomes-v1.1.csv`.
-    * `species-addendum.csv`: Extra columns to add to `120303-format-data/species-v1.2.csv`.
+  * `210323-find-species-overlaps/`
+    * `genomes-addendum.csv`: Extra columns to add to `210303-format-data/genomes-v1.1.csv`.
+    * `species-addendum.csv`: Extra columns to add to `210303-format-data/species-v1.2.csv`.
     * `species-overlaps.csv`: List of all species overlaps as directed `src => dst` pairs.
   * `210327-fix-problem-species/`
     * `problem-species.json`: Data on all "problem species", including all outgoing genus-genus overlaps.
@@ -92,12 +92,12 @@ Merges genome removals from `120317-find-identical-genomes` and other edits in `
       * `manual_threshold`: Manually set thresholds for certain taxa, others are NaN.
       * `is_leaf`: if taxon has no children.
     * `deleted-taxa-db-ids.json`: Database IDs of deleted taxa from v1.2.
-    * `genome-taxon-assignments.json`: ID of taxon assigned to each genome. Removed genomes are zero. Simple integer array, order corresponds to `../120303-format-data/genomes-v1.1.csv`.
+    * `genome-taxon-assignments.json`: ID of taxon assigned to each genome. Removed genomes are zero. Simple integer array, order corresponds to `../210303-format-data/genomes-v1.1.csv`.
 
 * Processed
-  * `120317-find-identical-genomes/`
-    * `120317-identical-genome-groups.csv`: Info on identical genome groups, one group per line.
-    * `120317-identical-genome-groups-by-species.csv`: Per-species summaries of identical genome groups.
+  * `210317-find-identical-genomes/`
+    * `210317-identical-genome-groups.csv`: Info on identical genome groups, one group per line.
+    * `210317-identical-genome-groups-by-species.csv`: Per-species summaries of identical genome groups.
       * `sp_needs_remove`: If this species needs to be removed entirely because there will be only one genome left.
 
 * Reports
