@@ -57,6 +57,15 @@ Identified 8 species with outgoing overlaps to other genera. Fixed using a combi
 Merges genome removals from `210317-find-identical-genomes` and other edits in `210327-fix-problem-species` into genus/species lists from `210303-format-data`. Also removes species with less than 2 genomes remaining after removals. Outputs unified list of taxa and genome assignments.
 
 
+### 210328-find-species-overlaps-2
+
+2nd attempt to split overlapping species/subspecies into connected components, following database edits in `210328-compile-edits`.
+
+#### Results
+
+Was able to split all overlapping species into 34 components. The largest two components contain 20+ taxa, most contain <= 5.
+
+
 ## Output
 
 
@@ -93,6 +102,8 @@ Merges genome removals from `210317-find-identical-genomes` and other edits in `
       * `is_leaf`: if taxon has no children.
     * `deleted-taxa-db-ids.json`: Database IDs of deleted taxa from v1.2.
     * `genome-taxon-assignments.json`: ID of taxon assigned to each genome. Removed genomes are zero. Simple integer array, order corresponds to `../210303-format-data/genomes-v1.1.csv`.
+  * `210328-find-species-overlaps-2/`
+    * `components.json`: Description of overlap components. Array of object, each lists IDs of involved taxa and edges in overlap graph.
 
 * Processed
   * `210317-find-identical-genomes/`
