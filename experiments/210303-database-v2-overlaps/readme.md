@@ -1,8 +1,16 @@
 # 210303 Database v1.2 overlaps
 
 
-TODO purpose
+The purpose of this experiment is to find and possibly fix all remaining species-species overlaps in the v1.2 database. Overlaps for the v1.1 database were previously found in the "200727 Find Overlaps"experiment. v1.2 is the migration of v1.1 to version 2 of the software/database schema, so I had expected that the overlaps would not change significantly between these two versions, however I later realized that I had made a mistake in that experiment and missed many of the overlaps.
 
+Ended up fixing some problematic species that were preventing decomosition of overlap graph into separate components, and also removing redundancies in groups of identical (zero Jaccard distance) genomes. Found all species-species overlaps after these edits had been applied. Decided to create new experiment for removal of these overlaps.
+
+## Overview
+
+Initial list of overlaps found in `210323-find-species-overlaps` did not allow for separation into isolated species components, due to the presence of several "problem species" with very overlaps to very large numbers of other species.
+These issues were corrected in `210327-fix-problem-species`.
+Those edits along with removal of identical genomes from `20317-find-identical-genomes` were merged to define an updated database in `210328-compile-edits`.
+With the updates applied, a second search for overlaps in `210328-find-species-overlaps-2` was able to decompose all overlaps into 34 connected components.
 
 
 ## Notebooks
