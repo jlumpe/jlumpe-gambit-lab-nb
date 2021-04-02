@@ -1,0 +1,19 @@
+name = "OverlapAnalysis"
+uuid = "f4957492-94e1-4ddd-992d-2c04f2767020"
+authors = ["Jared Lumpe <mjlumpe@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+ClusterAnalysis = "954a0975-8d50-418a-935e-8abc685ed663"
+Clustering = "aaaa29a8-35af-508c-8bc3-b662a17a0fe5"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+FilePathsBase = "48062228-2e41-5def-b9a4-89aafe57970f"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+LightGraphs = "093fc24a-ae57-5d10-9952-331d41423f4d"
+Midas = "2b44d41b-7b94-4859-a521-e4f6ea90704c"
+MidasPlots = "1fa0408f-a5e1-472d-a139-57e7ff88ecf0"
+Mmap = "a63ad114-7e13-5084-954f-fe012c677804"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+TriMatrices = "b3602c2d-56d5-44ed-b655-6a675d529c52"
