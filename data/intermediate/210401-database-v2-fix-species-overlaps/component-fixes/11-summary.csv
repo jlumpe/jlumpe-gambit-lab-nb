@@ -1,0 +1,4 @@
+index,name,ngenomes,initial_diameter,taxon_removed,removed_genomes,split,manual_threshold,final_diameter
+1,crassostreae,14,0.8357247,false,0,,0.6,0.8357
+2,splendidus,16,0.8672919,false,4,,,0.6895
+4,tasmaniensis,5,0.8725412,false,0,,0.7,0.8725

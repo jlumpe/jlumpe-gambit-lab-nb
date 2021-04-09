@@ -1,0 +1,4 @@
+index,name,ngenomes,initial_diameter,taxon_removed,removed_genomes,split,manual_threshold,final_diameter
+8,californicus,5,0.316231,false,0,,0.2,0.3162
+12,albus,6,0.956074,false,0,,0.6,0.9561
+19,hygroscopicus,6,0.96020085,false,0,,0.6,0.9602

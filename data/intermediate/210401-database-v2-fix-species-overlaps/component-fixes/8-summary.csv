@@ -1,0 +1,3 @@
+index,name,ngenomes,initial_diameter,taxon_removed,removed_genomes,split,manual_threshold,final_diameter
+2,lactamica,6,0.95812166,false,2,,,0.4901
+3,meningitidis,721,0.956854,false,7,,,0.5689
