@@ -1,0 +1,3 @@
+index,name,ngenomes,initial_diameter,taxon_removed,removed_genomes,split,manual_threshold,final_diameter
+1,pestis,265,0.1914977,false,2,,,0.1441
+2,pseudotuberculosis,38,0.28818804,false,0,,0.17,0.2882

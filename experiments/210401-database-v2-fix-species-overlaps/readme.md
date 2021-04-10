@@ -96,39 +96,44 @@ TODO
 
 ### 21
 
-TODO
+Removed 2 outliers from pestis, lowering diameter from .19 to .14. Lowered threshold of
+pseudotuberculosis slightly.
 
 ### 22
 
-TODO
+Remove single outlier from alginolyticus (looks like it should be diabolicus).
 
 ### 23
 
-TODO
+Lower threshold on nucleatum somewhat.
 
 ### 24
 
-TODO
+Split amyloliquefaciens 10/10. One subgroup was clear outlier to other subgroup + velezensis.
+Velezensis still overlaps with this other subgroup but had no obvious outliers, just lowered
+threshold a bit.
 
 ### 25
 
-TODO
+Removed two outliers from salivarius, reducing diameter from .89 to .73.
 
 ### 26
 
-TODO
+Remove single outlier from licheniformis, reducing diameter from .65 to .18.
 
 ### 27
 
-TODO
+Safensis nested inside pumilus. Split pumilus into two subgroups, removed two outliers.
 
 ### 28
 
-TODO
+Fusiformis seems like it is composed of two pretty unrelated subgroups of 2 and 3 genomes. Since
+neither is an obvious outlier just lowered threshold.
 
 ### 29
 
-TODO
+Removed 5 sporogenes and 4 botulinum subgroup 1 genomes that were seemingly misclassified and should
+have been part of the other group. This is a large fraction of sporogenes to remove but doesn't seem avoidable.
 
 ### 30
 
@@ -136,19 +141,20 @@ TODO
 
 ### 31
 
-TODO
+Removed two outliers from psittaci.
 
 ### 32
 
-TODO
+Lowered threshold of canettii.
 
 ### 33
 
-TODO
+Lowered threshold of pnomenusa.
+
 
 ### 34
 
-TODO
+Lowered threshold of pnomenusa crocidurae.
 
 
 ## Additional notebooks

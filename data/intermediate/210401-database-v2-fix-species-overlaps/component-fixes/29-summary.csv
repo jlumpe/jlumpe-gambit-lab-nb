@@ -1,0 +1,3 @@
+index,name,ngenomes,initial_diameter,taxon_removed,removed_genomes,split,manual_threshold,final_diameter
+1,sporogenes,13,0.8431074,false,5,,,0.2444
+2,botulinum subgroup 1,80,0.8202826,false,4,,,0.6495
