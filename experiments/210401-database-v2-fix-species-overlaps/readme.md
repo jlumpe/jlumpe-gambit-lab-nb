@@ -13,15 +13,21 @@ That experiment applied some minor edits to v1.2 and then located all remaining 
 
 Most overlaps caused by hygroscopicus and griseus, both have two subclusters of 3 genomes with
 larger separation between them. Set manual threshold of 0.6 for both, about halfway between subgroup
-diameter in min inter. Similar situation for californicus, set threshold to 0.2
+diameter in min inter. Similar situation for californicus, set threshold to 0.2.
 
 ### 2
 
-TODO
+Reduced thresholds: fluorescens .98 -> .8, parafulva .94 -> .6, alcaligenes .96 -> .8.
+Split syringae 51/33/19/7 (4 removed), amygdali 8/8/11 (2 removed), savastanoi 9/15, putida 18/4/6.
+Needed to further reduce threshold on syringae subgroup 4 and amygdali subgroup 2.
+Removed species "denitrificans (nom. rej.)" (9 genomes), could not separate from aeruginosa and
+according to NCBI this probably isn't a real species anyway.
 
 ### 3
 
-TODO
+Removed 2/16 outliers from multivorans (diameter .91 -> .62), 2/20 from cenocepacia (.81 -> .74).
+Fixing cepacia overlap with lata was difficult, needed to remove 14/64 genomes (diameter .69 -> .50)
+and further reduce threshold to .35.
 
 ### 4
 
@@ -34,7 +40,9 @@ TODO
 
 ### 6
 
-TODO
+Split suis 25/10 with 5 genomes removed, two comparatively very tight with large separation.
+Removed one outlier from pinnipedialis (diameter .054 -> .030). Lowered threshold on ceti from
+diameter of .06 to .02.
 
 ### 7
 
@@ -47,7 +55,9 @@ Removed 7 outlier genomes from meningitidis and 2 from lactamica (all seemingly 
 
 ### 9
 
-TODO
+Removed 6/563 outliers from S. sonnei, diameter .37 -> .29.
+Split S. boydii 8/5, S. dysenteriae 3/3, E. coli 1487/2204/508 (5 removed).
+Lowered thresholds on E. coli subgroups: subgroup 1 .66 -> .4, subgroup 2 .55 -> .35, subgroup 3 .50 -> .35.
 
 ### 10
 
@@ -72,7 +82,9 @@ overlaps mallei, with no obvious outliers. Set threshold slightly lower.
 
 ### 15
 
-TODO
+Remove 6/6825 outliers from pneumoniae, diameter .77 -> .59.
+Split pseudopneumoniae 6/5.
+Reduce thresholds on mits .76 -> .5, pseudopneumoniae subgroup 2 .67 -> .5.
 
 ### 16
 
@@ -154,7 +166,7 @@ Lowered threshold of pnomenusa.
 
 ### 34
 
-Lowered threshold of pnomenusa crocidurae.
+Lowered threshold of crocidurae.
 
 
 ## Additional notebooks

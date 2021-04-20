@@ -1,0 +1,8 @@
+index,name,ngenomes,initial_diameter,taxon_removed,removed_genomes,split,manual_threshold,final_diameter
+2,fluorescens,38,0.976624,false,0,,0.8,0.9766
+5,putida,28,0.88675135,false,0,"18, 4, 6",,"0.7105, 0.5615, 0.7793"
+6,syringae,114,0.9157518,false,4,"51, 19, 33, 7",,"0.4567, 0.3568, 0.7149, 0.3883"
+8,parafulva,4,0.9419477,false,0,,0.6,0.9419
+9,alcaligenes,4,0.9618239,false,0,,0.8,0.9618
+18,savastanoi,24,0.48988616,false,0,"9, 15",,"0.1716, 0.2872"
+26,amygdali,29,0.52244425,false,2,"8, 8, 11",,"0.4104, 0.3309, 0.2418"

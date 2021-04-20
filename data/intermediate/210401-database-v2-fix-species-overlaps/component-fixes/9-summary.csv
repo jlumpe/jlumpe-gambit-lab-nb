@@ -1,0 +1,5 @@
+index,name,ngenomes,initial_diameter,taxon_removed,removed_genomes,split,manual_threshold,final_diameter
+1,E. coli,4204,0.718016,false,5,"1487, 2204, 508",,"0.6576, 0.5529, 0.4988"
+2,S. boydii,13,0.29693276,false,0,"8, 5",,"0.1589, 0.1041"
+3,S. dysenteriae,6,0.56022036,false,0,"3, 3",,"0.0652, 0.1487"
+5,S. sonnei,563,0.37325796,false,6,,,0.2581

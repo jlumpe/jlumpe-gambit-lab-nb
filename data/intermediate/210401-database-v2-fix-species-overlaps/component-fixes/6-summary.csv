@@ -1,0 +1,4 @@
+index,name,ngenomes,initial_diameter,taxon_removed,removed_genomes,split,manual_threshold,final_diameter
+5,suis,40,0.071353205,false,5,"10, 25",,"0.0052, 0.0142"
+6,pinnipedialis,5,0.054093182,false,1,,,0.0304
+7,ceti,5,0.061127283,false,0,,0.02,0.0611

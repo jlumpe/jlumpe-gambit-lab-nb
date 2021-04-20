@@ -1,0 +1,4 @@
+index,name,ngenomes,initial_diameter,taxon_removed,removed_genomes,split,manual_threshold,final_diameter
+1,pneumoniae,6815,0.7732923,false,6,,,0.5860
+2,mitis,4,0.7622087,false,0,,0.5,0.7622
+3,pseudopneumoniae,11,0.84656423,false,0,"6, 5",,"0.4875, 0.6667"
