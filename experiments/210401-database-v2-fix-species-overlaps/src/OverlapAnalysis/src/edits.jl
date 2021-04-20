@@ -1,4 +1,4 @@
-export DatabaseEdits, remove_subtrees!, keep_subtrees!, split_taxon!, set_threshold!,
+export DatabaseEdits, remove_subtrees!, keep_subtrees!, split_taxon!, set_threshold!, remove_taxon!,
 	apply_edits, summarize_edits, assert_edits_successful, check_edit_progress
 
 
@@ -89,6 +89,12 @@ function set_threshold!(edits::DatabaseEdits, taxon, thresh)
 end
 
 
+function remove_taxon!(edits::DatabaseEdits, taxon)
+	push!(edits.removed_taxa, taxon_index(edits.cd, taxon))
+	nothing
+end
+
+
 """
 Reset edits instance.
 """
@@ -113,8 +119,8 @@ function validate_edits(edits::DatabaseEdits)
 	@assert issubset(keys(edits.split_taxa), tidxs)
 
 	# Split taxa and manual threshold edits don't overlap with removed taxa
-	@assert isdisjoint(edits.removed_taxa, edits.manual_thresholds)
-	@assert isdisjoint(edits.removed_taxa, edits.split_taxa)
+	@assert isdisjoint(edits.removed_taxa, keys(edits.manual_thresholds))
+	@assert isdisjoint(edits.removed_taxa, keys(edits.split_taxa))
 
 	# Each subgroup in splits has >= 2 genomes
 	for (parentidx, subgroup_gidxs) in edits.split_taxa
@@ -196,6 +202,7 @@ function apply_edits(edits::DatabaseEdits)
 	taxa_out = empty(cd.taxa)
 	gidxs_out = Vector{Int}[]
 	parent_taxa = copy(cd.data[:parent_taxa])
+	index_map = Dict{Int, Int}()
 
 	next_id = maximum(cd.taxa[!, :id]) + 1
 
@@ -220,6 +227,7 @@ function apply_edits(edits::DatabaseEdits)
 		elseif !(ti in edits.removed_taxa)
 			push!(taxa_out, row)
 			push!(gidxs_out, copy(cd.genome_idxs[ti]))
+			index_map[ti] = length(gidxs_out)
 		end
 	end
 
@@ -230,7 +238,7 @@ function apply_edits(edits::DatabaseEdits)
 
 	# Apply manual thresholds
 	for (ti, thresh) in edits.manual_thresholds
-		taxa_out[ti, :manual_threshold] = thresh
+		taxa_out[index_map[ti], :manual_threshold] = thresh
 	end
 
 	cd_out = ComponentData(cd.od, taxa_out, gidxs_out)
@@ -238,6 +246,7 @@ function apply_edits(edits::DatabaseEdits)
 	_calc_distance_data!(cd_out)
 	_calc_overlap_data!(cd_out)
 	cd_out.data[:parent_taxa] = parent_taxa
+	cd_out.data[:index_map] = index_map
 
 	validate_component_data(cd_out)
 
