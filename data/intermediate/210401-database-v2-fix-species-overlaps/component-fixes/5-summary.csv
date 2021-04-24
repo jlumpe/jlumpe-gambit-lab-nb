@@ -1,0 +1,5 @@
+index,name,ngenomes,initial_diameter,taxon_removed,removed_genomes,split,manual_threshold,final_diameter
+3,mycoides,12,0.95214653,true,7,,,
+4,thuringiensis,19,0.6832786,false,3,,0.5,0.6652
+5,cereus subgroup 1,80,0.7395886,false,22,,0.6,0.7009
+6,cereus subgroup 2,71,0.6918757,false,13,,0.55,0.6256

@@ -27,7 +27,12 @@ than this.
 
 ### 5
 
-TODO
+7/12 mycoides seemed like they should be classified within cereus subgroup 3, removed (diameter .95
+->  .36). Anthracis is a tight cluster within the smaller of the two main cereus subgroup 1
+subtrees, removed all cereus in 2nd tree (22/80, diameter .74 -> .70) and further lowered threshold
+to .6. Removed 3/19 thuringiensis from otherwise pure cereus 2 tree (diameter .68 -> .67), further
+lowered threshold to .5. Removed 13/71 cereus 2 from mixed cereus/thuringiensis tree (diameter .69
+-> .63), further lowered threshold to .55.
 
 ### 6
 
@@ -95,7 +100,10 @@ Bronchiseptica has two clear subgroups and no real outliers, lowered thershold t
 
 ### 20
 
-TODO
+Clustering of all genomes in component gives about five clusters: two almost entirely cloacae, two
+almost entirely hormaechei, and one split about 50/50. Located another two tight, nearly pure
+cloacae subclusters within the mixed one. Used these to split cloacae 23/18/13/9 (35 removed) and
+hormaechei 115/44 (43 removed). Needed to reduce hormaechei subgroup 2 threshold .43 -> .25
 
 ### 21
 
@@ -140,7 +148,8 @@ have been part of the other group. This is a large fraction of sporogenes to rem
 
 ### 30
 
-TODO
+Lactobacillus casei and Lacticaseibacillus paracasei don't look like they are any different. Should
+merge into a single species.
 
 ### 31
 
@@ -157,3 +166,18 @@ Lowered threshold of pnomenusa.
 ### 34
 
 Lowered threshold of crocidurae.
+
+
+### Additional notes
+
+- Species with substantial mutual intermixing
+  - Pseudomonas amygdali/savastanoi/syringae (component 2)
+  - Enterobacter cloacae/hormaechei (component 20)
+  - Lactobacillus casei/Lacticaseibacillus paracasei (component 30), ended up merging
+- Species deeply nested inside other species
+  - Pseudomonas monteilii within putida (component 2)
+  - "denitrificans (nom. rej.)" within aeruginosa (component 2). Deleted, probably not real species.
+  - Burkholderia lata within cepacia? (component 3)
+  - Bacillus anthracis within cereus subgroup 1 (component 5)
+- Species with many misclassified genomes
+  - Many Bacillus mycoides seem to be cereus subgroup 3 (component 5)
