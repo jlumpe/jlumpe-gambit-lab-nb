@@ -1,0 +1,50 @@
+id,ncbi_id,name,rank,component,taxon_removed,taxon_removed_reason,split,initial_ngenomes,final_ngenomes,initial_diameter,final_diameter,manual_threshold
+1061,67351,Streptomyces californicus,species,1,false,,,5,5,0.316231,0.3162,0.2
+1076,1888,Streptomyces albus,species,1,false,,,6,6,0.956074,0.9561,0.6
+1086,1912,Streptomyces hygroscopicus,species,1,false,,,6,6,0.96020085,0.9602,0.6
+551,294,Pseudomonas fluorescens,species,2,false,,,38,38,0.976624,0.9766,0.8
+555,303,Pseudomonas putida,species,2,false,,18/4/6,28,28,0.88675135,0.7105/0.5615/0.7793,
+557,317,Pseudomonas syringae,species,2,false,,51/19/33/7,114,110,0.9157518,0.4567/0.3568/0.7149/0.3883,
+1135,157782,Pseudomonas parafulva,species,2,false,,,4,4,0.9419477,0.9419,0.6
+1158,43263,Pseudomonas alcaligenes,species,2,false,,,4,4,0.9618239,0.9618,0.8
+1165,43306,Pseudomonas denitrificans (nom. rej.),species,2,true,manual,,9,0,0.39893204,,
+1530,29438,Pseudomonas savastanoi,species,2,false,,9/15,24,24,0.48988616,0.1716/0.2872,
+1762,47877,Pseudomonas amygdali,species,2,false,,8/8/11,29,27,0.52244425,0.4104/0.3309/0.2418,
+549,292,Burkholderia cepacia,species,3,false,,,64,50,0.69364244,0.5032,0.35
+1547,29484,Yersinia frederiksenii,species,4,false,,,22,22,0.95910954,0.9591,0.9
+914,1428,Bacillus thuringiensis,species,5,false,,,19,16,0.6832786,0.6652,0.5
+1908,,Bacillus cereus subgroup 1,,5,false,,,80,58,0.7395886,0.7009,0.6
+1909,,Bacillus cereus subgroup 2,,5,false,,,71,58,0.6918757,0.6256,0.55
+1542,29461,Brucella suis,species,6,false,,10/25,40,35,0.071353205,0.0052/0.0142,
+1665,120577,Brucella ceti,species,6,false,,,5,5,0.061127283,0.0611,0.02
+626,562,Escherichia coli,species,9,false,,1487/2204/508,4204,4199,0.718016,0.6576/0.5529/0.4988,
+644,621,Shigella boydii,species,9,false,,8/5,13,13,0.29693276,0.1589/0.1041,
+645,622,Shigella dysenteriae,species,9,false,,3/3,6,6,0.56022036,0.0652/0.1487,
+578,246167,Vibrio crassostreae,species,11,false,,,14,14,0.8357247,0.8357,0.6
+1877,212663,Vibrio tasmaniensis,species,11,false,,,5,5,0.8725412,0.8725,0.7
+1792,351187,Salinispora pacifica,species,12,false,,17/5/3,27,25,0.80480236,0.6405/0.3915/0.3065,
+1400,28450,Burkholderia pseudomallei,species,14,false,,,369,369,0.37468073,0.3747,0.28
+1321,28037,Streptococcus mitis,species,15,false,,,4,4,0.7622087,0.7622,0.5
+1391,257758,Streptococcus pseudopneumoniae,species,15,false,,6/5,11,11,0.84656423,0.4875/0.6667,
+505,195,Campylobacter coli,species,16,false,,,252,252,0.8577195,0.8577,0.7
+606,518,Bordetella bronchiseptica,species,19,false,,,63,63,0.41567653,0.4157,0.35
+620,550,Enterobacter cloacae,species,20,false,,23/18/13/9,98,63,0.67781055,0.4379/0.3987/0.1463/0.1286,
+1280,158836,Enterobacter hormaechei,species,20,false,,115/44,202,159,0.67394334,0.4243/0.4280,
+655,633,Yersinia pseudotuberculosis,species,21,false,,,38,38,0.28818804,0.2882,0.17
+735,851,Fusobacterium nucleatum,species,23,false,,,33,33,0.8914858,0.8915,0.65
+790,492670,Bacillus velezensis,species,24,false,,,15,15,0.40362102,0.4036,0.32
+895,1390,Bacillus amyloliquefaciens,species,24,false,,10/10,20,20,0.45644885,0.2029/0.3170,
+908,1408,Bacillus pumilus,species,27,false,,11/7,20,18,0.8785028,0.4016/0.6628,
+1313,28031,Lysinibacillus fusiformis,species,28,false,,,5,5,0.940224,0.9402,0.7
+1482,78331,Mycobacterium canettii,species,32,false,,,5,5,0.1850456,0.1850,0.12
+1273,93220,Pandoraea pnomenusa,species,33,false,,,7,7,0.9323094,0.9323,0.25
+1565,29520,Borrelia crocidurae,species,34,false,,,3,3,0.48918268,0.4892,0.4
+56,119044,Filomicrobium,genus,,true,child taxa removed,,0,0,,,
+62,33055,Candidatus Kinetoplastibacterium,genus,,true,child taxa removed,,0,0,,,
+78,59732,Chryseobacterium,genus,,true,child taxa removed,,0,0,,,
+98,135575,Idiomarina,genus,,true,child taxa removed,,0,0,,,
+127,2767353,Lancefieldella,genus,,true,child taxa removed,,0,0,,,
+141,2675231,Mesobacillus,genus,,true,child taxa removed,,0,0,,,
+195,41707,Lawsonia,genus,,true,child taxa removed,,0,0,,,
+238,939,Hydrogenobacter,genus,,true,child taxa removed,,0,0,,,
+393,282198,Nereida,genus,,true,child taxa removed,,0,0,,,

@@ -42,6 +42,12 @@ saving edits to a `DatabaseEdits` object which is then saved to `data-intermedia
 See `component-fix-descriptions.md` for descriptions of each individual file.
 
 
+### 210401-compile-fixes
+
+Compiles all fixes from individual component notebooks and combines together into new master
+taxon table + genome assignments.
+
+
 ## Other files
 
 * `component-fix-descriptions.md` - Description of process used to fix overlaps for each component.
@@ -56,3 +62,17 @@ See `component-fix-descriptions.md` for descriptions of each individual file.
       these had all been written that the `taxon_removed` column is incorrect, ignore.
     * `{X}-subgroup-thresholds.csv` - manual thresholds assigned to subgroups defined in main edits
 	  edits file.
+  * `210424-compile-fixes/`
+    * `taxa.csv` - New master taxon table after fixes have been applied.
+      * `id`: Unique ID integer ID. This is equal to the database ID for all taxa present in the v1.2 database.
+      * `manual_threshold`: Manually set thresholds for certain taxa, others are NaN.
+      * `is_leaf`: if taxon has no children.
+    * `deleted-taxa-db-ids.json` - Database IDs of deleted taxa from v1.2.
+    * `genome-taxon-assignments.json` - ID of taxon assigned to each genome. Removed genomes are
+      zero. Simple integer array, order corresponds to
+      `data/intermediate/210303-database-v2-overlaps/210303-format-data/genomes-v1.1.csv`.
+
+* `data/processed/210401-database-v2-fix-species-overlaps/`
+  * `210424-compile-fixes/`
+    * `210424-species-overlap-fixes-summary.csv` table describing all edits made to database in this
+      experiment, one row per taxon.
