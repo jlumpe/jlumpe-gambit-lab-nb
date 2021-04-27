@@ -1,5 +1,7 @@
 # 210303 Database v1.2 overlaps
 
+NOTE: the title of this experiment is misleading, the "v2" should be replaced with "v1.2" because it
+pertains to v1.2 of the database.
 
 The purpose of this experiment is to find and possibly fix all remaining species-species overlaps in the v1.2 database. Overlaps for the v1.1 database were previously found in the "200727 Find Overlaps"experiment. v1.2 is the migration of v1.1 to version 2 of the software/database schema, so I had expected that the overlaps would not change significantly between these two versions, however I later realized that I had made a mistake in that experiment and missed many of the overlaps.
 
