@@ -1,0 +1,30 @@
+<html>
+<head>
+<script src="https://cdn.plot.ly/plotly-1.54.7.min.js"></script>
+</head>
+<body>
+  <script>
+    gd = (function() {
+  var WIDTH_IN_PERCENT_OF_PARENT = 100;
+  var HEIGHT_IN_PERCENT_OF_PARENT = 100;
+  var gd = Plotly.d3.select('body')
+    .append('div').attr("id", "1fdcc2b8-ff31-4c63-8806-a8f6944ed214")
+    .style({
+      width: WIDTH_IN_PERCENT_OF_PARENT + '%',
+      'margin-left': (100 - WIDTH_IN_PERCENT_OF_PARENT) / 2 + '%',
+      height: HEIGHT_IN_PERCENT_OF_PARENT + 'vh',
+      'margin-top': (100 - HEIGHT_IN_PERCENT_OF_PARENT) / 2 + 'vh'
+    })
+    .node();
+  var plot_json = {"layout":{"coloraxis":{"colorscale":"Viridis"},"xaxis":{"showticklabels":false,"scaleanchor":"y","ticks":"","title":{"text":"Max Intra"},"domain":[0.0,0.631578947368421],"constraintoward":"right","constrain":"domain"},"xaxis2":{"showticklabels":false,"scaleanchor":"y","ticks":"","title":{"text":"Min inter"},"domain":[0.6842105263157895,1.0],"constraintoward":"left","constrain":"domain"},"margin":{"l":50,"b":50,"r":50,"t":60},"yaxis":{"visible":false},"title":{"text":"Shigella (diameter = 0.582)"}},"frames":[],"data":[{"coloraxis":"coloraxis","marker":{"color":"#E41A1C"},"xaxis":"x","line":{"color":"#E41A1C"},"y":["1924 Shigella dysenteriae subgroup 1","646 Shigella flexneri","648 Shigella sonnei","1922 Shigella boydii subgroup 1","1925 Shigella dysenteriae subgroup 2","1923 Shigella boydii subgroup 2"],"type":"heatmap","name":"Max Intra","z":[[0.065235056,0.5627198,0.5818067,0.5574596,0.56022036,0.54603386],[0.5627198,0.2614373,0.5206484,0.5005387,0.50876087,0.5021162],[0.5818067,0.5206484,0.25810876,0.47303006,0.48848808,0.4884202],[0.5574596,0.5005387,0.47303006,0.15887943,0.29298085,0.29693276],[0.56022036,0.50876087,0.48848808,0.29298085,0.14870006,0.25179642],[0.54603386,0.5021162,0.4884202,0.29693276,0.25179642,0.10409357]],"x":["1924 Shigella dysenteriae subgroup 1","646 Shigella flexneri","648 Shigella sonnei","1922 Shigella boydii subgroup 1","1925 Shigella dysenteriae subgroup 2","1923 Shigella boydii subgroup 2"]},{"coloraxis":"coloraxis","marker":{"color":"#377EB8"},"xaxis":"x2","line":{"color":"#377EB8"},"y":["1924 Shigella dysenteriae subgroup 1","646 Shigella flexneri","648 Shigella sonnei","1922 Shigella boydii subgroup 1","1925 Shigella dysenteriae subgroup 2","1923 Shigella boydii subgroup 2"],"type":"heatmap","name":"Min Inter","z":[[0.58621216,0.49836496,0.4842885],[0.555846,0.42531103,0.49924645],[0.5307166,0.36488694,0.4712934],[0.55727434,0.392678,0.49658498],[0.57627636,0.42229348,0.5203784],[0.58037186,0.4292369,0.52523685]],"x":["1931 Escherichia coli subgroup 1","1932 Escherichia coli subgroup 2","1933 Escherichia coli subgroup 3"]},{"marker":{"color":"red"},"mode":"markers","xaxis":"x2","line":{"color":"#4DAF4A"},"y":["646 Shigella flexneri","646 Shigella flexneri","646 Shigella flexneri","648 Shigella sonnei","648 Shigella sonnei","648 Shigella sonnei","1924 Shigella dysenteriae subgroup 1","1924 Shigella dysenteriae subgroup 1","1925 Shigella dysenteriae subgroup 2","1925 Shigella dysenteriae subgroup 2","1925 Shigella dysenteriae subgroup 2","1922 Shigella boydii subgroup 1","1922 Shigella boydii subgroup 1","1922 Shigella boydii subgroup 1","1923 Shigella boydii subgroup 2","1923 Shigella boydii subgroup 2","1923 Shigella boydii subgroup 2"],"type":"scatter","hoverinfo":"skip","x":["1931 Escherichia coli subgroup 1","1932 Escherichia coli subgroup 2","1933 Escherichia coli subgroup 3","1931 Escherichia coli subgroup 1","1932 Escherichia coli subgroup 2","1933 Escherichia coli subgroup 3","1932 Escherichia coli subgroup 2","1933 Escherichia coli subgroup 3","1931 Escherichia coli subgroup 1","1932 Escherichia coli subgroup 2","1933 Escherichia coli subgroup 3","1931 Escherichia coli subgroup 1","1932 Escherichia coli subgroup 2","1933 Escherichia coli subgroup 3","1931 Escherichia coli subgroup 1","1932 Escherichia coli subgroup 2","1933 Escherichia coli subgroup 3"]}]};
+  Plotly.newPlot(gd, plot_json);
+  window.onresize = function() {
+    Plotly.Plots.resize(gd);
+  };
+  return gd;
+})();
+
+ </script>
+
+</body>
+</html>

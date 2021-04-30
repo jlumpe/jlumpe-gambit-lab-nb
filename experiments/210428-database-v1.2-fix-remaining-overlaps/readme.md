@@ -17,6 +17,20 @@ Finds all remaining overlaps in database.
 119 of 471 internal taxa have outgoing overlaps.
 
 
+### 210429-simple-overlap-plots
+
+Creates and saves some simple Plotly plots:
+
+* Scatter plots and histograms of some statistics of internal taxa grouped by with/without overlap.
+* Heatmaps of max intra distances for Escherichia and Shigella leaf taxa along with min inter
+  distances to overlapping taxa.
+
+#### Results
+
+Nearly all internal taxa with overlaps have diameter >~ .9 and min inter >~ .8, so threshold just
+needs to be lowered to a still fairly large value to fix all of them. Escherichia and Shigella are
+the exceptions, these need to be resolved separately (probably by merging).
+
 
 ## Output
 
@@ -31,3 +45,12 @@ Finds all remaining overlaps in database.
   * `210428-find-remaining-overlaps/`
     * `210428-internal-taxa-overlaps-summary.csv`: Table summarizing overlaps and related data for
       all non-leaf taxa.
+
+* `reports/210428-database-v1.2-fix-remaining-overlaps/`
+  * `210429-simple-overlap-plots/`
+    * `210429-internal-taxa-diameters-histogram.html`: Histogram of taxon diameter.
+    * `210429-internal-taxa-diameters-scatter.html`: 1D scatter plot of taxon diameter (random y).
+    * `210429-internal-taxa-diameter-leaf-threshold.html`: Scatter of max leaf threshold vs diameter.
+    * `210429-internal-taxa-diameter-leaf-threshold.html`: Scatter of min inter distance vs diameter.
+    * `210429-Escherichia-overlap-heatmaps.html`: Heatmaps of max intra/min inter distances for Escherichia.
+    * `210429-Shigella-overlap-heatmaps.html`: Heatmaps of max intra/min inter distances for Shigella.
