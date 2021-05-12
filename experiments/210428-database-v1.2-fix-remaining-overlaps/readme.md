@@ -32,6 +32,11 @@ needs to be lowered to a still fairly large value to fix all of them. Escherichi
 the exceptions, these need to be resolved separately (probably by merging).
 
 
+### 210511-extra-overlap-data
+
+Calculates some additional intermediate data based on taxa and overlaps to be used in other notebooks.
+
+
 ## Output
 
 * `data/intermediate/210428-database-v1.2-fix-remaining-overlaps/`
@@ -40,6 +45,10 @@ the exceptions, these need to be resolved separately (probably by merging).
 	  lists overlaps from its leaves to outside leaf taxa, using the internal taxon's threshold.
     * `calculated.json`: Additional per-taxon data calculated in this notebook that will be useful
       to other notebooks in this experiment.
+  * `210511-extra-overlap-data/`
+    * `taxa.arrow`: Full taxa table with extra calculated data in Apache Arrow format.
+    * `leaf-data.h5`: HDF5 file specifying linear ordering of leaf taxa along with aggregated
+      pairwise distance matrices.
 
 * `data/processed/210428-database-v1.2-fix-remaining-overlaps/`
   * `210428-find-remaining-overlaps/`
