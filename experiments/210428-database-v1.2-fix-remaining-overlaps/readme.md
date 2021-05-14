@@ -37,6 +37,20 @@ the exceptions, these need to be resolved separately (probably by merging).
 Calculates some additional intermediate data based on taxa and overlaps to be used in other notebooks.
 
 
+### 210513-overlap-pw-heatmaps
+
+Heatmaps of maximum pairwise distances between leaves of each internal taxon with remaining overlaps.
+Cells with distance exceeding the min inter score for the internal taxon are marked.
+
+Intended to help identify leaves which may contain outliers driving the diameter of the ancestor
+taxon up, contributing to overlaps.
+
+#### Results
+
+See many candidates for further investigation with regard to outliers, however many taxa have a very
+large fraction of leaf PW distances over the min inter value.
+
+
 ## Output
 
 * `data/intermediate/210428-database-v1.2-fix-remaining-overlaps/`
@@ -63,3 +77,7 @@ Calculates some additional intermediate data based on taxa and overlaps to be us
     * `210429-internal-taxa-diameter-leaf-threshold.html`: Scatter of min inter distance vs diameter.
     * `210429-Escherichia-overlap-heatmaps.html`: Heatmaps of max intra/min inter distances for Escherichia.
     * `210429-Shigella-overlap-heatmaps.html`: Heatmaps of max intra/min inter distances for Shigella.
+  * `210513-overlap-pw-heatmaps/`
+	* `210513-overlap-pw-heatmaps.html`: Heatmap for each internal taxon with remaining overlaps
+	  showing maximum pairwise distances between leaves. Red dot marks values greater than the
+	  taxon's min inter score.
