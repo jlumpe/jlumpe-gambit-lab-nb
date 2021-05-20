@@ -6,6 +6,13 @@ in "leaf" taxa (no children in the taxonomy tree), but overlaps from higher-leve
 still remain.
 
 
+## Source files
+
+### GridAxes.jl
+
+Defines the `GridAxes` type, which helps to create a grid of subplots with `PlotlyJS`.
+
+
 ## Notebooks
 
 ### 210428-find-remaining-overlaps
