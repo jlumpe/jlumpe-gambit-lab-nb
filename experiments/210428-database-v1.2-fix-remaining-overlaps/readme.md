@@ -58,6 +58,29 @@ See many candidates for further investigation with regard to outliers, however m
 large fraction of leaf PW distances over the min inter value.
 
 
+### 210520-min-inter-outliers
+
+Creates two sets of plots to search for "outlier" genomes that may be driving down each overlap
+taxon's min inter score. The "src" plots show the 30 genomes within each parent taxon with the
+smallest minimum distance to a genome outside the parent, and The "dst" plots show the 30 genomes
+outside the parent taxon with the smallest minimum distance to a genome inside the parent. In both
+sets of plots genomes are grouped and colored by their leaf taxon. Distance values are measured on
+the Y axis, the position of the genome points has no meaning and is only used to arrange these them
+clearly. The two genomes with the highest distance values within each leaf taxon (if one of the 30
+genomes shown in the plot) are marked with X's to indicate that removing either of them (along with
+all the closer ones) would leave the leaf taxon with less than the minimum genome count of two.
+
+The gray filled area shows the ECDF on the parent taxon's intra distances for comparison, with the
+p values on the X axis. The red dotted line is the parent's diameter. Comparing to the whole
+distribution of intra distances instead of just the diameter is less influenced by outliers.
+
+#### Results
+
+There are some definite outlier genomes in both sets of plots, although not all would result in a
+larger percentage of the parent taxon's inter distances being beneath the new min_inter value if
+they were removed. Will examine further in next notebook.
+
+
 ## Output
 
 * `data/intermediate/210428-database-v1.2-fix-remaining-overlaps/`
@@ -88,3 +111,6 @@ large fraction of leaf PW distances over the min inter value.
 	* `210513-overlap-pw-heatmaps.html`: Heatmap for each internal taxon with remaining overlaps
 	  showing maximum pairwise distances between leaves. Red dot marks values greater than the
 	  taxon's min inter score.
+  * `210520-min-inter-outliers/`
+    * `210520-min-inter-outliers-by-src.html`: See section on notebook for description.
+    * `210520-min-inter-outliers-by-dst.html`: See section on notebook for description.
