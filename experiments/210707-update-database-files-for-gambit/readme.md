@@ -22,3 +22,27 @@ Convert signature files from old binary format to new HDF5-based format.
 * `refseq_assemblies_ATGAC11_2_0.midas-signatures` -> `refseq_assemblies_ATGAC11-2.0-210707.h5`
   * `id_attr = 'refseq_acc'`
 
+
+### 210707-upgrade-refseq-curated-2.0-4815-to-d961
+
+Upgrades the most recent version of the refeq-curated 2.0 database file from schema revision 4815cccfb01b (midas version 2.1) to d961d0698083 (version 2.2).
+This is a somewhat tricky upgrade because it involves deleting columns that contain large amounts of data, including `genomes.entrez_summary` and
+`taxa.entrez_data`.
+
+The original migration script was designed to migrate the data in the columns to be deleted by copying it into the "extra" columns of the associated tables.
+This was running extremely slowly (still going after ~20 min), which I assumed was due to the large amounts of data being moved around. I edited the upgrade
+script to disable the data migration aspect (update added to version control) and just drop this data completely. This extra data isn't necessary for the
+functionality of the app and makes the database file much much bigger.
+
+Running the updated script was still very slow and making the output file bigger instead of smaller. I realized this was probably because of fragmentation
+issues. I solved it by copying the data to an in-memory database first, running the upgrade script on that, and then using the sqlite3 `VACUUM` command
+to save an optimized copy to the disk.
+
+Also fixed the issue where RefSeq accession nos were stored in the `genomes.genbank_acc` column instead of the `refseq_acc` column.
+
+Will follow up with upgrade to most recent revision in next notbook.
+
+
+* Input file: `refseq-curated-2.0-r2.db`
+* Output file: `refseq-curated-2.0-r3-210707.db`
+
