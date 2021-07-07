@@ -9,3 +9,16 @@ The databases to be converted are `testdb_210126` (which will continue to be use
 (which I'll be using for testing just until I can finish up the final publishable version). Since `testdb_210126` will be used going forward
 I will also change all references of "midas" (in database keys, etc.) to "gambit".
 
+
+## Notebooks
+
+### 210707-convert-signature-files
+
+Convert signature files from old binary format to new HDF5-based format.
+
+* `testdb_210126.midas-signatures` -> `testdb_210126-signatures-210707.h5`
+  * Changed ID `midas/test/testdb_210126` -> `gambit/testdb_210126`
+  * `id_attr = 'key'`
+* `refseq_assemblies_ATGAC11_2_0.midas-signatures` -> `refseq_assemblies_ATGAC11-2.0-210707.h5`
+  * `id_attr = 'refseq_acc'`
+
