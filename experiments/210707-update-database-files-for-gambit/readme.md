@@ -46,3 +46,12 @@ Will follow up with upgrade to most recent revision in next notbook.
 * Input file: `refseq-curated-2.0-r2.db`
 * Output file: `refseq-curated-2.0-r3-210707.db`
 
+
+### 210707-upgrade-database-schemas
+
+Upgrade most recent releases of both databases from revision d961d0698083 to latest revision c43540b80d50 and update metadata to describe new releases.
+
+* `testdb_210126.db` -> `testdb_210126-r2-210707.db`
+  * Removed `"midas/testdb_210126/"` prefix from genome keys.
+* `refseq-curated-2.0-r3-210707.db` -> `refseq-curated-2.0-r4-210707.db`
+
