@@ -6,11 +6,13 @@ in "leaf" taxa (no children in the taxonomy tree), but overlaps from higher-leve
 still remain.
 
 
+
 ## Source files
 
 ### GridAxes.jl
 
 Defines the `GridAxes` type, which helps to create a grid of subplots with `PlotlyJS`.
+
 
 
 ## Notebooks
@@ -86,7 +88,7 @@ they were removed. Will examine further in next notebook.
 * `data/intermediate/210428-database-v1.2-fix-remaining-overlaps/`
   * `210428-find-remaining-overlaps/`
     * `overlaps.json`: All overlaps found in this experiment. For each internal taxon with overlaps,
-	  lists overlaps from its leaves to outside leaf taxa, using the internal taxon's threshold.
+      lists overlaps from its leaves to outside leaf taxa, using the internal taxon's threshold.
     * `calculated.json`: Additional per-taxon data calculated in this notebook that will be useful
       to other notebooks in this experiment.
   * `210511-extra-overlap-data/`
@@ -108,9 +110,9 @@ they were removed. Will examine further in next notebook.
     * `210429-Escherichia-overlap-heatmaps.html`: Heatmaps of max intra/min inter distances for Escherichia.
     * `210429-Shigella-overlap-heatmaps.html`: Heatmaps of max intra/min inter distances for Shigella.
   * `210513-overlap-pw-heatmaps/`
-	* `210513-overlap-pw-heatmaps.html`: Heatmap for each internal taxon with remaining overlaps
-	  showing maximum pairwise distances between leaves. Red dot marks values greater than the
-	  taxon's min inter score.
+    * `210513-overlap-pw-heatmaps.html`: Heatmap for each internal taxon with remaining overlaps
+      showing maximum pairwise distances between leaves. Red dot marks values greater than the
+      taxon's min inter score.
   * `210520-min-inter-outliers/`
     * `210520-min-inter-outliers-by-src.html`: See section on notebook for description.
     * `210520-min-inter-outliers-by-dst.html`: See section on notebook for description.
