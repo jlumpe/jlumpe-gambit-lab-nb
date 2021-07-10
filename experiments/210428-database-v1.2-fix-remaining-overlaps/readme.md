@@ -83,6 +83,22 @@ larger percentage of the parent taxon's inter distances being beneath the new mi
 they were removed. Will examine further in next notebook.
 
 
+### 210710-remove-min-inter-outliers
+
+Designate genomes for removal based on results of previous experiment `210520-min-inter-outliers`.
+Removed genomes from both "source" and "destination" sides of remaining overlaps. Made choices based
+on how much the min_inter values could be increased vs. how many genomes were being removed relative
+to the total number of genomes in the leaf taxa they were being removed from (pretty subjective).
+Decisions made under the assumption that I would cap thresholds to 95% of min_inter value, even if
+this is below the taxon diameter.
+
+#### Results
+
+Removed 20 genomes in total. In most cases did not totally resolve overlaps, but made significant
+improvements to min_inter values for 7 internal taxa.
+
+
+
 ## Output
 
 * `data/intermediate/210428-database-v1.2-fix-remaining-overlaps/`
@@ -100,6 +116,13 @@ they were removed. Will examine further in next notebook.
   * `210428-find-remaining-overlaps/`
     * `210428-internal-taxa-overlaps-summary.csv`: Table summarizing overlaps and related data for
       all non-leaf taxa.
+  * `210710-remove-min-inter-outliers`
+    * `210710-removed-genomes.csv` - Table listing genomes to be removed, their assigned taxa, and
+      reason for removal.
+    * `210710-removed-genomes-by-taxon.csv` - Table summarizing number of removed genomes by (leaf)
+      taxon.
+    * `210710-min-inter-updates.csv` - Table listing improvements to min_inter values of internal
+      taxa as a result of removed genomes.
 
 * `reports/210428-database-v1.2-fix-remaining-overlaps/`
   * `210429-simple-overlap-plots/`

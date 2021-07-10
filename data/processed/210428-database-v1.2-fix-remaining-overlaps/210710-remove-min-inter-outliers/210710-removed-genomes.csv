@@ -1,0 +1,21 @@
+genome_index,taxon_id,taxon_name,reason
+32825,1424,Mycobacteroides abscessus,min_inter outlier for 213 Mycobacteroides on src side
+44077,878,Enterococcus faecium,min_inter outlier for 341 Enterococcus on src side
+47760,999,Listeria monocytogenes,min_inter outlier for 398 Listeria on src side
+44726,999,Listeria monocytogenes,min_inter outlier for 398 Listeria on src side
+36486,722,Chlamydia trachomatis,min_inter outlier for 209 Chlamydia on src side
+36484,722,Chlamydia trachomatis,min_inter outlier for 209 Chlamydia on src side
+40173,722,Chlamydia trachomatis,min_inter outlier for 209 Chlamydia on src side
+36486,722,Chlamydia trachomatis,min_inter outlier for 10 Mycoplasma on dst side
+36484,722,Chlamydia trachomatis,min_inter outlier for 10 Mycoplasma on dst side
+40173,722,Chlamydia trachomatis,min_inter outlier for 10 Mycoplasma on dst side
+29617,1460,Salmonella enterica,min_inter outlier for 10 Mycoplasma on dst side
+8165,1742,Lactobacillus rhamnosus,min_inter outlier for 247 Lactiplantibacillus on dst side
+37545,859,Streptococcus pneumoniae,min_inter outlier for 350 Bacillus on dst side
+27378,859,Streptococcus pneumoniae,min_inter outlier for 350 Bacillus on dst side
+26646,859,Streptococcus pneumoniae,min_inter outlier for 350 Bacillus on dst side
+29488,859,Streptococcus pneumoniae,min_inter outlier for 350 Bacillus on dst side
+37442,859,Streptococcus pneumoniae,min_inter outlier for 350 Bacillus on dst side
+32353,859,Streptococcus pneumoniae,min_inter outlier for 350 Bacillus on dst side
+37508,859,Streptococcus pneumoniae,min_inter outlier for 350 Bacillus on dst side
+23876,859,Streptococcus pneumoniae,min_inter outlier for 350 Bacillus on dst side
