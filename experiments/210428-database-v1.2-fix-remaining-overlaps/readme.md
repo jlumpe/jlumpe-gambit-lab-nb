@@ -98,6 +98,27 @@ Removed 20 genomes in total. In most cases did not totally resolve overlaps, but
 improvements to min_inter values for 7 internal taxa.
 
 
+### 210712-find-max-intra-outliers
+
+The object of this notebook was to locate outlier genomes or pairs of genomes which were driving up
+the diameters / max-intra distances of genera or other non-leaf taxa. I assembled a list of candidates
+by manually reviewing the plots from `210513-overlap-pw-heatmaps` to find instances where one or two
+leaves which had much larger maximum distances to the other leaves within its genus. I then plotted
+heatmaps showing the distances between the genomes in these leaves vs genomes in all other leaves to
+determine if this was being caused by any particular genome or small set of genomes.
+
+#### Results
+
+Almost all candidates were immediately eliminated solely due to the range of distances (as shown by
+the color bar in each plot). They were extremely small, indicating that only a very small improvement
+could be gained by eliminating any number of genomes.
+
+The sole exception was in Chronobacter (437) where C. turicensis (1405) was split into two pairs of
+genomes, one of which had a maximum distance of .97 or so to the other leaves while the other was
+only about .9. The distance between these two pairs was also about .97, compared to Chronobacter's
+min-inter distance is about .95 This still isn't enough of a potential gain to justify messing with
+it much, but making a note of it to potentially be addressed later.
+
 
 ## Output
 
