@@ -87,9 +87,9 @@ they were removed. Will examine further in next notebook.
 
 Designate genomes for removal based on results of previous experiment `210520-min-inter-outliers`.
 Removed genomes from both "source" and "destination" sides of remaining overlaps. Made choices based
-on how much the min_inter values could be increased vs. how many genomes were being removed relative
+on how much the min-inter values could be increased vs. how many genomes were being removed relative
 to the total number of genomes in the leaf taxa they were being removed from (pretty subjective).
-Decisions made under the assumption that I would cap thresholds to 95% of min_inter value, even if
+Decisions made under the assumption that I would cap thresholds to 95% of min-inter value, even if
 this is below the taxon diameter.
 
 #### Results
