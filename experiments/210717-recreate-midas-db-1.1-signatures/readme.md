@@ -16,6 +16,12 @@ Extracts sequence URLs from the genome metadata in the MIDAS 1.1 database (v1 so
 adjusts to same order as the genomes should have appeared in the signature file, and exports to JSON.
 
 
+### 210717-calculate-signatures
+
+Downloads sequences using URLs determined in last experiment and calculates their k-mer signatures.
+Saves signatures as individual `.npy` files in the `tmp/` subdirectory.
+
+
 
 ## Output
 
