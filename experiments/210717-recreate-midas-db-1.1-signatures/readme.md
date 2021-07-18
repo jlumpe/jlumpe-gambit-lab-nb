@@ -22,6 +22,16 @@ Downloads sequences using URLs determined in last experiment and calculates thei
 Saves signatures as individual `.npy` files in the `tmp/` subdirectory.
 
 
+### 210718-create-signatures-file
+
+Compiles signatures calculated in last experiment into single signatures file (old binary format).
+Uses same order, IDs (refseq accs), and metadata (except creation date attribute) as old file.
+Metadata JSON was obtained from cell output in `200727-find-overlaps/200727-calculate-pw-distances`
+notebook.
+
+Resulting file added to GC storage but not VC.
+
+
 
 ## Output
 
@@ -29,3 +39,8 @@ Saves signatures as individual `.npy` files in the `tmp/` subdirectory.
   * `210717-find-sequence-urls/`
     * `url-data.json`: Sequence URLs for all genomes in signature file to recreate. Appear in same
       order.
+
+
+### Not in version control
+
+* `200727-find-overlaps/200727-calculate-pw-distances.gz`
