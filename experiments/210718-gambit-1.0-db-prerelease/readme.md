@@ -15,6 +15,11 @@ adds in changes from `210428-v1.2-fix-remaining-overlaps` (genome deletions in
 values for the `key` column. This will be the full list of taxa in the created database.
 
 
+### 210718-calculate-additional-data
+
+Calculates additional per-taxon data to assist in further notebooks, as well as leaf pairwise distances.
+
+
 
 ## Output
 
@@ -22,3 +27,6 @@ values for the `key` column. This will be the full list of taxa in the created d
   * `210718-compile-edits/`
     * `taxa.csv` - table containing data for all taxa to be included in database, aside from
       threshold values.
+  * `210718-calculate-additional-data/`
+    * `taxa.arrow` - taxa table with additional data added.
+    * `leaf-data.h5` - HDF5 file containing pairwise leaf distances.
