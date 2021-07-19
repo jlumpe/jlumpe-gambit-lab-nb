@@ -20,6 +20,24 @@ values for the `key` column. This will be the full list of taxa in the created d
 Calculates additional per-taxon data to assist in further notebooks, as well as leaf pairwise distances.
 
 
+### 210719-set-thresholds
+
+Set final classification thresholds for all taxa. The "base threshold" is either the manually-set
+threshold for the taxon based on previous experiments, or otherwise the taxon's diameter. The
+"final threshold" is the lesser of either this value or the min-inter value minus a "margin", which
+here is set to 5%. The "coverage" statistic is the fraction of intra-taxon distances less than the
+final threshold.
+
+Output a table with `"base_threshold"`, `"final_threshold"`, and `"coverage"` columns.
+
+#### Results
+
+* 3 taxa ended up with thresholds set by the min-inter distance minus the margin which were less
+  than their previous manually-set thresholds, but only slightly.
+* Coverage was pretty low for some taxa, with 14 at less than 20. The worst were Prevotella at 4%
+  and Streptomyces at 8%. Probably fine for now but will look into it more when creating the
+  non-beta version.
+
 
 ## Output
 
@@ -30,3 +48,6 @@ Calculates additional per-taxon data to assist in further notebooks, as well as 
   * `210718-calculate-additional-data/`
     * `taxa.arrow` - taxa table with additional data added.
     * `leaf-data.h5` - HDF5 file containing pairwise leaf distances.
+  * `210719-set-thresholds/`
+    * `thresholds.csv` - table containing final thresholds for all taxa.
+
