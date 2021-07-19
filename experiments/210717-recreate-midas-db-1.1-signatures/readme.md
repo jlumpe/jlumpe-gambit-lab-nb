@@ -32,6 +32,12 @@ notebook.
 Resulting file added to GC storage but not VC.
 
 
+### 210718-validate-signatures
+
+Validates calculated signatures by re-calculating a subset of all pairwise distances and comparing
+to those calculated in `200727-find-overlaps/200727-calculate-pw-distances` notebook.
+
+
 
 ## Output
 
