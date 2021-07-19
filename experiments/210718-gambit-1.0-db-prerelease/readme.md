@@ -39,6 +39,17 @@ Output a table with `"base_threshold"`, `"final_threshold"`, and `"coverage"` co
   non-beta version.
 
 
+### 210719-build-genome-database
+
+Create the genome database SQLite3 file, using genomes from previous database (MIDAS 1.2a) (minus
+those removed from in version) and taxonomy information created in this experiment.
+
+#### Results
+
+48224 genomes in final database. Database file has small size (16MB) due to NCBI data of genomes
+and taxa not being included.
+
+
 ## Output
 
 * `data/intermediate/210718-gambit-1.0-db-prerelease/`
@@ -50,4 +61,11 @@ Output a table with `"base_threshold"`, `"final_threshold"`, and `"coverage"` co
     * `leaf-data.h5` - HDF5 file containing pairwise leaf distances.
   * `210719-set-thresholds/`
     * `thresholds.csv` - table containing final thresholds for all taxa.
+  * `210719-build-genome-database/`
+    * `old-tid-to-new.json` - Mapping from old taxon ID values (used by previous few experiments) to
+	  primary key values of taxa in output database.
 
+
+### Not in version control
+
+* `gambit-genomes-1.0b1-210719.db` - SQLite3 genomes database `gambit/refseq-curated` `1.0b1`
