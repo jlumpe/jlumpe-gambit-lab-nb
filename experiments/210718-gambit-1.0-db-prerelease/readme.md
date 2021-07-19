@@ -50,6 +50,13 @@ those removed from in version) and taxonomy information created in this experime
 and taxa not being included.
 
 
+### 210719-create-signatures-file
+
+Create HDF5 signatures file for genomes in database. Derived from
+`refseq_curated-1.1beta-210718.midas-signatures`, filtered to only include genomes in this version
+of the database and reordered by taxonomy assignment.
+
+
 ## Output
 
 * `data/intermediate/210718-gambit-1.0-db-prerelease/`
@@ -69,3 +76,4 @@ and taxa not being included.
 ### Not in version control
 
 * `gambit-genomes-1.0b1-210719.db` - SQLite3 genomes database `gambit/refseq-curated` `1.0b1`
+* `gambit-signatures-1.0b1-210719.h5` - HDF5 signatures `gambit/refseq-curated` `1.0b1`
