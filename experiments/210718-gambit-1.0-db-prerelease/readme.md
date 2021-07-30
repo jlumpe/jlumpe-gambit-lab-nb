@@ -57,6 +57,22 @@ Create HDF5 signatures file for genomes in database. Derived from
 of the database and reordered by taxonomy assignment.
 
 
+### 210730-validation
+
+Performs query with =200726-gold-standard-seqs= validation data set and saves results.
+
+#### Results
+
+Of 98 query sequences:
+
+* 89 had a prediction at the species level or below
+* 5 had a prediction at the genus level
+* 4 had no prediction
+* 3 Had an additional inconsistent prediction of genus rank
+
+
+
+
 ## Output
 
 * `data/intermediate/210718-gambit-1.0-db-prerelease/`
@@ -71,6 +87,17 @@ of the database and reordered by taxonomy assignment.
   * `210719-build-genome-database/`
     * `old-tid-to-new.json` - Mapping from old taxon ID values (used by previous few experiments) to
 	  primary key values of taxa in output database.
+  * `210730-validation/`
+    * `results.json` - Validation query results (different than standard JSON export format).
+
+* `data/processed/210718-gambit-1.0-db-prerelease/`
+  * `210730-validation/`
+    * `210729-1.0b-validation-primary-matches.csv` - summary of closest matches for all query genomes.
+    * `210729-1.0b-validation-alternate-matches.csv` - summary of 2nd match besides primary/closest,
+	  for the 3 queries which have it.
+    * `210729-1.0b-validation-unmatched-genus-info.csv` - information on genus/top-level taxon
+	  of closest genome for all 4 queries where no call was made, to see how much the threshold was
+	  missed by.
 
 
 ### Not in version control

@@ -1,0 +1,4 @@
+set,name,alt_prediction.name,alt_prediction.ncbi_id,alt_prediction.rank,alt_prediction.threshold,alt_genome.distance,alt_genome.description,alt_genome.taxon.name,alt_genome.taxon.ncbi_id,alt_genome.taxon.threshold
+200726,17AC0001409_S8,Neisseria,482,genus,0.9171803772449492,0.7966101765632629,[GCF_000763635.1] Neisseria mucosa (b-proteobacteria),Neisseria mucosa,488,0.5578354597091675
+200726,19AC0011209-1_S9,Streptococcus,1301,genus,0.8922817170619964,0.7654678821563721,[GCF_001069445.1] Streptococcus salivarius (firmicutes),Streptococcus salivarius,1304,0.729424774646759
+200817,16AC1611140BCAP_S11,Staphylococcus,1279,genus,0.8025270968675613,0.7412573099136353,[GCF_000025085.1] Staphylococcus lugdunensis HKU09-01 (firmicutes),Staphylococcus lugdunensis,28035,0.1666906923055648

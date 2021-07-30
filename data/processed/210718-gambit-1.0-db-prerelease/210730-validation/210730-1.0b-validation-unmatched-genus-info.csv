@@ -1,0 +1,5 @@
+set,name,closest_genome.distance,closest_genome.description,closest_genome.taxon.ncbi_id,closest_genome.taxon.name,closest_genome.taxon.threshold,closest_genome.genus.ncbi_id,closest_genome.genus.name,closest_genome.genus.threshold
+200726,18AC0018936-1_S12,0.9397341012954712,[GCF_000276305.1] Staphylococcus epidermidis NIHLM023 (firmicutes),1282,Staphylococcus epidermidis,0.6631258130073547,1279,Staphylococcus,0.8025270968675613
+200726,18AC0018937-BAP_S11,0.9418860673904419,[GCF_000784015.1] Proteus mirabilis (enterobacteria),584,Proteus mirabilis,0.5902292132377625,583,Proteus,0.5902292132377625
+200726,19AC0002349B1_S10,0.9918032884597778,[GCF_000009685.1] Clostridium perfringens str. 13 (firmicutes),1502,Clostridium perfringens,0.6562895774841309,1485,Clostridium,0.9366625726222992
+200726,19AC0011210_S5,0.9919264316558838,[GCF_000169595.1] Ureaplasma urealyticum serovar 9 str. ATCC 33175 (mycoplasmas),2130,Ureaplasma urealyticum,0.3082524240016937,2129,Ureaplasma,0.8897143006324768
