@@ -1,0 +1,97 @@
+Date of WGS run ,Class of PT,query_file,top_score,predicted_genus,predicted_species,top_genus,genus_threshold,top_species,species_threshold,top_strain,top_description,top_accession
+10/12/2016,BACT1_2016,16AC1611137-CAP,0.6760,Enterococcus,gallinarum,Enterococcus,0.2,gallinarum,0.4859,,Enterococcus saccharolyticus,
+10/12/2016,BACT1_2016,16AC1611138-CAP,0.8409,Escherichia,coli,Escherichia,0.2,coli,0.6537,,Escherichia coli KTE77 ,
+10/12/2016,BACT1_2016,16AC1611139-CAP,0.8188,Serratia,marcescens,Serratia,0.2,marcescens,0.6230,,Serratia marcescens,
+10/12/2016,BACT1_2016,16AC1611140A-CAP,0.8455,Staphylococcus,,Staphylococcus,0.2,lugdunensis,0.8532,,Staphylococcus lugdunensis ,
+10/12/2016,BACT1_2016,16AC1611141-CAP,0.7708,Providencia,stuartii,Providencia,0.2,stuartii,0.7568,,Providencia stuartii ,
+10/20/2016,BACT1_2016,16AC1611140B-CAP,0.6707,Propionibacterium,,acnes,,,0.9146428704,,Propionibacterium acnes,
+#REF!,BACT1_2017,17AC0001408.fasta,0.8614240289,Streptococcus,mutans,Streptococcus,0.2,mutans,0.7246546149,B107SM-B,[GCF_000522645.1] Streptococcus mutans B107SM-B (firmicutes),GCF_000522645.1
+#REF!,BACT1_2017,17AC0001409.fasta,0.5435316563,Streptococcus,dysgalactiae,Streptococcus,0.2,dysgalactiae,0.3713954687,167,[GCF_000493775.1] Streptococcus dysgalactiae subsp. equisimilis 167 (firmicutes),GCF_000493775.1
+#REF!,BACT1_2017,17AC0001410.fasta,0.8400800228,Escherichia,coli,Escherichia,0.2,coli,0.6537443995,KTE77,[GCF_000351725.1] Escherichia coli KTE77 (E. coli),GCF_000351725.1
+3/4/2017,BACT1_2017,17AC0001410A.fasta,0.8683449626,Enterococcus,faecalis,Enterococcus,0.2,faecalis,0.6636110544,DAPTO 516,[GCF_000147985.1] Enterococcus faecalis DAPTO 516 (firmicutes),GCF_000147985.1
+3/7/2017,BACT1_2017,17AC0001411B.fasta,0.9852188826,Staphylococcus,aureus,Staphylococcus,0.2,aureus,0.6303073168,M0483,[GCF_000556585.1] Staphylococcus aureus M0483 (firmicutes),GCF_000556585.1
+3/7/2017,BACT1_2017,17AC0001412BR.fasta,0.7313075066,Streptococcus,pneumoniae,Streptococcus,0.2,pneumoniae,0.6843663454,NTPn 20,[GCF_001581425.1] Streptococcus pneumoniae (firmicutes),GCF_001581425.1
+6/29/2017,BACT2_2017,17AC0006310.fasta,0.8951870203,Bacillus,cereus,Bacillus,0.2,cereus,0.685952127,B4116,[GCF_001619385.1] Bacillus cereus (firmicutes),GCF_001619385.1
+6/29/2017,BACT2_2017,17AC0006311.fasta,0.9696447849,Streptococcus,pyogenes,Streptococcus,0.2,pyogenes,0.6871720552,MEW123,[GCF_001535565.1] Streptococcus pyogenes (firmicutes),GCF_001535565.1
+6/29/2017,BACT2_2017,17AC0006312.fasta,0.9529010057,Staphylococcus,epidermidis,Staphylococcus,0.2,epidermidis,0.6898508072,NIHLM023,[GCF_000276305.1] Staphylococcus epidermidis NIHLM023 (firmicutes),GCF_000276305.1
+6/29/2017,BACT2_2017,17AC0006313ANBLD.fasta,0.08734159917,,,Veillonella,0.2,parvula,0.3925887942,DSM 2008,[GCF_000024945.1] Veillonella parvula DSM 2008 (firmicutes),GCF_000024945.1
+6/29/2017,BACT2_2017,17AC0006313A.fasta,0.9052904248,Staphylococcus,hominis,Staphylococcus,0.2,hominis,0.7270019054,1118_SHAE,[GCF_001068715.1] Staphylococcus hominis (firmicutes),GCF_001068715.1
+6/29/2017,BACT2_2017,17AC0006314MAC.fasta,0.8747358322,Pseudomonas,,Pseudomonas,0.2,denitrificans,0.9825515151,817_PDEN,[GCF_001066465.1] Pseudomonas denitrificans (g-proteobacteria),GCF_001066465.1
+7/11/2017,BACT2_2017,17AC0006312-1_S21.fasta,0.9212504029,Staphylococcus,epidermidis,Staphylococcus,0.2,epidermidis,0.6898508072,,,
+7/11/2017,BACT2_2017,17AC0006313-1_S23.fasta,0.08724649251,"(16S, 99% match V.parvula)",,Veillonella,0.2,parvula,0.3925887942,,,
+10/26/2017,BACT3_2017,17AC0012453_S1.fasta,0.113703385,,,Corynebacterium,0.2,simulans,0.575527728,PES1,[GCF_001586215.1] Corynebacterium simulans (high GC Gram+),GCF_001586215.1
+10/26/2017,BACT3_2017,17AC0012454_S2.fasta,0.977345049,Aerococcus,,Aerococcus,0.2,viridans,0.990697682,ATCC 11563,[GCF_000178435.1] Aerococcus viridans ATCC 11563 = CCUG 4311 (firmicutes),GCF_000178435.1
+10/26/2017,BACT3_2017,17AC0012455-1AN_S5.fasta,0.515168846,Streptococcus,,Streptococcus,0.2,constellatus,0.947004616,SK53,[GCF_000257785.1] Streptococcus constellatus subsp. constellatus SK53 (firmicutes),GCF_000257785.1
+10/26/2017,BACT3_2017,17AC0012456-2_S8.fasta,0.990427792,Elizabethkingia,meningoseptica,Elizabethkingia,0.2,meningoseptica,0.983612955,NBRC 12535,[GCF_000367325.1] Elizabethkingia meningoseptica ATCC 13253 = NBRC 12535 (CFB group bacteria),GCF_000367325.1
+10/26/2017,BACT3_2017,17AC0012457-1_S9.fasta,0.978551149,Staphylococcus,aureus,Staphylococcus,0.2,aureus,0.630307317,M0483,[GCF_000556585.1] Staphylococcus aureus M0483 (firmicutes),GCF_000556585.1
+10/26/2017,BACT3_2017,17AC0012457-2_S10.fasta,0.955121636,Staphylococcus,epidermidis,Staphylococcus,0.2,epidermidis,0.689850807,NIHLM023,[GCF_000276305.1] Staphylococcus epidermidis NIHLM023 (firmicutes),GCF_000276305.1
+11/3/2017,BACT3_2017,17AC0012455-1A,0.4518869519,Streptococcus,,Streptococcus,0.2,constellatus,0.9470046163,SK53,[GCF_000257785.1] Streptococcus constellatus subsp. constellatus SK53 (firmicutes),GCF_000257785.1
+4/28/2017,LPX1 2017,17AC0003893.fasta,0.8760775924,Haemophilus,influenzae,Haemophilus,0.2,influenzae,0.4843572378,HI1374,[GCF_001184655.1] Haemophilus influenzae (g-proteobacteria),
+4/28/2017,LPX1 2017,17AC0003894N.fasta,0.9955734611,Francisella,tularensis,Francisella,0.2,tularensis,0.6907936335,LVS,[GCF_000833335.1] Francisella tularensis subsp. holarctica LVS (g-proteobacteria),
+5/2/2017,LPX1 2017,17AC0003892A.fasta,0.9810867906,Burkholderia,thailandensis,Burkholderia,0.2,thailandensis,0.6395324469,E254,[GCF_000765375.1] Burkholderia thailandensis E254 (b-proteobacteria),GCF_000765375.1
+2/23/2018,BACT1_2018,18AC0002824,0.5144628286,Eikenella,corrodens,Eikenella,0.2,corrodens,0.3383596838,ATCC 23834,[GCF_000158615.1] Eikenella corrodens ATCC 23834 (b-proteobacteria),GCF_000158615.1
+2/23/2018,BACT1_2018,18AC0002825-1,0.5212985277,Aeromonas,hydrophila,Aeromonas,0.2,hydrophila,0.4721131921,NF2,[GCF_000708065.1] Aeromonas hydrophila (g-proteobacteria),GCF_000708065.1
+2/23/2018,BACT1_2018,18AC0002825-2,0.8501366973,Staphylococcus,epidermidis,Staphylococcus,0.2,epidermidis,0.6898508072,NIHLM023,[GCF_000276305.1] Staphylococcus epidermidis NIHLM023 (firmicutes),GCF_000276305.1
+2/23/2018,BACT1_2018,18AC0002826,0.9834576249,Streptococcus,agalactiae,Streptococcus,0.2,agalactiae,0.6955668926,GB-NI-006,[GCF_001218205.1] Streptococcus agalactiae (firmicutes),GCF_001218205.1
+2/23/2018,BACT1_2018,18AC0002827,0.9661863446,Vibrio,parahaemolyticus,Vibrio,0.2,parahaemolyticus,0.5529239178,Sep-63,[GCF_001006115.1] Vibrio parahaemolyticus (g-proteobacteria),GCF_001006115.1
+2/23/2018,BACT1_2018,18AC0002828,0.8995012045,Listeria,monocytogenes,Listeria,0.2,monocytogenes,0.7302600145,LS645,[GCF_000465795.1] Listeria monocytogenes serotype 4bV str. LS645 (firmicutes),GCF_000465795.1
+4/19/2018,LPX1_2018,18AC0007008CHO_S3s.fasta,0.8403024673,Escherichia,coli,Escherichia,0.2,coli,0.6537443995,KTE77,[GCF_000351725.1] Escherichia coli KTE77 (E. coli),GCF_000351725.1
+4/19/2018,LPX1_2018,18AC0007009BAP_S4s.fasta,0.9828955531,Yersinia,pestis,Yersinia,0.2,pestis,0.9081331491,A1122,[GCF_000222975.1] Yersinia pestis A1122 (enterobacteria),GCF_000222975.1
+4/19/2018,LPX1_2018,18AC0007009CHO_S5s.fasta,0.9854408503,Yersinia,pestis,Yersinia,0.2,pestis,0.9081331491,A1122,[GCF_000222975.1] Yersinia pestis A1122 (enterobacteria),GCF_000222975.1
+4/19/2018,LPX1_2018,18AC0007010BAP_S6s.fasta,0.9663368464,Bacillus,anthracis,Bacillus,0.2,anthracis,0.958271265,Sterne,[GCF_000832635.1] Bacillus anthracis str. Sterne (firmicutes),GCF_000832635.1
+4/19/2018,LPX1_2018,18AC0007010CHO_S7s.fasta,0.9938569069,Bacillus,anthracis,Bacillus,0.2,anthracis,0.958271265,Sterne,[GCF_000832635.1] Bacillus anthracis str. Sterne (firmicutes),GCF_000832635.1
+6/28/2018,BACT2_2018,18AC0012150R,0.9952038527,Alcaligenes,faecalis,Alcaligenes,0.2,faecalis,0.3756910861,NBRC 13111,[GCF_000739855.1] Alcaligenes faecalis subsp. faecalis NBRC 13111 (b-proteobacteria),GCF_000739855.1
+6/28/2018,BACT2_2018,18AC0012151B1,0.5257582068,Acinetobacter,lwoffii,Acinetobacter,0.2,lwoffii,0.4079360664,SH145,[GCF_000162095.1] Acinetobacter lwoffii SH145 (g-proteobacteria),GCF_000162095.1
+6/28/2018,BACT2_2018,18AC0012151C2,0.953250289,Staphylococcus,epidermidis,Staphylococcus,0.2,epidermidis,0.6898508072,NIHLM023,[GCF_000276305.1] Staphylococcus epidermidis NIHLM023 (firmicutes),GCF_000276305.1
+6/28/2018,BACT2_2018,18AC0012152,0.8776097894,Haemophilus,influenzae,Haemophilus,0.2,influenzae,0.4843572378,HI1374,[GCF_001184655.1] Haemophilus influenzae (g-proteobacteria),GCF_001184655.1
+6/28/2018,BACT2_2018,18AC0012153M,0.8389280438,Escherichia,coli,Escherichia,0.2,coli,0.6537443995,KTE77,[GCF_000351725.1] Escherichia coli KTE77 (E. coli),GCF_000351725.1
+6/28/2018,BACT2_2018,18AC0012153B1,0.6970015764,Enterococcus,faecium,Enterococcus,0.2,faecium,0.6451376677,MJR8396B,[GCF_001546375.1] Enterococcus faecium (firmicutes),GCF_001546375.1
+6/28/2018,BACT2_2018,18AC0012154M,0.7201772332,Citrobacter,braakii,Citrobacter,0.2,braakii,0.6804179549,641_SENT,[GCF_001065805.1] Citrobacter braakii (enterobacteria),GCF_001065805.1
+7/5/2018,BACT2_2018,18AC0012154-B,0.83940202,Escherichia,coli,Escherichia,0.2,coli,0.6537443995,KTE77,[GCF_000351725.1] Escherichia coli KTE77 (E. coli),GCF_000351725.1
+7/5/2018,BACT2_2018,18AC0012153-C,0.7197647095,Citrobacter,braakii,Citrobacter,0.2,braakii,0.6804179549,641_SENT,[GCF_001065805.1] Citrobacter braakii (enterobacteria),GCF_001065805.1
+9/27/2018,LPX2_2018,18AC0017656,0.9975816011,Francisella,tularensis,Francisella,0.2,tularensis,0.6907936335,LVS,[GCF_000833335.1] Francisella tularensis subsp. holarctica LVS (g-proteobacteria),GCF_000833335.1
+9/27/2018,LPX2_2018,18AC0017657,0.8772056103,Haemophilus,influenzae,Haemophilus,0.2,influenzae,0.4843572378,HI1374,[GCF_001184655.1] Haemophilus influenzae (g-proteobacteria),GCF_001184655.1
+9/27/2018,LPX2_2018,18AC0017658,0.9003827572,Yersinia,enterocolitica,Yersinia,0.2,enterocolitica,0.7202220559,SZ5108/01,[GCF_001103745.1] Yersinia enterocolitica (enterobacteria),GCF_001103745.1
+10/18/2018,BACT3_2018,18AC0018934,0.9886332154,Salmonella,enterica,Salmonella,0.2,enterica,0.5825528502,V46,[GCF_001219965.1] Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 (enterobacteria),GCF_001219965.1
+10/18/2018,BACT3_2018,18AC0018935,0.8928727508,Klebsiella,oxytoca,Klebsiella,0.2,oxytoca,0.638602972,G54,[GCF_000607265.1] Klebsiella oxytoca G54 (enterobacteria),GCF_000607265.1
+10/18/2018,BACT3_2018,18AC0018936-1,0.05201313272,,,Staphylococcus,0.2,epidermidis,0.6898508072,NIHLM023,[GCF_000276305.1] Staphylococcus epidermidis NIHLM023 (firmicutes),GCF_000276305.1
+10/18/2018,BACT3_2018,18AC0018936-2,0.9316939712,Staphylococcus,epidermidis,Staphylococcus,0.2,epidermidis,0.6898508072,NIHLM023,[GCF_000276305.1] Staphylococcus epidermidis NIHLM023 (firmicutes),GCF_000276305.1
+10/18/2018,BACT3_2018,18AC0018936-ANO2,0.7708352208,Bacteroides,fragilis,Bacteroides,0.2,fragilis,0.5374414325,B1 (UDC16-1),[GCF_000598625.1] Bacteroides fragilis str. B1 (UDC16-1) (CFB group bacteria),GCF_000598625.1
+10/25/2018,BACT3_2018,18AC0018937-BA,0.537915051,Streptococcus,salivarius,Streptococcus,0.2,salivarius,0.4114522636,UC3162,[GCF_000963265.1] Streptococcus salivarius (firmicutes),GCF_000963265.1
+10/25/2018,BACT3_2018,18AC0018937-BAP,0.0581833683,,,Proteus,0.2,mirabilis,0.449308753,FDAARGOS_60,[GCF_000784015.1] Proteus mirabilis (enterobacteria),GCF_000784015.1
+11/1/2018,BACT3_2018,18AC0018937,0.5389018059,Streptococcus,salivarius,Streptococcus,0.2,salivarius,0.4114522636,UC3162,[GCF_000963265.1] Streptococcus salivarius (firmicutes),GCF_000963265.1
+10/18/2018,BACT3_2018,18AC0018938-1,0.8913403153,Escherichia,coli,Escherichia,0.2,coli,0.6537443995,TOP2396-3,[GCF_000397565.1] Escherichia coli TOP2396-3 (E. coli),GCF_000397565.1
+2/14/2019,BACT1_2019,19AC0002347,0.268429786,Stenotrophomonas,,Stenotrophomonas,0.2,maltophilia,0.4182370305,305_SMAL,[GCF_001072195.1] Stenotrophomonas maltophilia (g-proteobacteria),GCF_001072195.1
+2/14/2019,BACT1_2019,19AC0002348,0.923584044,Neisseria,gonorrhoeae,Neisseria,0.2,gonorrhoeae,0.8805613518,SK33414,[GCF_001025875.1] Neisseria gonorrhoeae SK33414 (b-proteobacteria),GCF_001025875.1
+2/14/2019,BACT1_2019,19AC0002349,0.9563015103,Klebsiella,[Enterobacter] aerogenes,Klebsiella,0.2,[Enterobacter] aerogenes,0.6288182139,170_EAER,[GCF_001055555.1] [Enterobacter] aerogenes (enterobacteria),GCF_001055555.1
+2/14/2019,BACT1_2019,19AC0002350-CAMP,0.9059022069,Shigella,sonnei,Shigella,0.2,sonnei,0.8677677512,Sh54178_440879,[GCF_001259815.1] Shigella sonnei (enterobacteria),GCF_001259815.1
+2/14/2019,BACT1_2019,19AC0002351,0.9181895852,Staphylococcus,epidermidis,Staphylococcus,0.2,epidermidis,0.6898508072,NIHLM023,[GCF_000276305.1] Staphylococcus epidermidis NIHLM023 (firmicutes),GCF_000276305.1
+2/21/2019,BACT1_2019,19AC0002349B1,0.008243173361,,,Clostridium,0.2,baratii,0.3709953129,Sullivan,[GCF_000789395.1] Clostridium baratii str. Sullivan (firmicutes),GCF_000789395.1
+2/21/2019,BACT1_2019,19AC0002349B2,0.9551186562,Klebsiella,[Enterobacter] aerogenes,Klebsiella,0.2,[Enterobacter] aerogenes,0.6288182139,170_EAER,[GCF_001055555.1] [Enterobacter] aerogenes (enterobacteria),GCF_001055555.1
+4/18/2019,LPX1_2019, 19AC0006459 ,0.950740993,Burkholderia,thailandensis,Burkholderia,0.2,thailandensis,0.6395324469,E254,[GCF_000765375.1] Burkholderia thailandensis E254 (b-proteobacteria),GCF_000765375.1
+4/18/2019,LPX1_2019, 19AC0006460,0.9869769812,Bacillus,anthracis,Bacillus,0.2,anthracis,0.958271265,Sterne,[GCF_000832635.1] Bacillus anthracis str. Sterne (firmicutes),GCF_000832635.1
+4/18/2019,LPX1_2019, 19AC0006461,0.8752253652,Haemophilus,influenzae,Haemophilus,0.2,influenzae,0.4843572378,HI1374,[GCF_001184655.1] Haemophilus influenzae (g-proteobacteria),GCF_001184655.1
+6/27/2019,BACT2_2019,19AC0011209PEA,0.4257425666,Streptococcus,salivarius,Streptococcus,0.2,salivarius,0.4114522636,UC3162,[GCF_000963265.1] Streptococcus salivarius (firmicutes),GCF_000963265.1
+6/27/2019,BACT2_2019,19AC0011209-1,0.3123450875,Burkholderia,,Burkholderia,0.2,cenocepacia,0.832752943,HI2424,[GCF_000203955.1] Burkholderia cenocepacia HI2424 (b-proteobacteria),GCF_000203955.1
+6/20/2019,BACT2_2019,19AC0011211-1,0.7145031691,Morganella,morganii,Morganella,0.2,morganii,0.451708287,,[GCF_000286435.2] Morganella morganii subsp. morganii KT (enterobacteria),GCF_000286435.2
+6/20/2019,BACT2_2019,19AC0011211-2,0.8648557067,Enterococcus,faecalis,Enterococcus,0.2,faecalis,0.6636110544,DAPTO 516,[GCF_000147985.1] Enterococcus faecalis DAPTO 516 (firmicutes),GCF_000147985.1
+6/20/2019,BACT2_2019,19AC0011212,0.7232086062,Haemophilus,influenzae,Haemophilus,0.2,influenzae,0.4843572378,HI1413,[GCF_001298185.1] Haemophilus influenzae (g-proteobacteria),GCF_001298185.1
+6/20/2019,BACT2_2019,19AC0011212ANO,0.8830423355,Fusobacterium,necrophorum,Fusobacterium,0.2,necrophorum,0.6827014089,BL,[GCF_000691645.1] Fusobacterium necrophorum BL (fusobacteria),GCF_000691645.1
+6/20/2019,BACT2_2019,19AC0011213,0.8324047923,Escherichia,coli,Escherichia,0.2,coli,0.6537443995,KTE77,[GCF_000351725.1] Escherichia coli KTE77 (E. coli),GCF_000351725.1
+7/9/2019,BACT2_2019,19AC0011210-W1,0.00806090422,,,Ureaplasma,0.2,urealyticum,0.7915225029,ATCC 33175,[GCF_000169595.1] Ureaplasma urealyticum serovar 9 str. ATCC 33175 (mycoplasmas),GCF_000169595.1
+9/19/2019,LPX2_2019,19AC0015929,0.8992834091,Yersinia,enterocolitica,Yersinia,0.2,enterocolitica,0.7202220559,SZ5108/01,[GCF_001103745.1] Yersinia enterocolitica (enterobacteria),GCF_001103745.1
+9/19/2019,LPX2_2019,19AC0015930,0.9746487737,Yersinia,pestis,Yersinia,0.2,pestis,0.9081331491,A1122,[GCF_000222975.1] Yersinia pestis A1122 (enterobacteria),GCF_000222975.1
+9/19/2019,LPX2_2019,19AC0015931,0.6833360195,Vibrio,alginolyticus,Vibrio,0.2,alginolyticus,0.547298789,NBRC 15630,[GCF_000467145.1] Vibrio alginolyticus NBRC 15630 = ATCC 17749 (g-proteobacteria),GCF_000467145.1
+10/17/2019,BACT3_2019,19AC0016708,0.6738809347,Pseudomonas,,Pseudomonas,0.2,monteilii,0.994140625,NBRC 103158,[GCF_000730605.1] Pseudomonas monteilii NBRC 103158 = DSM 14164 (g-proteobacteria),GCF_000730605.1
+10/17/2019,BACT3_2019,19AC0016709,0.7838197947,Proteus,mirabilis,Proteus,0.2,mirabilis,0.449308753,FDAARGOS_67,[GCF_000783875.1] Proteus mirabilis (enterobacteria),GCF_000783875.1
+10/17/2019,BACT3_2019,19AC0016710,0.959956944,Streptococcus,pyogenes,Streptococcus,0.2,pyogenes,0.6871720552,MEW123,[GCF_001535565.1] Streptococcus pyogenes (firmicutes),GCF_001535565.1
+10/17/2019,BACT3_2019,19AC0016711,0.8903894424,Staphylococcus,saprophyticus,Staphylococcus,0.2,saprophyticus,0.8258692026,ATCC 15305,[GCF_000010125.1] Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 (firmicutes),GCF_000010125.1
+10/17/2019,BACT3_2019,19AC0016712,0.9647326469,Staphylococcus,aureus,Staphylococcus,0.2,aureus,0.6303073168,M0483,[GCF_000556585.1] Staphylococcus aureus M0483 (firmicutes),GCF_000556585.1
+10/24/2019,BACT3_2019,19AC0016708,0.6709899902,Pseudomonas,,Pseudomonas,0.2,monteilii,0.994140625,NBRC 103158,[GCF_000730605.1] Pseudomonas monteilii NBRC 103158 = DSM 14164 (g-proteobacteria),GCF_000730605.1
+2/13/2020,BACT1_2020,20AC0000919-C1,0.9816438556,Klebsiella,pneumoniae,Klebsiella,0.2,pneumoniae,0.7077963948,ATCC BAA-1705,[GCF_000349265.2] Klebsiella pneumoniae ATCC BAA-1705 (enterobacteria),GCF_000349265.2
+2/13/2020,BACT1_2020,20AC0000920-B1,0.8832373023,Pseudomonas,aeruginosa,Pseudomonas,0.2,aeruginosa,0.8698117733,AZPAE15044,[GCF_000792045.1] Pseudomonas aeruginosa (g-proteobacteria),GCF_000792045.1
+2/13/2020,BACT1_2020,20AC0000920-B2,0.9130657315,Staphylococcus,epidermidis,Staphylococcus,0.2,epidermidis,0.6898508072,NIHLM023,[GCF_000276305.1] Staphylococcus epidermidis NIHLM023 (firmicutes),GCF_000276305.1
+2/13/2020,BACT1_2020,20AC0000921-B,0.9655992389,Staphylococcus,aureus,Staphylococcus,0.2,aureus,0.6303073168,1266_SAUR,[GCF_001061385.1] Staphylococcus aureus (firmicutes),GCF_001061385.1
+2/13/2020,BACT1_2020,20AC0000922-BO2,0.90277493,Streptococcus,anginosus,Streptococcus,0.2,anginosus,0.5868607759,C238,[GCF_000463505.1] Streptococcus anginosus C238 (firmicutes),GCF_000463505.1
+2/13/2020,BACT1_2020,20AC0000922-C2ANO2,0.7879011035,Bacteroides,thetaiotaomicron,Bacteroides,0.2,thetaiotaomicron,0.5518237352,VPI-5482,[GCF_000011065.1] Bacteroides thetaiotaomicron VPI-5482 (CFB group bacteria),GCF_000011065.1
+2/13/2020,BACT1_2020,20AC0000923-C,0.9160978794,Staphylococcus,epidermidis,Staphylococcus,0.2,epidermidis,0.6898508072,59_SEPI,[GCF_001073485.1] Staphylococcus epidermidis (firmicutes),GCF_001073485.1

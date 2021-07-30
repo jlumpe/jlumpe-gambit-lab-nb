@@ -71,6 +71,34 @@ Of 98 query sequences:
 * 3 Had an additional inconsistent prediction of genus rank
 
 
+### 210730-validation-results-comparison
+
+Compares results on validation data set from last experiment to an old spreadsheet of results found
+in the Google Drive folder validation set came from
+([link](https://drive.google.com/file/d/1Tx6w7hBZU94QGWu4E8T__YRGCqOiXDzE/view?usp=sharing)).
+Don't know exactly when and how this was created (original upload date was 200617) but David seems
+to have added some annotations to it.
+
+Needed to manually match up new and old file names because there were some differences, was not
+successful in all cases. 93 matches were made (6 I marked as questionable), 5 files were unmatched
+in new set and 2 in old.
+
+#### Results
+
+All predictions were consistent with each other. Even when the new and/or old results had no species
+prediction, the species of the closest genome matched in all but one case.
+
+New predictions improved from genus to species in 7/10 cases and from nothing to genus in 2/6 cases.
+There were no cases where the new predictions were less specific.
+
+
+
+## Other files
+
+* `data-input/`
+  * `210730-validation-results-comparison/`
+	* `original-results.csv` - Original results file, annotated by David.
+	* `210730-validation-results-join.csv` - manually-created table to join old and new file names.
 
 
 ## Output
@@ -98,6 +126,17 @@ Of 98 query sequences:
     * `210729-1.0b-validation-unmatched-genus-info.csv` - information on genus/top-level taxon
 	  of closest genome for all 4 queries where no call was made, to see how much the threshold was
 	  missed by.
+  * `210730-validation-results-comparison/`
+    * `210730-1.0b-validation-results-comparison.csv` - merge of old and new result files, with
+	  comparison information added.
+	  * `file_match_ok` - Blank if I thought the match between the old and new file names was ok,
+	    `"?"` if I thought it was questionable, `"new_only"` or `"old_only"` if no match made.
+	  * `predictions_consistent` - If predicted taxa are consistent with each other. Compares at
+	    species level if both made a species prediction, otherwise at genus level.
+	  * `closest_genome_identical` - if the closest genomes are identical (same accession).
+	  * `closest_genome_species_identical` - if the closest genomes are assigned to the same species.
+	  * `new.*` - Columns from new results file.
+	  * `old.*` - Columns from old results file. Jaccard scores have been altered to distances.
 
 
 ### Not in version control
