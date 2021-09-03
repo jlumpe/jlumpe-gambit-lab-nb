@@ -20,11 +20,20 @@ use of the Entrez Elink and ESearch tools. Could not find an NCBI assembly datab
 the 500 genomes. Downloaded all genomic data to temporary directory.
 
 
+### 210902-mash-distances
+
+Calculates pairwise distances for all genomes using the Mash tool with a variety of parameter
+combinations. Uses sketch sizes 500, 1,000, 5,000, and 10,000 and k in `11:2:31`.
+
+
 ## Output
 
 * `data/intermediate/210902-mash-Escherichia-genomes/`
   * `210902-get-genomes/`
     * `genomes.csv` - Table of genomes from NCBI assembly database to be used in this experiment.
+  * `210902-mash-distances/`
+    * `mash-distances.h5` - HDF5 file containing pairwise Mash distances for all genomes for
+      multiple parameter combinations.
 
 * `data/processed/210902-mash-Escherichia-genomes/`
   * `210902-get-genomes/`
