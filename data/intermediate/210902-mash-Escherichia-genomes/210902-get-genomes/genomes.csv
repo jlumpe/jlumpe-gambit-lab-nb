@@ -1,0 +1,493 @@
+index,mash_index,assembly_accession,assembly_uid,organism,url
+1,1,GCF_000759775.1,213661,Escherichia albertii NBRC 107761 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/759/775/GCF_000759775.1_ASM75977v1/GCF_000759775.1_ASM75977v1_genomic.fna.gz
+2,3,GCF_000759795.1,213671,Pseudescherichia vulneris NBRC 102420 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/759/795/GCF_000759795.1_ASM75979v1/GCF_000759795.1_ASM75979v1_genomic.fna.gz
+3,4,GCF_000407765.1,702128,Escherichia sp. KTE114 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/407/765/GCF_000407765.1_Esch_coli_KTE114_V1/GCF_000407765.1_Esch_coli_KTE114_V1_genomic.fna.gz
+4,5,GCF_000350705.1,575668,Escherichia sp. KTE11 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/350/705/GCF_000350705.1_Esch_coli_KTE11_V1/GCF_000350705.1_Esch_coli_KTE11_V1_genomic.fna.gz
+5,6,GCF_000407925.1,702268,Escherichia sp. KTE31 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/407/925/GCF_000407925.1_Esch_coli_KTE31_V1/GCF_000407925.1_Esch_coli_KTE31_V1_genomic.fna.gz
+6,7,GCF_000408325.1,710128,Escherichia sp. KTE52 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/408/325/GCF_000408325.1_Esch_coli_KTE52_V1/GCF_000408325.1_Esch_coli_KTE52_V1_genomic.fna.gz
+7,8,GCF_000408525.1,702848,Escherichia sp. KTE96 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/408/525/GCF_000408525.1_Esch_coli_KTE96_V1/GCF_000408525.1_Esch_coli_KTE96_V1_genomic.fna.gz
+8,9,GCF_000408805.1,703128,Escherichia sp. KTE159 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/408/805/GCF_000408805.1_Esch_coli_KTE159_V1/GCF_000408805.1_Esch_coli_KTE159_V1_genomic.fna.gz
+9,10,GCF_000408845.1,703168,Escherichia sp. KTE172 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/408/845/GCF_000408845.1_Esch_coli_KTE172_V1/GCF_000408845.1_Esch_coli_KTE172_V1_genomic.fna.gz
+10,11,GCF_000512125.1,88561,Escherichia albertii KF1 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/512/125/GCF_000512125.1_ASM51212v1/GCF_000512125.1_ASM51212v1_genomic.fna.gz
+11,12,GCF_000807695.1,247161,Escherichia marmotae (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/807/695/GCF_000807695.1_ASM80769v3/GCF_000807695.1_ASM80769v3_genomic.fna.gz
+12,13,GCF_000159895.2,438978,Escherichia sp. 1_1_43 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/159/895/GCF_000159895.2_Escherichia_sp_1_1_43_V2/GCF_000159895.2_Escherichia_sp_1_1_43_V2_genomic.fna.gz
+13,14,GCF_000158415.2,395418,Escherichia sp. 4_1_40B (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/158/415/GCF_000158415.2_Escherichia_sp_4_1_40B_V2/GCF_000158415.2_Escherichia_sp_4_1_40B_V2_genomic.fna.gz
+14,15,GCF_000157115.2,376301,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/157/115/GCF_000157115.2_Escherichia_sp_3_2_53FAA_V2/GCF_000157115.2_Escherichia_sp_3_2_53FAA_V2_genomic.fna.gz
+15,16,GCF_000155105.1,181178,Escherichia albertii TW07627 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/155/105/GCF_000155105.1_ASM15510v1/GCF_000155105.1_ASM15510v1_genomic.fna.gz
+16,17,GCF_000190495.1,462348,Escherichia fergusonii B253 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/190/495/GCF_000190495.1_ASM19049v1/GCF_000190495.1_ASM19049v1_genomic.fna.gz
+17,18,GCF_000968895.2,632911,Escherichia fergusonii (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/968/895/GCF_000968895.2_ASM96889v2/GCF_000968895.2_ASM96889v2_genomic.fna.gz
+18,19,GCF_000968885.2,632931,Escherichia fergusonii (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/968/885/GCF_000968885.2_ASM96888v2/GCF_000968885.2_ASM96888v2_genomic.fna.gz
+19,20,GCF_000968905.2,632921,Escherichia fergusonii (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/968/905/GCF_000968905.2_ASM96890v2/GCF_000968905.2_ASM96890v2_genomic.fna.gz
+20,21,GCF_000208465.1,542218,Escherichia sp. TW09231 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/208/465/GCF_000208465.1_ASM20846v2/GCF_000208465.1_ASM20846v2_genomic.fna.gz
+21,22,GCF_000208445.1,542198,Escherichia sp. TW09276 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/208/445/GCF_000208445.1_ASM20844v2/GCF_000208445.1_ASM20844v2_genomic.fna.gz
+22,23,GCF_000208565.1,325308,Escherichia sp. TW09308 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/208/565/GCF_000208565.1_ASM20856v2/GCF_000208565.1_ASM20856v2_genomic.fna.gz
+23,24,GCF_000208545.1,542298,Escherichia sp. TW10509 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/208/545/GCF_000208545.1_ASM20854v2/GCF_000208545.1_ASM20854v2_genomic.fna.gz
+24,25,GCF_000208525.1,542278,Escherichia sp. TW14182 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/208/525/GCF_000208525.1_ASM20852v2/GCF_000208525.1_ASM20852v2_genomic.fna.gz
+25,26,GCF_000208425.1,542178,Escherichia albertii TW08933 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/208/425/GCF_000208425.1_ASM20842v2/GCF_000208425.1_ASM20842v2_genomic.fna.gz
+26,27,GCF_000208485.1,542238,Escherichia sp. TW15838 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/208/485/GCF_000208485.1_ASM20848v2/GCF_000208485.1_ASM20848v2_genomic.fna.gz
+27,28,GCF_000208505.1,542258,Escherichia albertii TW15818 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/208/505/GCF_000208505.1_ASM20850v2/GCF_000208505.1_ASM20850v2_genomic.fna.gz
+28,29,GCF_000191665.1,495568,Escherichia fergusonii ECD227 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/191/665/GCF_000191665.1_ecmda7/GCF_000191665.1_ecmda7_genomic.fna.gz
+29,31,GCF_000283715.1,406998,Shigella sonnei 53G (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/283/715/GCF_000283715.1_ASM28371v1/GCF_000283715.1_ASM28371v1_genomic.fna.gz
+30,33,GCF_000012025.1,33128,Shigella boydii Sb227 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/012/025/GCF_000012025.1_ASM1202v1/GCF_000012025.1_ASM1202v1_genomic.fna.gz
+31,34,GCF_000092525.1,114118,Shigella sonnei Ss046 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/092/525/GCF_000092525.1_ASM9252v1/GCF_000092525.1_ASM9252v1_genomic.fna.gz
+32,35,GCF_000013585.1,34688,Shigella flexneri 5 str. 8401 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/013/585/GCF_000013585.1_ASM1358v1/GCF_000013585.1_ASM1358v1_genomic.fna.gz
+33,36,GCF_000022245.1,371978,Shigella flexneri 2002017 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/022/245/GCF_000022245.1_ASM2224v1/GCF_000022245.1_ASM2224v1_genomic.fna.gz
+34,37,GCF_000815685.1,241511,Shigella boydii 08-0009 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/685/GCF_000815685.1_ASM81568v1/GCF_000815685.1_ASM81568v1_genomic.fna.gz
+35,38,GCF_000826695.1,247111,Shigella flexneri S5644 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/826/695/GCF_000826695.1_ASM82669v1/GCF_000826695.1_ASM82669v1_genomic.fna.gz
+36,39,GCF_000815945.1,241641,Shigella flexneri S6162 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/945/GCF_000815945.1_ASM81594v1/GCF_000815945.1_ASM81594v1_genomic.fna.gz
+37,40,GCF_000815485.1,241411,Shigella flexneri S5717 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/485/GCF_000815485.1_ASM81548v1/GCF_000815485.1_ASM81548v1_genomic.fna.gz
+38,41,GCF_000815495.1,241441,Shigella dysenteriae S6205 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/495/GCF_000815495.1_ASM81549v1/GCF_000815495.1_ASM81549v1_genomic.fna.gz
+39,42,GCF_000815505.1,241421,Shigella sonnei S6513 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/505/GCF_000815505.1_ASM81550v1/GCF_000815505.1_ASM81550v1_genomic.fna.gz
+40,43,GCF_000815515.1,241431,Shigella dysenteriae S6554 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/515/GCF_000815515.1_ASM81551v1/GCF_000815515.1_ASM81551v1_genomic.fna.gz
+41,44,GCF_000815565.1,241451,Shigella flexneri S6585 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/565/GCF_000815565.1_ASM81556v1/GCF_000815565.1_ASM81556v1_genomic.fna.gz
+42,45,GCF_000815585.1,241471,Shigella boydii S6614 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/585/GCF_000815585.1_ASM81558v1/GCF_000815585.1_ASM81558v1_genomic.fna.gz
+43,46,GCF_000815595.1,241461,Shigella flexneri S6678 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/595/GCF_000815595.1_ASM81559v1/GCF_000815595.1_ASM81559v1_genomic.fna.gz
+44,47,GCF_000815625.1,241481,Shigella flexneri S6764 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/625/GCF_000815625.1_ASM81562v1/GCF_000815625.1_ASM81562v1_genomic.fna.gz
+45,48,GCF_000815645.1,241491,Shigella boydii S7334 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/645/GCF_000815645.1_ASM81564v1/GCF_000815645.1_ASM81564v1_genomic.fna.gz
+46,49,GCF_000815665.1,241501,Shigella flexneri S7737 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/665/GCF_000815665.1_ASM81566v1/GCF_000815665.1_ASM81566v1_genomic.fna.gz
+47,50,GCF_000815705.1,241521,Shigella boydii 08-0280 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/705/GCF_000815705.1_ASM81570v1/GCF_000815705.1_ASM81570v1_genomic.fna.gz
+48,51,GCF_000815725.1,241531,Shigella boydii 08-2671 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/725/GCF_000815725.1_ASM81572v1/GCF_000815725.1_ASM81572v1_genomic.fna.gz
+49,52,GCF_000815735.1,241541,Shigella boydii 08-2675 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/735/GCF_000815735.1_ASM81573v1/GCF_000815735.1_ASM81573v1_genomic.fna.gz
+50,53,GCF_000815765.1,241551,Shigella boydii 08-6341 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/765/GCF_000815765.1_ASM81576v1/GCF_000815765.1_ASM81576v1_genomic.fna.gz
+51,54,GCF_000815785.1,241561,Shigella boydii 09-0344 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/785/GCF_000815785.1_ASM81578v1/GCF_000815785.1_ASM81578v1_genomic.fna.gz
+52,55,GCF_000815805.1,241601,Shigella flexneri MT1457 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/805/GCF_000815805.1_ASM81580v1/GCF_000815805.1_ASM81580v1_genomic.fna.gz
+53,56,GCF_000815835.1,241581,Shigella boydii 248-1B (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/835/GCF_000815835.1_ASM81583v1/GCF_000815835.1_ASM81583v1_genomic.fna.gz
+54,57,GCF_000815815.1,241571,Shigella sonnei 08-7761 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/815/GCF_000815815.1_ASM81581v1/GCF_000815815.1_ASM81581v1_genomic.fna.gz
+55,58,GCF_000815825.1,241591,Shigella sonnei 08-7765 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/825/GCF_000815825.1_ASM81582v1/GCF_000815825.1_ASM81582v1_genomic.fna.gz
+56,59,GCF_000815885.1,241611,Shigella sonnei 09-1032 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/885/GCF_000815885.1_ASM81588v1/GCF_000815885.1_ASM81588v1_genomic.fna.gz
+57,60,GCF_000815905.1,241621,Shigella sonnei 09-2245 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/905/GCF_000815905.1_ASM81590v1/GCF_000815905.1_ASM81590v1_genomic.fna.gz
+58,61,GCF_000815925.1,241631,Shigella sonnei 09-4962 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/815/925/GCF_000815925.1_ASM81592v1/GCF_000815925.1_ASM81592v1_genomic.fna.gz
+59,62,GCF_000743955.1,205481,Shigella flexneri 2003036 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/743/955/GCF_000743955.1_ASM74395v1/GCF_000743955.1_ASM74395v1_genomic.fna.gz
+60,63,GCF_000743995.1,205491,Shigella flexneri Shi06HN006 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/743/995/GCF_000743995.1_ASM74399v1/GCF_000743995.1_ASM74399v1_genomic.fna.gz
+61,64,GCF_000493265.1,78471,"Shigella flexneri II:(3)4,7(8) (enterobacteria)",ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/493/265/GCF_000493265.1_Shigella_flexneri_II_3_4_7_8_1.0/GCF_000493265.1_Shigella_flexneri_II_3_4_7_8_1.0_genomic.fna.gz
+62,65,GCF_000467205.1,63931,Shigella sonnei 1DT-1 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/467/205/GCF_000467205.1_Shigella_sonnei_strain_1DT-1/GCF_000467205.1_Shigella_sonnei_strain_1DT-1_genomic.fna.gz
+63,66,GCF_000467245.1,63951,Shigella dysenteriae SD1D (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/467/245/GCF_000467245.1_Shigella_dysenteriae_strain_SD1D/GCF_000467245.1_Shigella_dysenteriae_strain_SD1D_genomic.fna.gz
+64,67,GCF_000499085.1,81571,Shigella dysenteriae WRSd5 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/499/085/GCF_000499085.1_RRH_AFF/GCF_000499085.1_RRH_AFF_genomic.fna.gz
+65,68,GCF_000499065.1,81561,Shigella dysenteriae WRSd3 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/499/065/GCF_000499065.1_XNQ_WAC/GCF_000499065.1_XNQ_WAC_genomic.fna.gz
+66,69,GCF_000565505.1,115271,Shigella flexneri Shi06AH66 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/505/GCF_000565505.1_ASM56550v1/GCF_000565505.1_ASM56550v1_genomic.fna.gz
+67,70,GCF_000565525.1,115281,Shigella flexneri Shi06GS43 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/525/GCF_000565525.1_ASM56552v1/GCF_000565525.1_ASM56552v1_genomic.fna.gz
+68,71,GCF_000565545.1,115291,Shigella flexneri Shi06AH116 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/545/GCF_000565545.1_ASM56554v1/GCF_000565545.1_ASM56554v1_genomic.fna.gz
+69,72,GCF_000565565.1,115301,Shigella flexneri Shi06GS07 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/565/GCF_000565565.1_ASM56556v1/GCF_000565565.1_ASM56556v1_genomic.fna.gz
+70,73,GCF_000565585.1,115311,Shigella flexneri Shi06GS48 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/585/GCF_000565585.1_ASM56558v1/GCF_000565585.1_ASM56558v1_genomic.fna.gz
+71,74,GCF_000565605.1,115321,Shigella flexneri Shi06HN118 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/605/GCF_000565605.1_ASM56560v1/GCF_000565605.1_ASM56560v1_genomic.fna.gz
+72,75,GCF_000565625.1,115331,Shigella flexneri Shi06HN023 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/625/GCF_000565625.1_ASM56562v1/GCF_000565625.1_ASM56562v1_genomic.fna.gz
+73,76,GCF_000565645.1,115341,Shigella flexneri 2005AH264 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/645/GCF_000565645.1_ASM56564v1/GCF_000565645.1_ASM56564v1_genomic.fna.gz
+74,77,GCF_000565665.1,115351,Shigella flexneri Shi06AH135 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/665/GCF_000565665.1_ASM56566v1/GCF_000565665.1_ASM56566v1_genomic.fna.gz
+75,78,GCF_000565685.1,115361,Shigella flexneri Shi06HN378 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/685/GCF_000565685.1_ASM56568v1/GCF_000565685.1_ASM56568v1_genomic.fna.gz
+76,79,GCF_000565705.1,115371,Shigella flexneri Shi06HN016 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/705/GCF_000565705.1_ASM56570v1/GCF_000565705.1_ASM56570v1_genomic.fna.gz
+77,80,GCF_000565725.1,115381,Shigella flexneri Shi06HN250 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/725/GCF_000565725.1_ASM56572v1/GCF_000565725.1_ASM56572v1_genomic.fna.gz
+78,81,GCF_000565745.1,115391,Shigella flexneri Shi06AH028 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/745/GCF_000565745.1_ASM56574v1/GCF_000565745.1_ASM56574v1_genomic.fna.gz
+79,82,GCF_000565765.1,115401,Shigella flexneri Shi06HN244 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/765/GCF_000565765.1_ASM56576v1/GCF_000565765.1_ASM56576v1_genomic.fna.gz
+80,83,GCF_000565785.1,115411,Shigella flexneri Shi06GS37 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/785/GCF_000565785.1_ASM56578v1/GCF_000565785.1_ASM56578v1_genomic.fna.gz
+81,84,GCF_000565805.1,115421,Shigella flexneri 2003055 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/805/GCF_000565805.1_ASM56580v1/GCF_000565805.1_ASM56580v1_genomic.fna.gz
+82,85,GCF_000565825.1,115431,Shigella flexneri Shi06AH130 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/825/GCF_000565825.1_ASM56582v1/GCF_000565825.1_ASM56582v1_genomic.fna.gz
+83,86,GCF_000565845.1,115441,Shigella flexneri Shi06GS55 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/845/GCF_000565845.1_ASM56584v1/GCF_000565845.1_ASM56584v1_genomic.fna.gz
+84,87,GCF_000565865.1,115451,Shigella flexneri Shi06SX36 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/865/GCF_000565865.1_ASM56586v1/GCF_000565865.1_ASM56586v1_genomic.fna.gz
+85,88,GCF_000565885.1,115461,Shigella flexneri 2002103 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/885/GCF_000565885.1_ASM56588v1/GCF_000565885.1_ASM56588v1_genomic.fna.gz
+86,89,GCF_000565905.1,115471,Shigella flexneri Shi05SX04 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/905/GCF_000565905.1_ASM56590v1/GCF_000565905.1_ASM56590v1_genomic.fna.gz
+87,90,GCF_000565925.1,115481,Shigella flexneri Shi06SX53 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/925/GCF_000565925.1_ASM56592v1/GCF_000565925.1_ASM56592v1_genomic.fna.gz
+88,91,GCF_000565945.1,115491,Shigella flexneri 2002007 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/945/GCF_000565945.1_ASM56594v1/GCF_000565945.1_ASM56594v1_genomic.fna.gz
+89,92,GCF_000565965.1,115501,Shigella flexneri 51575 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/965/GCF_000565965.1_ASM56596v1/GCF_000565965.1_ASM56596v1_genomic.fna.gz
+90,93,GCF_000565985.1,115511,Shigella flexneri 51576 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/565/985/GCF_000565985.1_ASM56598v1/GCF_000565985.1_ASM56598v1_genomic.fna.gz
+91,94,GCF_000566005.1,115521,Shigella flexneri 51577 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/005/GCF_000566005.1_ASM56600v1/GCF_000566005.1_ASM56600v1_genomic.fna.gz
+92,95,GCF_000566025.1,115531,Shigella flexneri 51581 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/025/GCF_000566025.1_ASM56602v1/GCF_000566025.1_ASM56602v1_genomic.fna.gz
+93,96,GCF_000566045.1,115541,Shigella flexneri 1997005 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/045/GCF_000566045.1_ASM56604v1/GCF_000566045.1_ASM56604v1_genomic.fna.gz
+94,97,GCF_000566065.1,115551,Shigella flexneri 2000019 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/065/GCF_000566065.1_ASM56606v1/GCF_000566065.1_ASM56606v1_genomic.fna.gz
+95,98,GCF_000566085.1,115561,Shigella flexneri 2001020 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/085/GCF_000566085.1_ASM56608v1/GCF_000566085.1_ASM56608v1_genomic.fna.gz
+96,99,GCF_000566105.1,115571,Shigella flexneri 2001004 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/105/GCF_000566105.1_ASM56610v1/GCF_000566105.1_ASM56610v1_genomic.fna.gz
+97,100,GCF_000566125.1,115581,Shigella flexneri 2001042 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/125/GCF_000566125.1_ASM56612v1/GCF_000566125.1_ASM56612v1_genomic.fna.gz
+98,101,GCF_000566145.1,115591,Shigella flexneri 2001044 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/145/GCF_000566145.1_ASM56614v1/GCF_000566145.1_ASM56614v1_genomic.fna.gz
+99,102,GCF_000566165.1,115601,Shigella flexneri 2002021 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/165/GCF_000566165.1_ASM56616v1/GCF_000566165.1_ASM56616v1_genomic.fna.gz
+100,103,GCF_000566185.1,115611,Shigella flexneri 2002028 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/185/GCF_000566185.1_ASM56618v1/GCF_000566185.1_ASM56618v1_genomic.fna.gz
+101,104,GCF_000566205.1,115621,Shigella flexneri 2002069 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/205/GCF_000566205.1_ASM56620v1/GCF_000566205.1_ASM56620v1_genomic.fna.gz
+102,105,GCF_000566225.1,115631,Shigella flexneri 2002091 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/225/GCF_000566225.1_ASM56622v1/GCF_000566225.1_ASM56622v1_genomic.fna.gz
+103,106,GCF_000566245.1,115641,Shigella flexneri 2002106 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/245/GCF_000566245.1_ASM56624v1/GCF_000566245.1_ASM56624v1_genomic.fna.gz
+104,107,GCF_000566265.1,115651,Shigella flexneri 2002110 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/265/GCF_000566265.1_ASM56626v1/GCF_000566265.1_ASM56626v1_genomic.fna.gz
+105,108,GCF_000566285.1,115661,Shigella flexneri 2002140 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/285/GCF_000566285.1_ASM56628v1/GCF_000566285.1_ASM56628v1_genomic.fna.gz
+106,109,GCF_000566305.1,115671,Shigella flexneri 2003035 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/305/GCF_000566305.1_ASM56630v1/GCF_000566305.1_ASM56630v1_genomic.fna.gz
+107,110,GCF_000566325.1,115681,Shigella flexneri 2005002 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/325/GCF_000566325.1_ASM56632v1/GCF_000566325.1_ASM56632v1_genomic.fna.gz
+108,111,GCF_000566345.1,115691,Shigella flexneri 2005025 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/345/GCF_000566345.1_ASM56634v1/GCF_000566345.1_ASM56634v1_genomic.fna.gz
+109,112,GCF_000566365.1,115701,Shigella flexneri 2005051 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/365/GCF_000566365.1_ASM56636v1/GCF_000566365.1_ASM56636v1_genomic.fna.gz
+110,113,GCF_000566385.1,115711,Shigella flexneri 2005184 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/385/GCF_000566385.1_ASM56638v1/GCF_000566385.1_ASM56638v1_genomic.fna.gz
+111,114,GCF_000566405.1,115721,Shigella flexneri 2005GS061 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/405/GCF_000566405.1_ASM56640v1/GCF_000566405.1_ASM56640v1_genomic.fna.gz
+112,115,GCF_000566425.1,115731,Shigella flexneri Shi06GS02 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/425/GCF_000566425.1_ASM56642v1/GCF_000566425.1_ASM56642v1_genomic.fna.gz
+113,116,GCF_000566445.1,115741,Shigella flexneri Shi06HN159 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/445/GCF_000566445.1_ASM56644v1/GCF_000566445.1_ASM56644v1_genomic.fna.gz
+114,117,GCF_000566465.1,115751,Shigella flexneri Shi06HN344 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/465/GCF_000566465.1_ASM56646v1/GCF_000566465.1_ASM56646v1_genomic.fna.gz
+115,118,GCF_000566485.1,115761,Shigella flexneri Shi06HN347 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/485/GCF_000566485.1_ASM56648v1/GCF_000566485.1_ASM56648v1_genomic.fna.gz
+116,119,GCF_000566505.1,115771,Shigella flexneri Shi06HN091 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/505/GCF_000566505.1_ASM56650v1/GCF_000566505.1_ASM56650v1_genomic.fna.gz
+117,120,GCF_000566525.1,115781,Shigella flexneri Shi06AH091 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/525/GCF_000566525.1_ASM56652v1/GCF_000566525.1_ASM56652v1_genomic.fna.gz
+118,121,GCF_000566545.1,115791,Shigella flexneri 2001025 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/545/GCF_000566545.1_ASM56654v1/GCF_000566545.1_ASM56654v1_genomic.fna.gz
+119,122,GCF_000566565.1,115801,Shigella flexneri 2001027 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/565/GCF_000566565.1_ASM56656v1/GCF_000566565.1_ASM56656v1_genomic.fna.gz
+120,123,GCF_000566585.1,115811,Shigella flexneri 2001048 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/585/GCF_000566585.1_ASM56658v1/GCF_000566585.1_ASM56658v1_genomic.fna.gz
+121,124,GCF_000566605.1,115821,Shigella flexneri 2002035 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/605/GCF_000566605.1_ASM56660v1/GCF_000566605.1_ASM56660v1_genomic.fna.gz
+122,125,GCF_000566625.1,115831,Shigella flexneri 2002127 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/625/GCF_000566625.1_ASM56662v1/GCF_000566625.1_ASM56662v1_genomic.fna.gz
+123,126,GCF_000566645.1,115841,Shigella flexneri 2002141 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/645/GCF_000566645.1_ASM56664v1/GCF_000566645.1_ASM56664v1_genomic.fna.gz
+124,127,GCF_000566665.1,115851,Shigella flexneri 2002142 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/566/665/GCF_000566665.1_ASM56666v1/GCF_000566665.1_ASM56666v1_genomic.fna.gz
+125,128,GCF_000183785.1,459908,Shigella flexneri 2a str. 2457T (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/183/785/GCF_000183785.1_ASM18378v2/GCF_000183785.1_ASM18378v2_genomic.fna.gz
+126,129,GCF_000953035.1,311731,Shigella flexneri (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/953/035/GCF_000953035.1_NCTC1/GCF_000953035.1_NCTC1_genomic.fna.gz
+127,130,GCF_000710235.1,188201,Shigella flexneri (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/710/235/GCF_000710235.1_ASM71023v1/GCF_000710235.1_ASM71023v1_genomic.fna.gz
+128,131,GCF_000281815.1,471408,Shigella sonnei str. Moseley (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/281/815/GCF_000281815.1_ASM28181v1/GCF_000281815.1_ASM28181v1_genomic.fna.gz
+129,132,GCF_000267985.1,486148,Shigella flexneri CCH060 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/267/985/GCF_000267985.1_ASM26798v1/GCF_000267985.1_ASM26798v1_genomic.fna.gz
+130,133,GCF_000217895.1,467468,Shigella flexneri SFJ17B (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/217/895/GCF_000217895.1_ASM21789v2/GCF_000217895.1_ASM21789v2_genomic.fna.gz
+131,134,GCF_000164925.1,235178,Shigella dysenteriae 1617 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/164/925/GCF_000164925.1_ASM16492v1/GCF_000164925.1_ASM16492v1_genomic.fna.gz
+132,135,GCF_000268145.1,486228,Shigella boydii 965-58 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/268/145/GCF_000268145.1_ASM26814v1/GCF_000268145.1_ASM26814v1_genomic.fna.gz
+133,136,GCF_000211955.1,466588,Shigella boydii 3594-74 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/211/955/GCF_000211955.1_ASM21195v2/GCF_000211955.1_ASM21195v2_genomic.fna.gz
+134,137,GCF_000268185.1,486248,Shigella boydii 4444-74 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/268/185/GCF_000268185.1_ASM26818v1/GCF_000268185.1_ASM26818v1_genomic.fna.gz
+135,138,GCF_000211975.1,466628,Shigella boydii 5216-82 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/211/975/GCF_000211975.1_ASM21197v2/GCF_000211975.1_ASM21197v2_genomic.fna.gz
+136,139,GCF_000211935.1,466528,Shigella dysenteriae 155-74 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/211/935/GCF_000211935.1_ASM21193v2/GCF_000211935.1_ASM21193v2_genomic.fna.gz
+137,140,GCF_000268105.1,486348,Shigella dysenteriae 225-75 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/268/105/GCF_000268105.1_ASM26810v1/GCF_000268105.1_ASM26810v1_genomic.fna.gz
+138,141,GCF_000213695.1,466728,Shigella flexneri VA-6 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/213/695/GCF_000213695.1_ASM21369v2/GCF_000213695.1_ASM21369v2_genomic.fna.gz
+139,142,GCF_000213675.1,466708,Shigella flexneri K-218 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/213/675/GCF_000213675.1_ASM21367v2/GCF_000213675.1_ASM21367v2_genomic.fna.gz
+140,143,GCF_000213735.1,466768,Shigella flexneri K-227 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/213/735/GCF_000213735.1_ASM21373v2/GCF_000213735.1_ASM21373v2_genomic.fna.gz
+141,144,GCF_000213715.1,466748,Shigella flexneri K-272 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/213/715/GCF_000213715.1_ASM21371v2/GCF_000213715.1_ASM21371v2_genomic.fna.gz
+142,145,GCF_000213755.1,466788,Shigella flexneri K-304 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/213/755/GCF_000213755.1_ASM21375v2/GCF_000213755.1_ASM21375v2_genomic.fna.gz
+143,146,GCF_000268165.1,486188,Shigella flexneri K-315 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/268/165/GCF_000268165.1_ASM26816v1/GCF_000268165.1_ASM26816v1_genomic.fna.gz
+144,147,GCF_000213435.1,466808,Shigella flexneri K-671 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/213/435/GCF_000213435.1_ASM21343v2/GCF_000213435.1_ASM21343v2_genomic.fna.gz
+145,148,GCF_000268245.1,486168,Shigella flexneri K-1770 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/268/245/GCF_000268245.1_ASM26824v1/GCF_000268245.1_ASM26824v1_genomic.fna.gz
+146,149,GCF_000296305.1,493648,Shigella flexneri 1485-80 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/296/305/GCF_000296305.1_ASM29630v1/GCF_000296305.1_ASM29630v1_genomic.fna.gz
+147,150,GCF_000268085.1,486128,Shigella flexneri 2850-71 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/268/085/GCF_000268085.1_ASM26808v1/GCF_000268085.1_ASM26808v1_genomic.fna.gz
+148,151,GCF_000213495.1,466868,Shigella flexneri 2930-71 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/213/495/GCF_000213495.1_ASM21349v2/GCF_000213495.1_ASM21349v2_genomic.fna.gz
+149,152,GCF_000213475.1,466848,Shigella flexneri 4343-70 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/213/475/GCF_000213475.1_ASM21347v2/GCF_000213475.1_ASM21347v2_genomic.fna.gz
+150,153,GCF_000281795.1,471388,Shigella flexneri 6603-63 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/281/795/GCF_000281795.1_ASM28179v1/GCF_000281795.1_ASM28179v1_genomic.fna.gz
+151,154,GCF_000268045.1,486268,Shigella sonnei 3226-85 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/268/045/GCF_000268045.1_ASM26804v1/GCF_000268045.1_ASM26804v1_genomic.fna.gz
+152,155,GCF_000268005.1,486288,Shigella sonnei 3233-85 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/268/005/GCF_000268005.1_ASM26800v1/GCF_000268005.1_ASM26800v1_genomic.fna.gz
+153,156,GCF_000268225.1,486308,Shigella sonnei 4822-66 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/268/225/GCF_000268225.1_ASM26822v1/GCF_000268225.1_ASM26822v1_genomic.fna.gz
+154,157,GCF_000193915.1,463068,Shigella boydii ATCC 9905 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/193/915/GCF_000193915.1_ASM19391v2/GCF_000193915.1_ASM19391v2_genomic.fna.gz
+155,158,GCF_000193895.1,463048,Shigella dysenteriae CDC 74-1112 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/193/895/GCF_000193895.1_ASM19389v2/GCF_000193895.1_ASM19389v2_genomic.fna.gz
+156,159,GCF_000193935.1,463088,Shigella flexneri CDC 796-83 (enterobacteria),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/193/935/GCF_000193935.1_ASM19393v2/GCF_000193935.1_ASM19393v2_genomic.fna.gz
+157,160,GCF_000210475.1,379808,Escherichia coli ETEC H10407 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/210/475/GCF_000210475.1_ASM21047v1/GCF_000210475.1_ASM21047v1_genomic.fna.gz
+158,161,GCF_000013305.1,34408,Escherichia coli 536 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/013/305/GCF_000013305.1_ASM1330v1/GCF_000013305.1_ASM1330v1_genomic.fna.gz
+159,163,GCF_000014845.1,35948,Escherichia coli APEC O1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/014/845/GCF_000014845.1_ASM1484v1/GCF_000014845.1_ASM1484v1_genomic.fna.gz
+160,164,GCF_000010485.1,380618,Escherichia coli SE15 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/010/485/GCF_000010485.1_ASM1048v1/GCF_000010485.1_ASM1048v1_genomic.fna.gz
+161,166,GCF_000147855.2,359678,Escherichia coli KO11FL (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/147/855/GCF_000147855.2_ASM14785v3/GCF_000147855.2_ASM14785v3_genomic.fna.gz
+162,167,GCF_000023665.1,44328,Escherichia coli 'BL21-Gold(DE3)pLysS AG' (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/023/665/GCF_000023665.1_ASM2366v1/GCF_000023665.1_ASM2366v1_genomic.fna.gz
+163,168,GCF_000257275.1,378418,Escherichia coli P12b (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/257/275/GCF_000257275.1_ASM25727v1/GCF_000257275.1_ASM25727v1_genomic.fna.gz
+164,169,GCF_000316425.2,548941,Escherichia coli 90.2281 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/316/425/GCF_000316425.2_ASM31642v2/GCF_000316425.2_ASM31642v2_genomic.fna.gz
+165,170,GCF_000316905.2,549201,Escherichia coli 96.0428 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/316/905/GCF_000316905.2_ASM31690v2/GCF_000316905.2_ASM31690v2_genomic.fna.gz
+166,171,GCF_000316725.2,549061,Escherichia coli 97.1742 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/316/725/GCF_000316725.2_ASM31672v2/GCF_000316725.2_ASM31672v2_genomic.fna.gz
+167,172,GCF_000335255.2,549581,Escherichia coli 99.0839 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/335/255/GCF_000335255.2_ASM33525v2/GCF_000335255.2_ASM33525v2_genomic.fna.gz
+168,173,GCF_000303235.2,552791,Escherichia coli 0.1304 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/303/235/GCF_000303235.2_ASM30323v2/GCF_000303235.2_ASM30323v2_genomic.fna.gz
+169,174,GCF_000335355.2,549691,Escherichia coli PA2 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/335/355/GCF_000335355.2_ASM33535v2/GCF_000335355.2_ASM33535v2_genomic.fna.gz
+170,175,GCF_000267085.1,485628,Escherichia coli PA22 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/267/085/GCF_000267085.1_ASM26708v1/GCF_000267085.1_ASM26708v1_genomic.fna.gz
+171,176,GCF_000267805.2,551351,Escherichia coli PA24 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/267/805/GCF_000267805.2_ASM26780v2/GCF_000267805.2_ASM26780v2_genomic.fna.gz
+172,177,GCF_000267765.2,546051,Escherichia coli PA28 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/267/765/GCF_000267765.2_ASM26776v2/GCF_000267765.2_ASM26776v2_genomic.fna.gz
+173,178,GCF_000267685.2,545971,Escherichia coli PA39 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/267/685/GCF_000267685.2_ASM26768v2/GCF_000267685.2_ASM26768v2_genomic.fna.gz
+174,179,GCF_000267645.2,545931,Escherichia coli PA42 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/267/645/GCF_000267645.2_ASM26764v2/GCF_000267645.2_ASM26764v2_genomic.fna.gz
+175,180,GCF_000303915.2,548161,Escherichia coli PA49 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/303/915/GCF_000303915.2_ASM30391v2/GCF_000303915.2_ASM30391v2_genomic.fna.gz
+176,181,GCF_000267605.2,545911,Escherichia coli TW09098 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/267/605/GCF_000267605.2_ASM26760v2/GCF_000267605.2_ASM26760v2_genomic.fna.gz
+177,182,GCF_000267305.2,545671,Escherichia coli EC4439 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/267/305/GCF_000267305.2_ASM26730v2/GCF_000267305.2_ASM26730v2_genomic.fna.gz
+178,183,GCF_000303395.2,547831,Escherichia coli EC1865 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/303/395/GCF_000303395.2_ASM30339v2/GCF_000303395.2_ASM30339v2_genomic.fna.gz
+179,184,GCF_000303995.2,548241,Escherichia coli 5905 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/303/995/GCF_000303995.2_ASM30399v2/GCF_000303995.2_ASM30399v2_genomic.fna.gz
+180,185,GCF_000304035.2,548271,Escherichia coli EC96038 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/304/035/GCF_000304035.2_ASM30403v2/GCF_000304035.2_ASM30403v2_genomic.fna.gz
+181,186,GCF_000304055.2,548291,Escherichia coli 5412 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/304/055/GCF_000304055.2_ASM30405v2/GCF_000304055.2_ASM30405v2_genomic.fna.gz
+182,187,GCF_000303655.2,548021,Escherichia coli 07798 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/303/655/GCF_000303655.2_ASM30365v2/GCF_000303655.2_ASM30365v2_genomic.fna.gz
+183,188,GCF_000235225.1,467788,Escherichia coli O104:H4 str. 09-7901 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/235/225/GCF_000235225.1_Esch_coli_09-7901_V2/GCF_000235225.1_Esch_coli_09-7901_V2_genomic.fna.gz
+184,189,GCF_000335415.2,549731,Escherichia coli PA11 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/335/415/GCF_000335415.2_ASM33541v2/GCF_000335415.2_ASM33541v2_genomic.fna.gz
+185,190,GCF_000335335.2,549671,Escherichia coli PA19 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/335/335/GCF_000335335.2_ASM33533v2/GCF_000335335.2_ASM33533v2_genomic.fna.gz
+186,191,GCF_000235105.1,468628,Escherichia coli O104:H4 str. 11-4632 C2 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/235/105/GCF_000235105.1_Esch_coli_11-4632_C2_V2/GCF_000235105.1_Esch_coli_11-4632_C2_V2_genomic.fna.gz
+187,192,GCF_000234275.2,354861,Escherichia coli O121:H19 str. MT#2 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/234/275/GCF_000234275.2_ASM23427v3/GCF_000234275.2_ASM23427v3_genomic.fna.gz
+188,193,GCF_000340455.2,552361,Escherichia coli 09BKT078844 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/340/455/GCF_000340455.2_ASM34045v2/GCF_000340455.2_ASM34045v2_genomic.fna.gz
+189,194,GCF_000259135.1,482448,Escherichia coli AI27 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/259/135/GCF_000259135.1_ECAI27.hybrid.1/GCF_000259135.1_ECAI27.hybrid.1_genomic.fna.gz
+190,195,GCF_000353545.1,567198,Escherichia coli O104:H4 str. E92/11 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/353/545/GCF_000353545.1_E92_11NrN01/GCF_000353545.1_E92_11NrN01_genomic.fna.gz
+191,196,GCF_000354895.2,563161,Escherichia coli 2731150 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/354/895/GCF_000354895.2_ASM35489v2/GCF_000354895.2_ASM35489v2_genomic.fna.gz
+192,197,GCF_000355535.1,673058,Escherichia coli 2762100 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/355/535/GCF_000355535.1_ASM35553v1/GCF_000355535.1_ASM35553v1_genomic.fna.gz
+193,198,GCF_000355055.1,573938,Escherichia coli 2850400 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/355/055/GCF_000355055.1_ASM35505v1/GCF_000355055.1_ASM35505v1_genomic.fna.gz
+194,199,GCF_000355035.2,563201,Escherichia coli 2861200 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/355/035/GCF_000355035.2_ASM35503v2/GCF_000355035.2_ASM35503v2_genomic.fna.gz
+195,200,GCF_000356505.2,563831,Escherichia coli 2866350 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/356/505/GCF_000356505.2_ASM35650v2/GCF_000356505.2_ASM35650v2_genomic.fna.gz
+196,201,GCF_000356245.1,578698,Escherichia coli 2875150 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/356/245/GCF_000356245.1_ASM35624v1/GCF_000356245.1_ASM35624v1_genomic.fna.gz
+197,202,GCF_000357585.2,564241,Escherichia coli P0299438.10 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/357/585/GCF_000357585.2_ASM35758v2/GCF_000357585.2_ASM35758v2_genomic.fna.gz
+198,203,GCF_000357325.1,579778,Escherichia coli P0299917.5 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/357/325/GCF_000357325.1_ASM35732v1/GCF_000357325.1_ASM35732v1_genomic.fna.gz
+199,204,GCF_000357345.2,564121,Escherichia coli P0299917.6 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/357/345/GCF_000357345.2_ASM35734v2/GCF_000357345.2_ASM35734v2_genomic.fna.gz
+200,205,GCF_000354515.2,554111,Escherichia coli MP021017.5 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/354/515/GCF_000354515.2_ASM35451v2/GCF_000354515.2_ASM35451v2_genomic.fna.gz
+201,206,GCF_000358855.2,564751,Escherichia coli P0301867.5 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/358/855/GCF_000358855.2_ASM35885v2/GCF_000358855.2_ASM35885v2_genomic.fna.gz
+202,207,GCF_000356965.1,579418,Escherichia coli P0302293.8 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/356/965/GCF_000356965.1_ASM35696v1/GCF_000356965.1_ASM35696v1_genomic.fna.gz
+203,208,GCF_000357925.2,564371,Escherichia coli P0305260.10 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/357/925/GCF_000357925.2_ASM35792v2/GCF_000357925.2_ASM35792v2_genomic.fna.gz
+204,209,GCF_000358635.2,564661,Escherichia coli p0305293.2 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/358/635/GCF_000358635.2_ASM35863v2/GCF_000358635.2_ASM35863v2_genomic.fna.gz
+205,210,GCF_000359095.2,564821,Escherichia coli p0305293.7 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/359/095/GCF_000359095.2_ASM35909v2/GCF_000359095.2_ASM35909v2_genomic.fna.gz
+206,211,GCF_000358555.1,581008,Escherichia coli p0305293.10 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/358/555/GCF_000358555.1_ASM35855v1/GCF_000358555.1_ASM35855v1_genomic.fna.gz
+207,212,GCF_000356865.2,563971,Escherichia coli p0305293.13 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/356/865/GCF_000356865.2_ASM35686v2/GCF_000356865.2_ASM35686v2_genomic.fna.gz
+208,213,GCF_000358615.2,564651,Escherichia coli p0305293.15 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/358/615/GCF_000358615.2_ASM35861v2/GCF_000358615.2_ASM35861v2_genomic.fna.gz
+209,214,GCF_000356385.1,578838,Escherichia coli BCE030_MS-09 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/356/385/GCF_000356385.1_ASM35638v1/GCF_000356385.1_ASM35638v1_genomic.fna.gz
+210,215,GCF_000356685.2,563901,Escherichia coli 2846750 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/356/685/GCF_000356685.2_ASM35668v2/GCF_000356685.2_ASM35668v2_genomic.fna.gz
+211,216,GCF_000356125.1,578578,Escherichia coli 199900.1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/356/125/GCF_000356125.1_ASM35612v1/GCF_000356125.1_ASM35612v1_genomic.fna.gz
+212,217,GCF_000354795.2,563131,Escherichia coli MP021561.2 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/354/795/GCF_000354795.2_ASM35479v2/GCF_000354795.2_ASM35479v2_genomic.fna.gz
+213,218,GCF_000355275.2,563291,Escherichia coli MP020940.1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/355/275/GCF_000355275.2_ASM35527v2/GCF_000355275.2_ASM35527v2_genomic.fna.gz
+214,219,GCF_000357545.2,564221,Escherichia coli P0298942.7 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/357/545/GCF_000357545.2_ASM35754v2/GCF_000357545.2_ASM35754v2_genomic.fna.gz
+215,220,GCF_000356645.2,563881,Escherichia coli P0299438.2 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/356/645/GCF_000356645.2_ASM35664v2/GCF_000356645.2_ASM35664v2_genomic.fna.gz
+216,221,GCF_000357785.2,564311,Escherichia coli P0302308.3 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/357/785/GCF_000357785.2_ASM35778v2/GCF_000357785.2_ASM35778v2_genomic.fna.gz
+217,222,GCF_000358875.1,581328,Escherichia coli P0302308.10 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/358/875/GCF_000358875.1_ASM35887v1/GCF_000358875.1_ASM35887v1_genomic.fna.gz
+218,223,GCF_000358955.2,564771,Escherichia coli P0304816.5 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/358/955/GCF_000358955.2_ASM35895v2/GCF_000358955.2_ASM35895v2_genomic.fna.gz
+219,224,GCF_000358995.1,663638,Escherichia coli P0304816.14 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/358/995/GCF_000358995.1_ASM35899v1/GCF_000358995.1_ASM35899v1_genomic.fna.gz
+220,225,GCF_000358045.2,564431,Escherichia coli P0305260.4 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/358/045/GCF_000358045.2_ASM35804v2/GCF_000358045.2_ASM35804v2_genomic.fna.gz
+221,226,GCF_000446095.2,565471,Escherichia coli C1244_91 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/446/095/GCF_000446095.2_ASM44609v2/GCF_000446095.2_ASM44609v2_genomic.fna.gz
+222,227,GCF_000356025.2,563621,Escherichia coli P0301867.2 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/356/025/GCF_000356025.2_ASM35602v2/GCF_000356025.2_ASM35602v2_genomic.fna.gz
+223,228,GCF_000357125.1,579578,Escherichia coli P0299483.3 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/357/125/GCF_000357125.1_ASM35712v1/GCF_000357125.1_ASM35712v1_genomic.fna.gz
+224,229,GCF_000446465.2,565761,Escherichia coli C353_09 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/446/465/GCF_000446465.2_ASM44646v2/GCF_000446465.2_ASM44646v2_genomic.fna.gz
+225,230,GCF_000446585.2,565821,Escherichia coli C496_10 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/446/585/GCF_000446585.2_ASM44658v2/GCF_000446585.2_ASM44658v2_genomic.fna.gz
+226,231,GCF_000446745.2,565901,Escherichia coli C717_10 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/446/745/GCF_000446745.2_ASM44674v2/GCF_000446745.2_ASM44674v2_genomic.fna.gz
+227,232,GCF_000462045.2,567921,Escherichia coli B28-1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/462/045/GCF_000462045.2_ASM46204v2/GCF_000462045.2_ASM46204v2_genomic.fna.gz
+228,233,GCF_000462625.2,568201,Escherichia coli B113 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/462/625/GCF_000462625.2_ASM46262v2/GCF_000462625.2_ASM46262v2_genomic.fna.gz
+229,234,GCF_000264015.1,483468,Escherichia coli O26:H11 str. CVM9942 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/264/015/GCF_000264015.1_ASM26401v1/GCF_000264015.1_ASM26401v1_genomic.fna.gz
+230,235,GCF_000259425.1,482508,Escherichia coli O32:H37 str. P4 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/259/425/GCF_000259425.1_ASM25942v1/GCF_000259425.1_ASM25942v1_genomic.fna.gz
+231,236,GCF_000407665.1,702028,Escherichia coli KTE1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/407/665/GCF_000407665.1_Esch_coli_KTE1_V1/GCF_000407665.1_Esch_coli_KTE1_V1_genomic.fna.gz
+232,237,GCF_000407685.1,702048,Escherichia coli KTE3 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/407/685/GCF_000407685.1_Esch_coli_KTE3_V1/GCF_000407685.1_Esch_coli_KTE3_V1_genomic.fna.gz
+233,238,GCF_000352205.1,577168,Escherichia coli KTE23 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/352/205/GCF_000352205.1_Esch_coli_KTE23_V1/GCF_000352205.1_Esch_coli_KTE23_V1_genomic.fna.gz
+234,239,GCF_000407885.1,702248,Escherichia coli KTE27 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/407/885/GCF_000407885.1_Esch_coli_KTE27_V1/GCF_000407885.1_Esch_coli_KTE27_V1_genomic.fna.gz
+235,240,GCF_000407945.1,702288,Escherichia coli KTE34 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/407/945/GCF_000407945.1_Esch_coli_KTE34_V1/GCF_000407945.1_Esch_coli_KTE34_V1_genomic.fna.gz
+236,241,GCF_000407985.1,702328,Escherichia coli KTE37 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/407/985/GCF_000407985.1_Esch_coli_KTE37_V1/GCF_000407985.1_Esch_coli_KTE37_V1_genomic.fna.gz
+237,242,GCF_000326505.1,519098,Escherichia coli KTE82 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/326/505/GCF_000326505.1_Esch_coli_KTE82_V1/GCF_000326505.1_Esch_coli_KTE82_V1_genomic.fna.gz
+238,243,GCF_000326825.1,519078,Escherichia coli KTE232 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/326/825/GCF_000326825.1_Esch_coli_KTE232_V1/GCF_000326825.1_Esch_coli_KTE232_V1_genomic.fna.gz
+239,244,GCF_000326205.1,518618,Escherichia coli KTE117 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/326/205/GCF_000326205.1_Esch_coli_KTE117_V1/GCF_000326205.1_Esch_coli_KTE117_V1_genomic.fna.gz
+240,245,GCF_000326965.1,578188,Escherichia coli KTE125 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/326/965/GCF_000326965.1_Esch_coli_KTE125_V1/GCF_000326965.1_Esch_coli_KTE125_V1_genomic.fna.gz
+241,246,GCF_000326725.1,518838,Escherichia coli KTE150 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/326/725/GCF_000326725.1_Esch_coli_KTE150_V1/GCF_000326725.1_Esch_coli_KTE150_V1_genomic.fna.gz
+242,247,GCF_000326785.1,519018,Escherichia coli KTE177 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/326/785/GCF_000326785.1_Esch_coli_KTE177_V1/GCF_000326785.1_Esch_coli_KTE177_V1_genomic.fna.gz
+243,248,GCF_000259385.1,546718,Escherichia coli NCCP15647 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/259/385/GCF_000259385.1_NCCP15647_1.0/GCF_000259385.1_NCCP15647_1.0_genomic.fna.gz
+244,249,GCF_000304255.1,494288,Escherichia coli AD30 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/304/255/GCF_000304255.1_ECAD30.1/GCF_000304255.1_ECAD30.1_genomic.fna.gz
+245,250,GCF_000350945.1,575908,Escherichia coli KTE187 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/350/945/GCF_000350945.1_Esch_coli_KTE187_V1/GCF_000350945.1_Esch_coli_KTE187_V1_genomic.fna.gz
+246,251,GCF_000352985.1,569848,Escherichia coli KTE203 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/352/985/GCF_000352985.1_Esch_coli_KTE203_V1/GCF_000352985.1_Esch_coli_KTE203_V1_genomic.fna.gz
+247,252,GCF_000351065.1,576028,Escherichia coli KTE204 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/351/065/GCF_000351065.1_Esch_coli_KTE204_V1/GCF_000351065.1_Esch_coli_KTE204_V1_genomic.fna.gz
+248,253,GCF_000353045.1,578008,Escherichia coli KTE211 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/353/045/GCF_000353045.1_Esch_coli_KTE211_V1/GCF_000353045.1_Esch_coli_KTE211_V1_genomic.fna.gz
+249,254,GCF_000351245.1,576208,Escherichia coli KTE220 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/351/245/GCF_000351245.1_Esch_coli_KTE220_V1/GCF_000351245.1_Esch_coli_KTE220_V1_genomic.fna.gz
+250,255,GCF_000351405.1,576368,Escherichia coli KTE237 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/351/405/GCF_000351405.1_Esch_coli_KTE237_V1/GCF_000351405.1_Esch_coli_KTE237_V1_genomic.fna.gz
+251,256,GCF_000351505.1,576468,Escherichia coli KTE55 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/351/505/GCF_000351505.1_Esch_coli_KTE55_V1/GCF_000351505.1_Esch_coli_KTE55_V1_genomic.fna.gz
+252,257,GCF_000351605.1,576568,Escherichia coli KTE62 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/351/605/GCF_000351605.1_Esch_coli_KTE62_V1/GCF_000351605.1_Esch_coli_KTE62_V1_genomic.fna.gz
+253,258,GCF_000408365.1,702688,Escherichia coli KTE64 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/408/365/GCF_000408365.1_Esch_coli_KTE64_V1/GCF_000408365.1_Esch_coli_KTE64_V1_genomic.fna.gz
+254,259,GCF_000408445.1,702768,Escherichia coli KTE71 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/408/445/GCF_000408445.1_Esch_coli_KTE71_V1/GCF_000408445.1_Esch_coli_KTE71_V1_genomic.fna.gz
+255,260,GCF_000408465.1,702788,Escherichia coli KTE73 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/408/465/GCF_000408465.1_Esch_coli_KTE73_V1/GCF_000408465.1_Esch_coli_KTE73_V1_genomic.fna.gz
+256,261,GCF_000352445.1,577408,Escherichia coli KTE79 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/352/445/GCF_000352445.1_Esch_coli_KTE79_V1/GCF_000352445.1_Esch_coli_KTE79_V1_genomic.fna.gz
+257,262,GCF_000351805.1,576768,Escherichia coli KTE86 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/351/805/GCF_000351805.1_Esch_coli_KTE86_V1/GCF_000351805.1_Esch_coli_KTE86_V1_genomic.fna.gz
+258,263,GCF_000408505.1,702828,Escherichia coli KTE89 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/408/505/GCF_000408505.1_Esch_coli_KTE89_V1/GCF_000408505.1_Esch_coli_KTE89_V1_genomic.fna.gz
+259,264,GCF_000408565.1,702888,Escherichia coli KTE100 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/408/565/GCF_000408565.1_Esch_coli_KTE100_V1/GCF_000408565.1_Esch_coli_KTE100_V1_genomic.fna.gz
+260,265,GCF_000352525.1,577488,Escherichia coli KTE115 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/352/525/GCF_000352525.1_Esch_coli_KTE115_V1/GCF_000352525.1_Esch_coli_KTE115_V1_genomic.fna.gz
+261,266,GCF_000408665.1,702988,Escherichia coli KTE121 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/408/665/GCF_000408665.1_Esch_coli_KTE121_V1/GCF_000408665.1_Esch_coli_KTE121_V1_genomic.fna.gz
+262,267,GCF_000408725.1,703048,Escherichia coli KTE130 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/408/725/GCF_000408725.1_Esch_coli_KTE130_V1/GCF_000408725.1_Esch_coli_KTE130_V1_genomic.fna.gz
+263,268,GCF_000352645.1,577608,Escherichia coli KTE141 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/352/645/GCF_000352645.1_Esch_coli_KTE141_V1/GCF_000352645.1_Esch_coli_KTE141_V1_genomic.fna.gz
+264,269,GCF_000351945.1,576908,Escherichia coli KTE143 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/351/945/GCF_000351945.1_Esch_coli_KTE143_V1/GCF_000351945.1_Esch_coli_KTE143_V1_genomic.fna.gz
+265,270,GCF_000352665.1,577628,Escherichia coli KTE144 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/352/665/GCF_000352665.1_Esch_coli_KTE144_V1/GCF_000352665.1_Esch_coli_KTE144_V1_genomic.fna.gz
+266,271,GCF_000352765.1,577728,Escherichia coli KTE165 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/352/765/GCF_000352765.1_Esch_coli_KTE165_V1/GCF_000352765.1_Esch_coli_KTE165_V1_genomic.fna.gz
+267,272,GCF_000352045.1,577008,Escherichia coli KTE171 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/352/045/GCF_000352045.1_Esch_coli_KTE171_V1/GCF_000352045.1_Esch_coli_KTE171_V1_genomic.fna.gz
+268,273,GCF_000340235.1,548498,Escherichia coli O08 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/340/235/GCF_000340235.1_O8/GCF_000340235.1_O8_genomic.fna.gz
+269,274,GCF_000319955.1,514038,Escherichia coli O104:H4 str. Ec11-4986 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/319/955/GCF_000319955.1_Esch_coli_Ec11-4986_V1/GCF_000319955.1_Esch_coli_Ec11-4986_V1_genomic.fna.gz
+270,275,GCF_000320135.1,514448,Escherichia coli O104:H4 str. 11-03439 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/320/135/GCF_000320135.1_Esch_coli_11-03439_V1/GCF_000320135.1_Esch_coli_11-03439_V1_genomic.fna.gz
+271,276,GCF_000320175.1,514468,Escherichia coli O104:H4 str. 11-04080 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/320/175/GCF_000320175.1_Esch_coli_11-04080_V1/GCF_000320175.1_Esch_coli_11-04080_V1_genomic.fna.gz
+272,277,GCF_000320255.1,514218,Escherichia coli O104:H4 str. Ec12-0465 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/320/255/GCF_000320255.1_Esch_coli_Ec12-0465_V1/GCF_000320255.1_Esch_coli_Ec12-0465_V1_genomic.fna.gz
+273,278,GCF_000671295.1,168651,Escherichia coli O145:H28 str. RM12581 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/671/295/GCF_000671295.1_ASM67129v1/GCF_000671295.1_ASM67129v1_genomic.fna.gz
+274,279,GCF_000520055.1,92711,Escherichia coli O145:H28 str. RM13516 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/520/055/GCF_000520055.1_ASM52005v1/GCF_000520055.1_ASM52005v1_genomic.fna.gz
+275,281,GCF_000485635.1,73261,Escherichia coli 113290 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/485/635/GCF_000485635.1_ASM48563v1/GCF_000485635.1_ASM48563v1_genomic.fna.gz
+276,282,GCF_000488455.1,75821,Escherichia coli 907889 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/488/455/GCF_000488455.1_ASM48845v1/GCF_000488455.1_ASM48845v1_genomic.fna.gz
+277,283,GCF_000488495.1,75841,Escherichia coli 908519 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/488/495/GCF_000488495.1_ASM48849v1/GCF_000488495.1_ASM48849v1_genomic.fna.gz
+278,284,GCF_000488555.1,75871,Escherichia coli 908524 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/488/555/GCF_000488555.1_ASM48855v1/GCF_000488555.1_ASM48855v1_genomic.fna.gz
+279,285,GCF_000456105.1,54201,Escherichia coli HVH 6 (3-8296502) (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/456/105/GCF_000456105.1_Esch_coli_HVH_6_3-8296502_V1/GCF_000456105.1_Esch_coli_HVH_6_3-8296502_V1_genomic.fna.gz
+280,286,GCF_000456125.1,54211,Escherichia coli HVH 7 (4-7315031) (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/456/125/GCF_000456125.1_Esch_coli_HVH_7_4-7315031_V1/GCF_000456125.1_Esch_coli_HVH_7_4-7315031_V1_genomic.fna.gz
+281,287,GCF_000456265.1,54281,Escherichia coli HVH 19 (4-7154984) (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/456/265/GCF_000456265.1_Esch_coli_HVH_19_4-7154984_V1/GCF_000456265.1_Esch_coli_HVH_19_4-7154984_V1_genomic.fna.gz
+282,288,GCF_000507605.1,86591,Escherichia coli HVH 23 (4-6066488) (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/507/605/GCF_000507605.1_Esch_coli_HVH_23_4-6066488_V1/GCF_000507605.1_Esch_coli_HVH_23_4-6066488_V1_genomic.fna.gz
+283,289,GCF_000456365.1,54331,Escherichia coli HVH 25 (4-5851939) (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/456/365/GCF_000456365.1_Esch_coli_HVH_25_4-5851939_V1/GCF_000456365.1_Esch_coli_HVH_25_4-5851939_V1_genomic.fna.gz
+284,290,GCF_000456405.1,54351,Escherichia coli HVH 27 (4-7449267) (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/456/405/GCF_000456405.1_Esch_coli_HVH_27_4-7449267_V1/GCF_000456405.1_Esch_coli_HVH_27_4-7449267_V1_genomic.fna.gz
+285,291,GCF_000456725.1,54511,Escherichia coli HVH 45 (4-3129918) (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/456/725/GCF_000456725.1_Esch_coli_HVH_45_4-3129918_V1/GCF_000456725.1_Esch_coli_HVH_45_4-3129918_V1_genomic.fna.gz
+286,292,GCF_000457305.1,69751,Escherichia coli HVH 91 (4-4638751) (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/457/305/GCF_000457305.1_Esch_coli_HVH_91_4-4638751_V1/GCF_000457305.1_Esch_coli_HVH_91_4-4638751_V1_genomic.fna.gz
+287,293,GCF_000457855.1,55041,Escherichia coli HVH 127 (4-7303629) (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/457/855/GCF_000457855.1_Esch_coli_HVH_127_4-7303629_V1/GCF_000457855.1_Esch_coli_HVH_127_4-7303629_V1_genomic.fna.gz
+288,294,GCF_000457895.1,55061,Escherichia coli HVH 130 (4-7036876) (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/457/895/GCF_000457895.1_Esch_coli_HVH_130_4-7036876_V1/GCF_000457895.1_Esch_coli_HVH_130_4-7036876_V1_genomic.fna.gz
+289,295,GCF_000495035.1,79431,Escherichia coli HVH 152 (4-3447545) (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/495/035/GCF_000495035.1_Esch_coli_HVH_152_4-3447545_V1/GCF_000495035.1_Esch_coli_HVH_152_4-3447545_V1_genomic.fna.gz
+290,296,GCF_000458295.1,55261,Escherichia coli HVH 154 (4-5636698) (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/458/295/GCF_000458295.1_Esch_coli_HVH_154_4-5636698_V1/GCF_000458295.1_Esch_coli_HVH_154_4-5636698_V1_genomic.fna.gz
+291,297,GCF_000458685.1,55461,Escherichia coli HVH 180 (4-3051617) (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/458/685/GCF_000458685.1_Esch_coli_HVH_180_4-3051617_V1/GCF_000458685.1_Esch_coli_HVH_180_4-3051617_V1_genomic.fna.gz
+292,298,GCF_000458975.1,55601,Escherichia coli HVH 196 (4-4530470) (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/458/975/GCF_000458975.1_Esch_coli_HVH_196_4-4530470_V1/GCF_000458975.1_Esch_coli_HVH_196_4-4530470_V1_genomic.fna.gz
+293,299,GCF_000507665.1,86621,Escherichia coli HVH 214 (4-3062198) (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/507/665/GCF_000507665.1_Esch_coli_HVH_214_4-3062198_V1/GCF_000507665.1_Esch_coli_HVH_214_4-3062198_V1_genomic.fna.gz
+294,300,GCF_000459475.1,55851,Escherichia coli HVH 223 (4-2976528) (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/459/475/GCF_000459475.1_Esch_coli_HVH_223_4-2976528_V1/GCF_000459475.1_Esch_coli_HVH_223_4-2976528_V1_genomic.fna.gz
+295,301,GCF_000459615.1,55921,Escherichia coli KOEGE 30 (63a) (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/459/615/GCF_000459615.1_Esch_coli_KOEGE_30_63a_V1/GCF_000459615.1_Esch_coli_KOEGE_30_63a_V1_genomic.fna.gz
+296,302,GCF_000459815.1,56021,Escherichia coli KOEGE 68 (182a) (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/459/815/GCF_000459815.1_Esch_coli_KOEGE_68_182a_V1/GCF_000459815.1_Esch_coli_KOEGE_68_182a_V1_genomic.fna.gz
+297,303,GCF_000460155.1,56191,Escherichia coli UMEA 3108-1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/460/155/GCF_000460155.1_Esch_coli_UMEA_3108-1_V1/GCF_000460155.1_Esch_coli_UMEA_3108-1_V1_genomic.fna.gz
+298,304,GCF_000460235.1,56231,Escherichia coli UMEA 3122-1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/460/235/GCF_000460235.1_Esch_coli_UMEA_3122-1_V1/GCF_000460235.1_Esch_coli_UMEA_3122-1_V1_genomic.fna.gz
+299,305,GCF_000460255.1,56241,Escherichia coli UMEA 3124-1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/460/255/GCF_000460255.1_Esch_coli_UMEA_3124-1_V1/GCF_000460255.1_Esch_coli_UMEA_3124-1_V1_genomic.fna.gz
+300,306,GCF_000460715.1,56471,Escherichia coli UMEA 3199-1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/460/715/GCF_000460715.1_Esch_coli_UMEA_3199-1_V1/GCF_000460715.1_Esch_coli_UMEA_3199-1_V1_genomic.fna.gz
+301,307,GCF_000460755.1,56491,Escherichia coli UMEA 3201-1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/460/755/GCF_000460755.1_Esch_coli_UMEA_3201-1_V1/GCF_000460755.1_Esch_coli_UMEA_3201-1_V1_genomic.fna.gz
+302,308,GCF_000460775.1,56501,Escherichia coli UMEA 3203-1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/460/775/GCF_000460775.1_Esch_coli_UMEA_3203-1_V1/GCF_000460775.1_Esch_coli_UMEA_3203-1_V1_genomic.fna.gz
+303,309,GCF_000488095.1,75641,Escherichia coli UMEA 3290-1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/488/095/GCF_000488095.1_Esch_coli_UMEA_3290-1_V1/GCF_000488095.1_Esch_coli_UMEA_3290-1_V1_genomic.fna.gz
+304,310,GCF_000461155.1,56691,Escherichia coli UMEA 3298-1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/461/155/GCF_000461155.1_Esch_coli_UMEA_3298-1_V1/GCF_000461155.1_Esch_coli_UMEA_3298-1_V1_genomic.fna.gz
+305,311,GCF_000461215.1,56721,Escherichia coli UMEA 3317-1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/461/215/GCF_000461215.1_Esch_coli_UMEA_3317-1_V1/GCF_000461215.1_Esch_coli_UMEA_3317-1_V1_genomic.fna.gz
+306,312,GCF_000488135.1,75661,Escherichia coli UMEA 3323-1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/488/135/GCF_000488135.1_Esch_coli_UMEA_3323-1_V1/GCF_000488135.1_Esch_coli_UMEA_3323-1_V1_genomic.fna.gz
+307,313,GCF_000461275.1,56751,Escherichia coli UMEA 3337-1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/461/275/GCF_000461275.1_Esch_coli_UMEA_3337-1_V1/GCF_000461275.1_Esch_coli_UMEA_3337-1_V1_genomic.fna.gz
+308,314,GCF_000461475.1,56851,Escherichia coli UMEA 3656-1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/461/475/GCF_000461475.1_Esch_coli_UMEA_3656-1_V1/GCF_000461475.1_Esch_coli_UMEA_3656-1_V1_genomic.fna.gz
+309,315,GCF_000461695.1,56961,Escherichia coli UMEA 3805-1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/461/695/GCF_000461695.1_Esch_coli_UMEA_3805-1_V1/GCF_000461695.1_Esch_coli_UMEA_3805-1_V1_genomic.fna.gz
+310,316,GCF_000461855.1,57041,Escherichia coli UMEA 4076-1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/461/855/GCF_000461855.1_Esch_coli_UMEA_4076-1_V1/GCF_000461855.1_Esch_coli_UMEA_4076-1_V1_genomic.fna.gz
+311,317,GCF_000397265.1,690618,Escherichia coli TOP382-2 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/397/265/GCF_000397265.1_Ec13_E1F2_TOP382-2_120714/GCF_000397265.1_Ec13_E1F2_TOP382-2_120714_genomic.fna.gz
+312,318,GCF_000397285.1,690638,Escherichia coli TOP382-3 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/397/285/GCF_000397285.1_Ec13_E1F3_TOP382-3_120714/GCF_000397285.1_Ec13_E1F3_TOP382-3_120714_genomic.fna.gz
+313,319,GCF_000397625.1,690978,Escherichia coli TOP2652 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/397/625/GCF_000397625.1_Ec72_E3U1_TOP2652_120714/GCF_000397625.1_Ec72_E3U1_TOP2652_120714_genomic.fna.gz
+314,320,GCF_000397705.1,691058,Escherichia coli TOP2662-4 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/397/705/GCF_000397705.1_Ec72_E3F4_TOP2662-4_120714/GCF_000397705.1_Ec72_E3F4_TOP2662-4_120714_genomic.fna.gz
+315,321,GCF_000392555.1,677818,Escherichia coli O157 str. NCCP15739 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/392/555/GCF_000392555.1_TG1203D3337/GCF_000392555.1_TG1203D3337_genomic.fna.gz
+316,322,GCF_000392575.1,689018,Escherichia coli O157 str. NCCP15738 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/392/575/GCF_000392575.1_TG1203D3338/GCF_000392575.1_TG1203D3338_genomic.fna.gz
+317,323,GCF_000401755.1,713108,Escherichia coli ATCC 25922 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/401/755/GCF_000401755.1_Escherichia_coli_ATCC_25922/GCF_000401755.1_Escherichia_coli_ATCC_25922_genomic.fna.gz
+318,324,GCF_000522245.1,93941,Escherichia coli BIDMC 15 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/522/245/GCF_000522245.1_Esch_coli_BIDMC_15_V2/GCF_000522245.1_Esch_coli_BIDMC_15_V2_genomic.fna.gz
+319,325,GCF_000415485.1,39011,Escherichia coli E2265 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/415/485/GCF_000415485.1_E2265_1/GCF_000415485.1_E2265_1_genomic.fna.gz
+320,326,GCF_000418615.2,565281,Escherichia coli MC6002 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/418/615/GCF_000418615.2_E_coliMC6002-1.0/GCF_000418615.2_E_coliMC6002-1.0_genomic.fna.gz
+321,327,GCF_000482065.1,71471,Escherichia coli SCD2 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/482/065/GCF_000482065.1_Escherichia_coli_SCD2/GCF_000482065.1_Escherichia_coli_SCD2_genomic.fna.gz
+322,328,GCF_000747455.1,212261,Escherichia coli O157:H7 str. T1543_06 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/747/455/GCF_000747455.1_O157_T154306_454/GCF_000747455.1_O157_T154306_454_genomic.fna.gz
+323,329,GCF_000498875.2,568811,Escherichia coli LAU-EC5 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/498/875/GCF_000498875.2_LAU-EC5/GCF_000498875.2_LAU-EC5_genomic.fna.gz
+324,330,GCF_000506585.2,568961,Escherichia coli LAU-EC8 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/506/585/GCF_000506585.2_WGS_Escherichia_coli_EC8/GCF_000506585.2_WGS_Escherichia_coli_EC8_genomic.fna.gz
+325,331,GCF_000506485.2,568921,Escherichia coli LAU-EC9 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/506/485/GCF_000506485.2_WGS_Escherichia_coli_EC9/GCF_000506485.2_WGS_Escherichia_coli_EC9_genomic.fna.gz
+326,332,GCF_000498815.2,568791,Escherichia coli LAU-EC3 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/498/815/GCF_000498815.2_EC3/GCF_000498815.2_EC3_genomic.fna.gz
+327,333,GCF_000471165.1,65611,Escherichia coli M7 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/471/165/GCF_000471165.1_E_coliM7-1.0/GCF_000471165.1_E_coliM7-1.0_genomic.fna.gz
+328,334,GCF_000471525.1,65791,Escherichia coli K2 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/471/525/GCF_000471525.1_E_coliK2-1.0/GCF_000471525.1_E_coliK2-1.0_genomic.fna.gz
+329,335,GCF_000506845.1,85891,Escherichia coli ATCC BAA-2215 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/506/845/GCF_000506845.1_Q459v3/GCF_000506845.1_Q459v3_genomic.fna.gz
+330,336,GCF_000503675.1,84251,Escherichia coli 38.52 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/503/675/GCF_000503675.1_Ecoli38.52/GCF_000503675.1_Ecoli38.52_genomic.fna.gz
+331,337,GCF_000503715.1,84271,Escherichia coli 1350 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/503/715/GCF_000503715.1_Ecoli1350/GCF_000503715.1_Ecoli1350_genomic.fna.gz
+332,338,GCF_000503415.1,84121,Escherichia coli 85B (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/503/415/GCF_000503415.1_Ecoli85B/GCF_000503415.1_Ecoli85B_genomic.fna.gz
+333,339,GCF_000511465.1,88161,Escherichia coli FAH1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/511/465/GCF_000511465.1_EcoliFAH1/GCF_000511465.1_EcoliFAH1_genomic.fna.gz
+334,340,GCF_000765435.1,216481,Escherichia coli FAP1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/765/435/GCF_000765435.1_ASM76543v1/GCF_000765435.1_ASM76543v1_genomic.fna.gz
+335,342,GCF_000692475.1,179271,Escherichia coli BIDMC 65 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/692/475/GCF_000692475.1_Esch_coli_BIDMC_65_V1/GCF_000692475.1_Esch_coli_BIDMC_65_V1_genomic.fna.gz
+336,343,GCF_000692635.1,179351,Escherichia coli BIDMC 77 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/692/635/GCF_000692635.1_Esch_coli_BIDMC_77_V1/GCF_000692635.1_Esch_coli_BIDMC_77_V1_genomic.fna.gz
+337,344,GCF_000692655.1,179361,Escherichia coli BIDMC 78 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/692/655/GCF_000692655.1_Esch_coli_BIDMC_78_V1/GCF_000692655.1_Esch_coli_BIDMC_78_V1_genomic.fna.gz
+338,345,GCF_000692675.1,179371,Escherichia coli BIDMC 79 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/692/675/GCF_000692675.1_Esch_coli_BIDMC_79_V1/GCF_000692675.1_Esch_coli_BIDMC_79_V1_genomic.fna.gz
+339,346,GCF_000692735.1,179401,Escherichia coli CHS 77 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/692/735/GCF_000692735.1_Esch_coli_CHS_77_V1/GCF_000692735.1_Esch_coli_CHS_77_V1_genomic.fna.gz
+340,347,GCF_000692875.1,179471,Escherichia coli UCI 65 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/692/875/GCF_000692875.1_Esch_coli_UCI_65_V1/GCF_000692875.1_Esch_coli_UCI_65_V1_genomic.fna.gz
+341,348,GCF_000713425.1,189931,Escherichia coli 8-415-05_S1_C1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/713/425/GCF_000713425.1_ASM71342v1/GCF_000713425.1_ASM71342v1_genomic.fna.gz
+342,349,GCF_000704845.1,185581,Escherichia coli 3-073-06_S1_C1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/704/845/GCF_000704845.1_ASM70484v1/GCF_000704845.1_ASM70484v1_genomic.fna.gz
+343,350,GCF_000713945.1,190191,Escherichia coli 4-203-08_S1_C2 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/713/945/GCF_000713945.1_ASM71394v1/GCF_000713945.1_ASM71394v1_genomic.fna.gz
+344,351,GCF_000704765.1,185541,Escherichia coli 3-020-07_S1_C3 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/704/765/GCF_000704765.1_ASM70476v1/GCF_000704765.1_ASM70476v1_genomic.fna.gz
+345,352,GCF_000703645.1,184981,Escherichia coli 2-177-06_S3_C1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/703/645/GCF_000703645.1_ASM70364v1/GCF_000703645.1_ASM70364v1_genomic.fna.gz
+346,353,GCF_000704585.1,185451,Escherichia coli 2-474-04_S3_C1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/704/585/GCF_000704585.1_ASM70458v1/GCF_000704585.1_ASM70458v1_genomic.fna.gz
+347,354,GCF_000714175.1,190311,Escherichia coli 5-172-05_S3_C1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/714/175/GCF_000714175.1_ASM71417v1/GCF_000714175.1_ASM71417v1_genomic.fna.gz
+348,355,GCF_000714335.1,190381,Escherichia coli 5-366-08_S3_C1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/714/335/GCF_000714335.1_ASM71433v1/GCF_000714335.1_ASM71433v1_genomic.fna.gz
+349,356,GCF_000627965.1,144501,Escherichia coli 1-182-04_S3_C1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/627/965/GCF_000627965.1_ASM62796v1/GCF_000627965.1_ASM62796v1_genomic.fna.gz
+350,357,GCF_000627435.1,144241,Escherichia coli 1-250-04_S3_C1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/627/435/GCF_000627435.1_ASM62743v1/GCF_000627435.1_ASM62743v1_genomic.fna.gz
+351,358,GCF_000687105.1,176561,Escherichia coli 2-005-03_S3_C2 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/687/105/GCF_000687105.1_ASM68710v1/GCF_000687105.1_ASM68710v1_genomic.fna.gz
+352,359,GCF_000704065.1,185191,Escherichia coli 2-316-03_S3_C2 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/704/065/GCF_000704065.1_ASM70406v1/GCF_000704065.1_ASM70406v1_genomic.fna.gz
+353,360,GCF_000713815.1,190121,Escherichia coli 1-250-04_S3_C2 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/713/815/GCF_000713815.1_ASM71381v1/GCF_000713815.1_ASM71381v1_genomic.fna.gz
+354,361,GCF_000711515.1,188881,Escherichia coli 3-020-07_S3_C2 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/711/515/GCF_000711515.1_ASM71151v1/GCF_000711515.1_ASM71151v1_genomic.fna.gz
+355,362,GCF_000714135.1,190281,Escherichia coli 5-172-05_S3_C3 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/714/135/GCF_000714135.1_ASM71413v1/GCF_000714135.1_ASM71413v1_genomic.fna.gz
+356,363,GCF_000601335.1,133131,Escherichia coli 1-110-08_S3_C3 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/601/335/GCF_000601335.1_ASM60133v1/GCF_000601335.1_ASM60133v1_genomic.fna.gz
+357,364,GCF_000700245.1,183301,Escherichia coli 3-373-03_S3_C3 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/700/245/GCF_000700245.1_ASM70024v1/GCF_000700245.1_ASM70024v1_genomic.fna.gz
+358,365,GCF_000713985.1,190211,Escherichia coli 4-203-08_S3_C3 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/713/985/GCF_000713985.1_ASM71398v1/GCF_000713985.1_ASM71398v1_genomic.fna.gz
+359,366,GCF_000711565.1,188911,Escherichia coli 2-460-02_S4_C1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/711/565/GCF_000711565.1_ASM71156v1/GCF_000711565.1_ASM71156v1_genomic.fna.gz
+360,367,GCF_000601355.1,133141,Escherichia coli 1-110-08_S4_C1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/601/355/GCF_000601355.1_ASM60135v1/GCF_000601355.1_ASM60135v1_genomic.fna.gz
+361,368,GCF_000627315.1,144181,Escherichia coli 1-176-05_S4_C1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/627/315/GCF_000627315.1_ASM62731v1/GCF_000627315.1_ASM62731v1_genomic.fna.gz
+362,369,GCF_000700665.1,183511,Escherichia coli 3-373-03_S4_C1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/700/665/GCF_000700665.1_ASM70066v1/GCF_000700665.1_ASM70066v1_genomic.fna.gz
+363,370,GCF_000704445.1,185381,Escherichia coli 2-427-07_S4_C2 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/704/445/GCF_000704445.1_ASM70444v1/GCF_000704445.1_ASM70444v1_genomic.fna.gz
+364,371,GCF_000714095.1,190271,Escherichia coli 5-366-08_S4_C2 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/714/095/GCF_000714095.1_ASM71409v1/GCF_000714095.1_ASM71409v1_genomic.fna.gz
+365,372,GCF_000627075.1,144061,Escherichia coli 2-005-03_S4_C3 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/627/075/GCF_000627075.1_ASM62707v1/GCF_000627075.1_ASM62707v1_genomic.fna.gz
+366,373,GCF_000704345.1,185331,Escherichia coli 2-316-03_S4_C3 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/704/345/GCF_000704345.1_ASM70434v1/GCF_000704345.1_ASM70434v1_genomic.fna.gz
+367,374,GCF_000704545.1,185431,Escherichia coli 2-460-02_S4_C3 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/704/545/GCF_000704545.1_ASM70454v1/GCF_000704545.1_ASM70454v1_genomic.fna.gz
+368,375,GCF_000713115.1,189791,Escherichia coli 6-319-05_S4_C3 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/713/115/GCF_000713115.1_ASM71311v1/GCF_000713115.1_ASM71311v1_genomic.fna.gz
+369,376,GCF_000618125.1,140081,Escherichia coli O111:H8 str. F6627 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/618/125/GCF_000618125.1_EcF6627/GCF_000618125.1_EcF6627_genomic.fna.gz
+370,377,GCF_000616685.2,570231,Escherichia coli O111:NM str. 08-4487 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/616/685/GCF_000616685.2_Ec08-4487/GCF_000616685.2_Ec08-4487_genomic.fna.gz
+371,378,GCF_000619225.2,570761,Escherichia coli O111:NM str. 2009C-4006 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/619/225/GCF_000619225.2_Ec2009C-4006/GCF_000619225.2_Ec2009C-4006_genomic.fna.gz
+372,379,GCF_000619005.2,570701,Escherichia coli O111:NM str. 2009C-4052 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/619/005/GCF_000619005.2_Ec2009C-4052/GCF_000619005.2_Ec2009C-4052_genomic.fna.gz
+373,380,GCF_000616625.1,139621,Escherichia coli O118:H16 str. 08-3651 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/616/625/GCF_000616625.1_Ec08-3651/GCF_000616625.1_Ec08-3651_genomic.fna.gz
+374,381,GCF_000619745.2,570881,Escherichia coli O121:H19 str. 2009C-4050 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/619/745/GCF_000619745.2_Ec2009C-4050/GCF_000619745.2_Ec2009C-4050_genomic.fna.gz
+375,382,GCF_000615505.1,139261,Escherichia coli O121:H19 str. 2010C-3840 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/615/505/GCF_000615505.1_Ec2010C-3840/GCF_000615505.1_Ec2010C-3840_genomic.fna.gz
+376,383,GCF_000617725.2,570491,Escherichia coli O157:H7 str. 07-3391 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/617/725/GCF_000617725.2_Ec07-3391/GCF_000617725.2_Ec07-3391_genomic.fna.gz
+377,384,GCF_000615015.1,139111,Escherichia coli O157:H7 str. 2009EL2109 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/615/015/GCF_000615015.1_Ec2009EL2109/GCF_000615015.1_Ec2009EL2109_genomic.fna.gz
+378,385,GCF_000616525.2,570171,Escherichia coli O157:H7 str. 2011EL-2097 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/616/525/GCF_000616525.2_Ec2011EL-2097/GCF_000616525.2_Ec2011EL-2097_genomic.fna.gz
+379,386,GCF_000615865.2,569981,Escherichia coli O157:H7 str. 2011EL-2106 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/615/865/GCF_000615865.2_Ec2011EL-2106/GCF_000615865.2_Ec2011EL-2106_genomic.fna.gz
+380,387,GCF_000614255.1,138821,Escherichia coli O157:H7 str. 2011EL-2114 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/614/255/GCF_000614255.1_Ec2011EL-2114/GCF_000614255.1_Ec2011EL-2114_genomic.fna.gz
+381,388,GCF_000614085.2,569731,Escherichia coli O157:H7 str. 2011EL-2288 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/614/085/GCF_000614085.2_Ec2011EL-2288/GCF_000614085.2_Ec2011EL-2288_genomic.fna.gz
+382,389,GCF_000618105.2,570551,Escherichia coli O157:H7 str. F6142 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/618/105/GCF_000618105.2_EcF6142/GCF_000618105.2_EcF6142_genomic.fna.gz
+383,390,GCF_000618065.2,570541,Escherichia coli O157:H7 str. F7384 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/618/065/GCF_000618065.2_EcF7384/GCF_000618065.2_EcF7384_genomic.fna.gz
+384,391,GCF_000618245.1,140141,Escherichia coli O157:H7 str. H2495 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/618/245/GCF_000618245.1_EcH2495/GCF_000618245.1_EcH2495_genomic.fna.gz
+385,392,GCF_000618825.1,140431,Escherichia coli O157:H7 str. K5467 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/618/825/GCF_000618825.1_EcK5467/GCF_000618825.1_EcK5467_genomic.fna.gz
+386,393,GCF_000618845.1,140441,Escherichia coli O157:H7 str. K5602 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/618/845/GCF_000618845.1_EcK5602/GCF_000618845.1_EcK5602_genomic.fna.gz
+387,394,GCF_000617585.1,143441,Escherichia coli O165:H25 str. 2010C-4874 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/617/585/GCF_000617585.1_Ec2010C-4874/GCF_000617585.1_Ec2010C-4874_genomic.fna.gz
+388,395,GCF_000622535.2,570941,Escherichia coli O26:H11 str. 2010C-5028 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/622/535/GCF_000622535.2_Ec2010C-5028/GCF_000622535.2_Ec2010C-5028_genomic.fna.gz
+389,396,GCF_000614845.2,569861,Escherichia coli O26:NM str. 2010C-4347 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/614/845/GCF_000614845.2_Ec2010C-4347/GCF_000614845.2_Ec2010C-4347_genomic.fna.gz
+390,397,GCF_000618085.1,140061,Escherichia coli O6:H16 str. F5656C1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/618/085/GCF_000618085.1_EcF5656C1/GCF_000618085.1_EcF5656C1_genomic.fna.gz
+391,398,GCF_000617325.1,139781,Escherichia coli O69:H11 str. 06-3325 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/617/325/GCF_000617325.1_Ec06-3325/GCF_000617325.1_Ec06-3325_genomic.fna.gz
+392,399,GCF_000699385.1,182911,Escherichia coli 11117 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/699/385/GCF_000699385.1_11117/GCF_000699385.1_11117_genomic.fna.gz
+393,400,GCF_000948445.1,308061,Escherichia coli O157:H7 str. EDL933 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/948/445/GCF_000948445.1_ASM94844v1/GCF_000948445.1_ASM94844v1_genomic.fna.gz
+394,402,GCF_000801205.1,234141,Escherichia coli str. K-12 substr. MG1655 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/801/205/GCF_000801205.1_ASM80120v1/GCF_000801205.1_ASM80120v1_genomic.fna.gz
+395,403,GCF_000163155.1,197038,Escherichia coli B088 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/163/155/GCF_000163155.1_ASM16315v1/GCF_000163155.1_ASM16315v1_genomic.fna.gz
+396,404,GCF_000952955.1,311701,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/952/955/GCF_000952955.1_EcRV308Chr/GCF_000952955.1_EcRV308Chr_genomic.fna.gz
+397,405,GCF_000752435.1,209591,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/752/435/GCF_000752435.1_FHI1/GCF_000752435.1_FHI1_genomic.fna.gz
+398,406,GCF_000936635.1,302501,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/936/635/GCF_000936635.1_FHI11/GCF_000936635.1_FHI11_genomic.fna.gz
+399,407,GCF_000753515.1,210131,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/753/515/GCF_000753515.1_FHI13/GCF_000753515.1_FHI13_genomic.fna.gz
+400,408,GCF_000940255.1,304211,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/940/255/GCF_000940255.1_FHI15/GCF_000940255.1_FHI15_genomic.fna.gz
+401,409,GCF_000752855.1,209801,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/752/855/GCF_000752855.1_FHI19/GCF_000752855.1_FHI19_genomic.fna.gz
+402,410,GCF_000940115.1,304161,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/940/115/GCF_000940115.1_FHI20/GCF_000940115.1_FHI20_genomic.fna.gz
+403,411,GCF_000752755.1,209751,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/752/755/GCF_000752755.1_FHI22/GCF_000752755.1_FHI22_genomic.fna.gz
+404,412,GCF_000943355.2,732831,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/943/355/GCF_000943355.2_FHI42/GCF_000943355.2_FHI42_genomic.fna.gz
+405,413,GCF_000944015.1,306001,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/944/015/GCF_000944015.1_FHI71/GCF_000944015.1_FHI71_genomic.fna.gz
+406,414,GCF_000753075.1,209911,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/753/075/GCF_000753075.1_FHI73/GCF_000753075.1_FHI73_genomic.fna.gz
+407,415,GCF_000752575.1,209661,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/752/575/GCF_000752575.1_FHI81/GCF_000752575.1_FHI81_genomic.fna.gz
+408,416,GCF_000936085.2,732891,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/936/085/GCF_000936085.2_FHI90/GCF_000936085.2_FHI90_genomic.fna.gz
+409,417,GCF_000753275.1,210011,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/753/275/GCF_000753275.1_FHI95/GCF_000753275.1_FHI95_genomic.fna.gz
+410,418,GCF_000752695.1,209721,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/752/695/GCF_000752695.1_FHI96/GCF_000752695.1_FHI96_genomic.fna.gz
+411,419,GCF_000937355.1,302851,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/937/355/GCF_000937355.1_46A_L2_assembly/GCF_000937355.1_46A_L2_assembly_genomic.fna.gz
+412,420,GCF_000939695.1,303951,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/939/695/GCF_000939695.1_4d11B_assembly/GCF_000939695.1_4d11B_assembly_genomic.fna.gz
+413,421,GCF_000936775.1,302561,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/936/775/GCF_000936775.1_B7C5_assembly/GCF_000936775.1_B7C5_assembly_genomic.fna.gz
+414,422,GCF_000938575.1,303411,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/938/575/GCF_000938575.1_D1C4_assembly/GCF_000938575.1_D1C4_assembly_genomic.fna.gz
+415,423,GCF_000647795.1,202451,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/647/795/GCF_000647795.1_ASM64779v2/GCF_000647795.1_ASM64779v2_genomic.fna.gz
+416,424,GCF_000708165.1,187261,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/708/165/GCF_000708165.1_E_coli_EC2.contigs/GCF_000708165.1_E_coli_EC2.contigs_genomic.fna.gz
+417,425,GCF_000599765.2,569611,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/599/765/GCF_000599765.2_a5_miseq_linux_20140113/GCF_000599765.2_a5_miseq_linux_20140113_genomic.fna.gz
+418,426,GCF_000599825.1,132361,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/599/825/GCF_000599825.1_a5_miseq_linux_20140113/GCF_000599825.1_a5_miseq_linux_20140113_genomic.fna.gz
+419,427,GCF_000599625.1,132261,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/599/625/GCF_000599625.1_ASM59962v1/GCF_000599625.1_ASM59962v1_genomic.fna.gz
+420,428,GCF_000599705.1,132301,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/599/705/GCF_000599705.1_ASM59970v1/GCF_000599705.1_ASM59970v1_genomic.fna.gz
+421,429,GCF_000695135.1,180321,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/695/135/GCF_000695135.1_Ecoli97-3250v1/GCF_000695135.1_Ecoli97-3250v1_genomic.fna.gz
+422,430,GCF_000691065.1,178571,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/691/065/GCF_000691065.1_S6966/GCF_000691065.1_S6966_genomic.fna.gz
+423,431,GCF_000691045.1,178561,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/691/045/GCF_000691045.1_S7380/GCF_000691045.1_S7380_genomic.fna.gz
+424,432,GCF_000784925.1,226081,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/784/925/GCF_000784925.1_ASM78492v1/GCF_000784925.1_ASM78492v1_genomic.fna.gz
+425,433,GCF_000782755.1,224981,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/782/755/GCF_000782755.1_ASM78275v1/GCF_000782755.1_ASM78275v1_genomic.fna.gz
+426,434,GCF_000782455.1,224831,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/782/455/GCF_000782455.1_ASM78245v1/GCF_000782455.1_ASM78245v1_genomic.fna.gz
+427,435,GCF_000782335.1,224771,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/782/335/GCF_000782335.1_ASM78233v1/GCF_000782335.1_ASM78233v1_genomic.fna.gz
+428,436,GCF_000781965.1,224581,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/781/965/GCF_000781965.1_ASM78196v1/GCF_000781965.1_ASM78196v1_genomic.fna.gz
+429,437,GCF_000781755.1,224481,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/781/755/GCF_000781755.1_ASM78175v1/GCF_000781755.1_ASM78175v1_genomic.fna.gz
+430,438,GCF_000781715.1,224461,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/781/715/GCF_000781715.1_ASM78171v1/GCF_000781715.1_ASM78171v1_genomic.fna.gz
+431,439,GCF_000781115.1,224161,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/781/115/GCF_000781115.1_ASM78111v1/GCF_000781115.1_ASM78111v1_genomic.fna.gz
+432,440,GCF_000780915.1,224061,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/780/915/GCF_000780915.1_ASM78091v1/GCF_000780915.1_ASM78091v1_genomic.fna.gz
+433,441,GCF_000780895.1,224051,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/780/895/GCF_000780895.1_ASM78089v1/GCF_000780895.1_ASM78089v1_genomic.fna.gz
+434,442,GCF_000779565.1,223401,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/779/565/GCF_000779565.1_ASM77956v1/GCF_000779565.1_ASM77956v1_genomic.fna.gz
+435,443,GCF_000779545.1,223371,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/779/545/GCF_000779545.1_ASM77954v1/GCF_000779545.1_ASM77954v1_genomic.fna.gz
+436,444,GCF_000779475.1,223341,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/779/475/GCF_000779475.1_ASM77947v1/GCF_000779475.1_ASM77947v1_genomic.fna.gz
+437,445,GCF_000778955.1,223091,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/778/955/GCF_000778955.1_ASM77895v1/GCF_000778955.1_ASM77895v1_genomic.fna.gz
+438,446,GCF_000776715.1,222001,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/776/715/GCF_000776715.1_ASM77671v1/GCF_000776715.1_ASM77671v1_genomic.fna.gz
+439,447,GCF_000778215.1,222731,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/778/215/GCF_000778215.1_ASM77821v1/GCF_000778215.1_ASM77821v1_genomic.fna.gz
+440,448,GCF_000778035.1,222641,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/778/035/GCF_000778035.1_ASM77803v1/GCF_000778035.1_ASM77803v1_genomic.fna.gz
+441,449,GCF_000777995.1,222621,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/777/995/GCF_000777995.1_ASM77799v1/GCF_000777995.1_ASM77799v1_genomic.fna.gz
+442,450,GCF_000778015.1,222631,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/778/015/GCF_000778015.1_ASM77801v1/GCF_000778015.1_ASM77801v1_genomic.fna.gz
+443,451,GCF_000777735.1,222481,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/777/735/GCF_000777735.1_ASM77773v1/GCF_000777735.1_ASM77773v1_genomic.fna.gz
+444,452,GCF_000777555.1,222401,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/777/555/GCF_000777555.1_ASM77755v1/GCF_000777555.1_ASM77755v1_genomic.fna.gz
+445,453,GCF_000777375.1,222311,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/777/375/GCF_000777375.1_ASM77737v1/GCF_000777375.1_ASM77737v1_genomic.fna.gz
+446,454,GCF_000777235.1,222241,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/777/235/GCF_000777235.1_ASM77723v1/GCF_000777235.1_ASM77723v1_genomic.fna.gz
+447,455,GCF_000776065.1,221691,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/776/065/GCF_000776065.1_ASM77606v1/GCF_000776065.1_ASM77606v1_genomic.fna.gz
+448,456,GCF_000776195.1,221741,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/776/195/GCF_000776195.1_ASM77619v1/GCF_000776195.1_ASM77619v1_genomic.fna.gz
+449,457,GCF_000776355.1,221821,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/776/355/GCF_000776355.1_ASM77635v1/GCF_000776355.1_ASM77635v1_genomic.fna.gz
+450,458,GCF_000754865.1,210851,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/754/865/GCF_000754865.1_ASM75486v1/GCF_000754865.1_ASM75486v1_genomic.fna.gz
+451,459,GCF_000948005.1,307821,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/948/005/GCF_000948005.1_ASM94800v1/GCF_000948005.1_ASM94800v1_genomic.fna.gz
+452,460,GCF_000807635.1,237391,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/807/635/GCF_000807635.1_ASM80763v1/GCF_000807635.1_ASM80763v1_genomic.fna.gz
+453,461,GCF_000807655.1,237401,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/807/655/GCF_000807655.1_ASM80765v1/GCF_000807655.1_ASM80765v1_genomic.fna.gz
+454,462,GCF_000819185.1,243301,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/819/185/GCF_000819185.1_Escherichia_coli_CVM_N36113PS_v1.0/GCF_000819185.1_Escherichia_coli_CVM_N36113PS_v1.0_genomic.fna.gz
+455,463,GCF_000819245.1,243331,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/819/245/GCF_000819245.1_Escherichia_coli_CVM_N37069PS_v1.0/GCF_000819245.1_Escherichia_coli_CVM_N37069PS_v1.0_genomic.fna.gz
+456,464,GCF_000812325.1,239711,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/812/325/GCF_000812325.1_ASM81232v1/GCF_000812325.1_ASM81232v1_genomic.fna.gz
+457,465,GCF_000812725.1,240021,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/812/725/GCF_000812725.1_ASM81272v1/GCF_000812725.1_ASM81272v1_genomic.fna.gz
+458,466,GCF_000812785.1,240041,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/812/785/GCF_000812785.1_ASM81278v1/GCF_000812785.1_ASM81278v1_genomic.fna.gz
+459,467,GCF_000812385.1,239741,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/812/385/GCF_000812385.1_ASM81238v1/GCF_000812385.1_ASM81238v1_genomic.fna.gz
+460,468,GCF_000948785.1,308231,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/948/785/GCF_000948785.1_ASM94878v1/GCF_000948785.1_ASM94878v1_genomic.fna.gz
+461,469,GCF_000948535.1,308101,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/948/535/GCF_000948535.1_ASM94853v1/GCF_000948535.1_ASM94853v1_genomic.fna.gz
+462,470,GCF_000948825.1,308251,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/948/825/GCF_000948825.1_ASM94882v1/GCF_000948825.1_ASM94882v1_genomic.fna.gz
+463,471,GCF_000934865.1,301581,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/934/865/GCF_000934865.1_ASM93486v1/GCF_000934865.1_ASM93486v1_genomic.fna.gz
+464,472,GCF_000952385.1,311431,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/952/385/GCF_000952385.1_ASM95238v1/GCF_000952385.1_ASM95238v1_genomic.fna.gz
+465,473,GCF_000951735.1,310971,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/951/735/GCF_000951735.1_ASM95173v1/GCF_000951735.1_ASM95173v1_genomic.fna.gz
+466,474,GCF_000935375.1,301841,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/935/375/GCF_000935375.1_ASM93537v1/GCF_000935375.1_ASM93537v1_genomic.fna.gz
+467,475,GCF_000935515.1,301901,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/935/515/GCF_000935515.1_ASM93551v1/GCF_000935515.1_ASM93551v1_genomic.fna.gz
+468,476,GCF_000935555.1,301931,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/935/555/GCF_000935555.1_ASM93555v1/GCF_000935555.1_ASM93555v1_genomic.fna.gz
+469,477,GCF_000966935.1,318981,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/966/935/GCF_000966935.1_ASM96693v1/GCF_000966935.1_ASM96693v1_genomic.fna.gz
+470,478,GCF_000965545.1,318171,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/965/545/GCF_000965545.1_ASM96554v1/GCF_000965545.1_ASM96554v1_genomic.fna.gz
+471,479,GCF_000965625.1,318211,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/965/625/GCF_000965625.1_ASM96562v1/GCF_000965625.1_ASM96562v1_genomic.fna.gz
+472,480,GCF_000965715.1,318261,Escherichia coli (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/965/715/GCF_000965715.1_ASM96571v1/GCF_000965715.1_ASM96571v1_genomic.fna.gz
+473,481,GCF_000176555.2,277798,Escherichia coli M605 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/176/555/GCF_000176555.2_ASM17655v2/GCF_000176555.2_ASM17655v2_genomic.fna.gz
+474,482,GCF_000176575.2,277818,Escherichia coli M718 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/176/575/GCF_000176575.2_ASM17657v2/GCF_000176575.2_ASM17657v2_genomic.fna.gz
+475,483,GCF_000183005.1,235938,Escherichia coli 2362-75 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/183/005/GCF_000183005.1_ASM18300v1/GCF_000183005.1_ASM18300v1_genomic.fna.gz
+476,484,GCF_000178735.1,542078,Escherichia coli O157:H7 str. EC4127 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/178/735/GCF_000178735.1_ASM17873v1/GCF_000178735.1_ASM17873v1_genomic.fna.gz
+477,485,GCF_000178755.1,542098,Escherichia coli O157:H7 str. EC4191 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/178/755/GCF_000178755.1_ASM17875v1/GCF_000178755.1_ASM17875v1_genomic.fna.gz
+478,486,GCF_000164255.1,233418,Escherichia coli MS 182-1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/164/255/GCF_000164255.1_ASM16425v1/GCF_000164255.1_ASM16425v1_genomic.fna.gz
+479,487,GCF_000225065.1,466048,Escherichia coli 2534-86 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/225/065/GCF_000225065.1_ASM22506v2/GCF_000225065.1_ASM22506v2_genomic.fna.gz
+480,488,GCF_000225025.1,466008,Escherichia coli O91:H21 str. B2F1 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/225/025/GCF_000225025.1_ASM22502v2/GCF_000225025.1_ASM22502v2_genomic.fna.gz
+481,489,GCF_000249055.1,477348,Escherichia coli DEC1A (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/249/055/GCF_000249055.1_ASM24905v2/GCF_000249055.1_ASM24905v2_genomic.fna.gz
+482,490,GCF_000249735.1,478008,Escherichia coli DEC7C (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/249/735/GCF_000249735.1_ASM24973v2/GCF_000249735.1_ASM24973v2_genomic.fna.gz
+483,491,GCF_000249995.1,478268,Escherichia coli DEC10A (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/249/995/GCF_000249995.1_ASM24999v2/GCF_000249995.1_ASM24999v2_genomic.fna.gz
+484,492,GCF_000250055.1,478328,Escherichia coli DEC10D (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/250/055/GCF_000250055.1_ASM25005v2/GCF_000250055.1_ASM25005v2_genomic.fna.gz
+485,493,GCF_000250095.1,478368,Escherichia coli DEC10F (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/250/095/GCF_000250095.1_ASM25009v2/GCF_000250095.1_ASM25009v2_genomic.fna.gz
+486,494,GCF_000250215.1,478488,Escherichia coli DEC12A (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/250/215/GCF_000250215.1_ASM25021v2/GCF_000250215.1_ASM25021v2_genomic.fna.gz
+487,495,GCF_000194175.1,464768,Escherichia coli 1.2741 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/194/175/GCF_000194175.1_ASM19417v2/GCF_000194175.1_ASM19417v2_genomic.fna.gz
+488,496,GCF_000194235.1,464828,Escherichia coli 97.0259 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/194/235/GCF_000194235.1_ASM19423v2/GCF_000194235.1_ASM19423v2_genomic.fna.gz
+489,497,GCF_000215205.1,464908,Escherichia coli 3.2608 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/215/205/GCF_000215205.1_ASM21520v2/GCF_000215205.1_ASM21520v2_genomic.fna.gz
+490,498,GCF_000194495.1,465048,Escherichia coli 4.0967 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/194/495/GCF_000194495.1_ASM19449v2/GCF_000194495.1_ASM19449v2_genomic.fna.gz
+491,499,GCF_000194685.1,465168,Escherichia coli TW07793 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/194/685/GCF_000194685.1_ASM19468v2/GCF_000194685.1_ASM19468v2_genomic.fna.gz
+492,500,GCF_000192685.1,463148,Escherichia coli O157:H7 str. 1125 (E. coli),ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/192/685/GCF_000192685.1_ASM19268v2/GCF_000192685.1_ASM19268v2_genomic.fna.gz
