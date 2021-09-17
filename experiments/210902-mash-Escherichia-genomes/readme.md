@@ -33,6 +33,28 @@ twice, with both assignments of the genomes as query or reference (this is not s
 default parameters.
 
 
+### 210917-gambit
+
+Creates gambit signatures for all genomes for 192 different k-mer specs, and calculates pairwise
+distances for each.
+
+Parameters used are the Cartesian product of the following:
+* 8 "base prefixes" of length 7. The first is our standard "ATGAC" plus another two nucleotides,
+  the other seven are random.
+* Prefix lengths from 4 to 7. Actual prefixes are the first n nucleotides of the 8 base versions.
+* Odd values of k from 7 to 17.
+
+The following are the 8 base prefixes:
+* ATGACTG
+* ATCATTT
+* TCTCGAT
+* GAAAGCG
+* TTGACCC
+* CACATAT
+* CGTTAGT
+* ACTCTTG
+
+
 ## Output
 
 * `data/intermediate/210902-mash-Escherichia-genomes/`
@@ -47,6 +69,14 @@ default parameters.
 	  * `*_r1q2` - Statistic with genome 1 as reference and genome 2 as query.
 	  * `*_r2q1` - Statistic with genome 2 as reference and genome 1 as query.
 	  * `*_mean` - Average of the two.
+  * `210917-gambit/`
+    * `params.csv` - parameter values used to generate the 192 k-mer specs used. Order of rows
+      corresponds order of parameter dimension of arrays in the next file.
+    * `pw-dists.h5`
+	  * `genome1` - Index of first genome for pw comparison (1-based).
+	  * `genome2` - Index of second genome for pw comparison (1-based).
+	  * `pw_dists` - Pairwise distances. Parameter values in rows, pairs in columns.
+	  * `kmer_counts` - K-mer counts in signatures. Parameter values in rows, genomes in columns.
 
 * `data/processed/210902-mash-Escherichia-genomes/`
   * `210902-get-genomes/`
