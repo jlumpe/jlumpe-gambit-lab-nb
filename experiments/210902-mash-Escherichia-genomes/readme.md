@@ -55,11 +55,19 @@ The following are the 8 base prefixes:
 * ACTCTTG
 
 
+## Scripts
+
+### archive.sh
+
+Adds a few files in the ignored `tmp/` directory to version control.
+
+
 ## Output
 
 * `data/intermediate/210902-mash-Escherichia-genomes/`
   * `210902-get-genomes/`
     * `genomes.csv` - Table of genomes from NCBI assembly database to be used in this experiment.
+	  NOTE: moved this afterwards to `data/external/ondov2016/Escherichia`
   * `210902-mash-distances/`
     * `mash-distances.h5` - HDF5 file containing pairwise Mash distances for all genomes for
       multiple parameter combinations.
@@ -77,8 +85,14 @@ The following are the 8 base prefixes:
 	  * `genome2` - Index of second genome for pw comparison (1-based).
 	  * `pw_dists` - Pairwise distances. Parameter values in rows, pairs in columns.
 	  * `kmer_counts` - K-mer counts in signatures. Parameter values in rows, genomes in columns.
+	* `gambit-signatures.tar.gz` - tarball of gambit signature files.
 
 * `data/processed/210902-mash-Escherichia-genomes/`
   * `210902-get-genomes/`
     * `210902-mash-genomes.csv` - data parsed out of Mash `ids.txt` file plus additional information
 	  derived from Entrez tools.
+
+* `data/external/`
+  * `ondov2016/`
+    * `210902-Escherichia-genome-assembly-summaries.tar.gz`
+    * `210902-Escherichia-genomes.tar`
