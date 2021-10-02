@@ -65,9 +65,6 @@ Adds a few files in the ignored `tmp/` directory to version control.
 ## Output
 
 * `data/intermediate/210902-mash-Escherichia-genomes/`
-  * `210902-get-genomes/`
-    * `genomes.csv` - Table of genomes from NCBI assembly database to be used in this experiment.
-	  NOTE: moved this afterwards to `data/external/ondov2016/Escherichia`
   * `210902-mash-distances/`
     * `mash-distances.h5` - HDF5 file containing pairwise Mash distances for all genomes for
       multiple parameter combinations.
@@ -91,6 +88,8 @@ Adds a few files in the ignored `tmp/` directory to version control.
   * `210902-get-genomes/`
     * `210902-mash-genomes.csv` - data parsed out of Mash `ids.txt` file plus additional information
 	  derived from Entrez tools.
+    * `210902-mash-genomes-filtered.csv` - Same as other table but removed unneeded columns
+      and filtered rows to only those for which an NCBI assembly sequence could be found (492 of 500).
 
 * `data/external/`
   * `ondov2016/`

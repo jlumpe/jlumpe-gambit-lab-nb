@@ -13,3 +13,7 @@ http://dx.doi.org/10.1186/s13059-016-0997-x
   * `210902-Escherichia-genomes-assembly-summaries.tar` - ESumary data from NCBI assembly db for all genomes.
   * `210902-Escherichia-genomes.tar` - Genomes downloaded from NCBI assembly (individually gzipped)
     in archive.
+
+## See also
+
+* `data/processed/210902-mash-Escherichia-genomes/210902-get-genomes/`
