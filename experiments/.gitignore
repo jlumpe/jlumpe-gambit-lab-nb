@@ -1,2 +1,5 @@
 # Temporary data directories of all experiments
 /*/tmp/
+
+# Bio.Entrez creates these in the working directory for some reason
+/*/*.dtd
