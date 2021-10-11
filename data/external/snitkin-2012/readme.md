@@ -10,3 +10,8 @@ http://dx.doi.org/10.1126/scitranslmed.3004129
 * `nuccore-accs.txt` -  Nuccore accession numbers for WGSS data used in paper (copied from footnotes
   section in PubMed page).
 
+
+## See also
+
+* `experiments/211010-snitkin-2012-genomes/`
+
