@@ -1,0 +1,71 @@
+Group,No,Strain,Gen. Size,Total CDSs,Average nucleotide identity,Percent conserved genes
+Enterics,1,E. coli O157:H7 Sakai,5.5,5361, , 
+,2,E. coli 0157:H7 EDL933,5.6,5324,"99.71,97.43,97.35","98.61,90.23,89.85"
+,3,E. coli K12,4.6,4279,"97.21,97.95","72.91,88.15"
+,4,E. coli CFT073,5.23,5379,"95.91,96.43,96.55","75.51,86.83,88.85"
+,5,S. flexneri 2a 2457,4.6,4068,"96.51,97.53","69.61,82.63"
+,6,S. flexneri 2a 301,4.61,4180,"96.41,97.53,99.85","69.51,82.33,995"
+,7,S. typhimurium LT2,4.95,4553,"79.91,80.75","59.71,68.65"
+,8,S. enterica ser. Typhi Ty2,4.79,4323,"80.21,","571,"
+,9,S. enterica ser. Typhi,4.8,4767,"80.21,99.98","57.71,99.68"
+,10,S. bongori 12419,4.46,NA,89.58,78.88
+,11,Y. pestis Kim,4.6,4090,"71.51,71.65","371,45.15"
+,12,Y. pestis CO92,4.65,4083,"71.51,99.911","37.21,99.711"
+,13,Y. pestis Mediaevails,4.6,4142,99.8811,98.5611
+,14,Y. enterocolitica,4.68,NA,82.11,69.31
+,15,E. carotovora,5.06,4472,72.11,38.41
+Pseudomonas,1,P putida KT2440,6.18,5350, , 
+,2,P aeruginosa PA01,6.3,5567,75.1,56.2
+,3,P syringae DC3000,6.4,5471,75.4,50.7
+Neisseria,1,N. meningitidis MC58,2.27,2079,96.73,91.23
+,2,N. meningitidis FAM,2.2,NA,"971,97.13","90.81,90.23"
+,3,N. meningitidis Z2491,2.18,2065,96.91,90.21
+,4,N. gonorrhoeae FA1090,2.15,NA,"94.31,94.33","82.41,82.73"
+Bordetella,1,B pertussis Tohama I,4.09,3447,96.62,72.12
+,2,B. bronchiceptica RB50,5.35,4994,98.41,911
+,3,B. parapertussis,4.77,4185,"98.21,98.32","87.91,87.22"
+Bacilli,1,B cereus ATCC 14579,5.41,5255,91.433,84.543
+,2,B cereus 10987,5.22,5603,"911,94.073","831,82.833"
+,3,B anthracis Ames,5.23,5311,91.361,84.851
+,4,B cereus ZK,5.3,5134,"91.341,97.053","84.051,90.63"
+Mycobacteria,1,M. tuberculosis CDC1551,4.4,4187, , 
+,2,M. tuberculosis h37Rv,4.4,3927,99.7,99.5
+,3,M. bovis,4.35,3920,99.4,98.3
+,4,M. avium,5.48,NA,79.1,62.6
+Streptococci,1,S. pyogenes SSI-1,1.89,1861,97.92,92.72
+,2,S. pyogenes MGAS8232,1.9,1845,97.81,92.51
+,3,S. pyogenes MGAS315,1.9,1865,"99.91,97.92","1001,92.72"
+,4,S. pyogenes M1 GAS,1.85,1697,"981,97.92,71.37","86.81,89.72,38.57"
+,5,S. agalactiae 2603,2.2,2124,"74.51,74.42","56.21,56.52"
+,6,S. agalactiae NEM,2.21,2094,98.55,87.55
+,7,S. pneumoniae r6,2.03,2043, , 
+,8,S. pneumoniae TIGR4,2.2,2094,"71.41,71.32,98.47","41.31,42.12,95.97"
+,9,S. mutans,2.03,1920,725,46.85
+Staphylococci,1,S aureus Mu50,2.9,2748,98.23,93.53
+,2,S aureus N315,2.81,2625,"99.81,98.33","94.81,93.33"
+,3,S aureus MW2,2.8,2632,98.21,90.41
+,4,S aureus MSSR252,2.8,2579,"98.21,99.73","89.71,98.43"
+,5,S aureus MRSA476,2.9,2656,"97.11,973","91.61,93.93"
+,6,S. epidermitidis ATCC12228,2.5,2419, , 
+,7,S. epidermitidis RP62A,2.65,NA,"75.91,75.33,98.96","66.41,66.83,94.66"
+Others,1,X. campestris ATCC33913,5.08,4181, , 
+,2,X. axonopodis pv. Citri 301,5.17,4312,84.61,82.91
+,3,X. fastidiosa temecula,2.52,2036, , 
+,4,X. fastidiosa 9a5c,2.68,2832,95.73,95.83
+,5,Vibrio vulnificus CMCP6,5.13,4514, , 
+,6,Vibrio vulnificus YJ016,5.21,5024,97.915,89.55
+,7,H. pylori J99,1.64,1491, , 
+,8,H. pylori 26695,1.66,1576,957,93.37
+,9,B. melitensis 16M,3.3,3198, , 
+,10,B suis 1330,3.28,3264,99.19,98.49
+,11,R. conorri,1.27,1374, , 
+,12,R. prowazekii,1.1,835,87.711,59.411
+,13,C perfrigens 13,3.1,2723, , 
+,14,C perfrigens ATCC13124,3.26,NA,98.113,90.513
+,15,T. whipplei twist,0.93,808, , 
+,16,T. whipplei TW08/27,0.93,783,99.215,99.315
+,17,B. pseudomallei,7.25,5729, , 
+,18,B. mallei,5.84,4764,98.6317,79.1117
+,19,L.pneumophila Philadelphia,3.4,2942, , 
+,20,L.pneumophila Paris,3.64,3166,96.6319,91.6419
+,21,L.pneumophila Lens,3.41,2934,96.4619,88.7219
