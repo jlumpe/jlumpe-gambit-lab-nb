@@ -20,6 +20,11 @@ Combine genome lists from both sets into common table, find assembly UIDs from a
 download ESummary data for each.
 
 
+### 211011-get-genome-seqs
+
+Downloads sequences for all genomes from NCBI. Saved to `tmp/` directory.
+
+
 ## Output
 
 * `data/processed/211011-gambit-ani-additional-genomes/`
