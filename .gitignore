@@ -2,3 +2,7 @@
 
 # These are ignored by default in my global ignore file
 !Manifest.toml
+
+# Python source file stuff
+__pycache__
+
