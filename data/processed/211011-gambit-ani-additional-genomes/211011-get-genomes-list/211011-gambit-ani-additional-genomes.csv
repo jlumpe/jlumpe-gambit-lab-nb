@@ -1,0 +1,91 @@
+data_set,ds_index,id,description,assembly_accession,assembly_uid
+konstantinidis_2005,0,GCF_000008865.2,"Escherichia coli O157:H7 str. Sakai DNA, complete genome",GCF_000008865.2,1755381
+konstantinidis_2005,1,GCF_000732965.1,"Escherichia coli O157:H7 str. EDL933 chromosome, complete genome",GCF_000732965.1,199821
+konstantinidis_2005,2,GCF_000005845.2,"Escherichia coli str. K-12 substr. MG1655, complete genome",GCF_000005845.2,79781
+konstantinidis_2005,3,GCF_014262945.1,Escherichia coli CFT073 (E. coli),GCF_014262945.1,7926251
+konstantinidis_2005,4,GCF_000007405.1,Shigella flexneri 2a str. 2457T,GCF_000007405.1,28988
+konstantinidis_2005,5,GCF_000006925.2,Shigella flexneri 2a str. 301,GCF_000006925.2,326318
+konstantinidis_2005,6,GCF_000006945.2,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,GCF_000006945.2,619341
+konstantinidis_2005,7,GCF_000007545.1,Salmonella enterica subsp. enterica serovar Typhi str. Ty2,GCF_000007545.1,29128
+konstantinidis_2005,8,GCF_003429465.1,Salmonella enterica subsp. enterica serovar Typhi,GCF_003429465.1,1904971
+konstantinidis_2005,9,GCF_000252995.1,Salmonella bongori NCTC 12419,GCF_000252995.1,441718
+konstantinidis_2005,10,GCF_000006645.1,Yersinia pestis KIM10+,GCF_000006645.1,28228
+konstantinidis_2005,11,GCF_000009065.1,Yersinia pestis CO92,GCF_000009065.1,30608
+konstantinidis_2005,12,GCF_009295985.1,Yersinia pestis subsp. pestis bv. Medievalis,GCF_009295985.1,5025231
+konstantinidis_2005,13,GCF_000987925.1,Yersinia enterocolitica ASM98792v1,GCF_000987925.1,329781
+konstantinidis_2005,14,GCF_013488025.1,Pectobacterium carotovorum,GCF_013488025.1,7392621
+konstantinidis_2005,15,GCF_000007565.2,Pseudomonas putida KT2440,GCF_000007565.2,654861
+konstantinidis_2005,16,GCF_000006765.1,Pseudomonas aeruginosa PAO1,GCF_000006765.1,28348
+konstantinidis_2005,17,GCF_000007805.1,Pseudomonas syringae pv. tomato str. DC3000,GCF_000007805.1,29388
+konstantinidis_2005,18,GCF_000008805.1,Neisseria meningitidis MC58,GCF_000008805.1,30388
+konstantinidis_2005,19,GCF_000009465.1,Neisseria meningitidis FAM18,GCF_000009465.1,31008
+konstantinidis_2005,20,GCF_000009105.1,Neisseria meningitidis Z2491,GCF_000009105.1,30648
+konstantinidis_2005,21,GCF_000006845.1,Neisseria gonorrhoeae FA 1090,GCF_000006845.1,28428
+konstantinidis_2005,22,GCF_000195715.1,Bordetella pertussis Tohama I,GCF_000195715.1,264178
+konstantinidis_2005,23,GCF_000195675.1,Bordetella bronchiseptica RB50,GCF_000195675.1,264138
+konstantinidis_2005,24,GCF_000317935.1,Bordetella parapertussis Bpp5,GCF_000317935.1,504818
+konstantinidis_2005,25,GCF_006094295.1,Bacillus cereus ATCC 14579,GCF_006094295.1,3320791
+konstantinidis_2005,26,GCF_000008005.1,Bacillus cereus ATCC 10987,GCF_000008005.1,29588
+konstantinidis_2005,27,GCF_000008445.1,"Bacillus anthracis str. 'Ames Ancestor', complete sequence",GCF_000008445.1,30028
+konstantinidis_2005,28,GCF_000833045.1,Bacillus cereus E33L,GCF_000833045.1,250401
+konstantinidis_2005,29,GCF_000008585.1,Mycobacterium tuberculosis CDC1551,GCF_000008585.1,30168
+konstantinidis_2005,30,GCF_000195955.2,"Mycobacterium tuberculosis H37Rv, complete genome",GCF_000195955.2,538048
+konstantinidis_2005,31,GCF_005156105.1,Mycobacterium tuberculosis variant bovis,GCF_005156105.1,2757601
+konstantinidis_2005,32,GCF_003640565.1,Mycobacterium avium,GCF_003640565.1,2014161
+konstantinidis_2005,33,GCF_000011285.1,Streptococcus pyogenes SSI-1,GCF_000011285.1,32448
+konstantinidis_2005,34,GCF_000007285.1,Streptococcus pyogenes MGAS8232,GCF_000007285.1,28868
+konstantinidis_2005,35,GCF_000007425.1,Streptococcus pyogenes MGAS315,GCF_000007425.1,29008
+konstantinidis_2005,36,GCF_000349925.2,Streptococcus pyogenes M1 476,GCF_000349925.2,40851
+konstantinidis_2005,37,GCF_000007265.1,Streptococcus agalactiae 2603V/R,GCF_000007265.1,28848
+konstantinidis_2005,38,GCF_000196055.1,Streptococcus agalactiae NEM316,GCF_000196055.1,264518
+konstantinidis_2005,39,GCF_000007045.1,Streptococcus pneumoniae R6,GCF_000007045.1,28628
+konstantinidis_2005,40,GCF_000006885.1,Streptococcus pneumoniae TIGR4,GCF_000006885.1,28468
+konstantinidis_2005,41,GCF_009738105.1,"Streptococcus mutans strain NCH105 chromosome, complete genome",GCF_009738105.1,5382671
+konstantinidis_2005,42,GCF_000009665.1,Staphylococcus aureus subsp. aureus Mu50,GCF_000009665.1,31168
+konstantinidis_2005,43,GCF_000009645.1,Staphylococcus aureus subsp. aureus N315,GCF_000009645.1,31148
+konstantinidis_2005,44,GCF_000011265.1,Staphylococcus aureus subsp. aureus MW2,GCF_000011265.1,32428
+konstantinidis_2005,45,GCF_000011505.1,Staphylococcus aureus subsp. aureus MRSA252,GCF_000011505.1,32628
+konstantinidis_2005,46,GCF_000011525.1,Staphylococcus aureus subsp. aureus MSSA476,GCF_000011525.1,32648
+konstantinidis_2005,47,GCF_009873455.1,Staphylococcus epidermidis ATCC 12228,GCF_009873455.1,5460951
+konstantinidis_2005,48,GCF_000011925.1,Staphylococcus epidermidis RP62A,GCF_000011925.1,33028
+konstantinidis_2005,49,GCF_000007145.1,Xanthomonas campestris pv. campestris str. ATCC 33913,GCF_000007145.1,28728
+konstantinidis_2005,50,GCF_000348585.1,Xanthomonas axonopodis Xac29-1,GCF_000348585.1,565898
+konstantinidis_2005,51,GCF_000007245.1,"Xylella fastidiosa Temecula1, complete sequence",GCF_000007245.1,28828
+konstantinidis_2005,52,GCF_000006725.1,Xylella fastidiosa 9a5c,GCF_000006725.1,28308
+konstantinidis_2005,53,GCF_000039765.1,Vibrio vulnificus CMCP6,GCF_000039765.1,288888
+konstantinidis_2005,54,GCF_000009745.1,Vibrio vulnificus YJ016,GCF_000009745.1,31248
+konstantinidis_2005,55,GCF_000982695.1,Helicobacter pylori J99,GCF_000982695.1,327011
+konstantinidis_2005,56,GCF_000307795.1,Helicobacter pylori 26695,GCF_000307795.1,449778
+konstantinidis_2005,57,GCF_000007125.1,"Brucella melitensis bv. 1 str. 16M chromosome I, complete sequence",GCF_000007125.1,28708
+konstantinidis_2005,58,GCF_000007505.1,"Brucella suis 1330 chromosome I, complete sequence",GCF_000007505.1,29088
+konstantinidis_2005,59,GCF_000007025.1,"Rickettsia conorii str. Malish 7, complete sequence",GCF_000007025.1,28608
+konstantinidis_2005,60,GCF_000277165.1,"Rickettsia prowazekii str. Chernikova, complete sequence",GCF_000277165.1,398428
+konstantinidis_2005,61,GCF_000009685.1,Clostridium perfringens str. 13,GCF_000009685.1,31188
+konstantinidis_2005,62,GCF_000013285.1,Clostridium perfringens ATCC 13124,GCF_000013285.1,34388
+konstantinidis_2005,63,GCF_000007485.1,Tropheryma whipplei str. Twist,GCF_000007485.1,29068
+konstantinidis_2005,64,GCF_000196075.1,Tropheryma whipplei TW08/27,GCF_000196075.1,264538
+konstantinidis_2005,65,GCF_000756125.1,"Burkholderia pseudomallei strain Mahidol-1106a chromosome 1, complete sequence",GCF_000756125.1,211501
+konstantinidis_2005,66,GCF_002346025.1,"Burkholderia mallei strain Turkey2 chromosome 1, complete sequence",GCF_002346025.1,1221401
+konstantinidis_2005,67,GCF_001752745.1,Legionella pneumophila Strain: Philadelphia_1_ATCC,GCF_001752745.1,808961
+konstantinidis_2005,68,GCF_000048645.1,Legionella pneumophila str. Paris,GCF_000048645.1,67228
+konstantinidis_2005,69,GCF_000048665.1,Legionella pneumophila str. Lens,GCF_000048665.1,67248
+snitkin_2012,0,GCF_000281535.2,Klebsiella pneumoniae subsp. pneumoniae KPNIH1,GCF_000281535.2,195541
+snitkin_2012,1,GCF_000281255.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH2,GCF_000281255.1,483768
+snitkin_2012,2,GCF_000281395.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH4,GCF_000281395.1,483788
+snitkin_2012,3,GCF_000281275.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH5,GCF_000281275.1,483808
+snitkin_2012,4,GCF_000281295.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH6,GCF_000281295.1,483828
+snitkin_2012,5,GCF_000281415.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH7,GCF_000281415.1,483848
+snitkin_2012,6,GCF_000281555.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH8,GCF_000281555.1,483868
+snitkin_2012,7,GCF_000281315.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH9,GCF_000281315.1,483888
+snitkin_2012,8,GCF_000281435.2,Klebsiella pneumoniae subsp. pneumoniae KPNIH10,GCF_000281435.2,180811
+snitkin_2012,9,GCF_000281575.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH11,GCF_000281575.1,483928
+snitkin_2012,10,GCF_000281335.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH12,GCF_000281335.1,483948
+snitkin_2012,11,GCF_000281455.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH14,GCF_000281455.1,483968
+snitkin_2012,12,GCF_000281595.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH16,GCF_000281595.1,483988
+snitkin_2012,13,GCF_000281355.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH17,GCF_000281355.1,484008
+snitkin_2012,14,GCF_000281475.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH18,GCF_000281475.1,484028
+snitkin_2012,15,GCF_000281615.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH19,GCF_000281615.1,484048
+snitkin_2012,16,GCF_000281375.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH20,GCF_000281375.1,484068
+snitkin_2012,17,GCF_000281495.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH21,GCF_000281495.1,484088
+snitkin_2012,18,GCF_000281515.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH22,GCF_000281515.1,484108
+snitkin_2012,19,GCF_000281635.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH23,GCF_000281635.1,484128
