@@ -37,6 +37,13 @@ the ANI is under about 80%), this is somewhat expected because the genomes in th
 divergent.
 
 
+### 211012-gambit
+
+Create GAMBIT signatures and calculate pairwise distances for each data set with the 192 KmerSpecs
+used in the previous experiment.
+
+
+
 ## Output
 
 * `data/processed/211011-gambit-ani-additional-genomes/`
@@ -47,4 +54,6 @@ divergent.
 * `data/intermediate/211011-gambit-ani-additional-genomes/`
   * `211012-fastani/`
     * `*.h5` - FastANI results for each data set.
+  * `211012-gambit/`
+    * `*.h5` - GAMBIT pairwise distances for each data set and parameter combination.
 
