@@ -1,0 +1,663 @@
+data_set,ds_index,id,description,assembly_accession,assembly_uid
+konstantinidis_2005,0,GCF_000008865.2,"Escherichia coli O157:H7 str. Sakai DNA, complete genome",GCF_000008865.2,1755381
+konstantinidis_2005,1,GCF_000732965.1,"Escherichia coli O157:H7 str. EDL933 chromosome, complete genome",GCF_000732965.1,199821
+konstantinidis_2005,2,GCF_000005845.2,"Escherichia coli str. K-12 substr. MG1655, complete genome",GCF_000005845.2,79781
+konstantinidis_2005,3,GCF_014262945.1,Escherichia coli CFT073 (E. coli),GCF_014262945.1,7926251
+konstantinidis_2005,4,GCF_000007405.1,Shigella flexneri 2a str. 2457T,GCF_000007405.1,28988
+konstantinidis_2005,5,GCF_000006925.2,Shigella flexneri 2a str. 301,GCF_000006925.2,326318
+konstantinidis_2005,6,GCF_000006945.2,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,GCF_000006945.2,619341
+konstantinidis_2005,7,GCF_000007545.1,Salmonella enterica subsp. enterica serovar Typhi str. Ty2,GCF_000007545.1,29128
+konstantinidis_2005,8,GCF_003429465.1,Salmonella enterica subsp. enterica serovar Typhi,GCF_003429465.1,1904971
+konstantinidis_2005,9,GCF_000252995.1,Salmonella bongori NCTC 12419,GCF_000252995.1,441718
+konstantinidis_2005,10,GCF_000006645.1,Yersinia pestis KIM10+,GCF_000006645.1,28228
+konstantinidis_2005,11,GCF_000009065.1,Yersinia pestis CO92,GCF_000009065.1,30608
+konstantinidis_2005,12,GCF_009295985.1,Yersinia pestis subsp. pestis bv. Medievalis,GCF_009295985.1,5025231
+konstantinidis_2005,13,GCF_000987925.1,Yersinia enterocolitica ASM98792v1,GCF_000987925.1,329781
+konstantinidis_2005,14,GCF_013488025.1,Pectobacterium carotovorum,GCF_013488025.1,7392621
+konstantinidis_2005,15,GCF_000007565.2,Pseudomonas putida KT2440,GCF_000007565.2,654861
+konstantinidis_2005,16,GCF_000006765.1,Pseudomonas aeruginosa PAO1,GCF_000006765.1,28348
+konstantinidis_2005,17,GCF_000007805.1,Pseudomonas syringae pv. tomato str. DC3000,GCF_000007805.1,29388
+konstantinidis_2005,18,GCF_000008805.1,Neisseria meningitidis MC58,GCF_000008805.1,30388
+konstantinidis_2005,19,GCF_000009465.1,Neisseria meningitidis FAM18,GCF_000009465.1,31008
+konstantinidis_2005,20,GCF_000009105.1,Neisseria meningitidis Z2491,GCF_000009105.1,30648
+konstantinidis_2005,21,GCF_000006845.1,Neisseria gonorrhoeae FA 1090,GCF_000006845.1,28428
+konstantinidis_2005,22,GCF_000195715.1,Bordetella pertussis Tohama I,GCF_000195715.1,264178
+konstantinidis_2005,23,GCF_000195675.1,Bordetella bronchiseptica RB50,GCF_000195675.1,264138
+konstantinidis_2005,24,GCF_000317935.1,Bordetella parapertussis Bpp5,GCF_000317935.1,504818
+konstantinidis_2005,25,GCF_006094295.1,Bacillus cereus ATCC 14579,GCF_006094295.1,3320791
+konstantinidis_2005,26,GCF_000008005.1,Bacillus cereus ATCC 10987,GCF_000008005.1,29588
+konstantinidis_2005,27,GCF_000008445.1,"Bacillus anthracis str. 'Ames Ancestor', complete sequence",GCF_000008445.1,30028
+konstantinidis_2005,28,GCF_000833045.1,Bacillus cereus E33L,GCF_000833045.1,250401
+konstantinidis_2005,29,GCF_000008585.1,Mycobacterium tuberculosis CDC1551,GCF_000008585.1,30168
+konstantinidis_2005,30,GCF_000195955.2,"Mycobacterium tuberculosis H37Rv, complete genome",GCF_000195955.2,538048
+konstantinidis_2005,31,GCF_005156105.1,Mycobacterium tuberculosis variant bovis,GCF_005156105.1,2757601
+konstantinidis_2005,32,GCF_003640565.1,Mycobacterium avium,GCF_003640565.1,2014161
+konstantinidis_2005,33,GCF_000011285.1,Streptococcus pyogenes SSI-1,GCF_000011285.1,32448
+konstantinidis_2005,34,GCF_000007285.1,Streptococcus pyogenes MGAS8232,GCF_000007285.1,28868
+konstantinidis_2005,35,GCF_000007425.1,Streptococcus pyogenes MGAS315,GCF_000007425.1,29008
+konstantinidis_2005,36,GCF_000349925.2,Streptococcus pyogenes M1 476,GCF_000349925.2,40851
+konstantinidis_2005,37,GCF_000007265.1,Streptococcus agalactiae 2603V/R,GCF_000007265.1,28848
+konstantinidis_2005,38,GCF_000196055.1,Streptococcus agalactiae NEM316,GCF_000196055.1,264518
+konstantinidis_2005,39,GCF_000007045.1,Streptococcus pneumoniae R6,GCF_000007045.1,28628
+konstantinidis_2005,40,GCF_000006885.1,Streptococcus pneumoniae TIGR4,GCF_000006885.1,28468
+konstantinidis_2005,41,GCF_009738105.1,"Streptococcus mutans strain NCH105 chromosome, complete genome",GCF_009738105.1,5382671
+konstantinidis_2005,42,GCF_000009665.1,Staphylococcus aureus subsp. aureus Mu50,GCF_000009665.1,31168
+konstantinidis_2005,43,GCF_000009645.1,Staphylococcus aureus subsp. aureus N315,GCF_000009645.1,31148
+konstantinidis_2005,44,GCF_000011265.1,Staphylococcus aureus subsp. aureus MW2,GCF_000011265.1,32428
+konstantinidis_2005,45,GCF_000011505.1,Staphylococcus aureus subsp. aureus MRSA252,GCF_000011505.1,32628
+konstantinidis_2005,46,GCF_000011525.1,Staphylococcus aureus subsp. aureus MSSA476,GCF_000011525.1,32648
+konstantinidis_2005,47,GCF_009873455.1,Staphylococcus epidermidis ATCC 12228,GCF_009873455.1,5460951
+konstantinidis_2005,48,GCF_000011925.1,Staphylococcus epidermidis RP62A,GCF_000011925.1,33028
+konstantinidis_2005,49,GCF_000007145.1,Xanthomonas campestris pv. campestris str. ATCC 33913,GCF_000007145.1,28728
+konstantinidis_2005,50,GCF_000348585.1,Xanthomonas axonopodis Xac29-1,GCF_000348585.1,565898
+konstantinidis_2005,51,GCF_000007245.1,"Xylella fastidiosa Temecula1, complete sequence",GCF_000007245.1,28828
+konstantinidis_2005,52,GCF_000006725.1,Xylella fastidiosa 9a5c,GCF_000006725.1,28308
+konstantinidis_2005,53,GCF_000039765.1,Vibrio vulnificus CMCP6,GCF_000039765.1,288888
+konstantinidis_2005,54,GCF_000009745.1,Vibrio vulnificus YJ016,GCF_000009745.1,31248
+konstantinidis_2005,55,GCF_000982695.1,Helicobacter pylori J99,GCF_000982695.1,327011
+konstantinidis_2005,56,GCF_000307795.1,Helicobacter pylori 26695,GCF_000307795.1,449778
+konstantinidis_2005,57,GCF_000007125.1,"Brucella melitensis bv. 1 str. 16M chromosome I, complete sequence",GCF_000007125.1,28708
+konstantinidis_2005,58,GCF_000007505.1,"Brucella suis 1330 chromosome I, complete sequence",GCF_000007505.1,29088
+konstantinidis_2005,59,GCF_000007025.1,"Rickettsia conorii str. Malish 7, complete sequence",GCF_000007025.1,28608
+konstantinidis_2005,60,GCF_000277165.1,"Rickettsia prowazekii str. Chernikova, complete sequence",GCF_000277165.1,398428
+konstantinidis_2005,61,GCF_000009685.1,Clostridium perfringens str. 13,GCF_000009685.1,31188
+konstantinidis_2005,62,GCF_000013285.1,Clostridium perfringens ATCC 13124,GCF_000013285.1,34388
+konstantinidis_2005,63,GCF_000007485.1,Tropheryma whipplei str. Twist,GCF_000007485.1,29068
+konstantinidis_2005,64,GCF_000196075.1,Tropheryma whipplei TW08/27,GCF_000196075.1,264538
+konstantinidis_2005,65,GCF_000756125.1,"Burkholderia pseudomallei strain Mahidol-1106a chromosome 1, complete sequence",GCF_000756125.1,211501
+konstantinidis_2005,66,GCF_002346025.1,"Burkholderia mallei strain Turkey2 chromosome 1, complete sequence",GCF_002346025.1,1221401
+konstantinidis_2005,67,GCF_001752745.1,Legionella pneumophila Strain: Philadelphia_1_ATCC,GCF_001752745.1,808961
+konstantinidis_2005,68,GCF_000048645.1,Legionella pneumophila str. Paris,GCF_000048645.1,67228
+konstantinidis_2005,69,GCF_000048665.1,Legionella pneumophila str. Lens,GCF_000048665.1,67248
+snitkin_2012,0,GCF_000281535.2,Klebsiella pneumoniae subsp. pneumoniae KPNIH1,GCF_000281535.2,195541
+snitkin_2012,1,GCF_000281255.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH2,GCF_000281255.1,483768
+snitkin_2012,2,GCF_000281395.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH4,GCF_000281395.1,483788
+snitkin_2012,3,GCF_000281275.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH5,GCF_000281275.1,483808
+snitkin_2012,4,GCF_000281295.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH6,GCF_000281295.1,483828
+snitkin_2012,5,GCF_000281415.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH7,GCF_000281415.1,483848
+snitkin_2012,6,GCF_000281555.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH8,GCF_000281555.1,483868
+snitkin_2012,7,GCF_000281315.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH9,GCF_000281315.1,483888
+snitkin_2012,8,GCF_000281435.2,Klebsiella pneumoniae subsp. pneumoniae KPNIH10,GCF_000281435.2,180811
+snitkin_2012,9,GCF_000281575.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH11,GCF_000281575.1,483928
+snitkin_2012,10,GCF_000281335.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH12,GCF_000281335.1,483948
+snitkin_2012,11,GCF_000281455.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH14,GCF_000281455.1,483968
+snitkin_2012,12,GCF_000281595.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH16,GCF_000281595.1,483988
+snitkin_2012,13,GCF_000281355.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH17,GCF_000281355.1,484008
+snitkin_2012,14,GCF_000281475.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH18,GCF_000281475.1,484028
+snitkin_2012,15,GCF_000281615.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH19,GCF_000281615.1,484048
+snitkin_2012,16,GCF_000281375.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH20,GCF_000281375.1,484068
+snitkin_2012,17,GCF_000281495.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH21,GCF_000281495.1,484088
+snitkin_2012,18,GCF_000281515.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH22,GCF_000281515.1,484108
+snitkin_2012,19,GCF_000281635.1,Klebsiella pneumoniae subsp. pneumoniae KPNIH23,GCF_000281635.1,484128
+ondov_2016,1,GCF_000759775.1,Escherichia albertii NBRC 107761 (enterobacteria),GCF_000759775.1,213661
+ondov_2016,2,GCF_000759795.1,Pseudescherichia vulneris NBRC 102420 (enterobacteria),GCF_000759795.1,213671
+ondov_2016,3,GCF_000407765.1,Escherichia sp. KTE114 (enterobacteria),GCF_000407765.1,702128
+ondov_2016,4,GCF_000350705.1,Escherichia sp. KTE11 (enterobacteria),GCF_000350705.1,575668
+ondov_2016,5,GCF_000407925.1,Escherichia sp. KTE31 (enterobacteria),GCF_000407925.1,702268
+ondov_2016,6,GCF_000408325.1,Escherichia sp. KTE52 (enterobacteria),GCF_000408325.1,710128
+ondov_2016,7,GCF_000408525.1,Escherichia sp. KTE96 (enterobacteria),GCF_000408525.1,702848
+ondov_2016,8,GCF_000408805.1,Escherichia sp. KTE159 (enterobacteria),GCF_000408805.1,703128
+ondov_2016,9,GCF_000408845.1,Escherichia sp. KTE172 (enterobacteria),GCF_000408845.1,703168
+ondov_2016,10,GCF_000512125.1,Escherichia albertii KF1 (enterobacteria),GCF_000512125.1,88561
+ondov_2016,11,GCF_000807695.1,Escherichia marmotae (enterobacteria),GCF_000807695.1,247161
+ondov_2016,12,GCF_000159895.2,Escherichia sp. 1_1_43 (enterobacteria),GCF_000159895.2,438978
+ondov_2016,13,GCF_000158415.2,Escherichia sp. 4_1_40B (enterobacteria),GCF_000158415.2,395418
+ondov_2016,14,GCF_000157115.2,Escherichia coli (E. coli),GCF_000157115.2,376301
+ondov_2016,15,GCF_000155105.1,Escherichia albertii TW07627 (enterobacteria),GCF_000155105.1,181178
+ondov_2016,16,GCF_000190495.1,Escherichia fergusonii B253 (enterobacteria),GCF_000190495.1,462348
+ondov_2016,17,GCF_000968895.2,Escherichia fergusonii (enterobacteria),GCF_000968895.2,632911
+ondov_2016,18,GCF_000968885.2,Escherichia fergusonii (enterobacteria),GCF_000968885.2,632931
+ondov_2016,19,GCF_000968905.2,Escherichia fergusonii (enterobacteria),GCF_000968905.2,632921
+ondov_2016,20,GCF_000208465.1,Escherichia sp. TW09231 (enterobacteria),GCF_000208465.1,542218
+ondov_2016,21,GCF_000208445.1,Escherichia sp. TW09276 (enterobacteria),GCF_000208445.1,542198
+ondov_2016,22,GCF_000208565.1,Escherichia sp. TW09308 (enterobacteria),GCF_000208565.1,325308
+ondov_2016,23,GCF_000208545.1,Escherichia sp. TW10509 (enterobacteria),GCF_000208545.1,542298
+ondov_2016,24,GCF_000208525.1,Escherichia sp. TW14182 (enterobacteria),GCF_000208525.1,542278
+ondov_2016,25,GCF_000208425.1,Escherichia albertii TW08933 (enterobacteria),GCF_000208425.1,542178
+ondov_2016,26,GCF_000208485.1,Escherichia sp. TW15838 (enterobacteria),GCF_000208485.1,542238
+ondov_2016,27,GCF_000208505.1,Escherichia albertii TW15818 (enterobacteria),GCF_000208505.1,542258
+ondov_2016,28,GCF_000191665.1,Escherichia fergusonii ECD227 (enterobacteria),GCF_000191665.1,495568
+ondov_2016,29,GCF_000283715.1,Shigella sonnei 53G (enterobacteria),GCF_000283715.1,406998
+ondov_2016,30,GCF_000012025.1,Shigella boydii Sb227 (enterobacteria),GCF_000012025.1,33128
+ondov_2016,31,GCF_000092525.1,Shigella sonnei Ss046 (enterobacteria),GCF_000092525.1,114118
+ondov_2016,32,GCF_000013585.1,Shigella flexneri 5 str. 8401 (enterobacteria),GCF_000013585.1,34688
+ondov_2016,33,GCF_000022245.1,Shigella flexneri 2002017 (enterobacteria),GCF_000022245.1,371978
+ondov_2016,34,GCF_000815685.1,Shigella boydii 08-0009 (enterobacteria),GCF_000815685.1,241511
+ondov_2016,35,GCF_000826695.1,Shigella flexneri S5644 (enterobacteria),GCF_000826695.1,247111
+ondov_2016,36,GCF_000815945.1,Shigella flexneri S6162 (enterobacteria),GCF_000815945.1,241641
+ondov_2016,37,GCF_000815485.1,Shigella flexneri S5717 (enterobacteria),GCF_000815485.1,241411
+ondov_2016,38,GCF_000815495.1,Shigella dysenteriae S6205 (enterobacteria),GCF_000815495.1,241441
+ondov_2016,39,GCF_000815505.1,Shigella sonnei S6513 (enterobacteria),GCF_000815505.1,241421
+ondov_2016,40,GCF_000815515.1,Shigella dysenteriae S6554 (enterobacteria),GCF_000815515.1,241431
+ondov_2016,41,GCF_000815565.1,Shigella flexneri S6585 (enterobacteria),GCF_000815565.1,241451
+ondov_2016,42,GCF_000815585.1,Shigella boydii S6614 (enterobacteria),GCF_000815585.1,241471
+ondov_2016,43,GCF_000815595.1,Shigella flexneri S6678 (enterobacteria),GCF_000815595.1,241461
+ondov_2016,44,GCF_000815625.1,Shigella flexneri S6764 (enterobacteria),GCF_000815625.1,241481
+ondov_2016,45,GCF_000815645.1,Shigella boydii S7334 (enterobacteria),GCF_000815645.1,241491
+ondov_2016,46,GCF_000815665.1,Shigella flexneri S7737 (enterobacteria),GCF_000815665.1,241501
+ondov_2016,47,GCF_000815705.1,Shigella boydii 08-0280 (enterobacteria),GCF_000815705.1,241521
+ondov_2016,48,GCF_000815725.1,Shigella boydii 08-2671 (enterobacteria),GCF_000815725.1,241531
+ondov_2016,49,GCF_000815735.1,Shigella boydii 08-2675 (enterobacteria),GCF_000815735.1,241541
+ondov_2016,50,GCF_000815765.1,Shigella boydii 08-6341 (enterobacteria),GCF_000815765.1,241551
+ondov_2016,51,GCF_000815785.1,Shigella boydii 09-0344 (enterobacteria),GCF_000815785.1,241561
+ondov_2016,52,GCF_000815805.1,Shigella flexneri MT1457 (enterobacteria),GCF_000815805.1,241601
+ondov_2016,53,GCF_000815835.1,Shigella boydii 248-1B (enterobacteria),GCF_000815835.1,241581
+ondov_2016,54,GCF_000815815.1,Shigella sonnei 08-7761 (enterobacteria),GCF_000815815.1,241571
+ondov_2016,55,GCF_000815825.1,Shigella sonnei 08-7765 (enterobacteria),GCF_000815825.1,241591
+ondov_2016,56,GCF_000815885.1,Shigella sonnei 09-1032 (enterobacteria),GCF_000815885.1,241611
+ondov_2016,57,GCF_000815905.1,Shigella sonnei 09-2245 (enterobacteria),GCF_000815905.1,241621
+ondov_2016,58,GCF_000815925.1,Shigella sonnei 09-4962 (enterobacteria),GCF_000815925.1,241631
+ondov_2016,59,GCF_000743955.1,Shigella flexneri 2003036 (enterobacteria),GCF_000743955.1,205481
+ondov_2016,60,GCF_000743995.1,Shigella flexneri Shi06HN006 (enterobacteria),GCF_000743995.1,205491
+ondov_2016,61,GCF_000493265.1,"Shigella flexneri II:(3)4,7(8) (enterobacteria)",GCF_000493265.1,78471
+ondov_2016,62,GCF_000467205.1,Shigella sonnei 1DT-1 (enterobacteria),GCF_000467205.1,63931
+ondov_2016,63,GCF_000467245.1,Shigella dysenteriae SD1D (enterobacteria),GCF_000467245.1,63951
+ondov_2016,64,GCF_000499085.1,Shigella dysenteriae WRSd5 (enterobacteria),GCF_000499085.1,81571
+ondov_2016,65,GCF_000499065.1,Shigella dysenteriae WRSd3 (enterobacteria),GCF_000499065.1,81561
+ondov_2016,66,GCF_000565505.1,Shigella flexneri Shi06AH66 (enterobacteria),GCF_000565505.1,115271
+ondov_2016,67,GCF_000565525.1,Shigella flexneri Shi06GS43 (enterobacteria),GCF_000565525.1,115281
+ondov_2016,68,GCF_000565545.1,Shigella flexneri Shi06AH116 (enterobacteria),GCF_000565545.1,115291
+ondov_2016,69,GCF_000565565.1,Shigella flexneri Shi06GS07 (enterobacteria),GCF_000565565.1,115301
+ondov_2016,70,GCF_000565585.1,Shigella flexneri Shi06GS48 (enterobacteria),GCF_000565585.1,115311
+ondov_2016,71,GCF_000565605.1,Shigella flexneri Shi06HN118 (enterobacteria),GCF_000565605.1,115321
+ondov_2016,72,GCF_000565625.1,Shigella flexneri Shi06HN023 (enterobacteria),GCF_000565625.1,115331
+ondov_2016,73,GCF_000565645.1,Shigella flexneri 2005AH264 (enterobacteria),GCF_000565645.1,115341
+ondov_2016,74,GCF_000565665.1,Shigella flexneri Shi06AH135 (enterobacteria),GCF_000565665.1,115351
+ondov_2016,75,GCF_000565685.1,Shigella flexneri Shi06HN378 (enterobacteria),GCF_000565685.1,115361
+ondov_2016,76,GCF_000565705.1,Shigella flexneri Shi06HN016 (enterobacteria),GCF_000565705.1,115371
+ondov_2016,77,GCF_000565725.1,Shigella flexneri Shi06HN250 (enterobacteria),GCF_000565725.1,115381
+ondov_2016,78,GCF_000565745.1,Shigella flexneri Shi06AH028 (enterobacteria),GCF_000565745.1,115391
+ondov_2016,79,GCF_000565765.1,Shigella flexneri Shi06HN244 (enterobacteria),GCF_000565765.1,115401
+ondov_2016,80,GCF_000565785.1,Shigella flexneri Shi06GS37 (enterobacteria),GCF_000565785.1,115411
+ondov_2016,81,GCF_000565805.1,Shigella flexneri 2003055 (enterobacteria),GCF_000565805.1,115421
+ondov_2016,82,GCF_000565825.1,Shigella flexneri Shi06AH130 (enterobacteria),GCF_000565825.1,115431
+ondov_2016,83,GCF_000565845.1,Shigella flexneri Shi06GS55 (enterobacteria),GCF_000565845.1,115441
+ondov_2016,84,GCF_000565865.1,Shigella flexneri Shi06SX36 (enterobacteria),GCF_000565865.1,115451
+ondov_2016,85,GCF_000565885.1,Shigella flexneri 2002103 (enterobacteria),GCF_000565885.1,115461
+ondov_2016,86,GCF_000565905.1,Shigella flexneri Shi05SX04 (enterobacteria),GCF_000565905.1,115471
+ondov_2016,87,GCF_000565925.1,Shigella flexneri Shi06SX53 (enterobacteria),GCF_000565925.1,115481
+ondov_2016,88,GCF_000565945.1,Shigella flexneri 2002007 (enterobacteria),GCF_000565945.1,115491
+ondov_2016,89,GCF_000565965.1,Shigella flexneri 51575 (enterobacteria),GCF_000565965.1,115501
+ondov_2016,90,GCF_000565985.1,Shigella flexneri 51576 (enterobacteria),GCF_000565985.1,115511
+ondov_2016,91,GCF_000566005.1,Shigella flexneri 51577 (enterobacteria),GCF_000566005.1,115521
+ondov_2016,92,GCF_000566025.1,Shigella flexneri 51581 (enterobacteria),GCF_000566025.1,115531
+ondov_2016,93,GCF_000566045.1,Shigella flexneri 1997005 (enterobacteria),GCF_000566045.1,115541
+ondov_2016,94,GCF_000566065.1,Shigella flexneri 2000019 (enterobacteria),GCF_000566065.1,115551
+ondov_2016,95,GCF_000566085.1,Shigella flexneri 2001020 (enterobacteria),GCF_000566085.1,115561
+ondov_2016,96,GCF_000566105.1,Shigella flexneri 2001004 (enterobacteria),GCF_000566105.1,115571
+ondov_2016,97,GCF_000566125.1,Shigella flexneri 2001042 (enterobacteria),GCF_000566125.1,115581
+ondov_2016,98,GCF_000566145.1,Shigella flexneri 2001044 (enterobacteria),GCF_000566145.1,115591
+ondov_2016,99,GCF_000566165.1,Shigella flexneri 2002021 (enterobacteria),GCF_000566165.1,115601
+ondov_2016,100,GCF_000566185.1,Shigella flexneri 2002028 (enterobacteria),GCF_000566185.1,115611
+ondov_2016,101,GCF_000566205.1,Shigella flexneri 2002069 (enterobacteria),GCF_000566205.1,115621
+ondov_2016,102,GCF_000566225.1,Shigella flexneri 2002091 (enterobacteria),GCF_000566225.1,115631
+ondov_2016,103,GCF_000566245.1,Shigella flexneri 2002106 (enterobacteria),GCF_000566245.1,115641
+ondov_2016,104,GCF_000566265.1,Shigella flexneri 2002110 (enterobacteria),GCF_000566265.1,115651
+ondov_2016,105,GCF_000566285.1,Shigella flexneri 2002140 (enterobacteria),GCF_000566285.1,115661
+ondov_2016,106,GCF_000566305.1,Shigella flexneri 2003035 (enterobacteria),GCF_000566305.1,115671
+ondov_2016,107,GCF_000566325.1,Shigella flexneri 2005002 (enterobacteria),GCF_000566325.1,115681
+ondov_2016,108,GCF_000566345.1,Shigella flexneri 2005025 (enterobacteria),GCF_000566345.1,115691
+ondov_2016,109,GCF_000566365.1,Shigella flexneri 2005051 (enterobacteria),GCF_000566365.1,115701
+ondov_2016,110,GCF_000566385.1,Shigella flexneri 2005184 (enterobacteria),GCF_000566385.1,115711
+ondov_2016,111,GCF_000566405.1,Shigella flexneri 2005GS061 (enterobacteria),GCF_000566405.1,115721
+ondov_2016,112,GCF_000566425.1,Shigella flexneri Shi06GS02 (enterobacteria),GCF_000566425.1,115731
+ondov_2016,113,GCF_000566445.1,Shigella flexneri Shi06HN159 (enterobacteria),GCF_000566445.1,115741
+ondov_2016,114,GCF_000566465.1,Shigella flexneri Shi06HN344 (enterobacteria),GCF_000566465.1,115751
+ondov_2016,115,GCF_000566485.1,Shigella flexneri Shi06HN347 (enterobacteria),GCF_000566485.1,115761
+ondov_2016,116,GCF_000566505.1,Shigella flexneri Shi06HN091 (enterobacteria),GCF_000566505.1,115771
+ondov_2016,117,GCF_000566525.1,Shigella flexneri Shi06AH091 (enterobacteria),GCF_000566525.1,115781
+ondov_2016,118,GCF_000566545.1,Shigella flexneri 2001025 (enterobacteria),GCF_000566545.1,115791
+ondov_2016,119,GCF_000566565.1,Shigella flexneri 2001027 (enterobacteria),GCF_000566565.1,115801
+ondov_2016,120,GCF_000566585.1,Shigella flexneri 2001048 (enterobacteria),GCF_000566585.1,115811
+ondov_2016,121,GCF_000566605.1,Shigella flexneri 2002035 (enterobacteria),GCF_000566605.1,115821
+ondov_2016,122,GCF_000566625.1,Shigella flexneri 2002127 (enterobacteria),GCF_000566625.1,115831
+ondov_2016,123,GCF_000566645.1,Shigella flexneri 2002141 (enterobacteria),GCF_000566645.1,115841
+ondov_2016,124,GCF_000566665.1,Shigella flexneri 2002142 (enterobacteria),GCF_000566665.1,115851
+ondov_2016,125,GCF_000183785.1,Shigella flexneri 2a str. 2457T (enterobacteria),GCF_000183785.1,459908
+ondov_2016,126,GCF_000953035.1,Shigella flexneri (enterobacteria),GCF_000953035.1,311731
+ondov_2016,127,GCF_000710235.1,Shigella flexneri (enterobacteria),GCF_000710235.1,188201
+ondov_2016,128,GCF_000281815.1,Shigella sonnei str. Moseley (enterobacteria),GCF_000281815.1,471408
+ondov_2016,129,GCF_000267985.1,Shigella flexneri CCH060 (enterobacteria),GCF_000267985.1,486148
+ondov_2016,130,GCF_000217895.1,Shigella flexneri SFJ17B (enterobacteria),GCF_000217895.1,467468
+ondov_2016,131,GCF_000164925.1,Shigella dysenteriae 1617 (enterobacteria),GCF_000164925.1,235178
+ondov_2016,132,GCF_000268145.1,Shigella boydii 965-58 (enterobacteria),GCF_000268145.1,486228
+ondov_2016,133,GCF_000211955.1,Shigella boydii 3594-74 (enterobacteria),GCF_000211955.1,466588
+ondov_2016,134,GCF_000268185.1,Shigella boydii 4444-74 (enterobacteria),GCF_000268185.1,486248
+ondov_2016,135,GCF_000211975.1,Shigella boydii 5216-82 (enterobacteria),GCF_000211975.1,466628
+ondov_2016,136,GCF_000211935.1,Shigella dysenteriae 155-74 (enterobacteria),GCF_000211935.1,466528
+ondov_2016,137,GCF_000268105.1,Shigella dysenteriae 225-75 (enterobacteria),GCF_000268105.1,486348
+ondov_2016,138,GCF_000213695.1,Shigella flexneri VA-6 (enterobacteria),GCF_000213695.1,466728
+ondov_2016,139,GCF_000213675.1,Shigella flexneri K-218 (enterobacteria),GCF_000213675.1,466708
+ondov_2016,140,GCF_000213735.1,Shigella flexneri K-227 (enterobacteria),GCF_000213735.1,466768
+ondov_2016,141,GCF_000213715.1,Shigella flexneri K-272 (enterobacteria),GCF_000213715.1,466748
+ondov_2016,142,GCF_000213755.1,Shigella flexneri K-304 (enterobacteria),GCF_000213755.1,466788
+ondov_2016,143,GCF_000268165.1,Shigella flexneri K-315 (enterobacteria),GCF_000268165.1,486188
+ondov_2016,144,GCF_000213435.1,Shigella flexneri K-671 (enterobacteria),GCF_000213435.1,466808
+ondov_2016,145,GCF_000268245.1,Shigella flexneri K-1770 (enterobacteria),GCF_000268245.1,486168
+ondov_2016,146,GCF_000296305.1,Shigella flexneri 1485-80 (enterobacteria),GCF_000296305.1,493648
+ondov_2016,147,GCF_000268085.1,Shigella flexneri 2850-71 (enterobacteria),GCF_000268085.1,486128
+ondov_2016,148,GCF_000213495.1,Shigella flexneri 2930-71 (enterobacteria),GCF_000213495.1,466868
+ondov_2016,149,GCF_000213475.1,Shigella flexneri 4343-70 (enterobacteria),GCF_000213475.1,466848
+ondov_2016,150,GCF_000281795.1,Shigella flexneri 6603-63 (enterobacteria),GCF_000281795.1,471388
+ondov_2016,151,GCF_000268045.1,Shigella sonnei 3226-85 (enterobacteria),GCF_000268045.1,486268
+ondov_2016,152,GCF_000268005.1,Shigella sonnei 3233-85 (enterobacteria),GCF_000268005.1,486288
+ondov_2016,153,GCF_000268225.1,Shigella sonnei 4822-66 (enterobacteria),GCF_000268225.1,486308
+ondov_2016,154,GCF_000193915.1,Shigella boydii ATCC 9905 (enterobacteria),GCF_000193915.1,463068
+ondov_2016,155,GCF_000193895.1,Shigella dysenteriae CDC 74-1112 (enterobacteria),GCF_000193895.1,463048
+ondov_2016,156,GCF_000193935.1,Shigella flexneri CDC 796-83 (enterobacteria),GCF_000193935.1,463088
+ondov_2016,157,GCF_000210475.1,Escherichia coli ETEC H10407 (E. coli),GCF_000210475.1,379808
+ondov_2016,158,GCF_000013305.1,Escherichia coli 536 (E. coli),GCF_000013305.1,34408
+ondov_2016,159,GCF_000014845.1,Escherichia coli APEC O1 (E. coli),GCF_000014845.1,35948
+ondov_2016,160,GCF_000010485.1,Escherichia coli SE15 (E. coli),GCF_000010485.1,380618
+ondov_2016,161,GCF_000147855.2,Escherichia coli KO11FL (E. coli),GCF_000147855.2,359678
+ondov_2016,162,GCF_000023665.1,Escherichia coli 'BL21-Gold(DE3)pLysS AG' (E. coli),GCF_000023665.1,44328
+ondov_2016,163,GCF_000257275.1,Escherichia coli P12b (E. coli),GCF_000257275.1,378418
+ondov_2016,164,GCF_000316425.2,Escherichia coli 90.2281 (E. coli),GCF_000316425.2,548941
+ondov_2016,165,GCF_000316905.2,Escherichia coli 96.0428 (E. coli),GCF_000316905.2,549201
+ondov_2016,166,GCF_000316725.2,Escherichia coli 97.1742 (E. coli),GCF_000316725.2,549061
+ondov_2016,167,GCF_000335255.2,Escherichia coli 99.0839 (E. coli),GCF_000335255.2,549581
+ondov_2016,168,GCF_000303235.2,Escherichia coli 0.1304 (E. coli),GCF_000303235.2,552791
+ondov_2016,169,GCF_000335355.2,Escherichia coli PA2 (E. coli),GCF_000335355.2,549691
+ondov_2016,170,GCF_000267085.1,Escherichia coli PA22 (E. coli),GCF_000267085.1,485628
+ondov_2016,171,GCF_000267805.2,Escherichia coli PA24 (E. coli),GCF_000267805.2,551351
+ondov_2016,172,GCF_000267765.2,Escherichia coli PA28 (E. coli),GCF_000267765.2,546051
+ondov_2016,173,GCF_000267685.2,Escherichia coli PA39 (E. coli),GCF_000267685.2,545971
+ondov_2016,174,GCF_000267645.2,Escherichia coli PA42 (E. coli),GCF_000267645.2,545931
+ondov_2016,175,GCF_000303915.2,Escherichia coli PA49 (E. coli),GCF_000303915.2,548161
+ondov_2016,176,GCF_000267605.2,Escherichia coli TW09098 (E. coli),GCF_000267605.2,545911
+ondov_2016,177,GCF_000267305.2,Escherichia coli EC4439 (E. coli),GCF_000267305.2,545671
+ondov_2016,178,GCF_000303395.2,Escherichia coli EC1865 (E. coli),GCF_000303395.2,547831
+ondov_2016,179,GCF_000303995.2,Escherichia coli 5905 (E. coli),GCF_000303995.2,548241
+ondov_2016,180,GCF_000304035.2,Escherichia coli EC96038 (E. coli),GCF_000304035.2,548271
+ondov_2016,181,GCF_000304055.2,Escherichia coli 5412 (E. coli),GCF_000304055.2,548291
+ondov_2016,182,GCF_000303655.2,Escherichia coli 07798 (E. coli),GCF_000303655.2,548021
+ondov_2016,183,GCF_000235225.1,Escherichia coli O104:H4 str. 09-7901 (E. coli),GCF_000235225.1,467788
+ondov_2016,184,GCF_000335415.2,Escherichia coli PA11 (E. coli),GCF_000335415.2,549731
+ondov_2016,185,GCF_000335335.2,Escherichia coli PA19 (E. coli),GCF_000335335.2,549671
+ondov_2016,186,GCF_000235105.1,Escherichia coli O104:H4 str. 11-4632 C2 (E. coli),GCF_000235105.1,468628
+ondov_2016,187,GCF_000234275.2,Escherichia coli O121:H19 str. MT#2 (E. coli),GCF_000234275.2,354861
+ondov_2016,188,GCF_000340455.2,Escherichia coli 09BKT078844 (E. coli),GCF_000340455.2,552361
+ondov_2016,189,GCF_000259135.1,Escherichia coli AI27 (E. coli),GCF_000259135.1,482448
+ondov_2016,190,GCF_000353545.1,Escherichia coli O104:H4 str. E92/11 (E. coli),GCF_000353545.1,567198
+ondov_2016,191,GCF_000354895.2,Escherichia coli 2731150 (E. coli),GCF_000354895.2,563161
+ondov_2016,192,GCF_000355535.1,Escherichia coli 2762100 (E. coli),GCF_000355535.1,673058
+ondov_2016,193,GCF_000355055.1,Escherichia coli 2850400 (E. coli),GCF_000355055.1,573938
+ondov_2016,194,GCF_000355035.2,Escherichia coli 2861200 (E. coli),GCF_000355035.2,563201
+ondov_2016,195,GCF_000356505.2,Escherichia coli 2866350 (E. coli),GCF_000356505.2,563831
+ondov_2016,196,GCF_000356245.1,Escherichia coli 2875150 (E. coli),GCF_000356245.1,578698
+ondov_2016,197,GCF_000357585.2,Escherichia coli P0299438.10 (E. coli),GCF_000357585.2,564241
+ondov_2016,198,GCF_000357325.1,Escherichia coli P0299917.5 (E. coli),GCF_000357325.1,579778
+ondov_2016,199,GCF_000357345.2,Escherichia coli P0299917.6 (E. coli),GCF_000357345.2,564121
+ondov_2016,200,GCF_000354515.2,Escherichia coli MP021017.5 (E. coli),GCF_000354515.2,554111
+ondov_2016,201,GCF_000358855.2,Escherichia coli P0301867.5 (E. coli),GCF_000358855.2,564751
+ondov_2016,202,GCF_000356965.1,Escherichia coli P0302293.8 (E. coli),GCF_000356965.1,579418
+ondov_2016,203,GCF_000357925.2,Escherichia coli P0305260.10 (E. coli),GCF_000357925.2,564371
+ondov_2016,204,GCF_000358635.2,Escherichia coli p0305293.2 (E. coli),GCF_000358635.2,564661
+ondov_2016,205,GCF_000359095.2,Escherichia coli p0305293.7 (E. coli),GCF_000359095.2,564821
+ondov_2016,206,GCF_000358555.1,Escherichia coli p0305293.10 (E. coli),GCF_000358555.1,581008
+ondov_2016,207,GCF_000356865.2,Escherichia coli p0305293.13 (E. coli),GCF_000356865.2,563971
+ondov_2016,208,GCF_000358615.2,Escherichia coli p0305293.15 (E. coli),GCF_000358615.2,564651
+ondov_2016,209,GCF_000356385.1,Escherichia coli BCE030_MS-09 (E. coli),GCF_000356385.1,578838
+ondov_2016,210,GCF_000356685.2,Escherichia coli 2846750 (E. coli),GCF_000356685.2,563901
+ondov_2016,211,GCF_000356125.1,Escherichia coli 199900.1 (E. coli),GCF_000356125.1,578578
+ondov_2016,212,GCF_000354795.2,Escherichia coli MP021561.2 (E. coli),GCF_000354795.2,563131
+ondov_2016,213,GCF_000355275.2,Escherichia coli MP020940.1 (E. coli),GCF_000355275.2,563291
+ondov_2016,214,GCF_000357545.2,Escherichia coli P0298942.7 (E. coli),GCF_000357545.2,564221
+ondov_2016,215,GCF_000356645.2,Escherichia coli P0299438.2 (E. coli),GCF_000356645.2,563881
+ondov_2016,216,GCF_000357785.2,Escherichia coli P0302308.3 (E. coli),GCF_000357785.2,564311
+ondov_2016,217,GCF_000358875.1,Escherichia coli P0302308.10 (E. coli),GCF_000358875.1,581328
+ondov_2016,218,GCF_000358955.2,Escherichia coli P0304816.5 (E. coli),GCF_000358955.2,564771
+ondov_2016,219,GCF_000358995.1,Escherichia coli P0304816.14 (E. coli),GCF_000358995.1,663638
+ondov_2016,220,GCF_000358045.2,Escherichia coli P0305260.4 (E. coli),GCF_000358045.2,564431
+ondov_2016,221,GCF_000446095.2,Escherichia coli C1244_91 (E. coli),GCF_000446095.2,565471
+ondov_2016,222,GCF_000356025.2,Escherichia coli P0301867.2 (E. coli),GCF_000356025.2,563621
+ondov_2016,223,GCF_000357125.1,Escherichia coli P0299483.3 (E. coli),GCF_000357125.1,579578
+ondov_2016,224,GCF_000446465.2,Escherichia coli C353_09 (E. coli),GCF_000446465.2,565761
+ondov_2016,225,GCF_000446585.2,Escherichia coli C496_10 (E. coli),GCF_000446585.2,565821
+ondov_2016,226,GCF_000446745.2,Escherichia coli C717_10 (E. coli),GCF_000446745.2,565901
+ondov_2016,227,GCF_000462045.2,Escherichia coli B28-1 (E. coli),GCF_000462045.2,567921
+ondov_2016,228,GCF_000462625.2,Escherichia coli B113 (E. coli),GCF_000462625.2,568201
+ondov_2016,229,GCF_000264015.1,Escherichia coli O26:H11 str. CVM9942 (E. coli),GCF_000264015.1,483468
+ondov_2016,230,GCF_000259425.1,Escherichia coli O32:H37 str. P4 (E. coli),GCF_000259425.1,482508
+ondov_2016,231,GCF_000407665.1,Escherichia coli KTE1 (E. coli),GCF_000407665.1,702028
+ondov_2016,232,GCF_000407685.1,Escherichia coli KTE3 (E. coli),GCF_000407685.1,702048
+ondov_2016,233,GCF_000352205.1,Escherichia coli KTE23 (E. coli),GCF_000352205.1,577168
+ondov_2016,234,GCF_000407885.1,Escherichia coli KTE27 (E. coli),GCF_000407885.1,702248
+ondov_2016,235,GCF_000407945.1,Escherichia coli KTE34 (E. coli),GCF_000407945.1,702288
+ondov_2016,236,GCF_000407985.1,Escherichia coli KTE37 (E. coli),GCF_000407985.1,702328
+ondov_2016,237,GCF_000326505.1,Escherichia coli KTE82 (E. coli),GCF_000326505.1,519098
+ondov_2016,238,GCF_000326825.1,Escherichia coli KTE232 (E. coli),GCF_000326825.1,519078
+ondov_2016,239,GCF_000326205.1,Escherichia coli KTE117 (E. coli),GCF_000326205.1,518618
+ondov_2016,240,GCF_000326965.1,Escherichia coli KTE125 (E. coli),GCF_000326965.1,578188
+ondov_2016,241,GCF_000326725.1,Escherichia coli KTE150 (E. coli),GCF_000326725.1,518838
+ondov_2016,242,GCF_000326785.1,Escherichia coli KTE177 (E. coli),GCF_000326785.1,519018
+ondov_2016,243,GCF_000259385.1,Escherichia coli NCCP15647 (E. coli),GCF_000259385.1,546718
+ondov_2016,244,GCF_000304255.1,Escherichia coli AD30 (E. coli),GCF_000304255.1,494288
+ondov_2016,245,GCF_000350945.1,Escherichia coli KTE187 (E. coli),GCF_000350945.1,575908
+ondov_2016,246,GCF_000352985.1,Escherichia coli KTE203 (E. coli),GCF_000352985.1,569848
+ondov_2016,247,GCF_000351065.1,Escherichia coli KTE204 (E. coli),GCF_000351065.1,576028
+ondov_2016,248,GCF_000353045.1,Escherichia coli KTE211 (E. coli),GCF_000353045.1,578008
+ondov_2016,249,GCF_000351245.1,Escherichia coli KTE220 (E. coli),GCF_000351245.1,576208
+ondov_2016,250,GCF_000351405.1,Escherichia coli KTE237 (E. coli),GCF_000351405.1,576368
+ondov_2016,251,GCF_000351505.1,Escherichia coli KTE55 (E. coli),GCF_000351505.1,576468
+ondov_2016,252,GCF_000351605.1,Escherichia coli KTE62 (E. coli),GCF_000351605.1,576568
+ondov_2016,253,GCF_000408365.1,Escherichia coli KTE64 (E. coli),GCF_000408365.1,702688
+ondov_2016,254,GCF_000408445.1,Escherichia coli KTE71 (E. coli),GCF_000408445.1,702768
+ondov_2016,255,GCF_000408465.1,Escherichia coli KTE73 (E. coli),GCF_000408465.1,702788
+ondov_2016,256,GCF_000352445.1,Escherichia coli KTE79 (E. coli),GCF_000352445.1,577408
+ondov_2016,257,GCF_000351805.1,Escherichia coli KTE86 (E. coli),GCF_000351805.1,576768
+ondov_2016,258,GCF_000408505.1,Escherichia coli KTE89 (E. coli),GCF_000408505.1,702828
+ondov_2016,259,GCF_000408565.1,Escherichia coli KTE100 (E. coli),GCF_000408565.1,702888
+ondov_2016,260,GCF_000352525.1,Escherichia coli KTE115 (E. coli),GCF_000352525.1,577488
+ondov_2016,261,GCF_000408665.1,Escherichia coli KTE121 (E. coli),GCF_000408665.1,702988
+ondov_2016,262,GCF_000408725.1,Escherichia coli KTE130 (E. coli),GCF_000408725.1,703048
+ondov_2016,263,GCF_000352645.1,Escherichia coli KTE141 (E. coli),GCF_000352645.1,577608
+ondov_2016,264,GCF_000351945.1,Escherichia coli KTE143 (E. coli),GCF_000351945.1,576908
+ondov_2016,265,GCF_000352665.1,Escherichia coli KTE144 (E. coli),GCF_000352665.1,577628
+ondov_2016,266,GCF_000352765.1,Escherichia coli KTE165 (E. coli),GCF_000352765.1,577728
+ondov_2016,267,GCF_000352045.1,Escherichia coli KTE171 (E. coli),GCF_000352045.1,577008
+ondov_2016,268,GCF_000340235.1,Escherichia coli O08 (E. coli),GCF_000340235.1,548498
+ondov_2016,269,GCF_000319955.1,Escherichia coli O104:H4 str. Ec11-4986 (E. coli),GCF_000319955.1,514038
+ondov_2016,270,GCF_000320135.1,Escherichia coli O104:H4 str. 11-03439 (E. coli),GCF_000320135.1,514448
+ondov_2016,271,GCF_000320175.1,Escherichia coli O104:H4 str. 11-04080 (E. coli),GCF_000320175.1,514468
+ondov_2016,272,GCF_000320255.1,Escherichia coli O104:H4 str. Ec12-0465 (E. coli),GCF_000320255.1,514218
+ondov_2016,273,GCF_000671295.1,Escherichia coli O145:H28 str. RM12581 (E. coli),GCF_000671295.1,168651
+ondov_2016,274,GCF_000520055.1,Escherichia coli O145:H28 str. RM13516 (E. coli),GCF_000520055.1,92711
+ondov_2016,275,GCF_000485635.1,Escherichia coli 113290 (E. coli),GCF_000485635.1,73261
+ondov_2016,276,GCF_000488455.1,Escherichia coli 907889 (E. coli),GCF_000488455.1,75821
+ondov_2016,277,GCF_000488495.1,Escherichia coli 908519 (E. coli),GCF_000488495.1,75841
+ondov_2016,278,GCF_000488555.1,Escherichia coli 908524 (E. coli),GCF_000488555.1,75871
+ondov_2016,279,GCF_000456105.1,Escherichia coli HVH 6 (3-8296502) (E. coli),GCF_000456105.1,54201
+ondov_2016,280,GCF_000456125.1,Escherichia coli HVH 7 (4-7315031) (E. coli),GCF_000456125.1,54211
+ondov_2016,281,GCF_000456265.1,Escherichia coli HVH 19 (4-7154984) (E. coli),GCF_000456265.1,54281
+ondov_2016,282,GCF_000507605.1,Escherichia coli HVH 23 (4-6066488) (E. coli),GCF_000507605.1,86591
+ondov_2016,283,GCF_000456365.1,Escherichia coli HVH 25 (4-5851939) (E. coli),GCF_000456365.1,54331
+ondov_2016,284,GCF_000456405.1,Escherichia coli HVH 27 (4-7449267) (E. coli),GCF_000456405.1,54351
+ondov_2016,285,GCF_000456725.1,Escherichia coli HVH 45 (4-3129918) (E. coli),GCF_000456725.1,54511
+ondov_2016,286,GCF_000457305.1,Escherichia coli HVH 91 (4-4638751) (E. coli),GCF_000457305.1,69751
+ondov_2016,287,GCF_000457855.1,Escherichia coli HVH 127 (4-7303629) (E. coli),GCF_000457855.1,55041
+ondov_2016,288,GCF_000457895.1,Escherichia coli HVH 130 (4-7036876) (E. coli),GCF_000457895.1,55061
+ondov_2016,289,GCF_000495035.1,Escherichia coli HVH 152 (4-3447545) (E. coli),GCF_000495035.1,79431
+ondov_2016,290,GCF_000458295.1,Escherichia coli HVH 154 (4-5636698) (E. coli),GCF_000458295.1,55261
+ondov_2016,291,GCF_000458685.1,Escherichia coli HVH 180 (4-3051617) (E. coli),GCF_000458685.1,55461
+ondov_2016,292,GCF_000458975.1,Escherichia coli HVH 196 (4-4530470) (E. coli),GCF_000458975.1,55601
+ondov_2016,293,GCF_000507665.1,Escherichia coli HVH 214 (4-3062198) (E. coli),GCF_000507665.1,86621
+ondov_2016,294,GCF_000459475.1,Escherichia coli HVH 223 (4-2976528) (E. coli),GCF_000459475.1,55851
+ondov_2016,295,GCF_000459615.1,Escherichia coli KOEGE 30 (63a) (E. coli),GCF_000459615.1,55921
+ondov_2016,296,GCF_000459815.1,Escherichia coli KOEGE 68 (182a) (E. coli),GCF_000459815.1,56021
+ondov_2016,297,GCF_000460155.1,Escherichia coli UMEA 3108-1 (E. coli),GCF_000460155.1,56191
+ondov_2016,298,GCF_000460235.1,Escherichia coli UMEA 3122-1 (E. coli),GCF_000460235.1,56231
+ondov_2016,299,GCF_000460255.1,Escherichia coli UMEA 3124-1 (E. coli),GCF_000460255.1,56241
+ondov_2016,300,GCF_000460715.1,Escherichia coli UMEA 3199-1 (E. coli),GCF_000460715.1,56471
+ondov_2016,301,GCF_000460755.1,Escherichia coli UMEA 3201-1 (E. coli),GCF_000460755.1,56491
+ondov_2016,302,GCF_000460775.1,Escherichia coli UMEA 3203-1 (E. coli),GCF_000460775.1,56501
+ondov_2016,303,GCF_000488095.1,Escherichia coli UMEA 3290-1 (E. coli),GCF_000488095.1,75641
+ondov_2016,304,GCF_000461155.1,Escherichia coli UMEA 3298-1 (E. coli),GCF_000461155.1,56691
+ondov_2016,305,GCF_000461215.1,Escherichia coli UMEA 3317-1 (E. coli),GCF_000461215.1,56721
+ondov_2016,306,GCF_000488135.1,Escherichia coli UMEA 3323-1 (E. coli),GCF_000488135.1,75661
+ondov_2016,307,GCF_000461275.1,Escherichia coli UMEA 3337-1 (E. coli),GCF_000461275.1,56751
+ondov_2016,308,GCF_000461475.1,Escherichia coli UMEA 3656-1 (E. coli),GCF_000461475.1,56851
+ondov_2016,309,GCF_000461695.1,Escherichia coli UMEA 3805-1 (E. coli),GCF_000461695.1,56961
+ondov_2016,310,GCF_000461855.1,Escherichia coli UMEA 4076-1 (E. coli),GCF_000461855.1,57041
+ondov_2016,311,GCF_000397265.1,Escherichia coli TOP382-2 (E. coli),GCF_000397265.1,690618
+ondov_2016,312,GCF_000397285.1,Escherichia coli TOP382-3 (E. coli),GCF_000397285.1,690638
+ondov_2016,313,GCF_000397625.1,Escherichia coli TOP2652 (E. coli),GCF_000397625.1,690978
+ondov_2016,314,GCF_000397705.1,Escherichia coli TOP2662-4 (E. coli),GCF_000397705.1,691058
+ondov_2016,315,GCF_000392555.1,Escherichia coli O157 str. NCCP15739 (E. coli),GCF_000392555.1,677818
+ondov_2016,316,GCF_000392575.1,Escherichia coli O157 str. NCCP15738 (E. coli),GCF_000392575.1,689018
+ondov_2016,317,GCF_000401755.1,Escherichia coli ATCC 25922 (E. coli),GCF_000401755.1,713108
+ondov_2016,318,GCF_000522245.1,Escherichia coli BIDMC 15 (E. coli),GCF_000522245.1,93941
+ondov_2016,319,GCF_000415485.1,Escherichia coli E2265 (E. coli),GCF_000415485.1,39011
+ondov_2016,320,GCF_000418615.2,Escherichia coli MC6002 (E. coli),GCF_000418615.2,565281
+ondov_2016,321,GCF_000482065.1,Escherichia coli SCD2 (E. coli),GCF_000482065.1,71471
+ondov_2016,322,GCF_000747455.1,Escherichia coli O157:H7 str. T1543_06 (E. coli),GCF_000747455.1,212261
+ondov_2016,323,GCF_000498875.2,Escherichia coli LAU-EC5 (E. coli),GCF_000498875.2,568811
+ondov_2016,324,GCF_000506585.2,Escherichia coli LAU-EC8 (E. coli),GCF_000506585.2,568961
+ondov_2016,325,GCF_000506485.2,Escherichia coli LAU-EC9 (E. coli),GCF_000506485.2,568921
+ondov_2016,326,GCF_000498815.2,Escherichia coli LAU-EC3 (E. coli),GCF_000498815.2,568791
+ondov_2016,327,GCF_000471165.1,Escherichia coli M7 (E. coli),GCF_000471165.1,65611
+ondov_2016,328,GCF_000471525.1,Escherichia coli K2 (E. coli),GCF_000471525.1,65791
+ondov_2016,329,GCF_000506845.1,Escherichia coli ATCC BAA-2215 (E. coli),GCF_000506845.1,85891
+ondov_2016,330,GCF_000503675.1,Escherichia coli 38.52 (E. coli),GCF_000503675.1,84251
+ondov_2016,331,GCF_000503715.1,Escherichia coli 1350 (E. coli),GCF_000503715.1,84271
+ondov_2016,332,GCF_000503415.1,Escherichia coli 85B (E. coli),GCF_000503415.1,84121
+ondov_2016,333,GCF_000511465.1,Escherichia coli FAH1 (E. coli),GCF_000511465.1,88161
+ondov_2016,334,GCF_000765435.1,Escherichia coli FAP1 (E. coli),GCF_000765435.1,216481
+ondov_2016,335,GCF_000692475.1,Escherichia coli BIDMC 65 (E. coli),GCF_000692475.1,179271
+ondov_2016,336,GCF_000692635.1,Escherichia coli BIDMC 77 (E. coli),GCF_000692635.1,179351
+ondov_2016,337,GCF_000692655.1,Escherichia coli BIDMC 78 (E. coli),GCF_000692655.1,179361
+ondov_2016,338,GCF_000692675.1,Escherichia coli BIDMC 79 (E. coli),GCF_000692675.1,179371
+ondov_2016,339,GCF_000692735.1,Escherichia coli CHS 77 (E. coli),GCF_000692735.1,179401
+ondov_2016,340,GCF_000692875.1,Escherichia coli UCI 65 (E. coli),GCF_000692875.1,179471
+ondov_2016,341,GCF_000713425.1,Escherichia coli 8-415-05_S1_C1 (E. coli),GCF_000713425.1,189931
+ondov_2016,342,GCF_000704845.1,Escherichia coli 3-073-06_S1_C1 (E. coli),GCF_000704845.1,185581
+ondov_2016,343,GCF_000713945.1,Escherichia coli 4-203-08_S1_C2 (E. coli),GCF_000713945.1,190191
+ondov_2016,344,GCF_000704765.1,Escherichia coli 3-020-07_S1_C3 (E. coli),GCF_000704765.1,185541
+ondov_2016,345,GCF_000703645.1,Escherichia coli 2-177-06_S3_C1 (E. coli),GCF_000703645.1,184981
+ondov_2016,346,GCF_000704585.1,Escherichia coli 2-474-04_S3_C1 (E. coli),GCF_000704585.1,185451
+ondov_2016,347,GCF_000714175.1,Escherichia coli 5-172-05_S3_C1 (E. coli),GCF_000714175.1,190311
+ondov_2016,348,GCF_000714335.1,Escherichia coli 5-366-08_S3_C1 (E. coli),GCF_000714335.1,190381
+ondov_2016,349,GCF_000627965.1,Escherichia coli 1-182-04_S3_C1 (E. coli),GCF_000627965.1,144501
+ondov_2016,350,GCF_000627435.1,Escherichia coli 1-250-04_S3_C1 (E. coli),GCF_000627435.1,144241
+ondov_2016,351,GCF_000687105.1,Escherichia coli 2-005-03_S3_C2 (E. coli),GCF_000687105.1,176561
+ondov_2016,352,GCF_000704065.1,Escherichia coli 2-316-03_S3_C2 (E. coli),GCF_000704065.1,185191
+ondov_2016,353,GCF_000713815.1,Escherichia coli 1-250-04_S3_C2 (E. coli),GCF_000713815.1,190121
+ondov_2016,354,GCF_000711515.1,Escherichia coli 3-020-07_S3_C2 (E. coli),GCF_000711515.1,188881
+ondov_2016,355,GCF_000714135.1,Escherichia coli 5-172-05_S3_C3 (E. coli),GCF_000714135.1,190281
+ondov_2016,356,GCF_000601335.1,Escherichia coli 1-110-08_S3_C3 (E. coli),GCF_000601335.1,133131
+ondov_2016,357,GCF_000700245.1,Escherichia coli 3-373-03_S3_C3 (E. coli),GCF_000700245.1,183301
+ondov_2016,358,GCF_000713985.1,Escherichia coli 4-203-08_S3_C3 (E. coli),GCF_000713985.1,190211
+ondov_2016,359,GCF_000711565.1,Escherichia coli 2-460-02_S4_C1 (E. coli),GCF_000711565.1,188911
+ondov_2016,360,GCF_000601355.1,Escherichia coli 1-110-08_S4_C1 (E. coli),GCF_000601355.1,133141
+ondov_2016,361,GCF_000627315.1,Escherichia coli 1-176-05_S4_C1 (E. coli),GCF_000627315.1,144181
+ondov_2016,362,GCF_000700665.1,Escherichia coli 3-373-03_S4_C1 (E. coli),GCF_000700665.1,183511
+ondov_2016,363,GCF_000704445.1,Escherichia coli 2-427-07_S4_C2 (E. coli),GCF_000704445.1,185381
+ondov_2016,364,GCF_000714095.1,Escherichia coli 5-366-08_S4_C2 (E. coli),GCF_000714095.1,190271
+ondov_2016,365,GCF_000627075.1,Escherichia coli 2-005-03_S4_C3 (E. coli),GCF_000627075.1,144061
+ondov_2016,366,GCF_000704345.1,Escherichia coli 2-316-03_S4_C3 (E. coli),GCF_000704345.1,185331
+ondov_2016,367,GCF_000704545.1,Escherichia coli 2-460-02_S4_C3 (E. coli),GCF_000704545.1,185431
+ondov_2016,368,GCF_000713115.1,Escherichia coli 6-319-05_S4_C3 (E. coli),GCF_000713115.1,189791
+ondov_2016,369,GCF_000618125.1,Escherichia coli O111:H8 str. F6627 (E. coli),GCF_000618125.1,140081
+ondov_2016,370,GCF_000616685.2,Escherichia coli O111:NM str. 08-4487 (E. coli),GCF_000616685.2,570231
+ondov_2016,371,GCF_000619225.2,Escherichia coli O111:NM str. 2009C-4006 (E. coli),GCF_000619225.2,570761
+ondov_2016,372,GCF_000619005.2,Escherichia coli O111:NM str. 2009C-4052 (E. coli),GCF_000619005.2,570701
+ondov_2016,373,GCF_000616625.1,Escherichia coli O118:H16 str. 08-3651 (E. coli),GCF_000616625.1,139621
+ondov_2016,374,GCF_000619745.2,Escherichia coli O121:H19 str. 2009C-4050 (E. coli),GCF_000619745.2,570881
+ondov_2016,375,GCF_000615505.1,Escherichia coli O121:H19 str. 2010C-3840 (E. coli),GCF_000615505.1,139261
+ondov_2016,376,GCF_000617725.2,Escherichia coli O157:H7 str. 07-3391 (E. coli),GCF_000617725.2,570491
+ondov_2016,377,GCF_000615015.1,Escherichia coli O157:H7 str. 2009EL2109 (E. coli),GCF_000615015.1,139111
+ondov_2016,378,GCF_000616525.2,Escherichia coli O157:H7 str. 2011EL-2097 (E. coli),GCF_000616525.2,570171
+ondov_2016,379,GCF_000615865.2,Escherichia coli O157:H7 str. 2011EL-2106 (E. coli),GCF_000615865.2,569981
+ondov_2016,380,GCF_000614255.1,Escherichia coli O157:H7 str. 2011EL-2114 (E. coli),GCF_000614255.1,138821
+ondov_2016,381,GCF_000614085.2,Escherichia coli O157:H7 str. 2011EL-2288 (E. coli),GCF_000614085.2,569731
+ondov_2016,382,GCF_000618105.2,Escherichia coli O157:H7 str. F6142 (E. coli),GCF_000618105.2,570551
+ondov_2016,383,GCF_000618065.2,Escherichia coli O157:H7 str. F7384 (E. coli),GCF_000618065.2,570541
+ondov_2016,384,GCF_000618245.1,Escherichia coli O157:H7 str. H2495 (E. coli),GCF_000618245.1,140141
+ondov_2016,385,GCF_000618825.1,Escherichia coli O157:H7 str. K5467 (E. coli),GCF_000618825.1,140431
+ondov_2016,386,GCF_000618845.1,Escherichia coli O157:H7 str. K5602 (E. coli),GCF_000618845.1,140441
+ondov_2016,387,GCF_000617585.1,Escherichia coli O165:H25 str. 2010C-4874 (E. coli),GCF_000617585.1,143441
+ondov_2016,388,GCF_000622535.2,Escherichia coli O26:H11 str. 2010C-5028 (E. coli),GCF_000622535.2,570941
+ondov_2016,389,GCF_000614845.2,Escherichia coli O26:NM str. 2010C-4347 (E. coli),GCF_000614845.2,569861
+ondov_2016,390,GCF_000618085.1,Escherichia coli O6:H16 str. F5656C1 (E. coli),GCF_000618085.1,140061
+ondov_2016,391,GCF_000617325.1,Escherichia coli O69:H11 str. 06-3325 (E. coli),GCF_000617325.1,139781
+ondov_2016,392,GCF_000699385.1,Escherichia coli 11117 (E. coli),GCF_000699385.1,182911
+ondov_2016,393,GCF_000948445.1,Escherichia coli O157:H7 str. EDL933 (E. coli),GCF_000948445.1,308061
+ondov_2016,394,GCF_000801205.1,Escherichia coli str. K-12 substr. MG1655 (E. coli),GCF_000801205.1,234141
+ondov_2016,395,GCF_000163155.1,Escherichia coli B088 (E. coli),GCF_000163155.1,197038
+ondov_2016,396,GCF_000952955.1,Escherichia coli (E. coli),GCF_000952955.1,311701
+ondov_2016,397,GCF_000752435.1,Escherichia coli (E. coli),GCF_000752435.1,209591
+ondov_2016,398,GCF_000936635.1,Escherichia coli (E. coli),GCF_000936635.1,302501
+ondov_2016,399,GCF_000753515.1,Escherichia coli (E. coli),GCF_000753515.1,210131
+ondov_2016,400,GCF_000940255.1,Escherichia coli (E. coli),GCF_000940255.1,304211
+ondov_2016,401,GCF_000752855.1,Escherichia coli (E. coli),GCF_000752855.1,209801
+ondov_2016,402,GCF_000940115.1,Escherichia coli (E. coli),GCF_000940115.1,304161
+ondov_2016,403,GCF_000752755.1,Escherichia coli (E. coli),GCF_000752755.1,209751
+ondov_2016,404,GCF_000943355.2,Escherichia coli (E. coli),GCF_000943355.2,732831
+ondov_2016,405,GCF_000944015.1,Escherichia coli (E. coli),GCF_000944015.1,306001
+ondov_2016,406,GCF_000753075.1,Escherichia coli (E. coli),GCF_000753075.1,209911
+ondov_2016,407,GCF_000752575.1,Escherichia coli (E. coli),GCF_000752575.1,209661
+ondov_2016,408,GCF_000936085.2,Escherichia coli (E. coli),GCF_000936085.2,732891
+ondov_2016,409,GCF_000753275.1,Escherichia coli (E. coli),GCF_000753275.1,210011
+ondov_2016,410,GCF_000752695.1,Escherichia coli (E. coli),GCF_000752695.1,209721
+ondov_2016,411,GCF_000937355.1,Escherichia coli (E. coli),GCF_000937355.1,302851
+ondov_2016,412,GCF_000939695.1,Escherichia coli (E. coli),GCF_000939695.1,303951
+ondov_2016,413,GCF_000936775.1,Escherichia coli (E. coli),GCF_000936775.1,302561
+ondov_2016,414,GCF_000938575.1,Escherichia coli (E. coli),GCF_000938575.1,303411
+ondov_2016,415,GCF_000647795.1,Escherichia coli (E. coli),GCF_000647795.1,202451
+ondov_2016,416,GCF_000708165.1,Escherichia coli (E. coli),GCF_000708165.1,187261
+ondov_2016,417,GCF_000599765.2,Escherichia coli (E. coli),GCF_000599765.2,569611
+ondov_2016,418,GCF_000599825.1,Escherichia coli (E. coli),GCF_000599825.1,132361
+ondov_2016,419,GCF_000599625.1,Escherichia coli (E. coli),GCF_000599625.1,132261
+ondov_2016,420,GCF_000599705.1,Escherichia coli (E. coli),GCF_000599705.1,132301
+ondov_2016,421,GCF_000695135.1,Escherichia coli (E. coli),GCF_000695135.1,180321
+ondov_2016,422,GCF_000691065.1,Escherichia coli (E. coli),GCF_000691065.1,178571
+ondov_2016,423,GCF_000691045.1,Escherichia coli (E. coli),GCF_000691045.1,178561
+ondov_2016,424,GCF_000784925.1,Escherichia coli (E. coli),GCF_000784925.1,226081
+ondov_2016,425,GCF_000782755.1,Escherichia coli (E. coli),GCF_000782755.1,224981
+ondov_2016,426,GCF_000782455.1,Escherichia coli (E. coli),GCF_000782455.1,224831
+ondov_2016,427,GCF_000782335.1,Escherichia coli (E. coli),GCF_000782335.1,224771
+ondov_2016,428,GCF_000781965.1,Escherichia coli (E. coli),GCF_000781965.1,224581
+ondov_2016,429,GCF_000781755.1,Escherichia coli (E. coli),GCF_000781755.1,224481
+ondov_2016,430,GCF_000781715.1,Escherichia coli (E. coli),GCF_000781715.1,224461
+ondov_2016,431,GCF_000781115.1,Escherichia coli (E. coli),GCF_000781115.1,224161
+ondov_2016,432,GCF_000780915.1,Escherichia coli (E. coli),GCF_000780915.1,224061
+ondov_2016,433,GCF_000780895.1,Escherichia coli (E. coli),GCF_000780895.1,224051
+ondov_2016,434,GCF_000779565.1,Escherichia coli (E. coli),GCF_000779565.1,223401
+ondov_2016,435,GCF_000779545.1,Escherichia coli (E. coli),GCF_000779545.1,223371
+ondov_2016,436,GCF_000779475.1,Escherichia coli (E. coli),GCF_000779475.1,223341
+ondov_2016,437,GCF_000778955.1,Escherichia coli (E. coli),GCF_000778955.1,223091
+ondov_2016,438,GCF_000776715.1,Escherichia coli (E. coli),GCF_000776715.1,222001
+ondov_2016,439,GCF_000778215.1,Escherichia coli (E. coli),GCF_000778215.1,222731
+ondov_2016,440,GCF_000778035.1,Escherichia coli (E. coli),GCF_000778035.1,222641
+ondov_2016,441,GCF_000777995.1,Escherichia coli (E. coli),GCF_000777995.1,222621
+ondov_2016,442,GCF_000778015.1,Escherichia coli (E. coli),GCF_000778015.1,222631
+ondov_2016,443,GCF_000777735.1,Escherichia coli (E. coli),GCF_000777735.1,222481
+ondov_2016,444,GCF_000777555.1,Escherichia coli (E. coli),GCF_000777555.1,222401
+ondov_2016,445,GCF_000777375.1,Escherichia coli (E. coli),GCF_000777375.1,222311
+ondov_2016,446,GCF_000777235.1,Escherichia coli (E. coli),GCF_000777235.1,222241
+ondov_2016,447,GCF_000776065.1,Escherichia coli (E. coli),GCF_000776065.1,221691
+ondov_2016,448,GCF_000776195.1,Escherichia coli (E. coli),GCF_000776195.1,221741
+ondov_2016,449,GCF_000776355.1,Escherichia coli (E. coli),GCF_000776355.1,221821
+ondov_2016,450,GCF_000754865.1,Escherichia coli (E. coli),GCF_000754865.1,210851
+ondov_2016,451,GCF_000948005.1,Escherichia coli (E. coli),GCF_000948005.1,307821
+ondov_2016,452,GCF_000807635.1,Escherichia coli (E. coli),GCF_000807635.1,237391
+ondov_2016,453,GCF_000807655.1,Escherichia coli (E. coli),GCF_000807655.1,237401
+ondov_2016,454,GCF_000819185.1,Escherichia coli (E. coli),GCF_000819185.1,243301
+ondov_2016,455,GCF_000819245.1,Escherichia coli (E. coli),GCF_000819245.1,243331
+ondov_2016,456,GCF_000812325.1,Escherichia coli (E. coli),GCF_000812325.1,239711
+ondov_2016,457,GCF_000812725.1,Escherichia coli (E. coli),GCF_000812725.1,240021
+ondov_2016,458,GCF_000812785.1,Escherichia coli (E. coli),GCF_000812785.1,240041
+ondov_2016,459,GCF_000812385.1,Escherichia coli (E. coli),GCF_000812385.1,239741
+ondov_2016,460,GCF_000948785.1,Escherichia coli (E. coli),GCF_000948785.1,308231
+ondov_2016,461,GCF_000948535.1,Escherichia coli (E. coli),GCF_000948535.1,308101
+ondov_2016,462,GCF_000948825.1,Escherichia coli (E. coli),GCF_000948825.1,308251
+ondov_2016,463,GCF_000934865.1,Escherichia coli (E. coli),GCF_000934865.1,301581
+ondov_2016,464,GCF_000952385.1,Escherichia coli (E. coli),GCF_000952385.1,311431
+ondov_2016,465,GCF_000951735.1,Escherichia coli (E. coli),GCF_000951735.1,310971
+ondov_2016,466,GCF_000935375.1,Escherichia coli (E. coli),GCF_000935375.1,301841
+ondov_2016,467,GCF_000935515.1,Escherichia coli (E. coli),GCF_000935515.1,301901
+ondov_2016,468,GCF_000935555.1,Escherichia coli (E. coli),GCF_000935555.1,301931
+ondov_2016,469,GCF_000966935.1,Escherichia coli (E. coli),GCF_000966935.1,318981
+ondov_2016,470,GCF_000965545.1,Escherichia coli (E. coli),GCF_000965545.1,318171
+ondov_2016,471,GCF_000965625.1,Escherichia coli (E. coli),GCF_000965625.1,318211
+ondov_2016,472,GCF_000965715.1,Escherichia coli (E. coli),GCF_000965715.1,318261
+ondov_2016,473,GCF_000176555.2,Escherichia coli M605 (E. coli),GCF_000176555.2,277798
+ondov_2016,474,GCF_000176575.2,Escherichia coli M718 (E. coli),GCF_000176575.2,277818
+ondov_2016,475,GCF_000183005.1,Escherichia coli 2362-75 (E. coli),GCF_000183005.1,235938
+ondov_2016,476,GCF_000178735.1,Escherichia coli O157:H7 str. EC4127 (E. coli),GCF_000178735.1,542078
+ondov_2016,477,GCF_000178755.1,Escherichia coli O157:H7 str. EC4191 (E. coli),GCF_000178755.1,542098
+ondov_2016,478,GCF_000164255.1,Escherichia coli MS 182-1 (E. coli),GCF_000164255.1,233418
+ondov_2016,479,GCF_000225065.1,Escherichia coli 2534-86 (E. coli),GCF_000225065.1,466048
+ondov_2016,480,GCF_000225025.1,Escherichia coli O91:H21 str. B2F1 (E. coli),GCF_000225025.1,466008
+ondov_2016,481,GCF_000249055.1,Escherichia coli DEC1A (E. coli),GCF_000249055.1,477348
+ondov_2016,482,GCF_000249735.1,Escherichia coli DEC7C (E. coli),GCF_000249735.1,478008
+ondov_2016,483,GCF_000249995.1,Escherichia coli DEC10A (E. coli),GCF_000249995.1,478268
+ondov_2016,484,GCF_000250055.1,Escherichia coli DEC10D (E. coli),GCF_000250055.1,478328
+ondov_2016,485,GCF_000250095.1,Escherichia coli DEC10F (E. coli),GCF_000250095.1,478368
+ondov_2016,486,GCF_000250215.1,Escherichia coli DEC12A (E. coli),GCF_000250215.1,478488
+ondov_2016,487,GCF_000194175.1,Escherichia coli 1.2741 (E. coli),GCF_000194175.1,464768
+ondov_2016,488,GCF_000194235.1,Escherichia coli 97.0259 (E. coli),GCF_000194235.1,464828
+ondov_2016,489,GCF_000215205.1,Escherichia coli 3.2608 (E. coli),GCF_000215205.1,464908
+ondov_2016,490,GCF_000194495.1,Escherichia coli 4.0967 (E. coli),GCF_000194495.1,465048
+ondov_2016,491,GCF_000194685.1,Escherichia coli TW07793 (E. coli),GCF_000194685.1,465168
+ondov_2016,492,GCF_000192685.1,Escherichia coli O157:H7 str. 1125 (E. coli),GCF_000192685.1,463148
+200726_gold_standard,0,16AC1611137-CAP_S12,[predicted] Enterococcus gallinarum,,
+200726_gold_standard,1,16AC1611138-CAP_S13,[predicted] Escherichia coli/Shigella,,
+200726_gold_standard,2,16AC1611139-CAP_S14,[predicted] Serratia marcescens,,
+200726_gold_standard,3,16AC1611140-CAP_S15,[predicted] Staphylococcus lugdunensis,,
+200726_gold_standard,4,16AC1611141-CAP_S16,[predicted] Providencia stuartii,,
+200726_gold_standard,5,17AC0001408_S7,[predicted] Streptococcus mutans,,
+200726_gold_standard,6,17AC0001409_S8,[predicted] Streptococcus dysgalactiae,,
+200726_gold_standard,7,17AC0001410A_S12,[predicted] Enterococcus faecalis,,
+200726_gold_standard,8,17AC0001410B_S13,[predicted] Enterococcus faecalis,,
+200726_gold_standard,9,17AC0001410_S9,[predicted] Escherichia coli/Shigella,,
+200726_gold_standard,10,17AC0001411B_S10,[predicted] Staphylococcus aureus,,
+200726_gold_standard,11,17AC0001412BR_S12,[predicted] Streptococcus pneumoniae,,
+200726_gold_standard,12,17AC0003892A_S1,[predicted] Burkholderia thailandensis,,
+200726_gold_standard,13,17AC0003892B_S2,[predicted] Burkholderia thailandensis,,
+200726_gold_standard,14,17AC0003893_S1,[predicted] Haemophilus influenzae,,
+200726_gold_standard,15,17AC0003894N_S2,[predicted] Francisella tularensis,,
+200726_gold_standard,16,17AC0006310_S6,[predicted] Bacillus cereus,,
+200726_gold_standard,17,17AC0006311_S7,[predicted] Streptococcus pyogenes,,
+200726_gold_standard,18,17AC0006312_S8,[predicted] Staphylococcus epidermidis,,
+200726_gold_standard,19,17AC0006313ANBLD_S10,[predicted] Veillonella,,
+200726_gold_standard,20,17AC0006313A_S9,[predicted] Staphylococcus hominis,,
+200726_gold_standard,21,17AC0006314_S11,[predicted] Pseudomonas aeruginosa,,
+200726_gold_standard,22,17AC0012455-1AN_S5,[predicted] Streptococcus constellatus,,
+200726_gold_standard,23,17AC0012455-1A_S1,[predicted] Streptococcus constellatus,,
+200726_gold_standard,24,18AC0002827_S7,[predicted] Vibrio parahaemolyticus,,
+200726_gold_standard,25,18AC0002828_S12,[predicted] Listeria monocytogenes,,
+200726_gold_standard,26,18AC0007008CHO_S3,[predicted] Escherichia coli/Shigella,,
+200726_gold_standard,27,18AC0007009CHO_S5,[predicted] Yersinia pestis,,
+200726_gold_standard,28,18AC0007010CHO_S7,[predicted] Bacillus anthracis,,
+200726_gold_standard,29,18AC0012150R_S3,[predicted] Alcaligenes faecalis,,
+200726_gold_standard,30,18AC0012151B1_S7,[predicted] Acinetobacter lwoffii,,
+200726_gold_standard,31,18AC0012152_S9,[predicted] Haemophilus influenzae,,
+200726_gold_standard,32,18AC0012153-C_S8,[predicted] Citrobacter braakii,,
+200726_gold_standard,33,18AC0012154M_S13,[predicted] Citrobacter braakii,,
+200726_gold_standard,34,18AC0017656_S1,[predicted] Francisella tularensis,,
+200726_gold_standard,35,18AC0017657_S2,[predicted] Haemophilus influenzae,,
+200726_gold_standard,36,18AC0017658_S3,[predicted] Yersinia enterocolitica,,
+200726_gold_standard,37,18AC0018934_S10,[predicted] Salmonella enterica,,
+200726_gold_standard,38,18AC0018935_S11,[predicted] Klebsiella oxytoca,,
+200726_gold_standard,39,18AC0018936-1_S12,[closest] Staphylococcus epidermidis,,
+200726_gold_standard,40,18AC0018936-2_S13,[predicted] Staphylococcus epidermidis,,
+200726_gold_standard,41,18AC0018936-ANO2_S16,[predicted] Bacteroides fragilis,,
+200726_gold_standard,42,18AC0018937-BAP_S11,[closest] Proteus mirabilis,,
+200726_gold_standard,43,18AC0018937-BA_S10,[predicted] Streptococcus salivarius,,
+200726_gold_standard,44,18AC0018937_S7,[predicted] Streptococcus salivarius,,
+200726_gold_standard,45,18AC0018938-1_S14,[predicted] Escherichia coli/Shigella,,
+200726_gold_standard,46,19AC0002347_S3,[predicted] Stenotrophomonas maltophilia,,
+200726_gold_standard,47,19AC0002348_S4,[predicted] Neisseria gonorrhoeae,,
+200726_gold_standard,48,19AC0002349B1_S10,[closest] Clostridium perfringens,,
+200726_gold_standard,49,19AC0002349B2_S11,[predicted] Klebsiella aerogenes,,
+200726_gold_standard,50,19AC0002349_S5,[predicted] Klebsiella aerogenes,,
+200726_gold_standard,51,19AC0002350_S7,[predicted] Shigella sonnei,,
+200726_gold_standard,52,19AC0002351_S8,[predicted] Staphylococcus epidermidis,,
+200726_gold_standard,53,19AC0006459_S1,[predicted] Burkholderia thailandensis,,
+200726_gold_standard,54,19AC0006460_S2,[predicted] Bacillus anthracis,,
+200726_gold_standard,55,19AC0006461_S3,[predicted] Haemophilus influenzae,,
+200726_gold_standard,56,19AC0011209-1_S9,[predicted] Burkholderia cenocepacia,,
+200726_gold_standard,57,19AC0011209PEA_S8,[predicted] Streptococcus salivarius,,
+200726_gold_standard,58,19AC0011210_S5,[closest] Ureaplasma urealyticum,,
+200726_gold_standard,59,19AC0011211-1_S6,[predicted] Morganella morganii,,
+200726_gold_standard,60,19AC0011211-2_S7,[predicted] Enterococcus faecalis,,
+200726_gold_standard,61,19AC0011212ANO_S9,[predicted] Fusobacterium necrophorum,,
+200726_gold_standard,62,19AC0011212_S8,[predicted] Haemophilus influenzae,,
+200726_gold_standard,63,19AC0011213_S10,[predicted] Escherichia coli/Shigella,,
+200726_gold_standard,64,19AC0015929_S6,[predicted] Yersinia enterocolitica,,
+200726_gold_standard,65,19AC0015930_S7,[predicted] Yersinia pestis,,
+200726_gold_standard,66,19AC0015931_S8,[predicted] Vibrio alginolyticus,,
+200726_gold_standard,67,19AC0016708_S8,[predicted] Pseudomonas,,
+200726_gold_standard,68,19AC0016709_S9,[predicted] Proteus mirabilis,,
+200726_gold_standard,69,19AC0016710_S10,[predicted] Streptococcus pyogenes,,
+200726_gold_standard,70,19AC0016711_S11,[predicted] Staphylococcus saprophyticus,,
+200726_gold_standard,71,19AC0016712_S12,[predicted] Staphylococcus aureus,,
+200726_gold_standard,72,20AC0000919-C1_S1,[predicted] Klebsiella pneumoniae,,
+200726_gold_standard,73,20AC0000920-B1_S3,[predicted] Pseudomonas aeruginosa,,
+200726_gold_standard,74,20AC0000920-B2_S4,[predicted] Staphylococcus epidermidis,,
+200726_gold_standard,75,20AC0000921-B_S5,[predicted] Staphylococcus aureus,,
+200726_gold_standard,76,20AC0000922-BANO2_S7,[predicted] Streptococcus anginosus,,
+200726_gold_standard,77,20AC0000922-BO2_S6,[predicted] Streptococcus anginosus,,
+200726_gold_standard,78,20AC0000922-C2ANO2_S9,[predicted] Bacteroides thetaiotaomicron,,
+200726_gold_standard,79,20AC0000923-C_S11,[predicted] Staphylococcus epidermidis,,

@@ -65,6 +65,15 @@ Calculates GAMBIT signatures and pairwise distances for the `200726_gold_standar
 the same method as the last two.
 
 
+### 211015-combine-data
+
+Combines GAMBIT and FastANI data for the data sets in this experiment, as well as results from the
+`210902-mash-Escherichia-genomes` experiment using the `ondov_2016` genome set, into a single common
+format. Also calculates Pearson, Spearman, and Kendall Tau correlation statistics between GAMBIT
+distances and ANI, for each genome set and parameter set combination. Saves entire data set in a
+NETCDF file. Analysis left for next notebook.
+
+
 
 ## Output
 
@@ -72,6 +81,8 @@ the same method as the last two.
   * `211011-get-genomes-list/`
     * `211011-gambit-ani-additional-genomes.csv` - Table of genomes to be used in this experiment,
       with assembly accession nos and UIDs.
+  * `211015-combine-data/`
+    * `211015-gambit-ani-genomes.csv` - Table of genomes in all data sets.
 
 * `data/intermediate/211011-gambit-ani-additional-genomes/`
   * `211012-fastani/`
@@ -82,4 +93,7 @@ the same method as the last two.
     * `*.h5` - FastANI results for the `200726_gold_standard` data set.
   * `211015-gambit-gsg/`
     * `*.h5` - GAMBIT pairwise distances for the `200726_gold_standard` data set.
+  * `211015-combine-data/`
+    * `data.nc` - GAMBIT distance vs FastANI comparison genome sets in this experiment plus
+	  ondov-2016, put into common format. File format is NETCDF4.
 
