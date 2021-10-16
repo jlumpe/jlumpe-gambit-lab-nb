@@ -6,10 +6,15 @@ Will compare results to FastANI only, not Mash.
 
 The new genome sets are:
 
-* `konstaninidis-2005` - 70 genomes from across the bacterial kingdom
-* `snkitkin-2012` - 20 genomes from a Klebsiella pneumoniae subsp. pneumoniae outbreak, very similar.
+* `konstaninidis_2005` - 70 genomes from across the bacterial kingdom
+* `snkitkin_2012` - 20 genomes from a Klebsiella pneumoniae subsp. pneumoniae outbreak, very similar.
+* `200726_gold_standard` - 80 "gold standard" genomes direct from public health labs, previously
+  used for testing GAMBIT's taxonomy identification. This was added to the experiment after the
+  first two.
 
-Starting data for these genome sets are found in their folders in `data/external/`.
+Starting data for these genome sets are found in their folders in `data/external/`. The data set
+from the previous experiment is included in analysis notebooks in this experiment with the key
+`ondov_2016`.
 
 
 ## Notebooks
@@ -27,20 +32,37 @@ Downloads sequences for all genomes from NCBI. Saved to `tmp/` directory.
 
 ### 211012-fastani
 
-Calculates full pairwise FastANI scores for both data sets. Parses result files and saves in HDF5
-format.
+Calculates full pairwise FastANI scores for the `konstaninidis_2005` and `snkitkin_2012` data sets.
+Parses result files and saves in HDF5 format.
 
 #### Results
 
-Only about 7% of pairs in the `konstaninidis-2005` data set had reported scores (which happens when
+Only about 7% of pairs in the `konstaninidis_2005` data set had reported scores (which happens when
 the ANI is under about 80%), this is somewhat expected because the genomes in this set are so
 divergent.
 
 
 ### 211012-gambit
 
-Create GAMBIT signatures and calculate pairwise distances for each data set with the 192 KmerSpecs
-used in the previous experiment.
+Create GAMBIT signatures and calculate pairwise distances for the `konstaninidis_2005` and
+`snkitkin_2012` data sets with the 192 KmerSpecs used in the previous experiment.
+
+
+### 211015-fastani-gsg
+
+Calculates FastANI scores for the `200726_gold_standard` data set using the same method as the last
+two.
+
+#### Results
+
+Similar to the `konstaninidis-2005` data set, FastANI only reported scores for about 8% of pairs.
+This makes sense because the genomes in this data set are also very diverse.
+
+
+### 211015-gambit-gsg
+
+Calculates GAMBIT signatures and pairwise distances for the `200726_gold_standard` data set using
+the same method as the last two.
 
 
 
@@ -53,7 +75,11 @@ used in the previous experiment.
 
 * `data/intermediate/211011-gambit-ani-additional-genomes/`
   * `211012-fastani/`
-    * `*.h5` - FastANI results for each data set.
+    * `*.h5` - FastANI results for first two data sets.
   * `211012-gambit/`
-    * `*.h5` - GAMBIT pairwise distances for each data set and parameter combination.
+    * `*.h5` - GAMBIT pairwise distances for first two data sets.
+  * `211015-fastani-gsg/`
+    * `*.h5` - FastANI results for the `200726_gold_standard` data set.
+  * `211015-gambit-gsg/`
+    * `*.h5` - GAMBIT pairwise distances for the `200726_gold_standard` data set.
 
