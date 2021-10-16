@@ -2,7 +2,8 @@ import typing as t
 from pathlib import Path
 import json
 
-from entrez_tools.common import get_db, lookslike_uid, DbArg
+from entrez_tools.common import lookslike_uid
+from entrez_tools.db import get_db, DbArg
 
 
 class BasicEsummaryStoreBase(t.MutableMapping[str, dict]):

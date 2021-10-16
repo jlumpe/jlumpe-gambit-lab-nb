@@ -74,6 +74,12 @@ distances and ANI, for each genome set and parameter set combination. Saves enti
 NETCDF file. Analysis left for next notebook.
 
 
+### 211016-additional-genome-stats
+
+Extracts additional genome assembly information from Entrez ESummary data for all NCBI genomes.
+Also calculates n50 and l50 stats for all assemblies, these matched NCBI data where applicable.
+
+
 
 ## Output
 
@@ -83,6 +89,10 @@ NETCDF file. Analysis left for next notebook.
       with assembly accession nos and UIDs.
   * `211015-combine-data/`
     * `211015-gambit-ani-genomes.csv` - Table of genomes in all data sets.
+  * `211016-additional-genome-stats/`
+    * `211016-ncbi-assembly-meta.csv` - Parsed and formatted contents of "meta" field in ESummary
+      data for all NCBI genomes.
+	* `211016-assembly-stats.csv` - Basic assembly stats (n50 and l50) for all genomes.
 
 * `data/intermediate/211011-gambit-ani-additional-genomes/`
   * `211012-fastani/`

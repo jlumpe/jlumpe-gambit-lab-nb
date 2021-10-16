@@ -1,0 +1,583 @@
+data_set,ds_index,alt_loci_count,chromosome_count,contig_count,contig_l50,contig_n50,non_chromosome_replicon_count,replicon_count,scaffold_count,scaffold_count_placed,scaffold_count_unlocalized,scaffold_count_unplaced,scaffold_l50,scaffold_n50,total_length,ungapped_length,assembly-level,assembly-status,representative-status,submitter-organization,taxonomy-check-status
+konstantinidis_2005,0,0,1,3,1,5498578,2,3,3,3,0,0,1,5498578,5594605,5594605,90,Complete Genome,reference genome,GIRC,OK
+konstantinidis_2005,1,0,1,2,1,5547323,1,2,2,2,0,0,1,5547323,5639399,5639399,90,Complete Genome,na,University of California San Diego,OK
+konstantinidis_2005,2,0,1,1,1,4641652,0,1,1,1,0,0,1,4641652,4641652,4641652,90,Complete Genome,reference genome,Univ. Wisconsin,OK
+konstantinidis_2005,3,0,1,1,1,5242376,0,1,1,1,0,0,1,5242376,5242376,5242376,90,Complete Genome,na,Genentech,OK
+konstantinidis_2005,4,0,1,1,1,4599354,0,1,1,1,0,0,1,4599354,4599354,4599354,90,Complete Genome,na,Univ. Wisconsin,OK
+konstantinidis_2005,5,0,1,2,1,4607202,1,2,2,2,0,0,1,4607202,4828820,4828820,90,Complete Genome,reference genome,Microbial Genome Center of ChMPH,OK
+konstantinidis_2005,6,0,1,2,1,4857450,1,2,2,2,0,0,1,4857450,4951383,4951383,90,Complete Genome,reference genome,Washington University Genome Sequencing Center,OK
+konstantinidis_2005,7,0,1,1,1,4791961,0,1,1,1,0,0,1,4791961,4791961,4791961,90,Complete Genome,na,Univ. Wisconsin,OK
+konstantinidis_2005,8,0,1,1,1,4791341,0,1,1,1,0,0,1,4791341,4791341,4791341,90,Complete Genome,na,Protein Potential LLC,OK
+konstantinidis_2005,9,0,1,1,1,4460105,0,1,1,1,0,0,1,4460105,4460105,4460105,90,Complete Genome,na,Sanger Institute,OK
+konstantinidis_2005,10,0,1,2,1,4600755,1,2,2,2,0,0,1,4600755,4701745,4701745,90,Complete Genome,na,Univ. Wisconsin,OK
+konstantinidis_2005,11,0,1,4,1,4653728,3,4,4,4,0,0,1,4653728,4829855,4829855,90,Complete Genome,na,Sanger Institute,OK
+konstantinidis_2005,12,0,1,5,1,4596548,4,5,5,5,0,0,1,4596548,4783760,4783760,90,Complete Genome,na,SRCAMB,OK
+konstantinidis_2005,13,0,1,2,1,4735535,1,2,2,2,0,0,1,4735535,4837317,4837317,90,Complete Genome,na,Seoul National University,OK
+konstantinidis_2005,14,0,1,1,1,4892225,0,1,1,1,0,0,1,4892225,4892225,4892225,90,Complete Genome,representative genome,Cornell University,OK
+konstantinidis_2005,15,0,1,1,1,6181873,0,1,1,1,0,0,1,6181873,6181873,6181873,90,Complete Genome,na,TIGR,Inconclusive
+konstantinidis_2005,16,0,1,1,1,6264404,0,1,1,1,0,0,1,6264404,6264404,6264404,90,Complete Genome,reference genome,PathoGenesis Corporation,OK
+konstantinidis_2005,17,0,1,3,1,6397126,2,3,3,3,0,0,1,6397126,6538260,6538260,90,Complete Genome,representative genome,TIGR,OK
+konstantinidis_2005,18,0,1,1,1,2272360,0,1,1,1,0,0,1,2272360,2272360,2272360,90,Complete Genome,na,TIGR,OK
+konstantinidis_2005,19,0,1,1,1,2194961,0,1,1,1,0,0,1,2194961,2194961,2194961,90,Complete Genome,na,Sanger Institute,OK
+konstantinidis_2005,20,0,1,1,1,2184406,0,1,1,1,0,0,1,2184406,2184406,2184406,90,Complete Genome,na,Sanger Institute,OK
+konstantinidis_2005,21,0,1,1,1,2153922,0,1,1,1,0,0,1,2153922,2153922,2153922,90,Complete Genome,na,Univ. Oklahoma,OK
+konstantinidis_2005,22,0,1,1,1,4086189,0,1,1,1,0,0,1,4086189,4086189,4086189,90,Complete Genome,na,Sanger Institute,OK
+konstantinidis_2005,23,0,1,1,1,5339179,0,1,1,1,0,0,1,5339179,5339179,5339179,90,Complete Genome,na,Sanger Institute,OK
+konstantinidis_2005,24,0,1,2,1,4887379,1,2,2,2,0,0,1,4887379,4899574,4899574,90,Complete Genome,representative genome,WTSI,OK
+konstantinidis_2005,25,0,1,2,1,5416249,1,2,2,2,0,0,1,5416249,5431377,5431377,90,Complete Genome,na,Zhejiang Tianke High Technology Development Co.Ltd.,OK
+konstantinidis_2005,26,0,1,2,1,5224283,1,2,2,2,0,0,1,5224283,5432652,5432652,90,Complete Genome,na,TIGR,Failed
+konstantinidis_2005,27,0,1,3,1,5227419,2,3,3,3,0,0,1,5227419,5503926,5503926,90,Complete Genome,representative genome,J. Craig Venter Institute,OK
+konstantinidis_2005,28,0,1,6,1,5305318,5,6,6,6,0,0,1,5305318,5846781,5846781,90,Complete Genome,na,Los Alamos National Laboratory,Inconclusive
+konstantinidis_2005,29,0,1,1,1,4403837,0,1,1,1,0,0,1,4403837,4403837,4403837,90,Complete Genome,na,TIGR,OK
+konstantinidis_2005,30,0,1,1,1,4411532,0,1,1,1,0,0,1,4411532,4411532,4411532,90,Complete Genome,reference genome,Sanger Institute,OK
+konstantinidis_2005,31,0,1,1,1,4411814,0,1,1,1,0,0,1,4411814,4411814,4411814,90,Complete Genome,na,Academia Sinica,OK
+konstantinidis_2005,32,0,1,1,1,4961843,0,1,1,1,0,0,1,4961843,4961843,4961843,90,Complete Genome,na,Jilin Agricultural University,OK
+konstantinidis_2005,33,0,1,1,1,1894275,0,1,1,1,0,0,1,1894275,1894275,1894275,90,Complete Genome,na,Osaka Univ.,OK
+konstantinidis_2005,34,0,1,1,1,1895017,0,1,1,1,0,0,1,1895017,1895017,1895017,90,Complete Genome,na,Lab of Human Bacterial Pathogenesis,OK
+konstantinidis_2005,35,0,1,1,1,1900521,0,1,1,1,0,0,1,1900521,1900521,1900521,90,Complete Genome,na,Lab of Human Bacterial Pathogenesis,OK
+konstantinidis_2005,36,0,1,1,1,1831128,0,1,1,1,0,0,1,1831128,1831128,1831128,90,Complete Genome,na,National Center for Global Health and Medicine,OK
+konstantinidis_2005,37,0,1,1,1,2160267,0,1,1,1,0,0,1,2160267,2160267,2160267,90,Complete Genome,na,TIGR,OK
+konstantinidis_2005,38,0,1,1,1,2211485,0,1,1,1,0,0,1,2211485,2211485,2211485,90,Complete Genome,na,Institut Pasteur,OK
+konstantinidis_2005,39,0,1,1,1,2038615,0,1,1,1,0,0,1,2038615,2038615,2038615,90,Complete Genome,na,Eli Lilly and Company,OK
+konstantinidis_2005,40,0,1,1,1,2160842,0,1,1,1,0,0,1,2160842,2160842,2160842,90,Complete Genome,na,TIGR,OK
+konstantinidis_2005,41,0,1,3,1,2015393,2,3,3,3,0,0,1,2015393,2028032,2028032,90,Complete Genome,representative genome,UConn Health,OK
+konstantinidis_2005,42,0,1,2,1,2878529,1,2,2,2,0,0,1,2878529,2903636,2903636,90,Complete Genome,na,Juntendo Univ.,OK
+konstantinidis_2005,43,0,1,2,1,2814816,1,2,2,2,0,0,1,2814816,2839469,2839469,90,Complete Genome,na,Juntendo Univ.,OK
+konstantinidis_2005,44,0,1,1,1,2820462,0,1,1,1,0,0,1,2820462,2820462,2820462,90,Complete Genome,na,NITE,OK
+konstantinidis_2005,45,0,1,1,1,2902619,0,1,1,1,0,0,1,2902619,2902619,2902619,90,Complete Genome,na,Sanger Institute,OK
+konstantinidis_2005,46,0,1,2,1,2799802,1,2,2,2,0,0,1,2799802,2820454,2820454,90,Complete Genome,na,Sanger Institute,OK
+konstantinidis_2005,47,0,1,2,1,2504425,1,2,2,2,0,0,1,2504425,2526403,2526403,90,Complete Genome,na,Korea Centers for Disease Control and Prevention,OK
+konstantinidis_2005,48,0,1,2,1,2616530,1,2,2,2,0,0,1,2616530,2643840,2643840,90,Complete Genome,na,TIGR,OK
+konstantinidis_2005,49,0,1,1,1,5076188,0,1,1,1,0,0,1,5076188,5076188,5076188,90,Complete Genome,na,Sao Paulo state (Brazil) Consortium,Inconclusive
+konstantinidis_2005,50,0,1,4,1,5153455,3,4,4,4,0,0,1,5153455,5296525,5296525,90,Complete Genome,na,Shanghai Jiao Tong University,Failed
+konstantinidis_2005,51,0,1,2,1,2519802,1,2,2,2,0,0,1,2519802,2521148,2521148,90,Complete Genome,representative genome,Sao Paulo state (Brazil) Consortium,OK
+konstantinidis_2005,52,0,1,3,1,2679306,2,3,3,3,0,0,1,2679306,2731750,2731750,90,Complete Genome,na,Sao Paulo state (Brazil) Consortium,OK
+konstantinidis_2005,53,0,2,2,1,3281866,0,2,2,2,0,0,1,3281866,5126696,5126696,90,Complete Genome,na,Chonnam Univ.,Inconclusive
+konstantinidis_2005,54,0,2,3,1,3354505,1,3,3,3,0,0,1,3354505,5260086,5260086,90,Complete Genome,na,"NHRI, Taiwan",Inconclusive
+konstantinidis_2005,55,0,1,1,1,1698366,0,1,1,1,0,0,1,1698366,1698366,1698366,90,Complete Genome,na,Icahn School of Medicine at Mount Sinai,OK
+konstantinidis_2005,56,0,1,1,1,1667892,0,1,1,1,0,0,1,1667892,1667892,1667892,90,Complete Genome,na,RIPCM,OK
+konstantinidis_2005,57,0,2,2,1,2117144,0,2,2,2,0,0,1,2117144,3294931,3294931,90,Complete Genome,representative genome,Integrated Genomics,OK
+konstantinidis_2005,58,0,2,2,1,2107794,0,2,2,2,0,0,1,2107794,3315175,3315175,90,Complete Genome,representative genome,NITE/TIGR,OK
+konstantinidis_2005,59,0,1,1,1,1268755,0,1,1,1,0,0,1,1268755,1268755,1268755,90,Complete Genome,representative genome,CNRS,OK
+konstantinidis_2005,60,0,1,1,1,1109804,0,1,1,1,0,0,1,1109804,1109804,1109804,90,Complete Genome,representative genome,Los Alamos National Laboratory,OK
+konstantinidis_2005,61,0,1,2,1,3031430,1,2,2,2,0,0,1,3031430,3085740,3085740,90,Complete Genome,na,Univ. Kyushu,OK
+konstantinidis_2005,62,0,1,1,1,3256683,0,1,1,1,0,0,1,3256683,3256683,3256683,90,Complete Genome,representative genome,TIGR,OK
+konstantinidis_2005,63,0,1,1,1,927303,0,1,1,1,0,0,1,927303,927303,927303,90,Complete Genome,na,Genoscope,OK
+konstantinidis_2005,64,0,1,1,1,925938,0,1,1,1,0,0,1,925938,925938,925938,90,Complete Genome,representative genome,Sanger Institute,OK
+konstantinidis_2005,65,0,2,2,1,3985223,0,2,2,2,0,0,1,3985223,7085397,7085397,90,Complete Genome,representative genome,Los Alamos National Laboratory,OK
+konstantinidis_2005,66,0,2,2,1,3471484,0,2,2,2,0,0,1,3471484,5592049,5592049,90,Complete Genome,representative genome,USAMRIID,OK
+konstantinidis_2005,67,0,1,1,1,3447085,0,1,1,1,0,0,1,3447085,3447085,3447085,90,Complete Genome,na,Centers for Disease Control and Prevention,OK
+konstantinidis_2005,68,0,1,2,1,3503610,1,2,2,2,0,0,1,3503610,3635495,3635495,90,Complete Genome,na,Institut Pasteur,OK
+konstantinidis_2005,69,0,1,2,1,3345687,1,2,2,2,0,0,1,3345687,3405519,3405519,90,Complete Genome,na,Institut Pasteur,OK
+snitkin_2012,0,0,1,4,1,5394056,3,4,4,4,0,0,1,5394056,5766615,5766615,90,Complete Genome,na,NIH Intramural Sequencing Center,OK
+snitkin_2012,1,0,0,147,13,154879,0,0,147,0,0,147,13,154879,5724800,5724800,1,Contig,na,NIH Intramural Sequencing Center,OK
+snitkin_2012,2,0,0,173,15,120800,0,0,173,0,0,173,15,120800,5718058,5718058,1,Contig,na,NIH Intramural Sequencing Center,OK
+snitkin_2012,3,0,0,168,15,126254,0,0,168,0,0,168,15,126254,5716297,5716297,1,Contig,na,NIH Intramural Sequencing Center,OK
+snitkin_2012,4,0,0,149,14,130041,0,0,149,0,0,149,14,130041,5714943,5714943,1,Contig,na,NIH Intramural Sequencing Center,OK
+snitkin_2012,5,0,0,160,13,158114,0,0,160,0,0,160,13,158114,5723848,5723848,1,Contig,na,NISC,OK
+snitkin_2012,6,0,0,182,12,158021,0,0,182,0,0,182,12,158021,5714705,5714705,1,Contig,na,NISC,OK
+snitkin_2012,7,0,0,115,11,178365,0,0,115,0,0,115,11,178365,5720331,5720331,1,Contig,na,NISC,OK
+snitkin_2012,8,0,1,4,1,5395263,3,4,4,4,0,0,1,5395263,5767822,5767822,90,Complete Genome,na,NISC,OK
+snitkin_2012,9,0,0,185,13,150495,0,0,185,0,0,185,13,150495,5714016,5714016,1,Contig,na,NISC,OK
+snitkin_2012,10,0,0,164,14,149661,0,0,164,0,0,164,14,149661,5719358,5719358,1,Contig,na,NISC,OK
+snitkin_2012,11,0,0,165,14,147593,0,0,165,0,0,165,14,147593,5723355,5723355,1,Contig,na,NISC,OK
+snitkin_2012,12,0,0,178,12,158009,0,0,178,0,0,178,12,158009,5715478,5715478,1,Contig,na,NISC,OK
+snitkin_2012,13,0,0,137,11,158097,0,0,137,0,0,137,11,158097,5715795,5715795,1,Contig,na,NISC,OK
+snitkin_2012,14,0,0,167,12,153222,0,0,167,0,0,167,12,153222,5769474,5769474,1,Contig,na,NISC,OK
+snitkin_2012,15,0,0,201,18,98646,0,0,201,0,0,201,18,98646,5715894,5715894,1,Contig,na,NISC,OK
+snitkin_2012,16,0,0,155,12,167325,0,0,155,0,0,155,12,167325,5724448,5724448,1,Contig,na,NISC,OK
+snitkin_2012,17,0,0,178,16,117020,0,0,178,0,0,178,16,117020,5757750,5757750,1,Contig,na,NISC,OK
+snitkin_2012,18,0,0,165,16,131068,0,0,165,0,0,165,16,131068,5749696,5749696,1,Contig,na,NISC,OK
+snitkin_2012,19,0,0,338,38,47638,0,0,338,0,0,338,38,47638,5740386,5740386,1,Contig,na,NISC,OK
+ondov_2016,1,0,0,235,47,29757,0,0,235,0,0,235,47,29757,4422416,4422416,1,Contig,na,National Institute of Technology and Evaluation (NITE),Inconclusive
+ondov_2016,2,0,0,55,7,211214,0,0,55,0,0,55,7,211214,4374581,4374581,1,Contig,na,National Institute of Technology and Evaluation (NITE),OK
+ondov_2016,3,0,0,37,4,515979,0,0,12,0,0,12,1,4447089,4754090,4693951,2,Scaffold,na,Broad Institute,Inconclusive
+ondov_2016,4,0,0,47,6,229669,0,0,7,0,0,7,1,3399314,4527146,4486744,2,Scaffold,na,Broad Institute,OK
+ondov_2016,5,0,0,29,4,454369,0,0,9,0,0,9,2,1222044,4556979,4514939,2,Scaffold,na,Broad Institute,Inconclusive
+ondov_2016,6,0,0,49,8,157654,0,0,9,0,0,9,1,2568223,4647930,4615592,2,Scaffold,na,Broad Institute,OK
+ondov_2016,7,0,0,33,6,229293,0,0,4,0,0,4,1,3110876,4608490,4592997,2,Scaffold,na,Broad Institute,OK
+ondov_2016,8,0,0,48,7,192611,0,0,7,0,0,7,1,3535769,4809500,4776266,2,Scaffold,na,Broad Institute,OK
+ondov_2016,9,0,0,75,9,215266,0,0,12,0,0,12,1,5135999,5335010,5234805,2,Scaffold,na,Broad Institute,OK
+ondov_2016,10,0,1,1,1,4701875,0,1,1,1,0,0,1,4701875,4701875,4701875,90,Complete Genome,na,"Department of Microbiology, Medical University of Bialystok",OK
+ondov_2016,11,0,0,218,29,44977,0,0,130,0,0,130,20,75189,4505904,4493998,2,Scaffold,na,National institute for communicable disease control and prevention China CDC,OK
+ondov_2016,12,0,0,174,20,77329,0,0,47,0,0,47,1,2494410,4836424,4708151,2,Scaffold,na,Broad Institute,OK
+ondov_2016,13,0,0,65,8,202046,0,0,8,0,0,8,1,2711194,4911206,4905506,2,Scaffold,na,Broad Institute,OK
+ondov_2016,14,0,0,104,8,213698,0,0,12,0,0,12,2,953648,5153453,5144253,2,Scaffold,na,Broad Institute,OK
+ondov_2016,15,0,0,64,4,395133,0,0,43,0,0,43,1,4671083,4746590,4698533,2,Scaffold,na,J Craig Venter Institute,OK
+ondov_2016,16,0,0,41,6,284983,0,0,20,0,0,20,1,2917620,4775957,4768896,2,Scaffold,na,Broad Institute,OK
+ondov_2016,17,0,0,29,3,349091,0,0,29,0,0,29,3,349091,4494663,4494663,1,Contig,na,Canadian Food Inspection Agency,OK
+ondov_2016,18,0,0,39,6,336937,0,0,39,0,0,39,6,336937,4644753,4644753,1,Contig,na,Canadian Food Inspection Agency,OK
+ondov_2016,19,0,0,22,3,403657,0,0,22,0,0,22,3,403657,4764067,4764067,1,Contig,na,Canadian Food Inspection Agency,OK
+ondov_2016,20,0,0,495,73,19809,0,0,495,0,0,495,73,19809,4736748,4736748,1,Contig,na,"Georgia Institute of Technology, School of Civil and Environmental Engineering",Inconclusive
+ondov_2016,21,0,0,328,51,28680,0,0,328,0,0,328,51,28680,4473145,4473145,1,Contig,na,"Georgia Institute of Technology, School of Civil and Environmental Engineering",Inconclusive
+ondov_2016,22,0,0,1,1,4809826,0,0,1,0,0,1,1,4809826,4809826,4809826,1,Contig,na,"Georgia Institute of Technology, School of Civil and Environmental Engineering",OK
+ondov_2016,23,0,0,453,59,27634,0,0,453,0,0,453,59,27634,5191154,5191154,1,Contig,na,"Georgia Institute of Technology, School of Civil and Environmental Engineering",OK
+ondov_2016,24,0,0,533,75,19725,0,0,533,0,0,533,75,19725,4679425,4679425,1,Contig,na,"Georgia Institute of Technology, School of Civil and Environmental Engineering",Inconclusive
+ondov_2016,25,0,0,370,52,27943,0,0,370,0,0,370,52,27943,4513494,4513494,1,Contig,na,"Georgia Institute of Technology, School of Civil and Environmental Engineering",OK
+ondov_2016,26,0,0,517,68,22152,0,0,517,0,0,517,68,22152,5265422,5265422,1,Contig,na,"Georgia Institute of Technology, School of Civil and Environmental Engineering",OK
+ondov_2016,27,0,0,392,57,24675,0,0,392,0,0,392,57,24675,4725874,4725874,1,Contig,na,"Georgia Institute of Technology, School of Civil and Environmental Engineering",OK
+ondov_2016,28,0,1,83,10,156910,5,6,6,6,0,0,1,4509864,4866106,4857906,3,Chromosome,na,"McGill University, Canada",OK
+ondov_2016,29,0,1,5,1,4988504,4,5,5,5,0,0,1,4988504,5220473,5220473,90,Complete Genome,na,Wellcome Trust Sanger Insititute,OK
+ondov_2016,30,0,1,2,1,4519823,1,2,2,2,0,0,1,4519823,4646520,4646520,90,Complete Genome,na,Microbial Genome Center of ChMPH,OK
+ondov_2016,31,0,1,5,1,4825265,4,5,5,5,0,0,1,4825265,5055316,5055316,90,Complete Genome,na,Microbial Genome Center of ChMPH,OK
+ondov_2016,32,0,1,1,1,4574284,0,1,1,1,0,0,1,4574284,4574284,4574284,90,Complete Genome,na,Microbial Genome Center of ChMPH,OK
+ondov_2016,33,0,1,6,1,4650856,5,6,6,6,0,0,1,4650856,4894492,4894492,90,Complete Genome,na,Chinese Center for Disease Control and Prevention,OK
+ondov_2016,34,0,0,165,11,141339,0,0,165,0,0,165,11,141339,4864228,4864228,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,35,0,0,491,35,34204,0,0,491,0,0,491,35,34204,4689099,4689099,1,Contig,na,University of Maryland School of Medicine,OK
+ondov_2016,36,0,0,869,47,26344,0,0,869,0,0,869,47,26344,4669004,4669004,1,Contig,na,University of Maryland School of Medicine,OK
+ondov_2016,37,0,0,222,17,85696,0,0,222,0,0,222,17,85696,4805235,4805235,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,38,0,0,582,41,38370,0,0,582,0,0,582,41,38370,5069695,5069695,1,Contig,na,Institute for Genome Sciences,Inconclusive
+ondov_2016,39,0,0,234,20,82405,0,0,234,0,0,234,20,82405,4843790,4843790,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,40,0,0,274,12,131483,0,0,274,0,0,274,12,131483,4790151,4790151,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,41,0,0,274,21,71731,0,0,274,0,0,274,21,71731,4815370,4815370,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,42,0,0,479,28,49222,0,0,479,0,0,479,28,49222,4610666,4610666,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,43,0,0,247,19,74704,0,0,247,0,0,247,19,74704,4798162,4798162,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,44,0,0,402,30,45801,0,0,402,0,0,402,30,45801,4673236,4673236,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,45,0,0,249,11,132661,0,0,249,0,0,249,11,132661,4711626,4711626,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,46,0,0,288,22,70525,0,0,288,0,0,288,22,70525,4583415,4583415,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,47,0,0,124,9,152347,0,0,124,0,0,124,9,152347,4835559,4835559,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,48,0,0,185,14,120788,0,0,185,0,0,185,14,120788,4817878,4817878,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,49,0,0,335,23,55416,0,0,335,0,0,335,23,55416,4832830,4832830,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,50,0,0,138,11,131592,0,0,138,0,0,138,11,131592,4800746,4800746,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,51,0,0,174,12,135089,0,0,174,0,0,174,12,135089,4821210,4821210,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,52,0,0,341,14,102914,0,0,341,0,0,341,14,102914,4552076,4552076,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,53,0,0,166,12,160619,0,0,166,0,0,166,12,160619,4788006,4788006,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,54,0,0,95,4,448942,0,0,95,0,0,95,4,448942,4893156,4893156,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,55,0,0,57,3,527526,0,0,57,0,0,57,3,527526,4885496,4885496,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,56,0,0,110,5,291198,0,0,110,0,0,110,5,291198,4924296,4924296,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,57,0,0,92,9,156269,0,0,92,0,0,92,9,156269,4862336,4862336,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,58,0,0,86,6,290317,0,0,86,0,0,86,6,290317,4883415,4883415,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,59,0,1,1,1,4595814,0,1,1,1,0,0,1,4595814,4595814,4595814,90,Complete Genome,na,Institute for Communicable Disease Control and Prevention,OK
+ondov_2016,60,0,1,1,1,4620903,0,1,1,1,0,0,1,4620903,4620903,4620903,90,Complete Genome,na,Institute for Communicable Disease Control and Prevention,OK
+ondov_2016,61,0,0,196,27,57598,4,4,196,0,20,176,27,57598,4866173,4866173,2,Scaffold,na,Korea National Institute of Health,OK
+ondov_2016,62,0,0,282,33,46079,0,0,255,0,0,255,33,46079,4890132,4888806,8,Scaffold,na,CSIR-IMTECH,OK
+ondov_2016,63,0,0,160,19,70546,0,0,146,0,0,146,19,77053,4592091,4591698,8,Scaffold,representative genome,CSIR-IMTECH,OK
+ondov_2016,64,0,0,767,101,11467,0,0,761,0,0,761,99,11655,4161150,4161090,8,Scaffold,na,Igenbio Inc,OK
+ondov_2016,65,0,0,779,101,11514,0,0,778,0,0,778,101,11514,4197686,4197676,8,Scaffold,na,Igenbio Inc,OK
+ondov_2016,66,0,0,360,55,27262,0,0,335,0,0,335,52,27675,4441353,4439018,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,67,0,0,345,49,28561,0,0,307,0,0,307,43,30154,4522009,4518020,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,68,0,0,377,53,25887,0,0,322,0,0,322,47,29048,4444221,4437649,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,69,0,0,330,45,30158,0,0,293,0,0,293,41,33667,4505237,4501628,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,70,0,0,325,45,30158,0,0,301,0,0,301,42,33346,4522095,4519823,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,71,0,0,348,46,29786,0,0,317,0,0,317,43,30807,4526441,4523541,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,72,0,0,326,45,29511,0,0,299,0,0,299,43,30162,4441056,4437075,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,73,0,0,341,48,29507,0,0,316,0,0,316,45,30352,4492694,4490549,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,74,0,0,328,46,30039,0,0,302,0,0,302,43,33324,4455484,4452586,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,75,0,0,323,46,30044,0,0,296,0,0,296,42,31815,4424641,4422487,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,76,0,0,327,46,30162,0,0,299,0,0,299,42,33389,4536069,4533108,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,77,0,0,329,46,29617,0,0,306,0,0,306,43,30446,4485647,4481977,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,78,0,0,323,47,29499,0,0,301,0,0,301,44,30150,4423054,4421223,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,79,0,0,348,44,30043,0,0,322,0,0,322,44,30162,4512921,4510138,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,80,0,0,327,46,30039,0,0,297,0,0,297,41,33667,4520433,4517371,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,81,0,0,332,47,29932,0,0,302,0,0,302,43,30445,4443389,4441255,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,82,0,0,537,48,29064,0,0,506,0,0,506,45,30162,4615572,4611847,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,83,0,0,336,47,30154,0,0,306,0,0,306,43,33275,4589822,4586315,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,84,0,0,326,46,30043,0,0,299,0,0,299,42,33512,4470490,4467359,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,85,0,0,318,47,30039,0,0,295,0,0,295,43,33281,4450677,4448498,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,86,0,0,322,47,29499,0,0,300,0,0,300,43,30433,4461933,4460010,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,87,0,0,326,46,29853,0,0,301,0,0,301,44,30038,4444602,4441805,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,88,0,0,320,45,28811,0,0,274,0,0,274,41,31327,4366557,4363377,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,89,0,0,326,47,27071,0,0,278,0,0,278,41,31273,4285434,4279802,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,90,0,0,593,99,13150,0,0,272,0,0,272,42,33729,4365839,4331883,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,91,0,0,543,92,14533,0,0,245,0,0,245,40,33664,4253999,4220468,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,92,0,0,631,98,13332,0,0,257,0,0,257,41,33162,4336954,4298219,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,93,0,0,508,89,14525,0,0,254,0,0,254,41,32820,4196821,4164991,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,94,0,0,548,90,14848,0,0,295,0,0,295,43,31370,4453472,4425352,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,95,0,0,657,111,11804,0,0,301,0,0,301,42,32973,4448267,4407311,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,96,0,0,347,52,26291,0,0,291,0,0,291,42,33516,4446183,4439321,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,97,0,0,606,106,13684,0,0,305,0,0,305,42,32909,4489439,4454169,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,98,0,0,392,58,24327,0,0,340,0,0,340,50,29128,4426300,4420986,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,99,0,0,613,100,12784,0,0,310,0,0,310,42,30268,4411563,4377562,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,100,0,0,661,108,11339,0,0,297,0,0,297,41,33484,4398095,4358308,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,101,0,0,348,50,27681,0,0,274,0,0,274,41,31331,4330900,4323452,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,102,0,0,541,92,15575,0,0,282,0,0,282,44,31953,4428112,4396835,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,103,0,0,630,106,12273,0,0,295,0,0,295,42,33495,4456025,4419340,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,104,0,0,664,112,11964,0,0,302,0,0,302,43,30315,4428908,4384742,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,105,0,0,342,51,25797,0,0,299,0,0,299,43,30150,4408101,4403222,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,106,0,0,715,122,10519,0,0,300,0,0,300,43,30850,4400093,4351599,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,107,0,0,713,123,10541,0,0,301,0,0,301,42,30371,4408210,4363373,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,108,0,0,801,135,9874,0,0,307,0,0,307,43,30828,4444570,4389075,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,109,0,0,346,50,28502,0,0,302,0,0,302,42,30795,4417466,4413558,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,110,0,0,807,145,9473,0,0,316,0,0,316,44,30077,4484262,4430464,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,111,0,0,331,48,29052,0,0,304,0,0,304,43,30150,4409701,4406938,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,112,0,0,778,115,11242,0,0,318,0,0,318,44,30712,4573774,4521785,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,113,0,0,621,106,12607,0,0,308,0,0,308,43,30074,4458646,4422189,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,114,0,0,832,149,9180,0,0,308,0,0,308,44,29613,4427457,4367579,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,115,0,0,768,133,10095,0,0,304,0,0,304,43,30467,4422634,4368416,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,116,0,0,372,54,23922,0,0,299,0,0,299,42,33336,4441955,4431619,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,117,0,0,361,53,24695,0,0,304,0,0,304,43,30248,4428600,4422135,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,118,0,0,336,49,28549,0,0,300,0,0,300,42,31315,4429869,4425746,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,119,0,0,371,56,23062,0,0,294,0,0,294,41,33492,4418850,4410895,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,120,0,0,451,72,19673,0,0,312,0,0,312,43,30814,4446907,4429232,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,121,0,0,434,71,19170,0,0,300,0,0,300,42,33448,4473029,4456916,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,122,0,0,388,56,22416,0,0,305,0,0,305,42,31648,4421793,4412023,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,123,0,0,395,61,21650,0,0,294,0,0,294,42,30795,4425908,4414248,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,124,0,0,427,63,21616,0,0,304,0,0,304,42,31315,4510763,4498116,8,Scaffold,na,Chinese Center for Disease Control and Prevention (China CDC),OK
+ondov_2016,125,0,0,71,13,155959,0,0,71,0,0,71,13,155959,4825496,4825496,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,126,0,1,1,1,4526576,0,1,1,1,0,0,1,4526576,4526576,4526576,90,Complete Genome,na,SC,OK
+ondov_2016,127,0,0,442,48,28539,0,0,307,0,0,307,41,33264,4366750,4350029,2,Scaffold,na,"Institute of Disease Control and Prevention, Academy of Military Medical Sciences",OK
+ondov_2016,128,0,0,115,12,131425,0,0,115,0,0,115,12,131425,5145982,5145982,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,129,0,0,80,11,132836,0,0,80,0,0,80,11,132836,4771765,4771765,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,130,0,0,52,9,149899,0,0,52,0,0,52,9,149899,4729738,4729738,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,131,0,0,67,7,166649,0,0,67,0,0,67,7,166649,4613557,4613557,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,132,0,0,96,12,152652,0,0,96,0,0,96,12,152652,5184598,5184598,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,133,0,0,106,10,127284,0,0,106,0,0,106,10,127284,4662214,4662214,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,134,0,0,313,23,59253,0,0,313,0,0,313,23,59253,4976410,4976410,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,135,0,0,75,13,126333,0,0,75,0,0,75,13,126333,4882454,4882454,1,Contig,na,Institute for Genome Sciences,Inconclusive
+ondov_2016,136,0,0,113,12,130682,0,0,113,0,0,113,12,130682,5162596,5162596,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,137,0,0,111,15,92617,0,0,111,0,0,111,15,92617,4813170,4813170,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,138,0,0,70,6,183640,0,0,70,0,0,70,6,183640,4679117,4679117,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,139,0,0,83,6,344367,0,0,83,0,0,83,6,344367,4925489,4925489,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,140,0,0,81,13,123926,0,0,81,0,0,81,13,123926,4919022,4919022,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,141,0,0,71,11,135030,0,0,71,0,0,71,11,135030,4510648,4510648,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,142,0,0,93,13,127245,0,0,93,0,0,93,13,127245,4790351,4790351,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,143,0,0,79,10,142283,0,0,79,0,0,79,10,142283,4564844,4564844,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,144,0,0,85,11,166404,0,0,85,0,0,85,11,166404,4715291,4715291,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,145,0,0,101,13,121541,0,0,101,0,0,101,13,121541,4814276,4814276,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,146,0,0,82,14,129943,0,0,82,0,0,82,14,129943,4680138,4680138,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,147,0,0,52,9,198656,0,0,52,0,0,52,9,198656,4787280,4787280,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,148,0,0,50,9,189474,0,0,50,0,0,50,9,189474,4644642,4644642,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,149,0,0,63,9,151987,0,0,63,0,0,63,9,151987,4323161,4323161,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,150,0,0,65,12,137566,0,0,65,0,0,65,12,137566,4626718,4626718,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,151,0,0,106,12,134419,0,0,106,0,0,106,12,134419,4975885,4975885,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,152,0,0,72,11,150989,0,0,72,0,0,72,11,150989,4997922,4997922,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,153,0,0,91,13,112537,0,0,91,0,0,91,13,112537,4710353,4710353,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,154,0,0,110,16,100149,0,0,110,0,0,110,16,100149,5129830,5129830,1,Contig,na,Virginia Bioinformatics Institute,Inconclusive
+ondov_2016,155,0,0,242,45,31046,0,0,242,0,0,242,45,31046,4596141,4596141,1,Contig,na,Virginia Bioinformatics Institute,OK
+ondov_2016,156,0,0,209,41,35716,0,0,209,0,0,209,41,35716,4682763,4682763,1,Contig,na,Virginia Bioinformatics Institute,OK
+ondov_2016,157,0,1,5,1,5153435,4,5,5,5,0,0,1,5153435,5325888,5325888,90,Complete Genome,na,Wellcome Trust Sanger Institute,OK
+ondov_2016,158,0,1,1,1,4938920,0,1,1,1,0,0,1,4938920,4938920,4938920,90,Complete Genome,na,University of Goettingen,OK
+ondov_2016,159,0,1,3,1,5082025,2,3,3,3,0,0,1,5082025,5497653,5497653,90,Complete Genome,na,Iowa State University,OK
+ondov_2016,160,0,1,2,1,4717338,1,2,2,2,0,0,1,4717338,4839683,4839683,90,Complete Genome,na,Kitasato University,OK
+ondov_2016,161,0,1,3,1,4920168,2,3,3,3,0,0,1,4920168,5029323,5029323,90,Complete Genome,na,US DOE Joint Genome Institute (JGI-PGF),OK
+ondov_2016,162,0,1,1,1,4570938,0,1,1,1,0,0,1,4570938,4570938,4570938,90,Complete Genome,na,US DOE Joint Genome Institute (JGI-PGF),OK
+ondov_2016,163,0,1,1,1,4935294,0,1,1,1,0,0,1,4935294,4935294,4935294,90,Complete Genome,na,"TEDA School of Biological Sciences and Biotechnology, Nankai University",OK
+ondov_2016,164,0,0,416,18,97970,0,0,369,0,0,369,14,115053,5257500,5255598,2,Scaffold,na,Institute for Genome Sciences,OK
+ondov_2016,165,0,0,344,18,99682,0,0,293,0,0,293,12,148245,5211464,5208973,2,Scaffold,na,Institute for Genome Sciences,OK
+ondov_2016,166,0,0,345,60,24038,0,0,345,0,0,345,60,24038,5121336,5121336,2,Scaffold,na,Institute for Genome Sciences,OK
+ondov_2016,167,0,0,181,21,74377,0,0,181,0,0,181,21,74377,5183560,5183560,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,168,0,0,542,15,121975,0,0,507,0,0,507,13,146570,5368321,5366154,2,Scaffold,na,Institute for Genome Sciences,OK
+ondov_2016,169,0,0,109,13,131097,0,0,109,0,0,109,13,131097,5246924,5246924,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,170,0,0,75,8,262244,0,0,75,0,0,75,8,262244,5494508,5494508,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,171,0,0,512,23,85692,0,0,465,0,0,465,20,92257,5315868,5313552,2,Scaffold,na,Institute for Genome Sciences,OK
+ondov_2016,172,0,0,471,15,115120,0,0,429,0,0,429,14,121958,5402274,5399260,2,Scaffold,na,Institute for Genome Sciences,OK
+ondov_2016,173,0,0,888,60,28729,0,0,794,0,0,794,55,30758,5364936,5358480,2,Scaffold,na,Institute for Genome Sciences,OK
+ondov_2016,174,0,0,466,15,142595,0,0,433,0,0,433,13,145488,5390951,5389317,2,Scaffold,na,Institute for Genome Sciences,OK
+ondov_2016,175,0,0,530,15,133320,0,0,472,0,0,472,10,149777,5492181,5487348,2,Scaffold,na,Institute for Genome Sciences,OK
+ondov_2016,176,0,0,485,22,86378,0,0,441,0,0,441,19,92178,5483302,5480602,2,Scaffold,na,Institute for Genome Sciences,OK
+ondov_2016,177,0,0,533,21,85746,0,0,489,0,0,489,20,92191,5397564,5394616,2,Scaffold,na,Institute for Genome Sciences,OK
+ondov_2016,178,0,0,787,25,73688,0,0,648,0,0,648,24,80367,5603705,5598956,2,Scaffold,na,Institute for Genome Sciences,OK
+ondov_2016,179,0,0,400,14,142095,0,0,350,0,0,350,10,188561,5515235,5511669,2,Scaffold,na,Institute for Genome Sciences,OK
+ondov_2016,180,0,0,503,23,78380,0,0,463,0,0,463,20,89897,5316056,5313781,2,Scaffold,na,Institute for Genome Sciences,OK
+ondov_2016,181,0,0,415,18,98924,0,0,372,0,0,372,14,121451,5381042,5378075,2,Scaffold,na,Institute for Genome Sciences,OK
+ondov_2016,182,0,0,248,11,157587,0,0,224,0,0,224,9,201583,4904373,4902399,2,Scaffold,na,Institute for Genome Sciences,OK
+ondov_2016,183,0,0,17,3,1058150,0,0,10,0,0,10,2,1589325,5300068,5288048,2,Scaffold,na,Broad Institute,OK
+ondov_2016,184,0,0,121,14,122163,0,0,121,0,0,121,14,122163,5158962,5158962,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,185,0,0,135,13,131702,0,0,135,0,0,135,13,131702,5214050,5214050,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,186,0,0,54,7,276282,0,0,7,0,0,7,1,3862170,5433701,5392282,2,Scaffold,na,Broad Institute,OK
+ondov_2016,187,0,0,388,16,115431,0,0,388,0,0,388,16,115431,5250833,5250833,1,Contig,na,US FDA,OK
+ondov_2016,188,0,0,622,20,81069,0,0,616,0,0,616,20,86419,5326340,5326280,2,Scaffold,na,Institute for Genome Sciences,OK
+ondov_2016,189,0,0,262,39,41360,0,0,262,0,0,262,39,41360,4901168,4901168,1,Contig,na,Seoul National University,OK
+ondov_2016,190,0,0,167,14,122080,3,3,167,1,24,142,14,122080,5330547,5330547,2,Scaffold,na,Uppsala University,OK
+ondov_2016,191,0,0,198,21,77914,0,0,198,0,0,198,21,77914,5142363,5142363,1,Contig,na,IGS,OK
+ondov_2016,192,0,0,198,23,77939,0,0,198,0,0,198,23,77939,5163730,5163730,1,Contig,na,IGS,OK
+ondov_2016,193,0,0,117,10,199415,0,0,117,0,0,117,10,199415,5070534,5070534,1,Contig,na,IGS,OK
+ondov_2016,194,0,0,160,18,98952,0,0,160,0,0,160,18,98952,4974499,4974499,1,Contig,na,IGS,OK
+ondov_2016,195,0,0,135,12,135700,0,0,135,0,0,135,12,135700,5051011,5051011,1,Contig,na,IGS,OK
+ondov_2016,196,0,0,276,34,46731,0,0,276,0,0,276,34,46731,5148955,5148955,1,Contig,na,IGS,OK
+ondov_2016,197,0,0,103,12,119600,0,0,103,0,0,103,12,119600,5083747,5083747,1,Contig,na,IGS,OK
+ondov_2016,198,0,0,210,19,99706,0,0,210,0,0,210,19,99706,5394923,5394923,1,Contig,na,IGS,OK
+ondov_2016,199,0,0,180,14,116731,0,0,180,0,0,180,14,116731,5340854,5340854,1,Contig,na,IGS,OK
+ondov_2016,200,0,0,136,16,106333,0,0,136,0,0,136,16,106333,4938416,4938416,1,Contig,na,IGS,OK
+ondov_2016,201,0,0,135,12,122795,0,0,135,0,0,135,12,122795,5205842,5205842,1,Contig,na,IGS,OK
+ondov_2016,202,0,0,125,9,207104,0,0,125,0,0,125,9,207104,5119812,5119812,1,Contig,na,IGS,OK
+ondov_2016,203,0,0,121,14,120652,0,0,121,0,0,121,14,120652,4819309,4819309,1,Contig,na,IGS,OK
+ondov_2016,204,0,0,151,11,155454,0,0,151,0,0,151,11,155454,5059975,5059975,1,Contig,na,IGS,OK
+ondov_2016,205,0,0,194,13,120271,0,0,194,0,0,194,13,120271,5065641,5065641,1,Contig,na,IGS,OK
+ondov_2016,206,0,0,189,13,122092,0,0,189,0,0,189,13,122092,5095547,5095547,1,Contig,na,IGS,OK
+ondov_2016,207,0,0,686,76,17842,0,0,686,0,0,686,76,17842,4835478,4835478,1,Contig,na,IGS,OK
+ondov_2016,208,0,0,166,13,138495,0,0,166,0,0,166,13,138495,5078350,5078350,1,Contig,na,IGS,OK
+ondov_2016,209,0,0,252,21,66610,0,0,252,0,0,252,21,66610,5121565,5121565,1,Contig,na,IGS,OK
+ondov_2016,210,0,0,193,20,85698,0,0,193,0,0,193,20,85698,5056530,5056530,1,Contig,na,IGS,OK
+ondov_2016,211,0,0,125,12,143047,0,0,125,0,0,125,12,143047,5057835,5057835,1,Contig,na,IGS,OK
+ondov_2016,212,0,0,35,3,673756,0,0,35,0,0,35,3,673756,5367395,5367395,1,Contig,na,IGS,OK
+ondov_2016,213,0,0,55,6,371386,0,0,55,0,0,55,6,371386,5250942,5250942,1,Contig,na,IGS,OK
+ondov_2016,214,0,0,217,23,75445,0,0,217,0,0,217,23,75445,5037371,5037371,1,Contig,na,IGS,OK
+ondov_2016,215,0,0,26,3,597708,0,0,26,0,0,26,3,597708,4912356,4912356,1,Contig,na,IGS,OK
+ondov_2016,216,0,0,130,9,186249,0,0,130,0,0,130,9,186249,5142014,5142014,1,Contig,na,IGS,OK
+ondov_2016,217,0,0,142,11,189587,0,0,142,0,0,142,11,189587,5222034,5222034,1,Contig,na,IGS,OK
+ondov_2016,218,0,0,196,11,170674,0,0,196,0,0,196,11,170674,5264157,5264157,1,Contig,na,IGS,OK
+ondov_2016,219,0,0,156,10,178800,0,0,156,0,0,156,10,178800,5170822,5170822,1,Contig,na,IGS,OK
+ondov_2016,220,0,0,138,16,120596,0,0,138,0,0,138,16,120596,4845288,4845288,1,Contig,na,IGS,OK
+ondov_2016,221,0,0,304,15,106755,0,0,304,0,0,304,15,106755,5289163,5289163,1,Contig,na,University of Maryland School of Medicine,OK
+ondov_2016,222,0,0,147,11,163829,0,0,147,0,0,147,11,163829,5191414,5191414,1,Contig,na,IGS,OK
+ondov_2016,223,0,0,130,12,140478,0,0,130,0,0,130,12,140478,5063712,5063712,1,Contig,na,IGS,OK
+ondov_2016,224,0,0,564,38,39675,0,0,564,0,0,564,38,39675,5077518,5077518,1,Contig,na,IGS,OK
+ondov_2016,225,0,0,359,22,81490,0,0,359,0,0,359,22,81490,5029610,5029610,1,Contig,na,IGS,OK
+ondov_2016,226,0,0,444,26,58673,0,0,444,0,0,444,26,58673,5188705,5188705,1,Contig,na,IGS,OK
+ondov_2016,227,0,0,116,13,146791,0,0,116,0,0,116,13,146791,5259992,5259992,1,Contig,na,IGS,OK
+ondov_2016,228,0,0,138,14,117340,0,0,138,0,0,138,14,117340,5311173,5311173,1,Contig,na,IGS,OK
+ondov_2016,229,0,0,568,36,47814,0,0,568,0,0,568,36,47814,5619284,5619284,1,Contig,na,FDA,OK
+ondov_2016,230,0,0,72,11,165669,0,0,72,0,0,72,11,165669,4872465,4872465,1,Contig,na,Kimron Veterinary Institute,OK
+ondov_2016,231,0,0,59,7,251541,0,0,15,0,0,15,2,1153651,5314802,5270977,2,Scaffold,na,Broad Institute,OK
+ondov_2016,232,0,0,58,7,279825,0,0,8,0,0,8,1,3020226,5171582,5124621,2,Scaffold,na,Broad Institute,OK
+ondov_2016,233,0,0,14,4,535626,0,0,6,0,0,6,1,2495066,4876934,4869974,2,Scaffold,na,Broad Institute,OK
+ondov_2016,234,0,0,46,6,307362,0,0,7,0,0,7,2,1462032,5180727,5111607,2,Scaffold,na,Broad Institute,OK
+ondov_2016,235,0,0,94,16,114663,0,0,18,0,0,18,2,1406148,5121978,5060331,2,Scaffold,na,Broad Institute,OK
+ondov_2016,236,0,0,66,11,212086,0,0,25,0,0,25,3,453026,5550382,5513241,2,Scaffold,na,Broad Institute,OK
+ondov_2016,237,0,0,169,19,84753,0,0,169,0,0,169,19,84753,5220782,5220782,1,Contig,na,Broad Institute,OK
+ondov_2016,238,0,0,89,14,121532,0,0,89,0,0,89,14,121532,4755075,4755075,1,Contig,na,Broad Institute,OK
+ondov_2016,239,0,0,94,12,119777,0,0,94,0,0,94,12,119777,4790982,4790982,1,Contig,na,Broad Institute,OK
+ondov_2016,240,0,0,116,14,117546,0,0,115,0,0,115,14,118808,5131751,5131691,2,Scaffold,na,Broad Institute,OK
+ondov_2016,241,0,0,55,9,137659,0,0,55,0,0,55,9,137659,4892219,4892219,1,Contig,na,Broad Institute,OK
+ondov_2016,242,0,0,114,14,129954,0,0,114,0,0,114,14,129954,5063548,5063548,1,Contig,na,Broad Institute,OK
+ondov_2016,243,0,0,126,14,133662,0,0,126,0,0,126,14,133662,5146299,5146299,1,Contig,na,KRIBB,OK
+ondov_2016,244,0,0,117,9,176113,0,0,117,0,0,117,9,176113,5077949,5077949,1,Contig,na,Seoul National University,OK
+ondov_2016,245,0,0,37,6,315057,0,0,8,0,0,8,2,1029277,4960024,4915642,2,Scaffold,na,Broad Institute,OK
+ondov_2016,246,0,0,18,3,792174,0,0,5,0,0,5,1,4619985,4815949,4798547,2,Scaffold,na,Broad Institute,OK
+ondov_2016,247,0,0,50,9,201274,0,0,10,0,0,10,3,796843,5255257,5208939,2,Scaffold,na,Broad Institute,OK
+ondov_2016,248,0,0,32,6,276353,0,0,9,0,0,9,2,821058,5002706,4988156,2,Scaffold,na,Broad Institute,OK
+ondov_2016,249,0,0,36,7,324697,0,0,11,0,0,11,2,1586481,5124099,5099948,2,Scaffold,na,Broad Institute,OK
+ondov_2016,250,0,0,69,9,196454,0,0,10,0,0,10,1,2980973,5480688,5313768,2,Scaffold,na,Broad Institute,OK
+ondov_2016,251,0,0,33,7,279966,0,0,11,0,0,11,2,1172112,5220513,5191837,2,Scaffold,na,Broad Institute,OK
+ondov_2016,252,0,0,36,5,347997,0,0,11,0,0,11,2,1482910,5144117,5106869,2,Scaffold,na,Broad Institute,OK
+ondov_2016,253,0,0,103,14,101371,0,0,15,0,0,15,1,4996645,5266965,5178168,2,Scaffold,na,Broad Institute,OK
+ondov_2016,254,0,0,121,16,99799,0,0,14,0,0,14,2,1448721,5238331,5062763,2,Scaffold,na,Broad Institute,OK
+ondov_2016,255,0,0,88,17,110178,0,0,13,0,0,13,2,1856970,5189718,5116882,2,Scaffold,na,Broad Institute,OK
+ondov_2016,256,0,0,26,5,366161,0,0,2,0,0,2,1,4915429,4916581,4860526,2,Scaffold,na,Broad Institute,OK
+ondov_2016,257,0,0,33,5,335960,0,0,15,0,0,15,2,1294194,5097715,5074636,2,Scaffold,na,Broad Institute,OK
+ondov_2016,258,0,0,54,7,243382,0,0,11,0,0,11,2,1554401,5093381,5048123,2,Scaffold,na,Broad Institute,OK
+ondov_2016,259,0,0,66,9,188342,0,0,5,0,0,5,1,5176203,5290842,5195692,2,Scaffold,na,Broad Institute,OK
+ondov_2016,260,0,0,32,6,405444,0,0,5,0,0,5,1,2794411,5174661,5138895,2,Scaffold,na,Broad Institute,OK
+ondov_2016,261,0,0,68,8,214411,0,0,6,0,0,6,1,3119279,5475918,5330508,2,Scaffold,na,Broad Institute,OK
+ondov_2016,262,0,0,114,16,104596,0,0,19,0,0,19,2,1163077,5307195,5189038,2,Scaffold,na,Broad Institute,OK
+ondov_2016,263,0,0,35,7,280658,0,0,7,0,0,7,2,1998151,5029119,4987395,2,Scaffold,na,Broad Institute,OK
+ondov_2016,264,0,0,65,9,210461,0,0,11,0,0,11,2,1307165,5079910,5021526,2,Scaffold,na,Broad Institute,OK
+ondov_2016,265,0,0,29,6,307732,0,0,8,0,0,8,2,1279531,4890532,4854951,2,Scaffold,na,Broad Institute,OK
+ondov_2016,266,0,0,22,5,351803,0,0,3,0,0,3,1,4753629,4757839,4731104,2,Scaffold,na,Broad Institute,OK
+ondov_2016,267,0,0,50,8,206689,0,0,11,0,0,11,2,1868417,4859600,4829673,2,Scaffold,na,Broad Institute,OK
+ondov_2016,268,0,0,160,26,63708,0,0,160,0,0,160,26,63708,5084721,5084721,1,Contig,na,UNICAMP,OK
+ondov_2016,269,0,0,39,7,286355,0,0,13,0,0,13,3,590991,5308391,5280601,2,Scaffold,na,Broad Institute,OK
+ondov_2016,270,0,0,42,6,276382,0,0,42,0,0,42,6,276382,5435819,5435819,1,Contig,na,Broad Institute,OK
+ondov_2016,271,0,0,43,7,316568,0,0,43,0,0,43,7,316568,5423822,5423822,1,Contig,na,Broad Institute,OK
+ondov_2016,272,0,0,36,7,313052,0,0,9,0,0,9,2,1230581,5303516,5278586,2,Scaffold,na,Broad Institute,OK
+ondov_2016,273,0,1,3,1,5585611,2,3,3,3,0,0,1,5585611,5737293,5737293,90,Complete Genome,na,USDA-ARS-WRRC-PSM,OK
+ondov_2016,274,0,1,3,1,5402276,2,3,3,3,0,0,1,5402276,5559008,5559008,90,Complete Genome,na,"USDA, ARS, WRRC, PSM",OK
+ondov_2016,275,0,0,263,26,56295,0,0,189,0,0,189,19,84542,5368087,5360687,2,Scaffold,na,Washington University,OK
+ondov_2016,276,0,0,365,24,70422,0,0,273,0,0,273,17,101494,5321900,5312700,2,Scaffold,na,Washington University,OK
+ondov_2016,277,0,0,235,29,50518,0,0,179,0,0,179,20,84408,5251812,5246212,2,Scaffold,na,Washington University,OK
+ondov_2016,278,0,0,188,18,99158,0,0,140,0,0,140,11,159527,4994543,4989743,2,Scaffold,na,Washington University,OK
+ondov_2016,279,0,0,47,9,214545,0,0,14,0,0,14,1,3034593,5421619,5368543,2,Scaffold,na,Broad Institute,OK
+ondov_2016,280,0,0,55,9,202223,0,0,23,0,0,23,4,634574,5281551,5258683,2,Scaffold,na,Broad Institute,OK
+ondov_2016,281,0,0,92,8,279885,0,0,23,0,0,23,2,1292507,5607256,5407372,2,Scaffold,na,Broad Institute,OK
+ondov_2016,282,0,0,33,5,388179,0,0,18,0,0,18,3,634054,5032804,5023500,2,Scaffold,na,Broad Institute,OK
+ondov_2016,283,0,0,93,15,137672,0,0,26,0,0,26,4,729262,5659831,5587017,2,Scaffold,na,Broad Institute,OK
+ondov_2016,284,0,0,41,8,249654,0,0,15,0,0,15,3,790842,5123338,5090064,2,Scaffold,na,Broad Institute,OK
+ondov_2016,285,0,0,30,4,524764,0,0,11,0,0,11,1,3847391,5570141,5512513,2,Scaffold,na,Broad Institute,OK
+ondov_2016,286,0,0,93,11,139141,0,0,13,0,0,13,2,1476442,4696767,4626745,2,Scaffold,na,Broad Institute,OK
+ondov_2016,287,0,0,65,7,239466,0,0,18,0,0,18,1,3217953,5269607,5175953,2,Scaffold,na,Broad Institute,OK
+ondov_2016,288,0,0,90,8,291678,0,0,22,0,0,22,4,659596,5530615,5345308,2,Scaffold,na,Broad Institute,OK
+ondov_2016,289,0,0,134,21,73758,0,0,53,0,0,53,5,398282,5083452,4814735,2,Scaffold,na,Broad Institute,OK
+ondov_2016,290,0,0,104,14,125374,0,0,49,0,0,49,6,391145,5336566,5099732,2,Scaffold,na,Broad Institute,OK
+ondov_2016,291,0,0,38,5,313860,0,0,12,0,0,12,1,2882126,5182781,5150080,2,Scaffold,na,Broad Institute,OK
+ondov_2016,292,0,0,20,5,401142,0,0,8,0,0,8,1,3096554,5057101,5044148,2,Scaffold,na,Broad Institute,OK
+ondov_2016,293,0,0,13,2,689204,0,0,9,0,0,9,1,2948081,5169045,5163474,2,Scaffold,na,Broad Institute,OK
+ondov_2016,294,0,0,48,4,596778,0,0,25,0,0,25,4,699241,5369935,5337054,2,Scaffold,na,Broad Institute,OK
+ondov_2016,295,0,0,31,5,347870,0,0,12,0,0,12,2,1275537,5208799,5191452,2,Scaffold,na,Broad Institute,OK
+ondov_2016,296,0,0,28,4,618480,0,0,8,0,0,8,1,4357008,5057814,4964739,2,Scaffold,na,Broad Institute,OK
+ondov_2016,297,0,0,54,5,317666,0,0,38,0,0,38,2,618531,5078712,5053548,2,Scaffold,na,Broad Institute,OK
+ondov_2016,298,0,0,69,10,175936,0,0,28,0,0,28,3,756559,5184985,5153661,2,Scaffold,na,Broad Institute,OK
+ondov_2016,299,0,0,44,6,230345,0,0,9,0,0,9,1,2511170,4900974,4851566,2,Scaffold,na,Broad Institute,OK
+ondov_2016,300,0,0,55,7,222503,0,0,6,0,0,6,1,3559511,4916137,4865745,2,Scaffold,na,Broad Institute,OK
+ondov_2016,301,0,0,62,7,239446,0,0,19,0,0,19,2,1826092,5246020,5190522,2,Scaffold,na,Broad Institute,OK
+ondov_2016,302,0,0,52,6,235014,0,0,20,0,0,20,2,1458945,5328953,5281373,2,Scaffold,na,Broad Institute,OK
+ondov_2016,303,0,0,29,5,334032,0,0,7,0,0,7,2,1582393,5075922,5036144,2,Scaffold,na,Broad Institute,OK
+ondov_2016,304,0,0,46,7,281427,0,0,13,0,0,13,2,1303622,5260510,5196750,2,Scaffold,na,Broad Institute,OK
+ondov_2016,305,0,0,37,8,219091,0,0,6,0,0,6,1,4066994,4874256,4815844,2,Scaffold,na,Broad Institute,OK
+ondov_2016,306,0,0,87,10,208778,0,0,19,0,0,19,2,1486659,5648724,5498823,2,Scaffold,na,Broad Institute,OK
+ondov_2016,307,0,0,39,6,249813,0,0,8,0,0,8,2,1526657,5213194,5159279,2,Scaffold,na,Broad Institute,OK
+ondov_2016,308,0,0,28,5,408232,0,0,14,0,0,14,1,2786433,5078427,5061337,2,Scaffold,na,Broad Institute,OK
+ondov_2016,309,0,0,34,8,230950,0,0,16,0,0,16,2,782202,5105024,5084473,2,Scaffold,na,Broad Institute,OK
+ondov_2016,310,0,0,38,7,277794,0,0,11,0,0,11,2,1372114,4955530,4943203,2,Scaffold,na,Broad Institute,OK
+ondov_2016,311,0,0,139,17,102346,0,0,139,0,0,139,17,102346,5094267,5094267,1,Contig,na,"National University of Singapore, Genome Institute of Singapore",OK
+ondov_2016,312,0,0,138,16,96893,0,0,138,0,0,138,16,96893,5008898,5008898,1,Contig,na,"National University of Singapore, Genome Institute of Singapore",OK
+ondov_2016,313,0,0,145,16,107657,0,0,145,0,0,145,16,107657,4878217,4878217,1,Contig,na,"National University of Singapore, Genome Institute of Singapore",OK
+ondov_2016,314,0,0,152,17,104292,0,0,152,0,0,152,17,104292,4977211,4977211,1,Contig,na,"National University of Singapore, Genome Institute of Singapore",OK
+ondov_2016,315,0,0,479,21,74490,0,0,479,0,0,479,21,74490,5310324,5310324,1,Contig,na,"Korea National Institute of Health, Korea Centers for Disease Control & Prevention",OK
+ondov_2016,316,0,0,415,22,66926,0,0,415,0,0,415,22,66926,4959704,4959704,1,Contig,na,"Korea National Institute of Health, Korea Centers for Disease Control & Prevention",OK
+ondov_2016,317,0,0,116,10,147323,0,0,116,0,0,116,10,147323,5113276,5113276,1,Contig,na,Technical University of Denmark,OK
+ondov_2016,318,0,0,38,5,445693,0,0,14,0,0,14,2,823760,5488136,5457007,2,Scaffold,na,Broad Institute,OK
+ondov_2016,319,0,0,627,14,99388,0,0,410,0,0,410,12,123226,5070626,5067802,2,Scaffold,na,"Institute of Microbiology, Chinese Academy of Sciences",OK
+ondov_2016,320,0,0,293,18,93355,0,0,225,0,0,225,10,174800,5108045,5101245,2,Scaffold,na,The Genome Institute,OK
+ondov_2016,321,0,0,123,13,112389,0,0,123,0,0,123,13,112389,4393089,4393089,1,Contig,na,Institute of Microbial Technology,OK
+ondov_2016,322,0,0,560,83,19193,0,0,560,0,0,560,83,19193,5292880,5292880,1,Contig,na,National Veterinary Institute (SVA),OK
+ondov_2016,323,0,0,136,14,130690,0,0,136,0,0,136,14,130690,5312293,5312293,1,Contig,na,Lebanese American University,OK
+ondov_2016,324,0,0,108,8,210447,0,0,108,0,0,108,8,210447,5237695,5237695,1,Contig,na,Lebanese American University,OK
+ondov_2016,325,0,0,113,8,214429,0,0,113,0,0,113,8,214429,5243780,5243780,1,Contig,na,Lebanese American University,OK
+ondov_2016,326,0,0,113,8,235996,0,0,113,0,0,113,8,235996,5311803,5311803,1,Contig,na,Lebanese American University,OK
+ondov_2016,327,0,0,550,18,92103,0,0,414,0,0,414,16,114904,5275519,5261919,2,Scaffold,na,"Department of Pediatrics, Washington University School of Medicine",OK
+ondov_2016,328,0,0,545,19,85499,0,0,402,0,0,402,17,105599,5261962,5259799,2,Scaffold,na,"Department of Pediatrics, Washington University School of Medicine",OK
+ondov_2016,329,0,0,373,19,92001,0,0,373,0,0,373,19,92001,5284807,5284807,1,Contig,na,American Type Culture Collection,OK
+ondov_2016,330,0,0,499,23,74977,0,0,499,0,0,499,23,74977,5141142,5141142,1,Contig,na,University Medical Center Utrecht,OK
+ondov_2016,331,0,0,380,23,71104,0,0,380,0,0,380,23,71104,5183862,5183862,1,Contig,na,University Medical Center Utrecht,OK
+ondov_2016,332,0,0,363,26,53555,0,0,363,0,0,363,26,53555,5071821,5071821,1,Contig,na,University Medical Center Utrecht,OK
+ondov_2016,333,0,0,237,13,149744,0,0,237,0,0,237,13,149744,5182766,5182766,1,Contig,na,University Medical Center Utrecht,OK
+ondov_2016,334,0,1,5,1,4874704,4,5,5,5,0,0,1,4874804,5254632,5254432,4,Chromosome,na,University Medical Center Utrecht,OK
+ondov_2016,335,0,0,37,6,272156,0,0,9,0,0,9,2,909694,5114525,5077115,2,Scaffold,na,Broad Institute,OK
+ondov_2016,336,0,0,46,4,480328,0,0,16,0,0,16,2,1007461,5277780,5224265,2,Scaffold,na,Broad Institute,OK
+ondov_2016,337,0,0,24,3,854500,0,0,7,0,0,7,1,2871081,5167635,5144669,2,Scaffold,na,Broad Institute,OK
+ondov_2016,338,0,0,37,4,450616,0,0,14,0,0,14,1,2854733,5175426,5122875,2,Scaffold,na,Broad Institute,OK
+ondov_2016,339,0,0,32,4,519460,0,0,7,0,0,7,1,4151762,5061357,5000065,2,Scaffold,na,Broad Institute,OK
+ondov_2016,340,0,0,55,6,341304,0,0,12,0,0,12,1,3268328,5554292,5414383,2,Scaffold,na,Broad Institute,OK
+ondov_2016,341,0,0,132,13,102784,0,0,132,0,0,132,13,102784,4819146,4819146,1,Contig,na,IGS,OK
+ondov_2016,342,0,0,82,7,194151,0,0,82,0,0,82,7,194151,4945389,4945389,1,Contig,na,IGS,OK
+ondov_2016,343,0,0,183,11,131458,0,0,183,0,0,183,11,131458,5325397,5325397,1,Contig,na,IGS,OK
+ondov_2016,344,0,0,155,11,148818,0,0,155,0,0,155,11,148818,5070287,5070287,1,Contig,na,IGS,OK
+ondov_2016,345,0,0,144,12,151960,0,0,144,0,0,144,12,151960,5153746,5153746,1,Contig,na,IGS,OK
+ondov_2016,346,0,0,333,24,63364,0,0,333,0,0,333,24,63364,5446772,5446772,1,Contig,na,IGS,OK
+ondov_2016,347,0,0,181,19,95105,0,0,181,0,0,181,19,95105,5089646,5089646,1,Contig,na,IGS,OK
+ondov_2016,348,0,0,124,6,294694,0,0,124,0,0,124,6,294694,5331786,5331786,1,Contig,na,IGS,OK
+ondov_2016,349,0,0,306,45,36717,0,0,306,0,0,306,45,36717,5135834,5135834,1,Contig,na,IGS,OK
+ondov_2016,350,0,0,203,23,67438,0,0,203,0,0,203,23,67438,5098119,5098119,1,Contig,na,IGS,OK
+ondov_2016,351,0,0,121,10,169574,0,0,121,0,0,121,10,169574,5310180,5310180,1,Contig,na,IGS,OK
+ondov_2016,352,0,0,116,11,134814,0,0,116,0,0,116,11,134814,4983084,4983084,1,Contig,na,IGS,OK
+ondov_2016,353,0,0,303,24,67489,0,0,303,0,0,303,24,67489,5317915,5317915,1,Contig,na,IGS,OK
+ondov_2016,354,0,0,249,16,99158,0,0,249,0,0,249,16,99158,5633367,5633367,1,Contig,na,IGS,OK
+ondov_2016,355,0,0,193,19,89925,0,0,193,0,0,193,19,89925,5192502,5192502,1,Contig,na,IGS,OK
+ondov_2016,356,0,0,175,13,122590,0,0,175,0,0,175,13,122590,5514291,5514291,1,Contig,na,IGS,OK
+ondov_2016,357,0,0,106,8,212929,0,0,106,0,0,106,8,212929,4871736,4871736,1,Contig,na,IGS,OK
+ondov_2016,358,0,0,116,11,146199,0,0,116,0,0,116,11,146199,4777481,4777481,1,Contig,na,IGS,OK
+ondov_2016,359,0,0,174,14,130581,0,0,174,0,0,174,14,130581,5541966,5541966,1,Contig,na,IGS,OK
+ondov_2016,360,0,0,159,11,154724,0,0,159,0,0,159,11,154724,5498100,5498100,1,Contig,na,IGS,OK
+ondov_2016,361,0,0,180,20,89593,0,0,180,0,0,180,20,89593,5179950,5179950,1,Contig,na,IGS,OK
+ondov_2016,362,0,0,171,12,132055,0,0,171,0,0,171,12,132055,5294750,5294750,1,Contig,na,IGS,OK
+ondov_2016,363,0,0,141,12,169715,0,0,141,0,0,141,12,169715,5560615,5560615,1,Contig,na,IGS,OK
+ondov_2016,364,0,0,225,21,70830,0,0,225,0,0,225,21,70830,5215424,5215424,1,Contig,na,IGS,OK
+ondov_2016,365,0,0,241,13,104934,0,0,241,0,0,241,13,104934,5246595,5246595,1,Contig,na,IGS,OK
+ondov_2016,366,0,0,155,12,133821,0,0,155,0,0,155,12,133821,5427639,5427639,1,Contig,na,IGS,OK
+ondov_2016,367,0,0,172,15,130505,0,0,172,0,0,172,15,130505,5345933,5345933,1,Contig,na,IGS,OK
+ondov_2016,368,0,0,433,16,96774,0,0,433,0,0,433,16,96774,5208246,5208246,1,Contig,na,IGS,OK
+ondov_2016,369,0,0,95,13,131130,0,0,95,0,0,95,13,131130,5137238,5137238,1,Contig,na,CDC,OK
+ondov_2016,370,0,0,286,16,90171,0,0,204,0,0,204,15,99714,5279610,5265627,8,Scaffold,na,CDC,OK
+ondov_2016,371,0,0,310,14,103981,0,0,198,0,0,198,13,122732,5164758,5146837,8,Scaffold,na,CDC,OK
+ondov_2016,372,0,0,294,16,90803,0,0,205,0,0,205,15,99739,5295463,5281628,8,Scaffold,na,CDC,OK
+ondov_2016,373,0,0,96,14,127233,0,0,96,0,0,96,14,127233,5306628,5306628,1,Contig,na,CDC,OK
+ondov_2016,374,0,0,246,14,122201,0,0,196,0,0,196,13,122315,5200994,5192850,8,Scaffold,na,CDC,OK
+ondov_2016,375,0,0,141,17,112240,0,0,141,0,0,141,17,112240,5468935,5468935,1,Contig,na,CDC,OK
+ondov_2016,376,0,0,247,13,127879,0,0,178,0,0,178,11,149345,5275864,5263709,8,Scaffold,na,CDC,OK
+ondov_2016,377,0,0,124,13,142105,0,0,124,0,0,124,13,142105,5384883,5384883,1,Contig,na,CDC,OK
+ondov_2016,378,0,0,240,14,129685,0,0,177,0,0,177,11,148205,5366892,5355129,8,Scaffold,na,CDC,OK
+ondov_2016,379,0,0,270,13,133137,0,0,191,0,0,191,12,140147,5307665,5293731,8,Scaffold,na,CDC,OK
+ondov_2016,380,0,0,96,11,156618,0,0,96,0,0,96,11,156618,5351311,5351311,1,Contig,na,CDC,OK
+ondov_2016,381,0,0,254,11,183922,0,0,193,0,0,193,11,183922,5327667,5317563,8,Scaffold,na,CDC,OK
+ondov_2016,382,0,0,225,13,142474,0,0,177,0,0,177,12,149236,5356786,5348363,8,Scaffold,na,CDC,OK
+ondov_2016,383,0,0,232,11,148205,0,0,182,0,0,182,11,171026,5274592,5265731,8,Scaffold,na,CDC,OK
+ondov_2016,384,0,0,275,13,144824,0,0,193,0,0,193,11,148160,5332957,5318732,8,Scaffold,na,CDC,OK
+ondov_2016,385,0,0,99,12,145713,0,0,99,0,0,99,12,145713,5350288,5350288,1,Contig,na,CDC,OK
+ondov_2016,386,0,0,144,14,129204,0,0,144,0,0,144,14,129204,5394461,5394461,1,Contig,na,CDC,OK
+ondov_2016,387,0,0,118,13,138892,0,0,118,0,0,118,13,138892,5123375,5123375,1,Contig,na,CDC,OK
+ondov_2016,388,0,0,390,20,94648,0,0,270,0,0,270,19,100586,5572131,5550909,8,Scaffold,na,CDC,OK
+ondov_2016,389,0,0,377,19,91463,0,0,279,0,0,279,18,104128,5311895,5293499,8,Scaffold,na,CDC,OK
+ondov_2016,390,0,0,210,19,72690,0,0,180,0,0,180,17,85380,4815274,4810690,8,Scaffold,na,CDC,OK
+ondov_2016,391,0,0,130,18,108905,0,0,130,0,0,130,18,108905,5513970,5513970,1,Contig,na,CDC,OK
+ondov_2016,392,0,0,182,22,77552,0,0,182,0,0,182,22,77552,5262590,5262590,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,393,0,0,157,14,124420,0,0,157,0,0,157,14,124420,5276811,5276811,1,Contig,na,Canadian Food Inspection Agency,OK
+ondov_2016,394,0,1,1,1,4636831,0,1,1,1,0,0,1,4636831,4636831,4636831,90,Complete Genome,na,Pacific Biosciences,OK
+ondov_2016,395,0,0,148,18,96128,0,0,37,0,0,37,3,711255,4993477,4944201,2,Scaffold,na,Broad Institute,OK
+ondov_2016,396,0,1,1,1,4585620,0,1,1,1,0,0,1,4585620,4585620,4585620,90,Complete Genome,na,Austrian Centre of Industrial Biotechnology,OK
+ondov_2016,397,0,0,480,19,89397,0,0,188,0,0,188,13,134011,5355615,5352695,8,Scaffold,na,NTNU,OK
+ondov_2016,398,0,0,34,6,352987,0,0,34,0,0,34,6,352987,5334847,5334847,1,Contig,na,NTNU,OK
+ondov_2016,399,0,0,341,18,83913,0,0,152,0,0,152,15,118579,5218828,5216938,8,Scaffold,na,NTNU,OK
+ondov_2016,400,0,0,55,5,364350,0,0,55,0,0,55,5,364350,5538747,5538747,1,Contig,na,NTNU,OK
+ondov_2016,401,0,0,2155,173,9625,0,0,394,0,0,394,25,71591,6042777,6025167,8,Scaffold,na,NTNU,OK
+ondov_2016,402,0,0,50,6,326437,0,0,50,0,0,50,6,326437,5498438,5498438,1,Contig,na,NTNU,OK
+ondov_2016,403,0,0,316,29,58175,0,0,192,0,0,192,20,87826,5560286,5559046,8,Scaffold,na,NTNU,OK
+ondov_2016,404,0,0,38,6,359709,0,0,38,0,0,38,6,359709,5590987,5590987,1,Contig,na,NTNU,OK
+ondov_2016,405,0,0,38,4,438196,0,0,38,0,0,38,4,438196,5511800,5511800,1,Contig,na,NTNU,OK
+ondov_2016,406,0,0,119,14,121709,0,0,89,0,0,89,8,136546,5075622,5075322,8,Scaffold,na,NTNU,OK
+ondov_2016,407,0,0,326,31,53921,0,0,227,0,0,227,27,64238,5363751,5362761,8,Scaffold,na,NTNU,OK
+ondov_2016,408,0,0,51,6,377015,0,0,51,0,0,51,6,377015,5404640,5404640,1,Contig,na,NTNU,OK
+ondov_2016,409,0,0,318,12,128818,0,0,134,0,0,134,8,210271,5177843,5176003,8,Scaffold,na,NTNU,OK
+ondov_2016,410,0,0,314,19,87902,0,0,161,0,0,161,14,118863,5328929,5327399,8,Scaffold,na,NTNU,OK
+ondov_2016,411,0,0,689,90,17985,0,0,689,0,0,689,90,17985,5439347,5439347,1,Contig,na,CGS-GL,OK
+ondov_2016,412,0,0,1271,162,8353,0,0,1271,0,0,1271,162,8353,5158422,5158422,1,Contig,na,CGS-GL,OK
+ondov_2016,413,0,0,1730,96,17238,0,0,1730,0,0,1730,96,17238,6949752,6949752,1,Contig,na,CGS-GL,OK
+ondov_2016,414,0,0,2606,318,5549,0,0,2606,0,0,2606,318,5549,9030472,9030472,1,Contig,na,CGS-GL,OK
+ondov_2016,415,0,0,6,1,3090951,0,0,6,0,0,6,1,3090951,4587712,4587712,1,Contig,na,The Hong Kong University of Science and Technology,OK
+ondov_2016,416,0,0,76,11,195326,0,0,76,0,0,76,11,195326,5018127,5018127,1,Contig,na,USFDA,OK
+ondov_2016,417,0,0,167,23,67832,0,0,167,0,0,167,23,67832,4932791,4932791,1,Contig,na,UC Davis,OK
+ondov_2016,418,0,0,102,9,198017,0,0,102,0,0,102,9,198017,5203662,5203662,1,Contig,na,UC Davis,OK
+ondov_2016,419,0,1,1,1,4807977,0,1,1,1,0,0,1,4807977,4807977,4807977,90,Complete Genome,na,University of Antwerpen,OK
+ondov_2016,420,0,1,1,1,5090442,0,1,1,1,0,0,1,5090442,5090442,5090442,90,Complete Genome,na,University of Antwerpen,OK
+ondov_2016,421,0,0,198,11,161684,0,0,198,0,0,198,11,161684,5405645,5405645,1,Contig,na,U.S. Food and Drug Administration,OK
+ondov_2016,422,0,0,117,13,138634,0,0,117,0,0,117,13,138634,5218479,5218479,1,Contig,na,"University of Maryland, School of Medicine",OK
+ondov_2016,423,0,0,179,16,103971,0,0,179,0,0,179,16,103971,5200515,5200515,1,Contig,na,"University of Maryland, School of Medicine",OK
+ondov_2016,424,0,1,4,1,5310511,3,4,4,4,0,0,1,5310511,5559642,5559642,90,Complete Genome,na,NIH,OK
+ondov_2016,425,0,0,402,34,46222,0,0,118,0,0,118,9,203694,5284295,5256491,8,Scaffold,na,University of Washington,OK
+ondov_2016,426,0,0,229,28,58353,0,0,170,0,0,170,23,79505,5056427,5051469,8,Scaffold,na,University of Washington,OK
+ondov_2016,427,0,0,248,20,104510,0,0,165,0,0,165,18,111016,5414877,5406661,8,Scaffold,na,University of Washington,OK
+ondov_2016,428,0,0,88,9,191147,0,0,63,0,0,63,6,313043,5300028,5297618,8,Scaffold,na,University of Washington,OK
+ondov_2016,429,0,0,106,11,156456,0,0,82,0,0,82,9,185351,4945460,4943060,8,Scaffold,na,University of Washington,OK
+ondov_2016,430,0,0,272,22,78929,0,0,194,0,0,194,19,96295,5384404,5376780,8,Scaffold,na,University of Washington,OK
+ondov_2016,431,0,0,412,39,40553,0,0,203,0,0,203,19,91926,5410863,5390745,8,Scaffold,na,University of Washington,OK
+ondov_2016,432,0,0,100,14,113070,0,0,40,0,0,40,6,276155,4819668,4813832,8,Scaffold,na,University of Washington,OK
+ondov_2016,433,0,0,181,28,52247,0,0,66,0,0,66,9,209353,4811056,4799813,8,Scaffold,na,University of Washington,OK
+ondov_2016,434,0,0,976,152,8724,0,0,700,0,0,700,113,12263,4839229,4811804,8,Scaffold,na,University of Washington,OK
+ondov_2016,435,0,0,231,14,113164,0,0,141,0,0,141,11,171409,5315257,5306344,8,Scaffold,na,University of Washington,OK
+ondov_2016,436,0,0,140,13,148879,0,0,81,0,0,81,10,193391,5200264,5194450,8,Scaffold,na,University of Washington,OK
+ondov_2016,437,0,0,169,15,102128,0,0,83,0,0,83,7,222387,5147861,5139261,8,Scaffold,na,University of Washington,OK
+ondov_2016,438,0,0,149,13,138998,0,0,90,0,0,90,8,215898,5171438,5165538,8,Scaffold,na,University of Washington,OK
+ondov_2016,439,0,0,308,43,30029,0,0,75,0,0,75,8,231337,4943255,4920219,8,Scaffold,na,University of Washington,OK
+ondov_2016,440,0,0,124,11,168458,0,0,77,0,0,77,6,286802,5183443,5178743,8,Scaffold,na,University of Washington,OK
+ondov_2016,441,0,0,182,21,87743,0,0,129,0,0,129,12,134900,5333267,5328140,8,Scaffold,na,University of Washington,OK
+ondov_2016,442,0,0,122,11,143130,0,0,77,0,0,77,8,212149,5096042,5091542,8,Scaffold,na,University of Washington,OK
+ondov_2016,443,0,0,241,27,55332,0,0,152,0,0,152,20,80395,5000419,4991780,8,Scaffold,na,University of Washington,OK
+ondov_2016,444,0,0,223,24,66886,0,0,88,0,0,88,8,276356,5140107,5126607,8,Scaffold,na,University of Washington,OK
+ondov_2016,445,0,0,245,35,42351,0,0,103,0,0,103,14,102117,4897356,4883584,8,Scaffold,na,University of Washington,OK
+ondov_2016,446,0,0,857,131,9385,0,0,764,0,0,764,111,11682,4601638,4592338,8,Scaffold,na,University of Washington,OK
+ondov_2016,447,0,0,128,10,134841,0,0,93,0,0,93,6,275111,4900434,4896934,8,Scaffold,na,University of Washington,OK
+ondov_2016,448,0,0,146,15,94411,0,0,70,0,0,70,6,286461,4936829,4929229,8,Scaffold,na,University of Washington,OK
+ondov_2016,449,0,0,169,18,92615,0,0,123,0,0,123,14,105276,4892635,4888035,8,Scaffold,na,University of Washington,OK
+ondov_2016,450,0,0,416,44,38593,0,0,387,0,0,387,43,40470,5279004,5278714,8,Scaffold,na,University of Copenhagen,OK
+ondov_2016,451,0,0,120,9,202181,0,0,120,0,0,120,9,202181,4971965,4971965,1,Contig,na,unverisity medical center groningen,OK
+ondov_2016,452,0,0,194,9,190815,0,0,194,0,0,194,9,190815,4935073,4935073,1,Contig,na,GlaxoSmithKline,OK
+ondov_2016,453,0,0,201,9,190816,0,0,201,0,0,201,9,190816,4936579,4936579,1,Contig,na,GlaxoSmithKline,OK
+ondov_2016,454,0,0,155,15,112052,0,0,155,0,0,155,15,112052,5069172,5069172,1,Contig,na,FDA,OK
+ondov_2016,455,0,0,187,19,94688,0,0,187,0,0,187,19,94688,4778879,4778879,1,Contig,na,FDA,OK
+ondov_2016,456,0,0,237,16,106398,0,0,237,0,0,237,16,106398,5205271,5205271,1,Contig,na,University of Malaya,OK
+ondov_2016,457,0,0,198,22,77129,0,0,198,0,0,198,22,77129,4941386,4941386,1,Contig,na,University of Malaya,OK
+ondov_2016,458,0,0,160,14,132088,0,0,160,0,0,160,14,132088,4898283,4898283,1,Contig,na,University of Malaya,OK
+ondov_2016,459,0,0,213,16,111597,0,0,213,0,0,213,16,111597,4880879,4880879,1,Contig,na,University of Malaya,OK
+ondov_2016,460,0,0,241,18,98053,0,0,241,0,0,241,18,98053,5352887,5352887,1,Contig,na,Canadian Food Inspection Agency,OK
+ondov_2016,461,0,0,204,25,66593,0,0,204,0,0,204,25,66593,4931762,4931762,1,Contig,na,Canadian Food Inspection Agency,OK
+ondov_2016,462,0,0,229,18,83111,0,0,229,0,0,229,18,83111,5092400,5092400,1,Contig,na,Canadian Food Inspection Agency,OK
+ondov_2016,463,0,0,242,29,58735,0,0,242,0,0,242,29,58735,5303239,5303239,1,Contig,na,Canadian Food Inspection Agency,OK
+ondov_2016,464,0,0,234,29,55680,0,0,227,0,0,227,29,55680,5177251,5176735,8,Scaffold,na,University of Minnesota,OK
+ondov_2016,465,0,0,560,25,85617,0,0,560,0,0,560,25,85617,5681572,5681572,1,Contig,na,Copenhagen University,OK
+ondov_2016,466,0,0,309,21,79323,0,0,309,0,0,309,21,79323,4947468,4947468,1,Contig,na,CDC,OK
+ondov_2016,467,0,0,276,18,82505,0,0,276,0,0,276,18,82505,4774574,4774574,1,Contig,na,CDC,OK
+ondov_2016,468,0,0,287,24,69881,0,0,287,0,0,287,24,69881,4875984,4875984,1,Contig,na,CDC,OK
+ondov_2016,469,0,0,149,10,204756,0,0,146,0,0,146,10,204756,5454210,5452601,8,Scaffold,na,Norwegian University of Science and Technology,OK
+ondov_2016,470,0,0,211,15,129744,0,0,210,0,0,210,15,129744,5566977,5566472,8,Scaffold,na,Norwegian University of Science and Technology,OK
+ondov_2016,471,0,0,122,9,238055,0,0,120,0,0,120,9,238055,5322683,5321480,8,Scaffold,na,Norwegian University of Science and Technology,OK
+ondov_2016,472,0,0,212,12,159658,0,0,210,0,0,210,12,159658,5463804,5462710,8,Scaffold,na,Norwegian University of Science and Technology,OK
+ondov_2016,473,0,0,162,13,135425,0,0,83,0,0,83,4,505877,5477953,5446689,2,Scaffold,na,Broad Institute,OK
+ondov_2016,474,0,0,188,18,80661,0,0,67,0,0,67,4,551605,5413197,5365946,2,Scaffold,na,Broad Institute,OK
+ondov_2016,475,0,0,83,7,247963,0,0,83,0,0,83,7,247963,5173444,5173444,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,476,0,0,791,21,69641,0,0,791,0,0,791,21,69641,5296992,5296992,1,Contig,na,National Bioforensic Analysis Center,OK
+ondov_2016,477,0,0,267,13,127640,0,0,267,0,0,267,13,127640,5201104,5201104,1,Contig,na,National Bioforensic Analysis Center,OK
+ondov_2016,478,0,0,456,63,24993,0,0,171,0,0,171,18,104454,5003342,4982225,2,Scaffold,na,Genome Sequencing Center (GSC) at Washington University (WashU) School of Medicine,OK
+ondov_2016,479,0,0,75,7,238322,0,0,75,0,0,75,7,238322,5290142,5290142,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,480,0,0,37,4,469694,0,0,37,0,0,37,4,469694,4989407,4989407,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,481,0,0,63,8,190474,0,0,63,0,0,63,8,190474,5108720,5108720,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,482,0,0,68,7,339091,0,0,68,0,0,68,7,339091,5308142,5308142,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,483,0,0,76,11,172186,0,0,76,0,0,76,11,172186,5368171,5368171,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,484,0,0,61,10,209201,0,0,61,0,0,61,10,209201,5404073,5404073,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,485,0,0,91,12,142248,0,0,91,0,0,91,12,142248,5764314,5764314,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,486,0,0,81,11,182269,0,0,81,0,0,81,11,182269,5361548,5361548,1,Contig,na,Institute for Genome Sciences,OK
+ondov_2016,487,0,0,28,3,673650,0,0,28,0,0,28,3,673650,5685669,5685669,1,Contig,na,E. coli Reference Center,Inconclusive
+ondov_2016,488,0,0,36,5,441625,0,0,36,0,0,36,5,441625,5212383,5212383,1,Contig,na,E. coli Reference Center,OK
+ondov_2016,489,0,0,22,1,3744371,0,0,22,0,0,22,1,3744371,5450436,5450436,1,Contig,na,E. coli Reference Center,OK
+ondov_2016,490,0,0,41,3,892433,0,0,41,0,0,41,3,892433,5870822,5870822,1,Contig,na,E. coli Reference Center,OK
+ondov_2016,491,0,0,8,2,1164379,0,0,8,0,0,8,2,1164379,4643920,4643920,1,Contig,na,E. coli Reference Center,OK
+ondov_2016,492,0,0,57,8,284813,0,0,57,0,0,57,8,284813,5569621,5569621,1,Contig,na,Virginia Bioinformatics Institute,OK
