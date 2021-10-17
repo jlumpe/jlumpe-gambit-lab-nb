@@ -80,6 +80,28 @@ Extracts additional genome assembly information from Entrez ESummary data for al
 Also calculates n50 and l50 stats for all assemblies, these matched NCBI data where applicable.
 
 
+### 211016-basic-plots
+
+Makes some basic plots based on the output of the last two notebooks. Save two of them to "reports"
+directory.
+
+#### Results
+
+Spearman correlation with ANI for standard parameter set is very good and close to the best set of
+parameters, in all but `snitkin_2012`. Correlation seems to break down in `snitkin_2012` where
+similarity is very high. Will investigate more in the future.
+
+Assembly quality in `200726_gold_standard` is much poorer than the other three data sets (in all
+statistics), as expected because they come directory from a public health setting. That probably
+makes makes it a good set to include in analysis and paper. The exception is two genomes
+`18AC0018936-1_S12` and `19AC0002349B1_S10` which have very low total size (definitely much less
+than what the genome should be). These should probably be excluded from further analysis.
+
+Will need to further investigate genome pairs where FastANI did not report a score.
+
+Kendall tau statistic is very similar to spearman, seems to be no need to use it.
+
+
 
 ## Output
 
@@ -106,4 +128,7 @@ Also calculates n50 and l50 stats for all assemblies, these matched NCBI data wh
   * `211015-combine-data/`
     * `data.nc` - GAMBIT distance vs FastANI comparison genome sets in this experiment plus
 	  ondov-2016, put into common format. File format is NETCDF4.
+
+* `reports/211011-gambit-ani-additional-genomes/`
+  * `*.png` - Selected plots from `211016-basic-plots`.
 
