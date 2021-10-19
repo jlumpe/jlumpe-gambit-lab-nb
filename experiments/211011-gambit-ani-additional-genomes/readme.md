@@ -102,6 +102,12 @@ Will need to further investigate genome pairs where FastANI did not report a sco
 Kendall tau statistic is very similar to spearman, seems to be no need to use it.
 
 
+### 211019-get-taxonomy-tree
+
+Fetches taxonomy data for all NCBI genomes in all data sets, along with ancestors of all these taxa.
+Will compare against hierarchical clustering trees in next experiment.
+
+
 
 ## Output
 
@@ -128,6 +134,9 @@ Kendall tau statistic is very similar to spearman, seems to be no need to use it
   * `211015-combine-data/`
     * `data.nc` - GAMBIT distance vs FastANI comparison genome sets in this experiment plus
 	  ondov-2016, put into common format. File format is NETCDF4.
+  * `211019-get-taxonomy-tree/`
+    * `genome-taxids.csv` - maps genomes in this experiment to NCBI taxids.
+    * `taxa.csv` - Basic info for taxa in previous file plus their ancestors.
 
 * `reports/211011-gambit-ani-additional-genomes/`
   * `*.png` - Selected plots from `211016-basic-plots`.

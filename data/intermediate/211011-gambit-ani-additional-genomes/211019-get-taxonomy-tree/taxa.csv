@@ -1,0 +1,655 @@
+taxid,name,rank,parent
+131567,cellular organisms,no rank,
+2,Bacteria,superkingdom,131567
+1224,Proteobacteria,phylum,2
+1236,Gammaproteobacteria,class,1224
+91347,Enterobacterales,order,1236
+543,Enterobacteriaceae,family,91347
+620,Shigella,genus,543
+623,Shigella flexneri,species,620
+1434163,Shigella flexneri 2002069,strain,623
+561,Escherichia,genus,543
+562,Escherichia coli,species,561
+1438682,Escherichia coli BIDMC 78,strain,562
+1444215,Escherichia coli 1-110-08_S4_C1,strain,562
+135614,Xanthomonadales,order,1236
+32033,Xanthomonadaceae,family,135614
+338,Xanthomonas,genus,32033
+339,Xanthomonas campestris,species,338
+340,Xanthomonas campestris pv. campestris,no rank,339
+190485,Xanthomonas campestris pv. campestris str. ATCC 33913,strain,340
+1286354,Escherichia coli TOP2662-4,strain,562
+1116052,Escherichia coli P0299917.6,strain,562
+1434128,Shigella flexneri Shi06AH66,strain,623
+1281166,Escherichia coli KOEGE 68 (182a),strain,562
+1116126,Escherichia coli 2846750,strain,562
+1411694,Escherichia coli 38.52,strain,562
+1438695,Escherichia coli UCI 65,strain,562
+570,Klebsiella,genus,543
+573,Klebsiella pneumoniae,species,570
+72407,Klebsiella pneumoniae subsp. pneumoniae,subspecies,573
+1087443,Klebsiella pneumoniae subsp. pneumoniae KPNIH4,strain,72407
+1116102,Escherichia coli p0305293.15,strain,562
+1078034,Escherichia coli O145:H28,serotype,562
+1248823,Escherichia coli O145:H28 str. RM12581,strain,1078034
+749545,Escherichia coli MS 182-1,strain,562
+1005566,Escherichia coli 07798,strain,562
+1094171,Klebsiella pneumoniae subsp. pneumoniae KPNIH11,strain,72407
+910348,Escherichia coli P12b,strain,562
+1392870,Escherichia coli K2,strain,562
+1125650,Escherichia coli P0299483.3,strain,562
+1116155,Escherichia coli P0302308.3,strain,562
+2608889,unclassified Escherichia,no rank,561
+1279005,Escherichia sp. KTE172,species,2608889
+1903411,Yersiniaceae,family,91347
+629,Yersinia,genus,1903411
+1649845,Yersinia pseudotuberculosis complex,species group,629
+632,Yersinia pestis,species,1649845
+214092,Yersinia pestis CO92,strain,632
+869687,Escherichia coli 4.0967,strain,562
+1281149,Escherichia coli HVH 223 (4-2976528),strain,562
+1281270,Escherichia coli UMEA 3805-1,strain,562
+1444165,Escherichia coli 3-020-07_S3_C2,strain,562
+1783272,Terrabacteria group,clade,2
+1239,Firmicutes,phylum,1783272
+91061,Bacilli,class,1239
+1385,Bacillales,order,91061
+90964,Staphylococcaceae,family,1385
+1279,Staphylococcus,genus,90964
+1280,Staphylococcus aureus,species,1279
+196620,Staphylococcus aureus subsp. aureus MW2,strain,1280
+1169331,Escherichia sp. KTE11,species,2608889
+1151217,Escherichia coli B28-1,strain,562
+1181749,Escherichia coli KTE203,strain,562
+766149,Shigella flexneri K-304,strain,623
+1434149,Shigella flexneri Shi06SX53,strain,623
+1005519,Escherichia coli TW09098,strain,562
+1182697,Escherichia sp. KTE96,species,2608889
+1286332,Escherichia coli TOP382-3,strain,562
+1087440,Klebsiella pneumoniae subsp. pneumoniae KPNIH1,strain,72407
+577675,Escherichia coli O91:H21,strain,562
+1078030,Escherichia coli O91:H21 str. B2F1,no rank,577675
+1434184,Shigella flexneri 2002127,strain,623
+1281278,Escherichia coli UMEA 4076-1,strain,562
+1444147,Escherichia coli 2-005-03_S3_C2,strain,562
+622,Shigella dysenteriae,species,620
+941429,Shigella dysenteriae CDC 74-1112,strain,622
+1434166,Shigella flexneri 2002110,strain,623
+1081887,Escherichia coli 09BKT078844,strain,562
+1434143,Shigella flexneri 2003055,strain,623
+1094167,Klebsiella pneumoniae subsp. pneumoniae KPNIH7,strain,72407
+1038927,Escherichia coli O104:H4,serotype,562
+1240775,Escherichia coli O104:H4 str. 11-03439,strain,1038927
+1116181,Escherichia coli P0304816.5,strain,562
+1444128,Escherichia coli 5-172-05_S3_C1,strain,562
+1281141,Escherichia coli HVH 214 (4-3062198),strain,562
+868180,Escherichia coli DEC10A,strain,562
+1182686,Escherichia coli KTE79,strain,562
+1126898,Escherichia coli C353_09,strain,562
+754336,Escherichia sp. TW14182,species,2608889
+624,Shigella sonnei,species,620
+766164,Shigella sonnei 4822-66,strain,624
+621,Shigella boydii,species,620
+1118236,Shigella boydii 08-0009,strain,621
+1125641,Escherichia coli P0301867.2,strain,562
+1268976,Escherichia coli 113290,strain,562
+766145,Shigella flexneri VA-6,strain,623
+316401,Escherichia coli ETEC H10407,strain,562
+1444196,Escherichia coli 4-203-08_S3_C3,strain,562
+83333,Escherichia coli K-12,strain,562
+511145,Escherichia coli str. K-12 substr. MG1655,no rank,83333
+1182671,Escherichia coli KTE64,strain,562
+869669,Escherichia coli 1.2741,strain,562
+1268991,Escherichia coli 908519,strain,562
+564,Escherichia fergusonii,species,561
+981367,Escherichia fergusonii ECD227,strain,564
+590,Salmonella,genus,543
+28901,Salmonella enterica,species,590
+59201,Salmonella enterica subsp. enterica,subspecies,28901
+90370,Salmonella enterica subsp. enterica serovar Typhi,no rank,59201
+1280995,Escherichia coli HVH 45 (4-3129918),strain,562
+83334,Escherichia coli O157:H7,serotype,562
+1446612,Escherichia coli O157:H7 str. 07-3391,strain,83334
+186817,Bacillaceae,family,1385
+1386,Bacillus,genus,186817
+86661,Bacillus cereus group,species group,1386
+1396,Bacillus cereus,species,86661
+222523,Bacillus cereus ATCC 10987,strain,1396
+702434,Escherichia coli O157:H7 str. EC4191,strain,83334
+1444134,Escherichia coli 1-182-04_S3_C1,strain,562
+1434185,Shigella flexneri 2002141,strain,623
+866768,Escherichia coli 'BL21-Gold(DE3)pLysS AG',strain,562
+1116018,Escherichia coli 2850400,strain,562
+868133,Escherichia coli DEC1A,strain,562
+118969,Legionellales,order,1236
+444,Legionellaceae,family,118969
+445,Legionella,genus,444
+446,Legionella pneumophila,species,445
+297246,Legionella pneumophila str. Paris,strain,446
+1444265,Escherichia coli 2-316-03_S4_C3,strain,562
+1446637,Escherichia coli O157:H7 str. 2011EL-2106,strain,83334
+1281239,Escherichia coli UMEA 3317-1,strain,562
+1281062,Escherichia coli HVH 127 (4-7303629),strain,562
+373045,Escherichia coli O111:NM,serotype,562
+1446516,Escherichia coli O111:NM str. 2009C-4006,strain,373045
+1240778,Escherichia coli O104:H4 str. Ec12-0465,strain,1038927
+201174,Actinobacteria,phylum,1783272
+1760,Actinomycetia,class,201174
+85006,Micrococcales,order,1760
+2805591,Tropherymataceae,family,85006
+2038,Tropheryma,genus,2805591
+2039,Tropheryma whipplei,species,2038
+218496,Tropheryma whipplei TW08/27,strain,2039
+766152,Shigella flexneri K-671,strain,623
+1434168,Shigella flexneri 2003035,strain,623
+1280978,Escherichia coli HVH 27 (4-7449267),strain,562
+1412834,Escherichia coli FAP1,strain,562
+186801,Clostridia,class,1239
+186802,Eubacteriales,order,186801
+31979,Clostridiaceae,family,186802
+1485,Clostridium,genus,31979
+1502,Clostridium perfringens,species,1485
+195103,Clostridium perfringens ATCC 13124,strain,1502
+1434165,Shigella flexneri 2002106,strain,623
+1182723,Escherichia coli KTE143,strain,562
+1446652,Escherichia coli O157:H7 str. F6142,strain,83334
+186826,Lactobacillales,order,91061
+1300,Streptococcaceae,family,186826
+1301,Streptococcus,genus,1300
+1311,Streptococcus agalactiae,species,1301
+216495,Streptococcus agalactiae serogroup III,serogroup,1311
+211110,Streptococcus agalactiae NEM316,strain,216495
+28211,Alphaproteobacteria,class,1224
+356,Hyphomicrobiales,order,28211
+118882,Brucellaceae,family,356
+2826938,Brucella/Ochrobactrum group,no rank,118882
+234,Brucella,genus,2826938
+29461,Brucella suis,species,234
+204722,Brucella suis 1330,strain,29461
+1005497,Escherichia coli PA22,strain,562
+457401,Escherichia sp. 4_1_40B,species,2608889
+431946,Escherichia coli SE15,strain,562
+1116013,Escherichia coli 2762100,strain,562
+1434138,Shigella flexneri Shi06HN016,strain,623
+1434186,Shigella flexneri 2002142,strain,623
+1434134,Shigella flexneri Shi06HN023,strain,623
+1434157,Shigella flexneri 2001020,strain,623
+1168064,Klebsiella pneumoniae subsp. pneumoniae KPNIH23,strain,72407
+1389420,Escherichia coli LAU-EC9,strain,562
+1434158,Shigella flexneri 2001004,strain,623
+1045010,Escherichia coli O157,serogroup,562
+1051351,Escherichia coli PA19,no rank,1045010
+1314,Streptococcus pyogenes,species,1301
+301448,Streptococcus pyogenes serotype M3,serotype,1314
+198466,Streptococcus pyogenes MGAS315,strain,301448
+1182732,Escherichia sp. KTE159,species,2608889
+1280961,Escherichia coli HVH 6 (3-8296502),strain,562
+1182662,Escherichia coli KTE55,strain,562
+754327,Escherichia sp. TW09231,species,2608889
+1434145,Shigella flexneri Shi06GS55,strain,623
+404394,Escherichia coli O26:NM,strain,562
+1446734,Escherichia coli O26:NM str. 2010C-4347,no rank,404394
+187410,Yersinia pestis KIM10+,strain,632
+1434136,Shigella flexneri Shi06AH135,strain,623
+1116098,Escherichia coli p0305293.10,strain,562
+1412833,Escherichia coli FAH1,strain,562
+1434179,Shigella flexneri Shi06AH091,strain,623
+28216,Betaproteobacteria,class,1224
+80840,Burkholderiales,order,28216
+506,Alcaligenaceae,family,80840
+517,Bordetella,genus,506
+518,Bordetella bronchiseptica,species,517
+257310,Bordetella bronchiseptica RB50,strain,518
+1116136,Escherichia coli MP021561.2,strain,562
+1181750,Escherichia coli KTE204,strain,562
+1169346,Escherichia coli KTE27,strain,562
+1116144,Escherichia coli P0298942.7,strain,562
+1438681,Escherichia coli BIDMC 77,strain,562
+1444190,Escherichia coli 1-110-08_S3_C3,strain,562
+158879,Staphylococcus aureus subsp. aureus N315,strain,1280
+1434174,Shigella flexneri Shi06GS02,strain,623
+1116095,Escherichia coli p0305293.7,strain,562
+135623,Vibrionales,order,1236
+641,Vibrionaceae,family,135623
+662,Vibrio,genus,641
+672,Vibrio vulnificus,species,662
+196600,Vibrio vulnificus YJ016,strain,672
+1444135,Escherichia coli 1-250-04_S3_C1,strain,562
+1281244,Escherichia coli UMEA 3337-1,strain,562
+1227814,Escherichia coli O08,strain,562
+766153,Shigella flexneri K-1770,strain,623
+2370,Xylella,genus,32033
+2371,Xylella fastidiosa,species,2370
+160492,Xylella fastidiosa 9a5c,strain,2371
+1434146,Shigella flexneri Shi06SX36,strain,623
+1169321,Escherichia sp. KTE114,species,2608889
+1182693,Escherichia coli KTE89,strain,562
+1328440,Escherichia coli BIDMC 15,strain,562
+244319,Escherichia coli O26:H11,serotype,562
+1446726,Escherichia coli O26:H11 str. 2010C-5028,strain,244319
+373383,Shigella flexneri 5,serotype,623
+373384,Shigella flexneri 5 str. 8401,strain,373383
+1444258,Escherichia coli 2-005-03_S4_C3,strain,562
+1434141,Shigella flexneri Shi06HN244,strain,623
+754091,Shigella flexneri CCH060,strain,623
+1240776,Escherichia coli O104:H4 str. 11-04080,strain,1038927
+1005501,Escherichia coli PA28,strain,562
+1169352,Escherichia coli KTE34,strain,562
+1282,Staphylococcus epidermidis,species,1279
+1434142,Shigella flexneri Shi06GS37,strain,623
+385964,Yersinia pestis subsp. pestis,subspecies,632
+1234662,Yersinia pestis subsp. pestis bv. Medievalis,no rank,385964
+68525,delta/epsilon subdivisions,subphylum,1224
+29547,Epsilonproteobacteria,class,68525
+213849,Campylobacterales,order,29547
+72293,Helicobacteraceae,family,213849
+209,Helicobacter,genus,72293
+210,Helicobacter pylori,species,209
+85962,Helicobacter pylori 26695,strain,210
+1116069,Escherichia coli P0301867.5,strain,562
+766143,Shigella dysenteriae 225-75,strain,622
+288681,Bacillus cereus E33L,strain,1396
+1446658,Escherichia coli O157:H7 str. F7384,strain,83334
+1434139,Shigella flexneri Shi06HN250,strain,623
+1116007,Escherichia coli 2731150,strain,562
+766161,Shigella flexneri 6603-63,strain,623
+216599,Shigella sonnei 53G,strain,624
+1169392,Escherichia coli KTE150,strain,562
+1317131,Escherichia coli O157 str. NCCP15738,no rank,1045010
+1182659,Escherichia sp. KTE52,species,2608889
+216466,Streptococcus agalactiae serogroup V,serogroup,1311
+208435,Streptococcus agalactiae 2603V/R,strain,216466
+85007,Corynebacteriales,order,1760
+1762,Mycobacteriaceae,family,85007
+1763,Mycobacterium,genus,1762
+77643,Mycobacterium tuberculosis complex,species group,1763
+1773,Mycobacterium tuberculosis,species,77643
+1765,Mycobacterium tuberculosis variant bovis,biotype,1773
+1438673,Escherichia coli BIDMC 65,strain,562
+1434135,Shigella flexneri 2005AH264,strain,623
+120793,Mycobacterium avium complex (MAC),species group,1763
+1764,Mycobacterium avium,species,120793
+1005558,Escherichia coli 5905,strain,562
+1434140,Shigella flexneri Shi06AH028,strain,623
+766146,Shigella flexneri K-218,strain,623
+1005441,Escherichia coli 0.1304,strain,562
+1434154,Shigella flexneri 51581,strain,623
+1281087,Escherichia coli HVH 154 (4-5636698),strain,562
+405955,Escherichia coli APEC O1,strain,562
+1434183,Shigella flexneri 2002035,strain,623
+1116090,Escherichia coli p0305293.2,strain,562
+1281241,Escherichia coli UMEA 3323-1,strain,562
+550672,Escherichia coli B088,strain,562
+1434129,Shigella flexneri Shi06GS43,strain,623
+1389416,Escherichia coli LAU-EC5,strain,562
+1353978,Shigella sonnei 1DT-1,strain,624
+1051349,Escherichia coli PA11,no rank,1045010
+766160,Shigella flexneri 4343-70,strain,623
+1182711,Escherichia coli KTE121,strain,562
+1434150,Shigella flexneri 2002007,strain,623
+1005487,Escherichia coli PA2,strain,562
+1181781,Escherichia coli KTE237,strain,562
+206351,Neisseriales,order,28216
+481,Neisseriaceae,family,206351
+482,Neisseria,genus,481
+487,Neisseria meningitidis,species,482
+491,Neisseria meningitidis serogroup B,serogroup,487
+122586,Neisseria meningitidis MC58,strain,491
+208962,Escherichia albertii,species,561
+502347,Escherichia albertii TW07627,strain,208962
+766163,Shigella sonnei 3233-85,strain,624
+1434181,Shigella flexneri 2001027,strain,623
+1116152,Escherichia coli P0299438.2,strain,562
+1444240,Escherichia coli 5-366-08_S4_C2,strain,562
+42897,Shigella flexneri 2a,serotype,623
+198215,Shigella flexneri 2a str. 2457T,strain,42897
+991915,Escherichia coli O121:H19,serotype,562
+1446562,Escherichia coli O121:H19 str. 2010C-3840,strain,991915
+1280976,Escherichia coli HVH 25 (4-5851939),strain,562
+1005514,Escherichia coli PA49,strain,562
+65699,Neisseria meningitidis serogroup A,serogroup,487
+122587,Neisseria meningitidis Z2491,strain,65699
+1444048,Escherichia coli 8-415-05_S1_C1,strain,562
+1446746,Escherichia coli O6:H16,serotype,562
+1446748,Escherichia coli O6:H16 str. F5656C1,strain,1446746
+1281234,Escherichia coli UMEA 3290-1,strain,562
+135720,Neisseria meningitidis serogroup C,serogroup,487
+272831,Neisseria meningitidis FAM18,strain,135720
+1212571,Shigella flexneri S7737,strain,623
+869672,Escherichia coli 97.0259,strain,562
+1353980,Shigella dysenteriae SD1D,strain,622
+1212575,Shigella boydii 08-2675,strain,621
+1248915,Escherichia coli O145:H28 str. RM13516,strain,1078034
+1128950,Klebsiella pneumoniae subsp. pneumoniae KPNIH16,strain,72407
+1440052,Escherichia albertii KF1,strain,208962
+1281028,Escherichia coli HVH 91 (4-4638751),strain,562
+1444282,Escherichia coli 6-319-05_S4_C3,strain,562
+1434177,Shigella flexneri Shi06HN347,strain,623
+1116101,Escherichia coli p0305293.13,strain,562
+1268989,Escherichia coli 907889,strain,562
+1212573,Shigella boydii 08-0280,strain,621
+1444055,Escherichia coli 3-073-06_S1_C1,strain,562
+301447,Streptococcus pyogenes serotype M1,serotype,1314
+1207470,Streptococcus pyogenes M1 476,strain,301447
+1116084,Escherichia coli P0305260.10,strain,562
+1444236,Escherichia coli 2-427-07_S4_C2,strain,562
+1333596,Escherichia coli MC6002,strain,562
+1434133,Shigella flexneri Shi06HN118,strain,623
+1212574,Shigella boydii 08-2671,strain,621
+1281085,Escherichia coli HVH 152 (4-3447545),strain,562
+1005418,Escherichia coli 97.1742,strain,562
+1446517,Escherichia coli O111:NM str. 2009C-4052,strain,373045
+1116077,Escherichia coli P0302293.8,strain,562
+1181757,Escherichia coli KTE211,strain,562
+520,Bordetella pertussis,species,517
+257313,Bordetella pertussis Tohama I,isolate,520
+1412821,Escherichia coli 85B,strain,562
+910238,Escherichia albertii TW15818,strain,208962
+1444163,Escherichia coli 1-250-04_S3_C2,strain,562
+754332,Escherichia sp. TW10509,species,2608889
+1005410,Escherichia coli 96.0428,strain,562
+1405294,Escherichia coli ATCC BAA-2215,strain,562
+198214,Shigella flexneri 2a str. 301,strain,42897
+183190,Xylella fastidiosa Temecula1,strain,2371
+869679,Escherichia coli 3.2608,strain,562
+1169365,Escherichia coli KTE232,strain,562
+362663,Escherichia coli 536,strain,562
+1181733,Escherichia coli KTE187,strain,562
+766148,Shigella flexneri K-272,strain,623
+1446688,Escherichia coli O157:H7 str. K5467,strain,83334
+1087445,Klebsiella pneumoniae subsp. pneumoniae KPNIH6,strain,72407
+519,Bordetella parapertussis,species,517
+1208660,Bordetella parapertussis Bpp5,strain,519
+1434171,Shigella flexneri 2005051,strain,623
+1444121,Escherichia coli 2-177-06_S3_C1,strain,562
+119060,Burkholderiaceae,family,80840
+32008,Burkholderia,genus,119060
+111527,pseudomallei group,species group,32008
+13373,Burkholderia mallei,species,111527
+1212580,Shigella sonnei 08-7761,strain,624
+1281212,Escherichia coli UMEA 3199-1,strain,562
+209261,Salmonella enterica subsp. enterica serovar Typhi str. Ty2,strain,90370
+1005507,Escherichia coli PA39,strain,562
+1169382,Escherichia coli KTE125,strain,562
+766140,Shigella boydii 4444-74,strain,621
+1434160,Shigella flexneri 2001044,strain,623
+1387071,Escherichia coli O157:H7 str. T1543_06,strain,83334
+301451,Streptococcus pyogenes serotype M18,serotype,1314
+186103,Streptococcus pyogenes MGAS8232,strain,301451
+868191,Escherichia coli DEC12A,strain,562
+1182721,Escherichia coli KTE141,strain,562
+1182691,Escherichia coli KTE86,strain,562
+1286350,Escherichia coli TOP2652,strain,562
+1434176,Shigella flexneri Shi06HN344,strain,623
+1181766,Escherichia coli KTE220,strain,562
+1210043,Shigella flexneri S5644,strain,623
+1434156,Shigella flexneri 2000019,strain,623
+1151250,Escherichia coli B113,strain,562
+1128952,Klebsiella pneumoniae subsp. pneumoniae KPNIH18,strain,72407
+1090927,Escherichia coli O104:H4 str. E92/11,strain,1038927
+1005402,Escherichia coli 90.2281,strain,562
+72274,Pseudomonadales,order,1236
+135621,Pseudomonadaceae,family,72274
+286,Pseudomonas,genus,135621
+136849,Pseudomonas syringae group,species group,286
+251701,Pseudomonas syringae group genomosp. 3,species,136849
+323,Pseudomonas syringae pv. tomato,no rank,251701
+223283,Pseudomonas syringae pv. tomato str. DC3000,strain,323
+1337385,Escherichia coli SCD2,strain,562
+868183,Escherichia coli DEC10D,strain,562
+1434164,Shigella flexneri 2002091,strain,623
+1331062,Escherichia coli E2265,strain,562
+766159,Shigella flexneri 2930-71,strain,623
+216895,Vibrio vulnificus CMCP6,strain,672
+1446621,Escherichia coli O157:H7 str. 2009EL2109,strain,83334
+1182669,Escherichia coli KTE62,strain,562
+1444129,Escherichia coli 5-366-08_S3_C1,strain,562
+1124985,Escherichia coli C1244_91,strain,562
+300268,Shigella boydii Sb227,strain,621
+1168063,Klebsiella pneumoniae subsp. pneumoniae KPNIH22,strain,72407
+29459,Brucella melitensis,species,234
+644337,Brucella melitensis bv. 1,no rank,29459
+224914,Brucella melitensis bv. 1 str. 16M,strain,644337
+754330,Escherichia sp. TW09276,species,2608889
+1212568,Shigella flexneri S6678,strain,623
+630,Yersinia enterocolitica,species,629
+282458,Staphylococcus aureus subsp. aureus MRSA252,strain,1280
+1446749,Escherichia coli O69:H11,serotype,562
+1446750,Escherichia coli O69:H11 str. 06-3325,strain,1446749
+1281236,Escherichia coli UMEA 3298-1,strain,562
+1281123,Escherichia coli HVH 196 (4-4530470),strain,562
+1128948,Klebsiella pneumoniae subsp. pneumoniae KPNIH14,strain,72407
+1005432,Escherichia coli 99.0839,strain,562
+1182724,Escherichia coli KTE144,strain,562
+1126915,Escherichia coli C717_10,strain,562
+1281215,Escherichia coli UMEA 3203-1,strain,562
+1444194,Escherichia coli 3-373-03_S3_C3,strain,562
+1212579,Shigella boydii 248-1B,strain,621
+1446699,Escherichia coli O165:H25,serotype,562
+1446700,Escherichia coli O165:H25 str. 2010C-4874,strain,1446699
+1128953,Klebsiella pneumoniae subsp. pneumoniae KPNIH19,strain,72407
+1116130,Escherichia coli 199900.1,strain,562
+1446555,Escherichia coli O121:H19 str. 2009C-4050,strain,991915
+997825,Escherichia coli O157:H7 str. 1125,strain,83334
+1182699,Escherichia coli KTE100,strain,562
+1434172,Shigella flexneri 2005184,strain,623
+1212564,Shigella sonnei S6513,strain,624
+1087444,Klebsiella pneumoniae subsp. pneumoniae KPNIH5,strain,72407
+1281064,Escherichia coli HVH 130 (4-7036876),strain,562
+300269,Shigella sonnei Ss046,strain,624
+1048266,Escherichia coli O104:H4 str. 09-7901,strain,1038927
+1434152,Shigella flexneri 51576,strain,623
+1434147,Shigella flexneri 2002103,strain,623
+1446661,Escherichia coli O157:H7 str. H2495,strain,83334
+1168062,Klebsiella pneumoniae subsp. pneumoniae KPNIH21,strain,72407
+1169349,Escherichia sp. KTE31,species,2608889
+1438683,Escherichia coli BIDMC 79,strain,562
+766158,Shigella flexneri 2850-71,strain,623
+1444209,Escherichia coli 2-460-02_S4_C1,strain,562
+766,Rickettsiales,order,28211
+775,Rickettsiaceae,family,766
+33988,Rickettsieae,tribe,775
+780,Rickettsia,genus,33988
+114277,spotted fever group,species group,780
+781,Rickettsia conorii,species,114277
+272944,Rickettsia conorii str. Malish 7,strain,781
+945360,Shigella flexneri CDC 796-83,strain,623
+1212566,Shigella flexneri S6585,strain,623
+766138,Shigella boydii 965-58,strain,621
+1182715,Escherichia coli KTE130,strain,562
+54736,Salmonella bongori,species,590
+218493,Salmonella bongori NCTC 12419,strain,54736
+1434151,Shigella flexneri 51575,strain,623
+1411696,Escherichia coli 1350,strain,562
+1005531,Escherichia coli EC4439,strain,562
+1446544,Escherichia coli O118:H16,serotype,562
+1446548,Escherichia coli O118:H16 str. 08-3651,strain,1446544
+1446630,Escherichia coli O157:H7 str. 2011EL-2097,strain,83334
+1434170,Shigella flexneri 2005025,strain,623
+1005550,Escherichia coli EC1865,strain,562
+656419,Escherichia coli M718,strain,562
+1182707,Escherichia coli KTE115,strain,562
+226900,Bacillus cereus ATCC 14579,strain,1396
+1446689,Escherichia coli O157:H7 str. K5602,strain,83334
+1167693,Escherichia coli O32:H37,serotype,562
+1167694,Escherichia coli O32:H37 str. P4,strain,1167693
+991910,Escherichia coli O111:H8,serotype,562
+1446498,Escherichia coli O111:H8 str. F6627,strain,991910
+1281183,Escherichia coli UMEA 3108-1,strain,562
+1116193,Escherichia coli P0305260.4,strain,562
+1128946,Klebsiella pneumoniae subsp. pneumoniae KPNIH12,strain,72407
+1212569,Shigella flexneri S6764,strain,623
+1444186,Escherichia coli 5-172-05_S3_C3,strain,562
+1169663,Escherichia coli NCCP15647,strain,562
+1116045,Escherichia coli P0299438.10,strain,562
+1444108,Escherichia coli 3-020-07_S1_C3,strain,562
+1169402,Escherichia coli KTE177,strain,562
+1290392,"Shigella flexneri II:(3)4,7(8)",strain,623
+136845,Pseudomonas putida group,species group,286
+303,Pseudomonas putida,species,136845
+160488,Pseudomonas putida KT2440,strain,303
+1212582,Shigella sonnei 09-1032,strain,624
+1313,Streptococcus pneumoniae,species,1301
+171101,Streptococcus pneumoniae R6,strain,1313
+1169342,Escherichia coli KTE23,strain,562
+754079,Escherichia coli 2534-86,strain,562
+1182738,Escherichia coli KTE171,strain,562
+1005499,Escherichia coli PA24,strain,562
+195102,Clostridium perfringens str. 13,strain,1502
+1434144,Shigella flexneri Shi06AH130,strain,623
+1280970,Escherichia coli HVH 19 (4-7154984),strain,562
+1444154,Escherichia coli 2-316-03_S3_C2,strain,562
+2055880,Pseudescherichia,genus,543
+566,Pseudescherichia vulneris,species,2055880
+1115515,Pseudescherichia vulneris NBRC 102420,strain,566
+1005561,Escherichia coli 5412,strain,562
+1182678,Escherichia coli KTE71,strain,562
+1165949,Escherichia coli O26:H11 str. CVM9942,strain,244319
+2629414,unclassified Shigella,no rank,620
+1776082,Shigella genomosp. SF-2015,species,2629414
+1212563,Shigella dysenteriae S6205,strain,1776082
+1169363,Escherichia coli KTE82,strain,562
+754331,Escherichia sp. TW09308,species,2608889
+656417,Escherichia coli M605,strain,562
+932676,Shigella boydii ATCC 9905,strain,1776082
+1401259,Shigella dysenteriae WRSd5,strain,622
+1446647,Escherichia coli O157:H7 str. 2011EL-2288,strain,83334
+1309,Streptococcus mutans,species,1301
+754077,Shigella sonnei str. Moseley,strain,624
+1210044,Shigella flexneri S6162,strain,623
+203267,Tropheryma whipplei str. Twist,strain,2039
+1212577,Shigella boydii 09-0344,strain,621
+1128951,Klebsiella pneumoniae subsp. pneumoniae KPNIH17,strain,72407
+485,Neisseria gonorrhoeae,species,482
+242231,Neisseria gonorrhoeae FA 1090,strain,485
+1317130,Escherichia coli O157 str. NCCP15739,no rank,1045010
+1094169,Klebsiella pneumoniae subsp. pneumoniae KPNIH9,strain,72407
+199310,Escherichia coli CFT073,strain,562
+1068618,Escherichia coli O104:H4 str. 11-4632 C2,strain,1038927
+155864,Escherichia coli O157:H7 str. EDL933,strain,83334
+1116190,Escherichia coli P0304816.14,strain,562
+53413,Xanthomonas axonopodis,species,338
+1304892,Xanthomonas axonopodis Xac29-1,strain,53413
+766141,Shigella boydii 5216-82,strain,1776082
+766142,Shigella dysenteriae 155-74,strain,622
+766162,Shigella sonnei 3226-85,strain,624
+1094168,Klebsiella pneumoniae subsp. pneumoniae KPNIH8,strain,72407
+1078031,Escherichia coli O121:H19 str. MT#2,strain,991915
+670897,Escherichia coli 2362-75,strain,562
+595495,Escherichia coli KO11FL,strain,562
+1286331,Escherichia coli TOP382-2,strain,562
+1434161,Shigella flexneri 2002021,strain,623
+1087441,Klebsiella pneumoniae subsp. pneumoniae KPNIH2,strain,72407
+282459,Staphylococcus aureus subsp. aureus MSSA476,strain,1280
+1182735,Escherichia coli KTE165,strain,562
+1281214,Escherichia coli UMEA 3201-1,strain,562
+1212578,Shigella flexneri MT1457,strain,623
+1116023,Escherichia coli 2861200,strain,562
+869693,Escherichia coli TW07793,strain,562
+1212565,Shigella dysenteriae S6554,strain,622
+85963,Helicobacter pylori J99,strain,210
+766155,Shigella flexneri 1485-80,strain,623
+766150,Shigella flexneri K-315,strain,623
+1434130,Shigella flexneri Shi06AH116,strain,623
+1169354,Escherichia coli KTE37,strain,562
+1444267,Escherichia coli 2-460-02_S4_C3,strain,562
+1169378,Escherichia coli KTE117,strain,562
+868185,Escherichia coli DEC10F,strain,562
+1005560,Escherichia coli EC96038,strain,562
+83332,Mycobacterium tuberculosis H37Rv,strain,1773
+1212567,Shigella boydii S6614,strain,621
+910237,Escherichia sp. TW15838,species,2608889
+1392853,Escherichia coli M7,strain,562
+1444216,Escherichia coli 1-176-05_S4_C1,strain,562
+766147,Shigella flexneri K-227,strain,623
+170187,Streptococcus pneumoniae TIGR4,strain,1313
+1282357,Shigella flexneri 2003036,strain,623
+1434173,Shigella flexneri 2005GS061,strain,623
+1281156,Escherichia coli KOEGE 30 (63a),strain,562
+1212562,Shigella flexneri S5717,strain,623
+1116061,Escherichia coli MP021017.5,strain,562
+1212583,Shigella sonnei 09-2245,strain,624
+1434178,Shigella flexneri Shi06HN091,strain,623
+909209,Escherichia albertii TW08933,strain,208962
+1444127,Escherichia coli 2-474-04_S3_C1,strain,562
+1446644,Escherichia coli O157:H7 str. 2011EL-2114,strain,83334
+1126904,Escherichia coli C496_10,strain,562
+1281108,Escherichia coli HVH 180 (4-3051617),strain,562
+1094170,Klebsiella pneumoniae subsp. pneumoniae KPNIH10,strain,72407
+1115511,Escherichia albertii NBRC 107761,strain,208962
+1281188,Escherichia coli UMEA 3124-1,strain,562
+1434155,Shigella flexneri 1997005,strain,623
+1438686,Escherichia coli CHS 77,strain,562
+1444224,Escherichia coli 3-373-03_S4_C1,strain,562
+1169315,Escherichia coli KTE1,strain,562
+1434153,Shigella flexneri 51577,strain,623
+297245,Legionella pneumophila str. Lens,strain,446
+1212570,Shigella boydii S7334,strain,621
+1169316,Escherichia coli KTE3,strain,562
+1116051,Escherichia coli P0299917.5,strain,562
+1280962,Escherichia coli HVH 7 (4-7315031),strain,562
+1281187,Escherichia coli UMEA 3122-1,strain,562
+193567,Streptococcus pyogenes SSI-1,strain,301448
+136841,Pseudomonas aeruginosa group,species group,286
+287,Pseudomonas aeruginosa,species,136841
+208964,Pseudomonas aeruginosa PAO1,strain,287
+176279,Staphylococcus epidermidis RP62A,strain,1282
+1389424,Escherichia coli LAU-EC3,strain,562
+1212581,Shigella sonnei 08-7765,strain,624
+1499973,Escherichia marmotae,species,561
+1116158,Escherichia coli P0302308.10,strain,562
+386585,Escherichia coli O157:H7 str. Sakai,strain,83334
+1434132,Shigella flexneri Shi06GS48,strain,623
+1434148,Shigella flexneri Shi05SX04,strain,623
+1389419,Escherichia coli LAU-EC8,strain,562
+1434131,Shigella flexneri Shi06GS07,strain,623
+1434159,Shigella flexneri 2001042,strain,623
+1434137,Shigella flexneri Shi06HN378,strain,623
+1005510,Escherichia coli PA42,strain,562
+83331,Mycobacterium tuberculosis CDC1551,strain,1773
+457400,Escherichia sp. 1_1_43,species,2608889
+1281258,Escherichia coli UMEA 3656-1,strain,562
+1240762,Escherichia coli O104:H4 str. Ec11-4986,strain,1038927
+1182680,Escherichia coli KTE73,strain,562
+1280974,Escherichia coli HVH 23 (4-6066488),strain,562
+1446515,Escherichia coli O111:NM str. 08-4487,strain,373045
+754093,Shigella dysenteriae 1617,strain,622
+1128954,Klebsiella pneumoniae subsp. pneumoniae KPNIH20,strain,72407
+90371,Salmonella enterica subsp. enterica serovar Typhimurium,no rank,59201
+99287,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,strain,90371
+1169664,Escherichia coli AD30,strain,562
+1116027,Escherichia coli 2866350,strain,562
+1903410,Pectobacteriaceae,family,91347
+122277,Pectobacterium,genus,1903410
+554,Pectobacterium carotovorum,species,122277
+1212576,Shigella boydii 08-6341,strain,621
+868167,Escherichia coli DEC7C,strain,562
+1434180,Shigella flexneri 2001025,strain,623
+114292,typhus group,species group,780
+782,Rickettsia prowazekii,species,114292
+1105094,Rickettsia prowazekii str. Chernikova,strain,782
+702433,Escherichia coli O157:H7 str. EC4127,strain,83334
+1212584,Shigella sonnei 09-4962,strain,624
+1434182,Shigella flexneri 2001048,strain,623
+1282358,Shigella flexneri Shi06HN006,strain,623
+1434162,Shigella flexneri 2002028,strain,623
+754092,Shigella flexneri SFJ17B,strain,623
+1322345,Escherichia coli ATCC 25922,strain,562
+766139,Shigella boydii 3594-74,strain,621
+1401327,Shigella dysenteriae WRSd3,strain,622
+158878,Staphylococcus aureus subsp. aureus Mu50,strain,1280
+550694,Escherichia fergusonii B253,strain,564
+1455599,Escherichia coli 11117,strain,562
+1268994,Escherichia coli 908524,strain,562
+1116036,Escherichia coli 2875150,strain,562
+1434169,Shigella flexneri 2005002,strain,623
+1444088,Escherichia coli 4-203-08_S1_C2,strain,562
+1116140,Escherichia coli MP020940.1,strain,562
+1116116,Escherichia coli BCE030_MS-09,strain,562
+1089445,Escherichia coli AI27,strain,562
+591020,Shigella flexneri 2002017,strain,623
+1434175,Shigella flexneri Shi06HN159,strain,623
+28450,Burkholderia pseudomallei,species,111527
+1392,Bacillus anthracis,species,86661
+261594,Bacillus anthracis str. 'Ames Ancestor',strain,1392
+1434167,Shigella flexneri 2002140,strain,623
