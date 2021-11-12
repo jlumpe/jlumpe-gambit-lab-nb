@@ -16,9 +16,57 @@ info for all.
 Found 14388 genomes.
 
 
+### 211111-inspect-genomes
+
+ Extracts (potentially) relevant data from summaries and writes to table.
+
+#### Results
+
+- 15 with `refseq_category` "reference genome", rest "representative"
+- `assembly_status` values:
+  - Chromosome: 374
+  - Complete Genome: 3370
+  - Contig: 6176
+  - Scaffold: 4468
+- 4 genomes have GB accession #, not RefSeq. All submitted in the last two months (3 of them two
+  days ago), can probably remove.
+- `taxonomy_check_status` values (under `meta` key):
+  - 11846 have "OK"
+  - 2539 have "Inconclusive"
+  - 3 have no value (key missing)
+- `propertylist` values:
+  - 216 have "partial-genome-representation"
+  - 3751 have "has-chromosome"
+  - 1218 have "has-plasmid"
+- None have anything in `anomalouslist`
+- Under `meta` key:
+- 42 have total assembly length < 500kb (down to 140kb), seems like large proportion of genome must
+  be missing.
+
+Other observations:
+
+- `assembly_level` (int-valued) has one-to-many relationship to `assembly_status`. Not really sure
+  what it means.
+
+#### Next
+
+Figure out if any of the following attributes are relevant and should be filtered on:
+
+* `assembly_status`
+* `taxonomy_check_status`
+* `propertylist`
+  * `partial-genome-representation`
+  * `has-genome`
+  * `has-plasmid`
+* `total_length`
+
+
+
 ## Output
 
 * `data/processed/211109-ncbi-representative-genomes/`
+  * `211109-find-genomes/`
+    * `genomes.csv` - (possibly) relevant properties of all genomes from search.
 
 * `data/intermediate/211109-ncbi-representative-genomes/`
   * `211111-find-genomes/`
