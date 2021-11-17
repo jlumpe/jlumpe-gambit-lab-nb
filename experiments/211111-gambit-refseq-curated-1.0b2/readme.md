@@ -18,8 +18,16 @@ Create version `1.0b2` of the refseq-curated database. Changes from `1.0b1`:
 * Changed rank of "E. coli/Shigella" taxon from "species" to None/null.
 
 
+### 211116-gambit-refseq-curated-1.0b2-rev2
+
+Creates revision of database created in previous notebook. Realized I forgot to update the
+`organism` column of the genomes under the new E. coli taxon created in previous notebook. This
+revision makes that update and also updates the `revision` key of the genome set's `extra` column.
+
+
 ## Output
 
 * `archive/` - output not added to version control, meant to be archived elsewhere.
   * `gambit-genomes-1.0b2-211111.db` - new genome database file.
+  * `gambit-genomes-1.0b2-rev2-211116.db` - revision 2 of new database.
 
