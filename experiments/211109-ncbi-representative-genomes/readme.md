@@ -18,7 +18,7 @@ Found 14388 genomes.
 
 ### 211111-inspect-genomes
 
- Extracts (potentially) relevant data from summaries and writes to table.
+Extracts (potentially) relevant data from summaries and writes to table.
 
 #### Results
 
@@ -40,8 +40,8 @@ Found 14388 genomes.
   - 1218 have "has-plasmid"
 - None have anything in `anomalouslist`
 - Under `meta` key:
-- 42 have total assembly length < 500kb (down to 140kb), seems like large proportion of genome must
-  be missing.
+  - 42 have total assembly length < 500kb (down to 140kb), seems like large proportion of genome must
+	be missing.
 
 Other observations:
 
@@ -60,6 +60,10 @@ Figure out if any of the following attributes are relevant and should be filtere
   * `has-plasmid`
 * `total_length`
 
+
+### 211115-download-genomes
+
+Downloads genome sequences from NCBI FTP server. Checks their MD5 hashes.
 
 
 ## Output
