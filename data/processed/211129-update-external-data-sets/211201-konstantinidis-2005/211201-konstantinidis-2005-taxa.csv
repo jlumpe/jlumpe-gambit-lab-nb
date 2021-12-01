@@ -1,0 +1,202 @@
+taxid,parent_taxid,name,rank
+386585,83334,Escherichia coli O157:H7 str. Sakai,strain
+187410,632,Yersinia pestis KIM10+,strain
+282459,1280,Staphylococcus aureus subsp. aureus MSSA476,strain
+208964,287,Pseudomonas aeruginosa PAO1,strain
+218496,2039,Tropheryma whipplei TW08/27,strain
+242231,485,Neisseria gonorrhoeae FA 1090,strain
+122586,491,Neisseria meningitidis MC58,strain
+216895,672,Vibrio vulnificus CMCP6,strain
+226900,1396,Bacillus cereus ATCC 14579,strain
+160488,303,Pseudomonas putida KT2440,strain
+198466,301448,Streptococcus pyogenes MGAS315,strain
+85962,210,Helicobacter pylori 26695,strain
+1207470,301447,Streptococcus pyogenes M1 476,strain
+211110,216495,Streptococcus agalactiae NEM316,strain
+446,445,Legionella pneumophila,species
+90370,59201,Salmonella enterica subsp. enterica serovar Typhi,no rank
+1765,1773,Mycobacterium tuberculosis variant bovis,biotype
+196620,1280,Staphylococcus aureus subsp. aureus MW2,strain
+1764,120793,Mycobacterium avium,species
+170187,1313,Streptococcus pneumoniae TIGR4,strain
+190485,340,Xanthomonas campestris pv. campestris str. ATCC 33913,strain
+223283,323,Pseudomonas syringae pv. tomato str. DC3000,strain
+158879,1280,Staphylococcus aureus subsp. aureus N315,strain
+28450,111527,Burkholderia pseudomallei,species
+155864,83334,Escherichia coli O157:H7 str. EDL933,strain
+272944,781,Rickettsia conorii str. Malish 7,strain
+176279,1282,Staphylococcus epidermidis RP62A,strain
+630,629,Yersinia enterocolitica,species
+199310,562,Escherichia coli CFT073,strain
+195102,1502,Clostridium perfringens str. 13,strain
+214092,632,Yersinia pestis CO92,strain
+224914,644337,Brucella melitensis bv. 1 str. 16M,strain
+198214,42897,Shigella flexneri 2a str. 301,strain
+511145,83333,Escherichia coli str. K-12 substr. MG1655,no rank
+1234662,385964,Yersinia pestis subsp. pestis bv. Medievalis,no rank
+257313,520,Bordetella pertussis Tohama I,isolate
+160492,2371,Xylella fastidiosa 9a5c,strain
+186103,301451,Streptococcus pyogenes MGAS8232,strain
+222523,1396,Bacillus cereus ATCC 10987,strain
+297246,446,Legionella pneumophila str. Paris,strain
+13373,111527,Burkholderia mallei,species
+204722,29461,Brucella suis 1330,strain
+288681,1396,Bacillus cereus E33L,strain
+218493,54736,Salmonella bongori NCTC 12419,strain
+1282,1279,Staphylococcus epidermidis,species
+1208660,519,Bordetella parapertussis Bpp5,strain
+158878,1280,Staphylococcus aureus subsp. aureus Mu50,strain
+122587,65699,Neisseria meningitidis Z2491,strain
+208435,216466,Streptococcus agalactiae 2603V/R,strain
+554,122277,Pectobacterium carotovorum,species
+196600,672,Vibrio vulnificus YJ016,strain
+282458,1280,Staphylococcus aureus subsp. aureus MRSA252,strain
+1309,1301,Streptococcus mutans,species
+1304892,53413,Xanthomonas axonopodis Xac29-1,strain
+85963,210,Helicobacter pylori J99,strain
+203267,2039,Tropheryma whipplei str. Twist,strain
+198215,42897,Shigella flexneri 2a str. 2457T,strain
+99287,90371,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,strain
+272831,135720,Neisseria meningitidis FAM18,strain
+171101,1313,Streptococcus pneumoniae R6,strain
+209261,90370,Salmonella enterica subsp. enterica serovar Typhi str. Ty2,strain
+297245,446,Legionella pneumophila str. Lens,strain
+183190,2371,Xylella fastidiosa Temecula1,strain
+257310,518,Bordetella bronchiseptica RB50,strain
+261594,1392,Bacillus anthracis str. 'Ames Ancestor',strain
+83331,1773,Mycobacterium tuberculosis CDC1551,strain
+195103,1502,Clostridium perfringens ATCC 13124,strain
+193567,301448,Streptococcus pyogenes SSI-1,strain
+1105094,782,Rickettsia prowazekii str. Chernikova,strain
+83332,1773,Mycobacterium tuberculosis H37Rv,strain
+216466,1311,Streptococcus agalactiae serogroup V,serogroup
+632,1649845,Yersinia pestis,species
+1502,1485,Clostridium perfringens,species
+518,517,Bordetella bronchiseptica,species
+59201,28901,Salmonella enterica subsp. enterica,subspecies
+562,561,Escherichia coli,species
+520,517,Bordetella pertussis,species
+90371,59201,Salmonella enterica subsp. enterica serovar Typhimurium,no rank
+65699,487,Neisseria meningitidis serogroup A,serogroup
+135720,487,Neisseria meningitidis serogroup C,serogroup
+122277,1903410,Pectobacterium,genus
+120793,1763,Mycobacterium avium complex (MAC),species group
+782,114292,Rickettsia prowazekii,species
+629,1903411,Yersinia,genus
+1773,77643,Mycobacterium tuberculosis,species
+485,482,Neisseria gonorrhoeae,species
+644337,29459,Brucella melitensis bv. 1,no rank
+491,487,Neisseria meningitidis serogroup B,serogroup
+1280,1279,Staphylococcus aureus,species
+216495,1311,Streptococcus agalactiae serogroup III,serogroup
+42897,623,Shigella flexneri 2a,serotype
+83333,562,Escherichia coli K-12,strain
+1301,1300,Streptococcus,genus
+301447,1314,Streptococcus pyogenes serotype M1,serotype
+111527,32008,pseudomallei group,species group
+2039,2038,Tropheryma whipplei,species
+54736,590,Salmonella bongori,species
+303,136845,Pseudomonas putida,species
+287,136841,Pseudomonas aeruginosa,species
+340,339,Xanthomonas campestris pv. campestris,no rank
+29461,234,Brucella suis,species
+519,517,Bordetella parapertussis,species
+53413,338,Xanthomonas axonopodis,species
+445,444,Legionella,genus
+2371,2370,Xylella fastidiosa,species
+781,114277,Rickettsia conorii,species
+672,662,Vibrio vulnificus,species
+83334,562,Escherichia coli O157:H7,serotype
+301448,1314,Streptococcus pyogenes serotype M3,serotype
+323,251701,Pseudomonas syringae pv. tomato,no rank
+385964,632,Yersinia pestis subsp. pestis,subspecies
+1396,86661,Bacillus cereus,species
+1279,90964,Staphylococcus,genus
+301451,1314,Streptococcus pyogenes serotype M18,serotype
+1313,1301,Streptococcus pneumoniae,species
+1392,86661,Bacillus anthracis,species
+210,209,Helicobacter pylori,species
+234,2826938,Brucella,genus
+2038,2805591,Tropheryma,genus
+487,482,Neisseria meningitidis,species
+482,481,Neisseria,genus
+1763,1762,Mycobacterium,genus
+136845,286,Pseudomonas putida group,species group
+90964,1385,Staphylococcaceae,family
+28901,590,Salmonella enterica,species
+32008,119060,Burkholderia,genus
+338,32033,Xanthomonas,genus
+444,118969,Legionellaceae,family
+662,641,Vibrio,genus
+1485,31979,Clostridium,genus
+1300,186826,Streptococcaceae,family
+2370,32033,Xylella,genus
+339,338,Xanthomonas campestris,species
+209,72293,Helicobacter,genus
+114292,780,typhus group,species group
+1903410,91347,Pectobacteriaceae,family
+86661,1386,Bacillus cereus group,species group
+517,506,Bordetella,genus
+590,543,Salmonella,genus
+77643,1763,Mycobacterium tuberculosis complex,species group
+29459,234,Brucella melitensis,species
+561,543,Escherichia,genus
+623,620,Shigella flexneri,species
+1314,1301,Streptococcus pyogenes,species
+1903411,91347,Yersiniaceae,family
+1311,1301,Streptococcus agalactiae,species
+136841,286,Pseudomonas aeruginosa group,species group
+1649845,629,Yersinia pseudotuberculosis complex,species group
+114277,780,spotted fever group,species group
+251701,136849,Pseudomonas syringae group genomosp. 3,species
+780,33988,Rickettsia,genus
+506,80840,Alcaligenaceae,family
+1385,91061,Bacillales,order
+186826,91061,Lactobacillales,order
+136849,286,Pseudomonas syringae group,species group
+2826938,118882,Brucella/Ochrobactrum group,no rank
+543,91347,Enterobacteriaceae,family
+72293,213849,Helicobacteraceae,family
+32033,135614,Xanthomonadaceae,family
+91347,1236,Enterobacterales,order
+2805591,85006,Tropherymataceae,family
+286,135621,Pseudomonas,genus
+1386,186817,Bacillus,genus
+31979,186802,Clostridiaceae,family
+1762,85007,Mycobacteriaceae,family
+620,543,Shigella,genus
+481,206351,Neisseriaceae,family
+119060,80840,Burkholderiaceae,family
+118969,1236,Legionellales,order
+641,135623,Vibrionaceae,family
+118882,356,Brucellaceae,family
+213849,29547,Campylobacterales,order
+85006,1760,Micrococcales,order
+186817,1385,Bacillaceae,family
+85007,1760,Corynebacteriales,order
+80840,28216,Burkholderiales,order
+91061,1239,Bacilli,class
+186802,186801,Eubacteriales,order
+206351,28216,Neisseriales,order
+135621,72274,Pseudomonadaceae,family
+135623,1236,Vibrionales,order
+135614,1236,Xanthomonadales,order
+33988,775,Rickettsieae,tribe
+1236,1224,Gammaproteobacteria,class
+1760,201174,Actinomycetia,class
+1239,1783272,Firmicutes,phylum
+72274,1236,Pseudomonadales,order
+29547,68525,Epsilonproteobacteria,class
+356,28211,Hyphomicrobiales,order
+775,766,Rickettsiaceae,family
+186801,1239,Clostridia,class
+1224,2,Proteobacteria,phylum
+28216,1224,Betaproteobacteria,class
+1783272,2,Terrabacteria group,clade
+766,28211,Rickettsiales,order
+68525,1224,delta/epsilon subdivisions,subphylum
+2,131567,Bacteria,superkingdom
+201174,1783272,Actinobacteria,phylum
+28211,1224,Alphaproteobacteria,class
+131567,1,cellular organisms,no rank
+1,0,root,no rank
