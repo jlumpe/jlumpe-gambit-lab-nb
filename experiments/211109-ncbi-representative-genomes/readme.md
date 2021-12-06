@@ -63,7 +63,21 @@ Figure out if any of the following attributes are relevant and should be filtere
 
 ### 211115-download-genomes
 
-Downloads genome sequences from NCBI FTP server. Checks their MD5 hashes.
+Downloads genome sequences from NCBI FTP server to temporary directory. Checks their MD5 hashes.
+Manually uploaded all `.fasta.gz` files to GCS bucket.
+
+
+#### Results
+
+The following had blank values for the `ftppath_refseq` attribute of their ESummary data:
+
+* 10898551 GCA_003114835.2
+* 11011431 GCF_017493175.2
+* 11411721 GCA_003382565.3
+* 11411751 GCA_016765655.2
+* 11411881 GCA_016806835.2
+
+Just skipped these, will exclude from further analysis.
 
 
 ## Output
@@ -75,4 +89,7 @@ Downloads genome sequences from NCBI FTP server. Checks their MD5 hashes.
 * `data/intermediate/211109-ncbi-representative-genomes/`
   * `211111-find-genomes/`
     * `assembly-summaries.tar.gz` - tarball of all assembly summaries in JSON format.
+
+* `gs://helical-song-136517/data/genomes/211109-ncbi-representative-genomes/`
+  * `fasta/` - gzipped sequence files.
 
