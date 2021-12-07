@@ -80,6 +80,11 @@ The following had blank values for the `ftppath_refseq` attribute of their ESumm
 Just skipped these, will exclude from further analysis.
 
 
+### 211206-pw-dists
+
+Get signatures for all genomes using ATGAC/11 spec and then calculate pairwise distances.
+
+
 ## Output
 
 * `data/processed/211109-ncbi-representative-genomes/`
@@ -89,7 +94,11 @@ Just skipped these, will exclude from further analysis.
 * `data/intermediate/211109-ncbi-representative-genomes/`
   * `211111-find-genomes/`
     * `assembly-summaries.tar.gz` - tarball of all assembly summaries in JSON format.
+  * `211206-pw-dists/`
+    * `pw-dists.h5` - Full pairwise distance matrix in HDF5 format.
 
 * `gs://helical-song-136517/data/genomes/211109-ncbi-representative-genomes/`
   * `fasta/` - gzipped sequence files.
+  * `211109-ncbi-representative-genomes-ATGAC_11-211206.h5` - GAMBIT signatures calculated with
+    ATGAC/11 spec.
 
