@@ -1,5 +1,9 @@
 # Temporary data directories of all experiments
 /*/tmp/
 
+# This is used to output files that will be manually added to data archives
+# (e.g. GCS) later, not to be added to VC
+/*/archive/
+
 # Bio.Entrez creates these in the working directory for some reason
 /*/*.dtd
