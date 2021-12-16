@@ -85,6 +85,16 @@ Just skipped these, will exclude from further analysis.
 Get signatures for all genomes using ATGAC/11 spec and then calculate pairwise distances.
 
 
+### 211207-get-taxonomy
+
+Extracts and formats taxonomy tree from NCBI taxonomy database dump.
+
+Filters genome set by those that have `taxonomy_check_status == "OK"` and for which a genome
+sequence could be found (see the `use` column in output). Starts with NCBI-assigned taxa of this
+subset and includes all their ancestors. Removes taxa with ranks not in the standard KPCOFGS system.
+Outputs taxonomy tree as table.
+
+
 ## Output
 
 * `data/processed/211109-ncbi-representative-genomes/`
@@ -96,6 +106,14 @@ Get signatures for all genomes using ATGAC/11 spec and then calculate pairwise d
     * `assembly-summaries.tar.gz` - tarball of all assembly summaries in JSON format.
   * `211206-pw-dists/`
     * `pw-dists.h5` - Full pairwise distance matrix in HDF5 format.
+  * `211207-get-taxonomy/`
+    * `taxa.csv` - Table of taxa in filtered taxonomy tree.
+    * `genome-taxonomy.csv` - Taxonomy assignments for genomes. Matches rows of `genomes.csv` output
+      by first experiment.
+	  * `primary_taxid` - Same as `taxid` column of base table but with taxid merges resolved.
+	  * `species_taxid` - Taxid of species ancestor.
+	  * `use` - True if this genome was used in generation of taxonomy tree and should be included
+	    in future experiments.
 
 * `gs://helical-song-136517/data/genomes/211109-ncbi-representative-genomes/`
   * `fasta/` - gzipped sequence files.
