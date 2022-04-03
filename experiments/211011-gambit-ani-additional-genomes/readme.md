@@ -92,7 +92,7 @@ parameters, in all but `snitkin_2012`. Correlation seems to break down in `snitk
 similarity is very high. Will investigate more in the future.
 
 Assembly quality in `200726_gold_standard` is much poorer than the other three data sets (in all
-statistics), as expected because they come directory from a public health setting. That probably
+statistics), as expected because they come directly from a public health setting. That probably
 makes makes it a good set to include in analysis and paper. The exception is two genomes
 `18AC0018936-1_S12` and `19AC0002349B1_S10` which have very low total size (definitely much less
 than what the genome should be). These should probably be excluded from further analysis.
