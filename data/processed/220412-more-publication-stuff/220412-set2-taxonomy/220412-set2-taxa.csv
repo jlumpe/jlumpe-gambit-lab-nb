@@ -1,0 +1,107 @@
+taxid,name,rank
+2,Bacteria,superkingdom
+209,Helicobacter,genus
+210,Helicobacter pylori,species
+234,Brucella,genus
+286,Pseudomonas,genus
+287,Pseudomonas aeruginosa,species
+303,Pseudomonas putida,species
+338,Xanthomonas,genus
+339,Xanthomonas campestris,species
+356,Hyphomicrobiales,order
+444,Legionellaceae,family
+445,Legionella,genus
+446,Legionella pneumophila,species
+481,Neisseriaceae,family
+482,Neisseria,genus
+485,Neisseria gonorrhoeae,species
+487,Neisseria meningitidis,species
+506,Alcaligenaceae,family
+517,Bordetella,genus
+518,Bordetella bronchiseptica,species
+519,Bordetella parapertussis,species
+520,Bordetella pertussis,species
+543,Enterobacteriaceae,family
+554,Pectobacterium carotovorum,species
+561,Escherichia,genus
+562,Escherichia coli,species
+590,Salmonella,genus
+620,Shigella,genus
+623,Shigella flexneri,species
+629,Yersinia,genus
+630,Yersinia enterocolitica,species
+632,Yersinia pestis,species
+641,Vibrionaceae,family
+662,Vibrio,genus
+672,Vibrio vulnificus,species
+766,Rickettsiales,order
+775,Rickettsiaceae,family
+780,Rickettsia,genus
+781,Rickettsia conorii,species
+782,Rickettsia prowazekii,species
+1224,Proteobacteria,phylum
+1236,Gammaproteobacteria,class
+1239,Firmicutes,phylum
+1279,Staphylococcus,genus
+1280,Staphylococcus aureus,species
+1282,Staphylococcus epidermidis,species
+1300,Streptococcaceae,family
+1301,Streptococcus,genus
+1309,Streptococcus mutans,species
+1311,Streptococcus agalactiae,species
+1313,Streptococcus pneumoniae,species
+1314,Streptococcus pyogenes,species
+1385,Bacillales,order
+1386,Bacillus,genus
+1392,Bacillus anthracis,species
+1396,Bacillus cereus,species
+1485,Clostridium,genus
+1502,Clostridium perfringens,species
+1760,Actinomycetia,class
+1762,Mycobacteriaceae,family
+1763,Mycobacterium,genus
+1764,Mycobacterium avium,species
+1773,Mycobacterium tuberculosis,species
+2038,Tropheryma,genus
+2039,Tropheryma whipplei,species
+2370,Xylella,genus
+2371,Xylella fastidiosa,species
+13373,Burkholderia mallei,species
+28211,Alphaproteobacteria,class
+28216,Betaproteobacteria,class
+28450,Burkholderia pseudomallei,species
+28901,Salmonella enterica,species
+29459,Brucella melitensis,species
+29461,Brucella suis,species
+29547,Epsilonproteobacteria,class
+31979,Clostridiaceae,family
+32008,Burkholderia,genus
+32033,Xanthomonadaceae,family
+53413,Xanthomonas axonopodis,species
+54736,Salmonella bongori,species
+72274,Pseudomonadales,order
+72293,Helicobacteraceae,family
+80840,Burkholderiales,order
+85006,Micrococcales,order
+85007,Corynebacteriales,order
+90964,Staphylococcaceae,family
+91061,Bacilli,class
+91347,Enterobacterales,order
+118882,Brucellaceae,family
+118969,Legionellales,order
+119060,Burkholderiaceae,family
+122277,Pectobacterium,genus
+135614,Xanthomonadales,order
+135621,Pseudomonadaceae,family
+135623,Vibrionales,order
+186801,Clostridia,class
+186802,Eubacteriales,order
+186817,Bacillaceae,family
+186826,Lactobacillales,order
+201174,Actinobacteria,phylum
+206351,Neisseriales,order
+213849,Campylobacterales,order
+251701,Pseudomonas syringae group genomosp. 3,species
+1903410,Pectobacteriaceae,family
+1903411,Yersiniaceae,family
+2805591,Tropherymataceae,family
