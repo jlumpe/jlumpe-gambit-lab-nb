@@ -46,6 +46,13 @@ Very similar to `17AC0012455-1A_S1_L001_R1_001`.
 Gets NCBI taxonomy tree for genomes in set 2. Find KPCOFGS lineage for each.
 
 
+### 220419-set3-files-list
+
+We're apparently still working on finalizing the list of genomes for set 3, which should include at
+least some of the additional set of 18 I had not been including up until this point. This notebook
+just tries to get a full accounting of the original unmodified files, including checksums, so I know
+exactly what I'm starting with.
+
 
 ## Comments
 
@@ -64,7 +71,10 @@ Best parameter values for each file:
 
 ## Output
 
-* `data/processed/220412/`
+* `data/processed/220412-more-publication-stuff/`
   * `220412-set2-taxonomy/`
     * `220412-set2-lineages.csv` - KPCOFGS names for all genomes.
 	* `220412-set-taxa.csv` - Table of taxa in other table.
+  * `220419-set3-files-list/`
+    * `220419-200726-gold-standard-files.csv` - Original FASTA and FASTQ file names and MD5 sums for
+      all 98 genomes originally part of this set.
