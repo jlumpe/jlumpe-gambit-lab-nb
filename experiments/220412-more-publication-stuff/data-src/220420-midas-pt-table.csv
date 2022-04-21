@@ -1,0 +1,89 @@
+Date of WGS run,Class of PT,"""Short Hand"" Name",jared_id,jared_id needs edit,fastq Name,GAMBIT distance,GAMBIT Species Threshold,16S used to compliment reported results,MIDAS predicted genus,MIDAS predicted species,Reported results,CAP matched intented results
+10/12/16,BACT1_2016,16AC1611137-CAP,16AC1611137-CAP,,16AC1611137-CAP_S12_L001_R1_001.fastq,0.324,0.540,no,Enterococcus,gallinarum,Enterococcus gallinarum,Enterococcus gallinarum
+10/12/16,BACT1_2016,16AC1611138-CAP,16AC1611138-CAP,,16AC1611138-CAP_S13_L001_R1_001.fastq,0.160,0.347,no,Escherichia,coli,Escherichia coli,Escherichia coli
+10/12/16,BACT1_2016,16AC1611139-CAP,16AC1611139-CAP,,16AC1611139-CAP_S14_L001_R1_001,0.180,0.777,no,Serratia,marcescens,Serratia marcescens,Serratia marcescens
+10/12/16,BACT1_2016,16AC1611140A-CAP,16AC1611140-CAP,?,16AC1611140-CAP_S15_L001_R1_001.fastq,0.152,0.167,no,Staphylococcus,lugdunensis,Staphylococcus lugdunensis,Staphylococcus
+10/12/16,BACT1_2016,16AC1611141-CAP,16AC1611141-CAP,,16AC1611141-CAP_S16_L001_R1_001.fastq,0.229,0.294,no,Providencia,stuartii,Providencia stuartii,Providencia stuartii
+10/20/16,BACT1_2016,16AC1611140B-CAP,16AC1611140BCAP,?,16AC1611140BCAP_S11_L001_R1_001.fastq,0.337,0.554,no,Propionibacterium (Cutibacterium),acnes,Propionibacterium (Cutibacterium) acnes,Propionibacterium
+2/25/17,BACT1_2017,17AC0001408.fasta,17AC0001408,,17AC0001408_S7_L001_R1_001.fastq,0.138,0.381,no,Streptococcus,mutans,Streptococcus mutans,Streptococcus mutans group
+2/25/17,BACT1_2017,17AC0001409.fasta,17AC0001409,,17AC0001409_S8_L001_R1_001.fastq,0.456,0.651,no,Streptococcus,dysgalactiae,Streptococcus dysgalactiae,Streptococcus dysgalactiae
+2/25/17,BACT1_2017,17AC0001410.fasta,17AC0001410,,17AC0001410_S9_L001_R1_001.fastq,0.161,0.347,no,Escherichia,coli,Negative for E coli O157/Aeromonas/Campylobacter/Shigella/Salmonella/Vibrio/Yersinia,Mixed Sample 1: Exclude E coli O157/Aeromonas/Campylobacter/Shigella/Salmonella/Vibrio/Yersinia
+3/4/17,BACT1_2017,17AC0001410A.fasta,17AC0001410A,,17AC0001410A_S12_L001_R1_001.fastq,0.131,0.470,no,Enterococcus,faecalis,Negative for E coli O157/Aeromonas/Campylobacter/Shigella/Salmonella/Vibrio/Yersinia,Mixed Sample 1: Exclude E coli O157/Aeromonas/Campylobacter/Shigella/Salmonella/Vibrio/Yersinia
+3/7/17,BACT1_2017,17AC0001411B.fasta,17AC0001411B,,17AC0001411B_S10_L001_R1_001.fastq,0.015,0.713,no,Staphylococcus,aureus,Staphylococcus aureus,Staphylococcus aureus
+3/7/17,BACT1_2017,17AC0001412BR.fasta,17AC0001412BR,,17AC0001412BR_S12_L001_R1_001.fastq,0.269,0.580,no,Streptococcus,pneumoniae,Streptococcus pneumoniae,Streptococcus pneumoniae
+4/28/17,LPX1 2017,17AC0003893.fasta,17AC0003893,,17AC0003893_S1_L001_R1_001.fastq,0.120,0.713,no,Haemophilus,influenzae,Haemophilus influenzae,Haemophilus influenzae
+4/28/17,LPX1 2017,17AC0003894N.fasta,17AC0003894N,,17AC0003894N_S2_L001_R1_001.fastq,0.004,0.460,no,Francisella,tularensis,Francisella tularensis,Francisella tularensis
+5/2/17,LPX1 2017,17AC0003892A.fasta,17AC0003892A,,17AC0003892A_S1_L001_R1_001.fastq,0.017,0.380,no,Burkholderia,thailandensis,Burkholderia thailandensis,Burkholderia thailandensis
+6/29/17,BACT2_2017,17AC0006310.fasta,17AC0006310,,17AC0006310_S6_L001_R1_001,0.102,0.600,no,Bacillus,cereus,Bacillus cereus,Bacillus cereus
+6/29/17,BACT2_2017,17AC0006311.fasta,17AC0006311,,17AC0006311_S7_L001_R1_001,0.029,0.522,no,Streptococcus,pyogenes,Streptococcus pyogenes,Streptococcus pyogenes
+6/29/17,BACT2_2017,17AC0006312.fasta,17AC0006312,,17AC0006312_S8_L001_R1_001.fastq,0.046,0.663,no,Staphylococcus,epidermidis,Staphylococcus epidermidis,Staphylococcus epidermidis
+6/29/17,BACT2_2017,17AC0006313A.fasta,17AC0006313A,,17AC0006313A_S9_L001_R1_001.fastq,0.094,0.525,no,Staphylococcus,hominis,Staphylococcus hominis,Mixed Sample 2: Staphylococcus hominis and Veilonella sp mixed sample
+6/29/17,BACT2_2017,17AC0006313-1_S23.fasta,17AC0006313-1,,17AC0006313-1_S23_L001_R1_001.fastq,0.913,0.944,yes,Veillonella,none,"Veilonella genus with GAMBIT, V. parvula with 16S",Mixed Sample 2: Staphylococcus hominis and Veilonella sp mixed sample
+6/29/17,BACT2_2017,17AC0006314MAC.fasta,17AC0006314,?,17AC0006314_S11_L001_R1_001.fastq,0.141,0.558,no,Pseudomonas,aeruginosa,Pseudomonas aeruginosa,Pseudomonas sp/Pseudomonas aerogenes
+7/11/17,BACT2_2017,17AC0006312-1_S21.fasta,17AC0006312-1,,17AC0006312-1_S21_L001_R1_001.fastq,0.075,0.663,no,Staphylococcus,epidermidis,Staphylococcus epidermidis,Staphylococcus epidermidis
+10/26/17,BACT3_2017,17AC0012453_S1.fasta,17AC0012453,,17AC0012453_S1_L001_R1_001.fastq,0.886,0.928,no,Corynebacterium,none,Corynebacterium sp,Corynebacterium sp /Corynebacterium striatum
+10/26/17,BACT3_2017,17AC0012454_S2.fasta,17AC0012454,,17AC0012454_S2_L001_R1_001.fastq,0.019,0.937,no,Aerococcus,none,Aerococcus sp,Aerococcus sp/ Aerococcus viridans
+10/26/17,BACT3_2017,17AC0012455-1AN_S5.fasta,17AC0012455-1AN,,17AC0012455-1AN_S5_L001_R1_001.fastq,0.557,0.566,no,Streptococcus,constellatus,Streptococcus constellatus,Streptococcus anginosus group
+10/26/17,BACT3_2017,17AC0012456-2_S8.fasta,17AC0012456-2,,17AC0012456-2_S8_L001_R1_001.fastq,0.008,0.019,no,Elizabethkingia,meningoseptica,Elizabethkingia meningoseptica,Elizabethkingia sp /Elizabethkingia meningoseptica
+10/26/17,BACT3_2017,17AC0012457-1_S9.fasta,17AC0012457-1,,17AC0012457-1_S9_L001_R1_001.fastq,0.021,0.713,no,Staphylococcus,aureus,Staphylococcus aureus,Staphylococcus aureus
+10/26/17,BACT3_2017,17AC0012457-2_S10.fasta,17AC0012457-2,,17AC0012457-2_S10_L001_R1_001.fastq,0.043,0.663,no,Staphylococcus,epidermidis,Staphylococcus epidermidis,Staphylococcus epidermidis
+11/3/17,BACT3_2017,17AC0012455-1A,17AC0012455-1A,,17AC0012455-1A_S1_L001_R1_001.fastq,0.557,0.566,no,Streptococcus,constellatus,Streptococcus constellatus,Streptococcus anginosus group
+2/23/18,BACT1_2018,18AC0002824,18AC0002824,,18AC0002824_S8_L001_R1_001.fastq,0.485,0.662,no,Eikenella,corrodens,Eikenella corrodens,Eikenella corrodens
+2/23/18,BACT1_2018,18AC0002825-1,18AC0002825-1,,18AC0002825-1_S9_L001_R1_001.fastq,0.477,0.589,no,Aeromonas,hydrophila,Aeromonas hydrophila,Aeromonas hydrophila / Staphylococcus epidermidis
+2/23/18,BACT1_2018,18AC0002825-2,18AC0002825-2,,18AC0002825-2_S10_L001_R1_001.fastq,0.145,0.663,no,Staphylococcus,epidermidis,Staphylococcus epidermidis,Aeromonas hydrophila / Staphylococcus epidermidis
+2/23/18,BACT1_2018,18AC0002826,18AC0002826,,18AC0002826_S11_L001_R1_001.fastq,0.016,0.469,no,Streptococcus,agalactiae,Streptococcus agalactiae group B /Finegoldia magna,Streptococcus agalactiae group B /Finegoldia magna
+2/23/18,BACT1_2018,18AC0002827,18AC0002827,,18AC0002827_S7_L001_R1_001.fastq,0.031,0.527,no,Vibrio,parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus
+2/23/18,BACT1_2018,18AC0002828,18AC0002828,,18AC0002828_S12_L001_R1_001.fastq,0.100,0.754,no,Listeria,monocytogenes,Listeria monocytogenes,Listeria monocytogenes
+4/19/18,LPX1_2018,18AC0007008CHO_S3s.fasta,18AC0007008CHO,?,18AC0007008CHO_S3_L001_R1_001.fastq,0.160,0.347,no,Escherichia,coli,Escherichia coli,Escherichia coli
+4/19/18,LPX1_2018,18AC0007009CHO_S5s.fasta,18AC0007009CHO,?,18AC0007009CHO_S5_L001_R1_001.fastq,0.012,0.144,no,Yersinia,pestis,Yersinia pestis,Yersinia pestis
+4/19/18,LPX1_2018,18AC0007010CHO_S7s.fasta,18AC0007010CHO,?,18AC0007010CHO_S7_L001_R1_001.fastq,0.005,0.113,no,Bacillus,anthracis,Bacillus anthracis,Bacillus anthracis
+6/28/18,BACT2_2018,18AC0012150R,18AC0012150R,,18AC0012150R_S3_L001_R1_001.fastq,0.003,0.909,no,Alcaligenes,faecalis,Alcaligenes faecalis,Alcaligenes faecalis
+6/28/18,BACT2_2018,18AC0012151B1,18AC0012151B1,,18AC0012151B1_S7_L001_R1_001.fastq,0.473,0.619,no,Acinetobacter,lwoffii,Acinetobacter lwoffii,Acinetobacter lwoffii
+6/28/18,BACT2_2018,18AC0012151C2,18AC0012151C2,,18AC0012151C2_S8_L001_R1_001.fastq,0.045,0.663,no,Staphylococcus,epidermidis,Staphylococcus epidermidis,Staphylococcus epidermidis
+6/28/18,BACT2_2018,18AC0012152,18AC0012152,,18AC0012152_S9_L001_R1_001.fastq,0.117,0.713,no,Haemophilus,influenzae,Haemophilus influenzae,Haemophilus sp /Haemophilus influenzae
+6/28/18,BACT2_2018,18AC0012153B1,18AC0012153B1,,18AC0012153B1_S11_L001_R1_001.fastq,0.282,0.772,no,Enterococcus,faecium,Enterococcus faecium,Enterococcus faecium/Enterococcus faecium
+6/28/18,BACT2_2018,18AC0012153M,18AC0012153M,,18AC0012153M_S10_L001_R1_001.fastq,0.161,0.347,no,Escherichia,coli,Escherichia coli,Escherichia coli/Enterococcus faecium
+6/28/18,BACT2_2018,18AC0012154M,18AC0012154M,,18AC0012154M_S13_L001_R1_001.fastq,0.280,0.401,no,Citrobacter,braakii,Citrobacter braakii,Citrobacter braakii/ Citrobacter sp
+9/27/18,LPX2_2018,18AC0017656,18AC0017656,,18AC0017656_S1_L001_R1_001.fastq,0.002,0.460,no,Francisella,tularensis,Francisella tularensis,Francisella tularensis
+9/27/18,LPX2_2018,18AC0017657,18AC0017657,,18AC0017657_S2_L001_R1_001.fastq,0.115,0.713,no,Haemophilus,influenzae,Haemophilus influenzae,Haemophilus influenzae
+9/27/18,LPX2_2018,18AC0017658,18AC0017658,,18AC0017658_S3_L001_R1_001.fastq,0.098,0.654,no,Yersinia,enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica
+10/18/18,BACT3_2018,18AC0018934,18AC0018934,,18AC0018934_S10_L001_R1_001.fastq,0.009,0.557,no,Salmonella,enterica,Salmonella enterica,Salmonella sp wld ref
+10/18/18,BACT3_2018,18AC0018935,18AC0018935,,18AC0018935_S11_L001_R1_001.fastq,0.105,0.846,no,Klebsiella,oxytoca,Klebsiella oxytoca,Klebsiella sp / Klebsiella oxytoca
+10/18/18,BACT3_2018,18AC0018936-2,18AC0018936-2,,18AC0018936-2_S13_L001_R1_001.fastq,0.065,0.663,no,Staphylococcus,epidermidis,Staphylococcus epidermidis,Staphylococcus epidermidis / Bacteroides fragilis
+10/18/18,BACT3_2018,18AC0018936-ANO2,18AC0018936-ANO2,,18AC0018936-ANO2_S16_L001_R1_001.fastq,0.228,0.915,no,Bacteroides,fragilis,Bacteroides fragilis,Staphylococcus epidermidis / Bacteroides fragilis
+10/18/18,BACT3_2018,18AC0018938-1,18AC0018938-1,,18AC0018938-1_S14_L001_R1_001.fastq,0.107,0.400,no,Escherichia,coli,Escherichia coli,Escherichia sp / Escherichia coli
+10/25/18,BACT3_2018,18AC0018937-BA,18AC0018937-BA,,18AC0018937-BA_S10_L001_R1_001.fastq,0.462,0.729,no,Streptococcus,salivarius,Streptococcus salivarius,Streptococcus salivarius
+10/25/18,BACT3_2018,18AC0018937-BAP,18AC0018937-BAP,,18AC0018937-BAP_S11_L001_R1_001.fastq,0.942,,yes,none,none,Proteus vulgaris,Proteus sp / Proteus vulgaris
+11/1/18,BACT3_2018,18AC0018937,18AC0018937,,18AC0018937_S7_L001_R1_001.fastq,0.461,0.729,no,Streptococcus,salivarius,Streptococcus salivarius,Streptococcus salivarius
+2/14/19,BACT1_2019,19AC0002347,19AC0002347,,19AC0002347_S3_L001_R1_001.fastq,0.730,0.911,no,Stenotrophomonas,maltophilia,Stenotrophomonas maltophilia,Stenotrophomonas sp /Stenotrophomonas maltophilia
+2/14/19,BACT1_2019,19AC0002348,19AC0002348,,19AC0002348_S4_L001_R1_001.fastq,0.075,0.210,no,Neisseria,gonorrhoeae,Neisseria gonorrhoeae,Neisseria sp / Neisseria gonorrhoeae
+2/14/19,BACT1_2019,19AC0002349,19AC0002349,,19AC0002349_S5_L001_R1_001.fastq,0.043,0.678,no,Klebsiella,aerogenes,Klebsiella aerogenes,Klebsiella sp / Klebsiella aerogenes / Clostridium sp / Clostridium septicum
+2/14/19,BACT1_2019,19AC0002350-CAMP,19AC0002350,?,19AC0002350_S7_L001_R1_001.fastq,0.077,0.258,no,Shigella,sonnei,Shigella sonnei,Shigella sonnei
+2/14/19,BACT1_2019,19AC0002351,19AC0002351,,19AC0002351_S8_L001_R1_001.fastq,0.078,0.663,no,Staphylococcus,epidermidis,Staphylococcus epidermidis,Staphylococcus epidermidis
+2/21/19,BACT1_2019,19AC0002349B2,19AC0002349B2,,19AC0002349B2_S11_L001_R1_001.fastq,0.043,0.678,no,Klebsiella,aerogenes,Klebsiella aerogenes,Klebsiella sp / Klebsiella aerogenes / Clostridium sp / Clostridium septicum
+4/18/19,LPX1_2019,19AC0006459,19AC0006459,,19AC0006459_S1_L001_R1_001.fastq,0.010,0.380,no,Burkholderia,thailandensis,Burkholderia thailandensis,Burkholderia thailandensis
+4/18/19,LPX1_2019,19AC0006460,19AC0006460,,19AC0006460_S2_L001_R1_001.fastq,0.004,0.113,no,Bacillus,anthracis,Bacillus anthracis,Bacillus anthracis
+4/18/19,LPX1_2019,19AC0006461,19AC0006461,,19AC0006461_S3_L001_R1_001.fastq,0.118,0.713,no,Haemophilus,influenzae,Haemophilus influenzae,Haemophilus influenzae
+6/20/19,BACT2_2019,19AC0011211-1,19AC0011211-1,,19AC0011211-1_S6_L001_R1_001.fastq,0.285,0.832,no,Morganella,morganii,Morganella morganii,Mixed Sample 3: Morganella sp /Morganella morganii and Enterococcus sp / Enterococcus faecalis
+6/20/19,BACT2_2019,19AC0011211-2,19AC0011211-2,,19AC0011211-2_S7_L001_R1_001.fastq,0.133,0.470,no,Enterococcus,faecalis,Enterococcus faecalis,Mixed Sample 3: Morganella sp /Morganella morganii and Enterococcus sp / Enterococcus faecalis
+6/20/19,BACT2_2019,19AC0011212,19AC0011212,,19AC0011212_S8_L001_R1_001.fastq,0.274,0.713,no,Haemophilus,influenzae,Haemophilus influenzae,Mixed Sample 4: Haemophilus sp/ Haemophilus influenzae and Fusobacterium sp / Fusobacterium necrophorum
+6/20/19,BACT2_2019,19AC0011212ANO,19AC0011212ANO,,19AC0011212ANO_S9_L001_R1_001.fastq,0.113,0.599,no,Fusobacterium,necrophorum,Fusobacterium necrophorum,Mixed Sample 4: Haemophilus sp/ Haemophilus influenzae and Fusobacterium sp / Fusobacterium necrophorum
+6/20/19,BACT2_2019,19AC0011213,19AC0011213,,19AC0011213_S10_L001_R1_001.fastq,0.167,0.347,no,Escherichia,coli,Escherichia coli,Escherichia sp / Escherichia coli
+6/27/19,BACT2_2019,19AC0011209-1,19AC0011209-1,,19AC0011209-1_S9_L001_R1_001.fastq,0.685,0.724,no,Burkholderia,cenocepacia,Burkholderia cenocepacia,Burkholderia sp / Burkholderia cenocepacia
+6/27/19,BACT2_2019,19AC0011209PEA,19AC0011209PEA,,19AC0011209PEA_S8_L001_R1_001.fastq,0.586,0.729,no,Streptococcus,salivarius,Streptococcus salivarius,Streptococcus salivarius
+7/9/19,BACT2_2019,19AC0011210-W1,19AC0011210,?,19AC0011210_S5_L001_R1_001.fastq,0.992,,yes,none,none,Granulicatella adiacens,Granulicatella sp / Granulicatella adiacens
+9/19/19,LPX2_2019,19AC0015929,19AC0015929,,19AC0015929_S6_L001_R1_001.fastq,0.100,0.654,no,Yersinia,enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica
+9/19/19,LPX2_2019,19AC0015930,19AC0015930,,19AC0015930_S7_L001_R1_001.fastq,0.022,0.144,no,Yersinia,pestis,Yersinia pestis,Yersinia pestis
+9/19/19,LPX2_2019,19AC0015931,19AC0015931,,19AC0015931_S8_L001_R1_001.fastq,0.317,0.450,no,Vibrio,alginolyticus,Vibrio alginolyticus,Vibrio alginolyticus
+10/17/19,BACT3_2019,19AC0016708,19AC0016708,,19AC0016708_S8_L001_R1_001.fastq,0.325,0.921,yes,Pseudomonas,none,Pseudomonas putida group (species reported with 16S sequencing),Pseudomonas sp/Pseudomonas putida /Pseudomonas putida
+10/17/19,BACT3_2019,19AC0016709,19AC0016709,,19AC0016709_S9_L001_R1_001.fastq,0.214,0.590,no,Proteus,mirabilis,Proteus mirabilis,Proteus sp / Proteus mirabilis
+10/17/19,BACT3_2019,19AC0016710,19AC0016710,,19AC0016710_S10_L001_R1_001.fastq,0.039,0.522,no,Streptococcus,pyogenes,Streptococcus pyogenes ,Streptococcus pyogenes 
+10/17/19,BACT3_2019,19AC0016711,19AC0016711,,19AC0016711_S11_L001_R1_001.fastq,0.109,0.302,no,Staphylococcus,saprophyticus,Staphylococcus saprophyticus,Staphylococcus saprophyticus
+10/17/19,BACT3_2019,19AC0016712,19AC0016712,,19AC0016712_S12_L001_R1_001.fastq,0.034,0.713,no,Staphylococcus,aureus,Staphylococcus aureus,Staphylococcus aureus
+2/13/20,BACT1_2020,20AC0000919-C1,20AC0000919-C1,,20AC0000919-C1_S1_L001_R1_001.fastq,0.011,0.469,no,Klebsiella,pneumoniae,Klebsiella pneumoniae,Klebsiella sp /Klebsiella pneumoniae
+2/13/20,BACT1_2020,20AC0000920-B1,20AC0000920-B1,,20AC0000920-B1_S3_L001_R1_001.fastq,0.115,0.558,no,Pseudomonas,aeruginosa,Pseudomonas aeruginosa,Pseudomonas sp / Pseudomonas aeruginosa
+2/13/20,BACT1_2020,20AC0000920-B2,20AC0000920-B2,,20AC0000920-B2_S4_L001_R1_001.fastq,0.084,0.663,no,Staphylococcus,epidermidis,Staphylococcus epidermidis,Staphylococcus epidermidis
+2/13/20,BACT1_2020,20AC0000921-B,20AC0000921-B,,20AC0000921-B_S5_L001_R1_001.fastq,0.032,0.713,no,Staphylococcus,aureus,Staphylococcus aureus,Staphylococcus aureus
+2/13/20,BACT1_2020,20AC0000922-BO2,20AC0000922-BO2,,20AC0000922-BO2_S6_L001_R1_001.fastq,0.097,0.756,no,Streptococcus,anginosus,Streptococcus anginosus,Streptococcus anginosus / Bacteroides thetaiotaomicron
+2/13/20,BACT1_2020,20AC0000922-C2ANO2,20AC0000922-C2ANO2,,20AC0000922-C2ANO2_S9_L001_R1_001.fastq,0.211,0.549,no,Bacteroides,thetaiotaomicron,Bacteroides thetaiotaomicron,Streptococcus anginosus / Bacteroides thetaiotaomicron
+2/13/20,BACT1_2020,20AC0000923-C,20AC0000923-C,,20AC0000923-C_S11_L001_R1_001.fastq,0.083,0.663,no,Staphylococcus,epidermidis,Staphylococcus epidermidis,Staphylococcus epidermidis

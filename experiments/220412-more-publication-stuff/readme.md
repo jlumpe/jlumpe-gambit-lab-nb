@@ -54,6 +54,14 @@ just tries to get a full accounting of the original unmodified files, including 
 exactly what I'm starting with.
 
 
+### 220420-pt-table-results-comparison
+
+Takes "MIDAS PT Table" (curated subset of set3 genomes from David, containing query results from a
+long time ago) and compares to GAMBIT query results using newest software and database.
+
+Results look equivalent.
+
+
 ## Comments
 
 
@@ -69,7 +77,18 @@ Best parameter values for each file:
 
 
 
-## Output
+## Files
+
+### Source
+
+* `./data-src/`
+  * `220420-midas-pt-table.csv` - Copy of [MIDAS PT
+    Table](https://docs.google.com/spreadsheets/d/1_QE0e66NdklxcsedMgCNnqv7lIYfrcFnFbFmDxYXRVQ/)
+    ("Internal use only" sheet) on Google Drive.
+  * `220420-set3-query-1.0-beta2.csv` - query results for set 3 genomes using latest GAMBIT software/database version.
+
+
+### Output
 
 * `data/processed/220412-more-publication-stuff/`
   * `220412-set2-taxonomy/`
@@ -78,3 +97,5 @@ Best parameter values for each file:
   * `220419-set3-files-list/`
     * `220419-200726-gold-standard-files.csv` - Original FASTA and FASTQ file names and MD5 sums for
       all 98 genomes originally part of this set.
+  * `220420-pt-table-results-comparison/`
+    * `220420-pt-table-results-comp.csv` - "Midas PT Table" joined to newest GAMBIT results.
