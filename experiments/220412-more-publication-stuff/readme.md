@@ -95,6 +95,18 @@ Also attempted to determine how thresholds were derived for all taxa:
 | No threshold     | 20    |
 
 
+### 220511-db-species-subgroup-dist-plots-draft
+
+From David's request for a new figure 5, plotting intra and inter distances for a species before and
+after breaking up into subgroups. David requested Shigella boydii, I ran the same process for all
+species which were split into subgroups.
+
+Called this a draft because I expect to be able to make much better versions after feedback from David.
+
+Omitted Clostridium bolulinum and Prochlorococcus marinus due to the very large number of
+overlapping taxa (30 and 440).
+
+
 
 ## Comments
 
@@ -139,3 +151,5 @@ Best parameter values for each file:
     * `220507-db-dists-summary.csv` - Table with diameter and min_inter of all taxa in GAMBIT database.
     * `220507-db-overlaps.csv` - Table of all overlaps remaining in database (min_inter less than
       diameter, each row is an in/out taxon pair).
+  * `220511-db-species-subgroup-dist-plots-draft/`
+    * `*.png` - plots for each species in experiment.
