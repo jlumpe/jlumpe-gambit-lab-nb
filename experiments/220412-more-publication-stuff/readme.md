@@ -107,6 +107,11 @@ Omitted Clostridium bolulinum and Prochlorococcus marinus due to the very large 
 overlapping taxa (30 and 440).
 
 
+### 220414-figure-4-draft
+
+Creates draft versions of figure 4 subplots.
+
+
 
 ## Comments
 
@@ -153,3 +158,5 @@ Best parameter values for each file:
       diameter, each row is an in/out taxon pair).
   * `220511-db-species-subgroup-dist-plots-draft/`
     * `*.png` - plots for each species in experiment.
+  * `220514-figure-4-draft/`
+    * `*.png` - draft subplots.
