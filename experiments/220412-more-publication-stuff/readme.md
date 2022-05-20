@@ -112,6 +112,11 @@ overlapping taxa (30 and 440).
 Creates draft versions of figure 4 subplots.
 
 
+### 220515-figure-2-draft
+
+Creates draft versions of figure 2 subplots B and C.
+
+
 
 ## Comments
 
@@ -159,4 +164,6 @@ Best parameter values for each file:
   * `220511-db-species-subgroup-dist-plots-draft/`
     * `*.png` - plots for each species in experiment.
   * `220514-figure-4-draft/`
+    * `*.png` - draft subplots.
+  * `220515-figure-2-draft/`
     * `*.png` - draft subplots.
