@@ -117,6 +117,16 @@ Creates draft versions of figure 4 subplots.
 Creates draft versions of figure 2 subplots B and C.
 
 
+### 220518-nsphl-test-genomes-processing
+
+Validates FASTA files of new NSPHL test genome set and calculates MD5 hashes.
+
+#### Results
+
+Two files were gzipped and had to be decompressed: `21-00396531` and `CapD`.
+Two files had an extra line appended that I removed: `Campylobacter_jejuni_reference` and `Citrobacter_freundii_reference`.
+
+
 
 ## Comments
 
@@ -167,3 +177,5 @@ Best parameter values for each file:
     * `*.png` - draft subplots.
   * `220515-figure-2-draft/`
     * `*.png` - draft subplots.
+  * `220518-nsphl-test-genomes-processing/`
+    * `220518-nsphl-test-genomes-md5.csv` - MD5 hashes of assembly files.
