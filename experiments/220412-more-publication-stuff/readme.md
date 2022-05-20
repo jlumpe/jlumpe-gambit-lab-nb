@@ -127,6 +127,16 @@ Two files were gzipped and had to be decompressed: `21-00396531` and `CapD`.
 Two files had an extra line appended that I removed: `Campylobacter_jejuni_reference` and `Citrobacter_freundii_reference`.
 
 
+### 220518-nsphl-test-genomes-quast-results
+
+Parse and plot Quast results for NSPHL test genome set. Used default parameters.
+
+#### Results
+
+8 assemblies had total length << 1Mb. These plus another two had N50 < 10kb. These additional two
+are probably good to use.
+
+
 
 ## Comments
 
@@ -154,6 +164,7 @@ Best parameter values for each file:
     by in-development rule `db_taxa_pw_dist_ranges`.
   * `220430-leaf-max-dists.csv` - Maximum pairwise distances between leaf taxa in database, produced
     by in-development rule `db_taxa_pw_dist_ranges`.
+  * `220518-nsphl-test-seq-quast-report.tsv` - QUAST results file of new NSPHL test genome set.
 
 
 ### Output
@@ -179,3 +190,7 @@ Best parameter values for each file:
     * `*.png` - draft subplots.
   * `220518-nsphl-test-genomes-processing/`
     * `220518-nsphl-test-genomes-md5.csv` - MD5 hashes of assembly files.
+  * `220518-nsphl-test-genomes-quast-results/`
+    * `220518-nsphl-test-genomes-quast-results.csv` - Main results, one row per file.
+    * `220518-nsphl-test-genomes-quast-results-by-min-bp.csv` - number and total length of contigs
+      by min contig size.
