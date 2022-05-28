@@ -137,6 +137,18 @@ Parse and plot Quast results for NSPHL test genome set. Used default parameters.
 are probably good to use.
 
 
+### 220525-new-genome-files-processing
+
+Check new set of FASTA files obtained from Lyn. Expected to be about 607 files for new genome set 4,
+as well as 88 improved assemblies for set 3. Target for set 4 is a match to
+
+#### Results
+
+There were several instances where file names were incorrect, but I was able to get a 1-1 mapping to
+most of the target genomes. Obtained two missing files from David/Lyn, also decided to drop two from
+set 4.
+
+
 
 ## Comments
 
@@ -165,6 +177,7 @@ Best parameter values for each file:
   * `220430-leaf-max-dists.csv` - Maximum pairwise distances between leaf taxa in database, produced
     by in-development rule `db_taxa_pw_dist_ranges`.
   * `220518-nsphl-test-seq-quast-report.tsv` - QUAST results file of new NSPHL test genome set.
+  * `220520-nsphl-david-set4-genomes-table.xlsx` - Table of info for set 4 genomes obtained from David.
 
 
 ### Output
@@ -194,3 +207,6 @@ Best parameter values for each file:
     * `220518-nsphl-test-genomes-quast-results.csv` - Main results, one row per file.
     * `220518-nsphl-test-genomes-quast-results-by-min-bp.csv` - number and total length of contigs
       by min contig size.
+  * `220526-new-genome-files-processing/`
+    * `220526-david-set4-table-files.csv`
+    * `220526-new-genome-file-assignments.csv`
