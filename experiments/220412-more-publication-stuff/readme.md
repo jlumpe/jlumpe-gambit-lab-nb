@@ -149,6 +149,15 @@ most of the target genomes. Obtained two missing files from David/Lyn, also deci
 set 4.
 
 
+### 220527-set4-quast-results
+
+Analyzes QUAST output for new set4 assemblies.
+
+#### Results
+
+Looks pretty good, no real problems or outliers spotted.
+
+
 
 ## Comments
 
@@ -210,3 +219,5 @@ Best parameter values for each file:
   * `220526-new-genome-files-processing/`
     * `220526-david-set4-table-files.csv`
     * `220526-new-genome-file-assignments.csv`
+  * `220527-set4-quast-results/`
+	* `220527-set4-quast-results.tsv`
