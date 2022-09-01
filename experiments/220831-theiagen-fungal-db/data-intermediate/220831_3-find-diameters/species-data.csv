@@ -1,0 +1,8 @@
+ncbi_taxid,name,ncbi_name,rank,diameter,ngenomes
+4932,Saccharomyces cerevisiae,Saccharomyces cerevisiae,species,0.1771,8
+498019,[Candida] auris,[Candida] auris,species,0.4314,42
+5478,[Candida] glabrata,[Candida] glabrata,species,0.1781,6
+4911,[Candida] kefyr,Kluyveromyces marxianus,species,0.1197,4
+4952,[Candida] lipolytica,Yarrowia lipolytica,species,0.0852,3
+36911,[Candida] lusitaniae,Clavispora lusitaniae,species,0.0016,5
+4909,[Candida] krusei,Pichia kudriavzevii,species,0.1257,3
