@@ -18,3 +18,8 @@ Create GAMBIT signatures for all genomes and calculate pairwise distances.
 ### 220831_3-find-diameters
 
 Calculate diameters and min-inter distances for all species.
+
+
+### 220912-download-taxa
+
+Download NCBI taxonomy ESummary data for all genomes.
