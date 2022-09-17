@@ -2,6 +2,11 @@
 
 Assist Theiagen in developing a basic GAMBIT database for fungal pathogens.
 
+The final database files are:
+
+* `data-processed/220916_1_create-db/220916-theiagen-candida-test.db`
+* `data-processed/220916_2-finalize-signatures/220916-theiagen-candida-test.h5`
+
 
 ## Notebooks
 
@@ -29,3 +34,8 @@ Download NCBI taxonomy ESummary data for all genomes.
 
 Create sqlite database file with species-level taxa only, including distance thresholds from
 `220831_3-find-diameters`.
+
+
+### 220916_2-finalize-signatures
+
+Add proper metadata to signatures file.
